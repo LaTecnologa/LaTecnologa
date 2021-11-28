@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: La pandèmia dispara l’activitat il·legal al web fosc	</title>
+	<atom:link href="/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/feed/" rel="self" type="application/rss+xml" />
+	<link>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Per: Nati		</title>
+		<link>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/#comment-89</link>
+
+		<dc:creator><![CDATA[Nati]]></dc:creator>
+		<pubDate>Sun, 28 Jun 2020 08:54:35 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1446#comment-89</guid>
+
+					<description><![CDATA[Uff quina por]]></description>
+			<content:encoded><![CDATA[<p>Uff quina por</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

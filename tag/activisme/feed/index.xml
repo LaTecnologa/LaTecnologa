@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Activisme &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/activisme/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 05 Jun 2020 13:29:51 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Activisme &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Hong Kong: 4 consells sobre camuflatge digital</title>
+		<link>/2019/10/23/camuflatge-digital-hong-kong/</link>
+					<comments>/2019/10/23/camuflatge-digital-hong-kong/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Wed, 23 Oct 2019 15:09:51 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Activisme]]></category>
+		<category><![CDATA[Camuflatge Digital]]></category>
+		<category><![CDATA[Hong Kong]]></category>
+		<category><![CDATA[Mòbil]]></category>
+		<category><![CDATA[Seguretat]]></category>
+		<guid isPermaLink="false">/?p=120</guid>
+
+					<description><![CDATA[Catalunya s&#8217;ha submergit en la revolta. Després de la sentència del Procés, les mobilitzacions es multipliquen i creix la repressió. També passa a Hong Kong,&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Catalunya s&#8217;ha submergit en la revolta. Després de la sentència del Procés, les mobilitzacions es multipliquen i creix la repressió. També passa a Hong Kong, on els carrers bullen per impedir que la Xina prengui més llibertats als ciutadans. La gran coordinació que exhibeixen -orquestrada a les aplicacions i a les xarxes socials- ha colpit el món. <a rel="noreferrer noopener" aria-label="Aquest manual elaborat per la Hong Kong Civil Liberties Union (s'obre en una nova pestanya)" href="https://drive.google.com/file/d/0B4W7-FlIxRL4Q01jcFh0X3VjVFk/view" target="_blank">Aquest manual elaborat per Keyboard Frontline i la Hong Kong Civil Liberties Union</a> es dirigeix als activistes de la primera línia de les manifestacions. En resumim alguns consells a continuació. “Be water!</p>
+
+
+
+<h3>Protegeix les dades</h3>
+
+
+
+<ol><li><span style="font-size: 1.125rem;">Abans d&#8217;unir-te a una protesta, és recomanable esborrar qualsevol informació sensible guardada al mòbil, incloent -però sense limitar-ho a això- qualsevol registre de comunicacions anteriors, així com la informació de contactes, correus electrònics, fotografies o vídeos. Com a alternativa, pots comprar un segon mòbil, lliure d&#8217;informació sensible, per utilitzar-lo durant les protestes. També has d&#8217;establir una contrasenya tant per al telèfon com per a les aplicacions, per evitar que pugui ser utilitzat si cau a mans d&#8217;algú altre. </span></li></ol>
+
+
+
+<h3>Protegeix el mòbil</h3>
+
+
+
+<p>Abans d&#8217;anar a manifestar-te, assegura&#8217;t que tens prou bateria al mòbil. Pots activar la funció per destruir les dades a distància i instal·lar-hi algunes aplicacions útils:</p>
+
+
+
+<p><strong>Utilitza un correu electrònic xifrat</strong>. Actualment, existeixen diversos proveïdors de serveis de correu electrònic que permeten xifrar els missatges. El correu s&#8217;encripta abans de ser enviat, i només es desxifra quan és rebut pel compte designat. Alguns d&#8217;aquests proveïdors són Hushmail, ProtonMail i StartMail.</p>
+
+
+
+<p><strong>Utilitza apps de missatgeria instantània xifrada de punt a punt</strong>. La majoria de hongkongesos utilitzen apps de missatgeria instantània no xifrada, com Whatsapp. Aquestes aplicacions envien missatges a través d&#8217;un servidor que pot emmagatzemar-los, obrint la porta al robatori o filtració de dades. Per això recomanem les apps xifrades de punt a punt, com Telegram. Per a fer una trucada telefònica, aconsellem utilitzar RedPhone (Android) o Signal (iPhone). No obstant això, recorda que el telèfon encara pot emmagatzemar gravacions, comunicacions i/o l&#8217;activitats que has generat amb una app concreta.</p>
+
+
+
+<p><strong>Utilitza un servei de fotografia o vídeo en streaming</strong>. Per fer fotos o vídeos, recomanem utilitzar aplicacions de fotografia o gravació de reproducció instantània i evitar que puguin suprimir-se. Instagram o Tumblr poden anar bé. Si vols gravar, reproduir i pujar els teus vídeos de manera instantània, pots provar amb Ustream.</p>
+
+
+
+<h3><strong>Utilitzar el telèfon és un dret</strong></h3>
+
+
+
+<p>El Pacte Internacional de Drets Civils i Polítics, la Llei Bàsica i la Carta de Drets de Hong Kong estableix la llibertat de comunicació i de fer-ho amb privacitat. Si pel carrer o en una protesta ets aturat o qüestionat per un agent, tens dret a utilitzar el mòbil per contactar amb altres, fer fotografies o gravar vídeos. Si ets arrestat, tens el dret de callar, així com d&#8217;evitar respondre a cap pregunta sobre el teu mòbil. Si algú et demana que donis la teva contrasenya del telèfon, avisa un advocat. En cas de no poder contactar-hi perquè t&#8217;han confiscat l&#8217;aparell, recorda el número de placa del policia, i quan i com va passar tot, per tal d&#8217;interposar una denúncia més tard.</p>
+
+
+
+<h3><strong>Abusos i queixes</strong></h3>
+
+
+
+<p>Si teniu alguna queixa contra el comportament de la policia en algun moment, has de recordar el número de placa, la localització, el temps i els detalls per informar de l&#8217;incident a la seva comissaria. També has de presentar una queixa al Centre de denúncies contra la policia i sol·licitar assessorament legal independent tan aviat com sigui possible.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/10/23/camuflatge-digital-hong-kong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">120</post-id>	</item>
+		<item>
+		<title>La tecnologia que pot transformar l&#8217;activisme</title>
+		<link>/2019/10/22/tecnologia-transforma-activisme/</link>
+					<comments>/2019/10/22/tecnologia-transforma-activisme/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Mon, 21 Oct 2019 22:07:49 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Activisme]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Tsunami Democràtic]]></category>
+		<guid isPermaLink="false">/?p=101</guid>
+
+					<description><![CDATA[Totes les lluites socials es materialitzen a la xarxa. Però el Tsunami Democràtic fa un pas més amb una app que té el món expectant.&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Totes les lluites socials es materialitzen a la xarxa. Però el Tsunami Democràtic fa un pas més amb una app que té el món expectant. No per allò que ha fet, sinó més aviat per allò que pot fer. Ni assemblees presencials, ni torns de paraula en cua, ni votacions in situ, ni encartellades amb cola i escombra: tota acció del Tsunami és orquestrada en línia. És un moviment sense rostre que actua i s’expressa a través d’eines tecnològiques que desafien la repressió i la censura, i amb un insòlit poder de convocatòria. Alguns especialistes creuen que l&#8217;aplicació pot ser una eina revolucionària per a la democràcia participativa i una de les seves pedres angulars: la desobediència civil.</p>
+
+
+
+<p>La famosa app encara no ha arrencat i, tot i així, el 16 d&#8217;octubre ja se l’havíen descarregada més de 270.000 persones i s&#8217;havien fet 15.000 activacions amb èxit. Una xifra que no va aturar de créixer durant els dies posteriors, igual que ho va fer el compte de Twitter -que ja té 203.200 seguidors- i el canal de Telegram -amb 370.100 subscriptors-. Just després que trancendís la sentència, a la una del migdia, el Tsunami convocava una mobilització a l’aeroport. Al vespre, ja s’hi havien congregat milers de persones per col·lapsar als accessos a la terminal 1. El 18 d&#8217;octubre, un jutge decretava el tancament del web del Tsunami Democràtic, ara investigat per terrorisme. Tot i així, una gran quantitat de gent ha decidit que els fa cas perquè els sembla raonable allò que proposa i perquè, des de l&#8217;inici, ha comptat amb el suport públic del president Quim Torra, el vicepresident Pere Aragonès i el president del Parlament, Roger Torrent. </p>
+
+
+
+<h5>1. Insòlit poder de convocatòria</h5>
+
+
+
+<p>Les xarxes i els canals de missatgeria, com Telegram, han permès respostes massives. Unes reaccions que l&#8217;app del Tsunami pot continuar potenciant. Quan t&#8217;instal·les l&#8217;aplicació, se&#8217;t demana la geolocalització i quan estàs disponible per protestar. D&#8217;aquesta manera, els administradors poden saber quan i on mobilitzar la gent i enviar unes notificacions o unes altres segons l&#8217;ubicació física. Això els fa possible convocar unes manifestacions espontànies multitudinàries. L&#8217;app també demana als usuaris la seva intenció de participar en una acció propera, de manera que es pot preveure l&#8217;assistència amb antelació. Igualment, com que l&#8217;aplicació et permet registrar quan arribes al punt de trobada, els administradors poden fer el seguiment de la participació en temps real. Una gran eina per coordinar les accions o el naixement de la revolta com a servei?</p>
+
+
+
+<h5>2. Lideratge anònim </h5>
+
+
+
+<p>Els líders del Tsunami no són visibles i, com passa cada cop més sovint amb els moviments socials, la seva presència és exclusivament digital. En aquest cas, però, els administradors s&#8217;amaguen rere l&#8217;anonimat per evitar un procés judicial com el de l&#8217;exlíder de l&#8217;ANC Jordi Sànchez i el president d&#8217;Òmnium Cultural, Jordi Cuixart. A nivell intern, funcionen com un motor en què cada peça sap quina és la seva tasca i es coordina amb les altres, treballant en compartiments estancs i intentant protegir el màxim la identitat dels seus components, fins i tot entre ells. </p>
+
+
+
+<h5>3. Evita infiltrats</h5>
+
+
+
+<p>L&#8217;app està dissenyada expressament per evitar infiltrats. Igual que a l&#8217;1 d&#8217;Octubre, el Tsunami ha creat una xarxa de comunicació xifrada i descentralitzada per distribuir les diferents accions en el territori. D&#8217;aquesta manera, com que l&#8217;app utilitza tecnologia de geolocalització per coordinar l’activitat, les persones es poden organitzar en “cèl·lules” geogràfiques i els manifestants només poden veure accions que es desenvolupen en un determinat radi, evitant que la informació surti a la xarxa i limitant allò que pot descobrir un infiltrat, que només tindria accés a una part molt petita de les convocatòries. </p>
+
+
+
+<h5>4. Esquiva la censura</h5>
+
+
+
+<p>L&#8217;aplicació tampoc no està disponible al Play Store d&#8217;Android ni a l&#8217;App Store d&#8217;Apple. Així, es pretén esquivar el veto de les empreses tecnològiques per la pressió del govern, <a rel="noreferrer noopener" aria-label="com va passar a Hong Kong (s'obre en una nova pestanya)" href="https://www.lavanguardia.com/internacional/20191010/47889999197/apple-elimina-app-seguimiento-policia-hong-kong.html" target="_blank">com va passar a Hong Kong</a>. En aquest sentit, Telegram també és una eina útil: Putin la va bloquejar a Rússia perquè el seu director es va negar a col·laborar amb els serveis secrets. Ara bé, hi confiarà la gent amb una aplicació que s&#8217;ha d&#8217;instal·lar manualment?</p>
+
+
+
+<h5>5. Xarxa de confiança</h5>
+
+
+
+<p>L’aplicació està elaborada amb Retroshare, un programari de lliure accés que s’utilitza per crear xarxes xifrades d’amic a amic, en què els usuaris només entren en contacte amb persones que coneixen personalment. En aquesta xarxa, els usuaris només intercanvien dades amb els seus amics connectats, mentre es manté l&#8217;anonimat entre els que no són amics. Tot això s&#8217;aconsegueix amb l&#8217;intercanvi presencial de claus, com són els codis QR, i sense l&#8217;intervenció d&#8217;un servidor central.</p>
+
+
+
+<h5>6. Cap a la democràcia digital?</h5>
+
+
+
+<p><a rel="noreferrer noopener" aria-label="Alguns experts veuen en l'app del Tsunami (s'obre en una nova pestanya)" href="https://techcrunch.com/2019/10/17/catalan-separatists-have-tooled-up-with-a-decentralized-app-for-civil-disobedience/" target="_blank">Alguns experts veuen en l&#8217;app del Tsunami</a> una estructura que fa possible una forma més democràtica de participació de base. Ara, un manifestant pot optar per seguir les instruccions per a una acció orientada, però també pot respondre i rebre comentaris, participant en les decisions. De fet, si l&#8217;aplicació aconsegueix sostenir l’acció i implicar els ciutadans a llarg termini, allò que volen els creadors és que pugui servir per altres causes on, gràcies a la tecnologia, les persones esdevinguin nodes de dades amb capacitat de rebre i transmetre informació. </p>
+
+
+
+<h5>7. Els artífexs: una &#8220;elit tecnològica&#8221;</h5>
+
+
+
+<p>Enric Luján, professor de Ciència Política especialitzat en tecnologia de la Universitat de Barcelona i membre del grup Críptica, opina que les solucions tecnològiques del Tsunami les desenvolupa <a rel="noreferrer noopener" aria-label="una &quot;elit tècnica clandestina&quot; altament qualificada (s'obre en una nova pestanya)" href="https://github.com/s3rrallonga/s3rrallonga.github.io/issues/4" target="_blank">una &#8220;elit tecnològica clandestina&#8221;, altament qualificada</a> i després se socialitzen &#8220;entre la resta dels mortals&#8221;. Per aquest motiu, considera que l&#8217;estructura del moviment és &#8220;clarament jeràrquica&#8221; perquè no tothom hi té el mateix nivell: per un costat hi ha un grup dirigent que emet missatges, decideix accions, genera i reparteix codis QR, i per altre costat hi ha milers de nodes -que l&#8217;aplicació anomena &#8220;gotes&#8221;- que reben aquesta informació i l&#8217;executen. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+https://twitter.com/imGeheimen/status/1184194150167650304?s=20
+</div></figure>
+
+
+
+<h5>8. Hong Kong: el mirall</h5>
+
+
+
+<p>Els activistes hongkonguesos tampoc tenen un lideratge oficial. Tot i així, demostren una capacitat de coordinació sense precedents, i que ha sorprès el planeta. Quan arriba la policia per detenir-los, es dispersen en diferents direccions i desapareixen, seguint el lema del moviment: &#8220;be water&#8221;. Una consigna que guarda similituds amb el Tsunami, fet de &#8220;gotes&#8221; d&#8217;aigua. De fet, la mobilització a l&#8217;aeroport buscava un &#8220;efecte Hong Kong&#8221;. Picnic per la República enllaça al seu web tres canals de Telegram de les mobilitzacions de Hong Kong, amb la intenció d&#8217;inspirar les accions catalanes. Totes dues aplicacions compten amb un mecanisme que permet avisar a l&#8217;organització de la presència policial sota la consigna &#8220;hi ha piolins&#8221;.</p>
+
+
+
+<h5>9. De moment, codi privat</h5>
+
+
+
+<p>El codi no és obert i, per això, ningú sap del cert com funciona l&#8217;app ni com es gestionen les dades dels usuaris. Tot i això, el creador de l&#8217;aplicació, <a rel="noreferrer noopener" aria-label="&quot;S3rrallonga&quot;, assegura al repositori de l'aplicació (s'obre en una nova pestanya)" href="https://github.com/s3rrallonga/s3rrallonga.github.io/issues/4" target="_blank">&#8220;S3rrallonga&#8221;, assegura al repositori de l&#8217;aplicació</a> que l&#8217;objectiu és alliberar-la perquè sigui &#8220;utilitzada a nivell global per qualsevol grup de persones que vulgui autoorganitzar-se sense patir censura&#8221;. </p>
+
+
+
+<h5>10. Coordinar en remot</h5>
+
+
+
+<p>Des d&#8217;on s&#8217;envien els missatges? Internet permet orquestrar grans mobilitzacions des de qualsevol part del planeta. Permet esquivar represàlies, però també pot suposar que persones deslligades de la realitat social d&#8217;un indret en moguin els fils. Aleshores, es pot confiar el lideratge d&#8217;un moviment social l&#8217;impulsor del qual no és a peu de carrer? Tot i així, en un món permanentment connectat, això serà la sens dubte el més habitual. </p>
+
+
+
+<p></p>
+
+
+
+<h6>Fonts consultades:</h6>
+
+
+
+<ul><li><a rel="noreferrer noopener" aria-label="TECH CRUNCH: Catalan separatists have tooled up with a decentralized app for civil disobedience (s'obre en una nova pestanya)" href="https://techcrunch.com/2019/10/17/catalan-separatists-have-tooled-up-with-a-decentralized-app-for-civil-disobedience/" target="_blank">TECH CRUNCH: Catalan separatists have tooled up with a decentralized app for civil disobedience</a>.</li><li><a rel="noreferrer noopener" aria-label="WIRED: Catalonia has created a new kind of online activism. Everyone should pay attention (s'obre en una nova pestanya)" href="https://www.wired.co.uk/article/barcelonia-riots-catalonia-protests-news" target="_blank">WIRED: Catalonia has created a new kind of online activism. Everyone should pay attention</a>.</li><li><a rel="noreferrer noopener" aria-label="XATAKA: Tsunami Democràtic, así es la app de las protestas independentistas: con sistema 'Retroshare' y códigos QR basados en la ubicación (s'obre en una nova pestanya)" style="font-size: 1.125rem;" href="https://www.xataka.com/aplicaciones/tsunami-democratic-asi-app-protestas-independentistas-sistema-retroshare-codigos-qr-basados-ubicacion" target="_blank">XATAKA: Tsunami Democràtic, así es la app de las protestas independentistas: con sistema &#8216;Retroshare&#8217; y códigos QR basados en la ubicación</a><span style="font-size: 1.125rem;">.</span></li><li><a rel="noreferrer noopener" aria-label="REGIÓ 7: Tsunami Democràtic: què és i qui hi ha al darrere? (s'obre en una nova pestanya)" href="https://www.regio7.cat/arreu-catalunya-espanya-mon/2019/10/15/que-es-tsunami-democratic/573839.html" target="_blank">REGIÓ 7: Tsunami Democràtic: què és i qui hi ha al darrere?</a></li><li><a rel="noreferrer noopener" aria-label="CATALUNYA RÀDIO: Genís Roca: &quot;L'elit de Tsunami deuen ser menys de 10 persones. Tecnològicament no els podran trobar&quot; (s'obre en una nova pestanya)" href="https://www.ccma.cat/catradio/alacarta/el-suplement/genis-roca-lelit-de-tsunami-deuen-ser-menys-de-10-persones-tecnologicament-no-els-podran-trobar/audio/1052358/" target="_blank">CATALUNYA RÀDIO: Genís Roca: &#8220;L&#8217;elit de Tsunami deuen ser menys de 10 persones. Tecnològicament no els podran trobar&#8221;</a>.</li><li><a rel="noreferrer noopener" aria-label="VIA EMPRESA: La revolta com a motor d'innovació (s'obre en una nova pestanya)" href="https://www.viaempresa.cat/opinio/genis-roca-revolta-motor-innovacio-tsunami-democratic_2076257_102.html" target="_blank">VIA EMPRESA: La revolta com a motor d&#8217;innovació</a>.</li><li><a rel="noreferrer noopener" href="https://www.eldiario.es/tecnologia/tsunami-tecnologico_0_953655054.html" target="_blank">ELDIARIO.ES: El tsunami también es tecnológico</a>.</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/10/22/tecnologia-transforma-activisme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">101</post-id>	</item>
+	</channel>
+</rss>

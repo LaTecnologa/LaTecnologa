@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: Reconeixement facial: una tecnologia que avança malgrat els emperons	</title>
+	<atom:link href="/2019/12/13/una-tecnologia-que-avanca-malgrat-els-emperons/feed/" rel="self" type="application/rss+xml" />
+	<link>/2019/12/13/una-tecnologia-que-avanca-malgrat-els-emperons/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Tue, 08 Sep 2020 11:31:21 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Per: Com aprenen les màquines? &#8211; La Tecnòloga		</title>
+		<link>/2019/12/13/una-tecnologia-que-avanca-malgrat-els-emperons/#comment-213</link>
+
+		<dc:creator><![CDATA[Com aprenen les màquines? &#8211; La Tecnòloga]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2020 11:31:21 +0000</pubDate>
+		<guid isPermaLink="false">/?p=814#comment-213</guid>
+
+					<description><![CDATA[[&#8230;] artificial està més d’actualitat que mai per les aplicacions que tècniques com el reconeixement de veu i d’imatge, la traducció automàtica o la mateixa predicció de paraules tenen en l’àmbit de la [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] artificial està més d’actualitat que mai per les aplicacions que tècniques com el reconeixement de veu i d’imatge, la traducció automàtica o la mateixa predicció de paraules tenen en l’àmbit de la [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Per: Distopies tecnològiques per jutjar el demà &#8211; La Tecnòloga		</title>
+		<link>/2019/12/13/una-tecnologia-que-avanca-malgrat-els-emperons/#comment-51</link>
+
+		<dc:creator><![CDATA[Distopies tecnològiques per jutjar el demà &#8211; La Tecnòloga]]></dc:creator>
+		<pubDate>Fri, 29 May 2020 16:46:44 +0000</pubDate>
+		<guid isPermaLink="false">/?p=814#comment-51</guid>
+
+					<description><![CDATA[[&#8230;] que van ser anticipats per 2001: una Odissea a l’Espai (1968), de Stanley Kubrick. Per exemple, el reconeixement facial -“fins i tot quan la cara està dibuixada amb carbó”, precisa l&#8217;investigador-, el [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] que van ser anticipats per 2001: una Odissea a l’Espai (1968), de Stanley Kubrick. Per exemple, el reconeixement facial -“fins i tot quan la cara està dibuixada amb carbó”, precisa l&#8217;investigador-, el [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

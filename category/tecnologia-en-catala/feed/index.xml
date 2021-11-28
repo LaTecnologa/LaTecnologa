@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Tecnologia en català &#8211; La Tecnòloga</title>
+	<atom:link href="/category/tecnologia-en-catala/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:04 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Tecnologia en català &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Què és la mineria de dades?</title>
+		<link>/2020/09/28/que-es-la-mineria-de-dades/</link>
+		
+		<dc:creator><![CDATA[Termcat]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2020 08:40:12 +0000</pubDate>
+				<category><![CDATA[Tecnologia en català]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Català]]></category>
+		<category><![CDATA[Cercaterm]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Data Mining]]></category>
+		<category><![CDATA[Mineria de Dades]]></category>
+		<category><![CDATA[Mineria Web]]></category>
+		<category><![CDATA[Termcat]]></category>
+		<category><![CDATA[TIC]]></category>
+		<category><![CDATA[Web Mining]]></category>
+		<guid isPermaLink="false">/?p=1615</guid>
+
+					<description><![CDATA[Totes les organitzacions disposen de grans bases de dades on s’emmagatzemen dades massives (big data, en anglès) sobre l’activitat pròpia i sobre aspectes que hi&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Totes les organitzacions disposen de grans bases de dades on s’emmagatzemen <a rel="noreferrer noopener" href="https://tic.termcat.cat/ca/cercaterm/fitxa/MzU0NTMwNw%3D%3D" target="_blank">dades massives</a> (<em>big data</em>, en anglès) sobre l’activitat pròpia i sobre aspectes que hi poden tenir impacte, i el gran repte és organitzar-les amb efectivitat, per a identificar nous productes, oportunitats de negoci, racionalitzar recursos o conèixer millor l&#8217;usuari.</p>
+
+
+
+<p>La tècnica clau en aquesta organització és la <a rel="noreferrer noopener" href="https://tic.termcat.cat/ca/cercaterm/fitxa/MjA3ODM4" target="_blank">mineria de dades</a> (<em>data mining</em>, en anglès), que consisteix a analitzar un gran volum d&#8217;informació emmagatzemada en diferents bases de dades, de manera automàtica o semiautomàtica, a fi de deduir patrons de coneixement i algoritmes que puguin generar aplicacions pràctiques i treure’n rendiment. Aquests patrons es poden trobar utilitzant estadístiques o algoritmes de cerca propers a la intel·ligència artificial i a les xarxes neuronals.  </p>
+
+
+
+<p>La mineria de dades va néixer amb la intenció d’ajudar a comprendre una enorme quantitat de dades, i que se n’extraguessin conclusions per contribuir a la millora i el creixement de les empreses, sobretot pel que fa a les vendes i la fidelització de clients. Fora de l’àmbit empresarial, en les institucions també té un gran camp per recórrer, ja que aquesta tècnica s’ha incorporat en governs, universitats, hospitals i altres organitzacions que volen treure el màxim rendiment de les dades que acumulen, i fer que reverteixin de manera positiva en l’activitat.</p>
+
+
+
+<p>Un altre concepte relacionat és la <a rel="noreferrer noopener" href="https://tic.termcat.cat/ca/cercaterm/fitxa/MzM0NzY0MA%3D%3D" target="_blank">mineria web</a> (<em>web mining</em>, en anglès): és la tècnica informàtica de mineria de dades aplicada específicament a extreure informació del contingut de pàgines web, de la seva estructura de relacions i enllaços i dels registres de navegació dels usuaris.</p>
+
+
+
+<p>Podeu consultar al <a href="https://www.termcat.cat/ca/cercaterm" target="_blank" rel="noreferrer noopener">Cercaterm</a>, el cercador terminològic del TERMCAT, les fitxes d’aquests termes catalans, i també trobareu al <a href="https://tic.termcat.cat/ca" target="_blank" rel="noreferrer noopener">canal Terminologia de les TIC</a> altres recursos d’aquest àmbit.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1615</post-id>	</item>
+		<item>
+		<title>Com aprenen les màquines?</title>
+		<link>/2020/09/08/com-aprenen-les-maquines/</link>
+		
+		<dc:creator><![CDATA[Termcat]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2020 11:31:15 +0000</pubDate>
+				<category><![CDATA[Tecnologia en català]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Aprenentatge Automàtic]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Català]]></category>
+		<category><![CDATA[Cercaterm]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Termcat]]></category>
+		<guid isPermaLink="false">/?p=1586</guid>
+
+					<description><![CDATA[Sobre els termes &#8216;intel·ligència artificial&#8217; i &#8216;aprenentatge automàtic&#8217; La intel·ligència artificial és una branca de la informàtica aplicada al desenvolupament de màquines amb capacitat de&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Sobre els termes &#8216;intel·ligència artificial&#8217; i &#8216;aprenentatge automàtic&#8217;</h2>
+
+
+
+<p>La <a rel="noreferrer noopener" href="https://www.termcat.cat/ca/cercaterm/fitxa/Njc0NDky" target="_blank"><strong>intel·ligència artificial</strong></a> és una branca de la informàtica aplicada al desenvolupament de màquines amb capacitat de simular conductes humanes o d’aproximar-s’hi, com ara el raonament, l&#8217;aprenentatge, el processament i la interpretació d&#8217;estímuls sensorials.&nbsp; Així, es dedica al desenvolupament d&#8217;algorismes que permeten a un ordinador percebre el seu entorn lògic i prendre decisions amb la mínima intervenció humana, per maximitzar les seves possibilitats d&#8217;èxit en una o més tasques.</p>
+
+
+
+<p>Tot i remuntar-se a la dècada dels anys 50, la intel·ligència artificial està més d’actualitat que mai per les aplicacions que tècniques com el <a href="/2019/12/13/una-tecnologia-que-avanca-malgrat-els-emperons/">reconeixement de veu i d’imatge</a>, la traducció automàtica o la mateixa predicció de paraules tenen en l’àmbit de la comunicació entre els humans i les màquines.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="hQ7z2qwpjr"><a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">Intel·ligència Artificial: dilemes ètics del 2020</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Intel·ligència Artificial: dilemes ètics del 2020&#8221; &#8212; La Tecnòloga" src="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/embed/#?secret=hQ7z2qwpjr" data-secret="hQ7z2qwpjr" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p>En aquest àmbit, és rellevant&nbsp;el procés de l’<a rel="noreferrer noopener" href="https://www.termcat.cat/ca/cercaterm/fitxa/MzcwMTQyMA%3D%3D" target="_blank"><strong>aprenentatge automàtic</strong></a><strong>&nbsp;</strong>(en anglès,&nbsp;<em>machine learning</em>) dedicat a l&#8217;anàlisi, el disseny i el desenvolupament d&#8217;algorismes i tècniques que permeten que les màquines evolucionin, millorant el seu comportament a partir de l&#8217;estudi d&#8217;observacions o de les experiències pròpies.</p>
+
+
+
+<p>En l’aprenentatge automàtic els dispositius treballen sobre grans volums de dades, hi identifiquen patrons de comportament i, sobre aquesta base, prediuen i suggereixen comportaments futurs. Aquesta possibilitat d’aplicar automàticament càlculs matemàtics complexos a <a rel="noreferrer noopener" href="https://www.termcat.cat/ca/cercaterm/fitxa/MzU0NTMwNw%3D%3D" target="_blank"><strong>dades massives</strong></a> (<em>big data</em>, en anglès) és un assoliment relativament recent que amplia el camp d’intervenció d’aquesta tècnica.&nbsp;</p>
+
+
+
+<p>Per exemple, la indústria financera l’utilitza per detectar oportunitats d’inversió i fer vigilància del frau. Els governs, per explotar les múltiples fonts de dades disponibles. La indústria de la salut ha desplegat dispositius i sensors que avaluen constants d’un pacient en temps real, i porten a la millora de diagnòstics i tractaments. I la indústria del màrqueting i les vendes, per analitzar historials de compra.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="gath1nzlhJ"><a href="/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/">“A CoronaWhy s’obren per a les Dades Massives nous horitzons en la recerca mèdica”</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;“A CoronaWhy s’obren per a les Dades Massives nous horitzons en la recerca mèdica”&#8221; &#8212; La Tecnòloga" src="/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/embed/#?secret=gath1nzlhJ" data-secret="gath1nzlhJ" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p>I anant a un terreny més pràctic, són exemples concrets d’aplicació de l’aprenentatge automàtic la conducció autònoma que anuncia Google, les recomanacions en línia que ens fan Amazon o Netflix, a partir de l’anàlisi dels nostres patrons de comportament, o les alertes per detecció de fraus en ciberseguretat.&nbsp;</p>
+
+
+
+<p>Podeu consultar al <a rel="noreferrer noopener" href="https://www.termcat.cat/ca/cercaterm" target="_blank">Cercaterm</a>, &nbsp;el cercador terminològic del TERMCAT, les fitxes d’aquests termes catalans, i també trobareu al&nbsp; <a rel="noreferrer noopener" href="https://tic.termcat.cat/ca" target="_blank">canal Terminologia de les TIC</a>&nbsp; altres recursos d’aquest àmbit.&nbsp;</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-white-background-color has-white-color is-style-dots"/>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-medium is-resized"><a href="https://www.termcat.cat/en/cercaterm" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="/wp-content/uploads/2020/09/Logo_TERMCAT_Color-300x75.png" alt="Termcat" class="wp-image-1588" width="300" height="75" srcset="/wp-content/uploads/2020/09/Logo_TERMCAT_Color-300x75.png 300w, /wp-content/uploads/2020/09/Logo_TERMCAT_Color.png 620w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1586</post-id>	</item>
+	</channel>
+</rss>

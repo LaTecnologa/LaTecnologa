@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ADA &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/ada/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>ADA &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Neix l’Observatori d’ètica en intel·ligència artificial de Catalunya</title>
+		<link>/2020/06/29/observatori-etica-intelligencia-artificial-catalunya/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2020 16:44:41 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[ADA]]></category>
+		<category><![CDATA[Algoritmes de Decisió Automatitzada]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Carme Torras]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Karma Peiró]]></category>
+		<guid isPermaLink="false">/?p=1463</guid>
+
+					<description><![CDATA[“L’evolució tecnològica és tan àmplia, profunda i veloç que els éssers humans no som capaços d’anticipar com s&#8217;incorporarà a les nostres vides”, afirmava Maria Àngels&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>“L’evolució tecnològica és tan àmplia, profunda i veloç que els éssers humans no som capaços d’anticipar com s&#8217;incorporarà a les nostres vides”, afirmava Maria Àngels Barbarà, directora de l’Autoritat Catalana de Protecció de Dades, a l’informe <a rel="noreferrer noopener" href="https://apdcat.gencat.cat/web/.content/04-actualitat/noticies/documents/INFORME-INTELLIGENCIA-ARTIFICIAL-FINAL-WEB-OK.pdf" target="_blank"><em>Intel·ligència Artificial. Decisions Automatitzades a Catalunya</em></a>. La periodista Karma Peiró recull a l’estudi més de cinquanta exemples d’usos d’algorismes de decisió automatitzada (ADA) a Catalunya i que, <a href="/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/">en molts casos, han passat desapercebuts per a la majoria de la població tot i intervenir en decisions sovint sensibles</a>: per exemple, extradir migrants, concedir ajuts socials, predir el risc de reincidència d’un pres o advertir què ha après i què no ha après un alumne a l’escola. El que passa és que si les màquines s’entrenen amb prou dades fiables, els ADA poden facilitar-nos enormement la vida; però si es nodreixen amb informació deficient i esbiaixada, <a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">els resultats poden conduir a errors o a decisions discriminatòries</a>. Per això el naixement, aquest dilluns, de l&#8217;Observatori d&#8217;Ètica en Intel·ligència Artificial de Catalunya és una bona notícia.</p>
+
+
+
+<p>La iniciativa neix del Govern i la Universitat de Girona (UdG) i pren la forma d’una càtedra amb seu a la facultat. <a rel="noreferrer noopener" href="http://politiquesdigitals.gencat.cat/ca/detalls/Noticia/200629_Observatori_IA" target="_blank">Segons una nota de la Generalitat</a>, l’Observatori té la missió d’estudiar els impactes ètics i legals de la implantació de la IA en la vida diària, de vetllar perquè la tecnologia s’apliqui de manera segura i justa, d’establir unes directrius ètiques i, en definitiva, de desenvolupar al país “una intel·ligència artificial ètica i confiable”. Per aconseguir-ho, l’observatori vol analitzar l’evolució del desenvolupament de la IA a Catalunya, impulsar jornades i tallers per debatre sobre ètica, regulació i IA, promoure la conscienciació ciutadana entorn la IA i les decisions automatitzades i crear un consell assessor format per experts d’àmbits diversos -acadèmic, tecnològic, humanístic, legal, econòmic, etc.</p>
+
+
+
+<p>La iniciativa compta amb un pressupost de 250.000 euros per al període 2020–2022, finançats principalment pel Departament de Polítiques Digitals en el marc de l’estratègia <a rel="noreferrer noopener" href="http://politiquesdigitals.gencat.cat/ca/tic/catalonia-ai" target="_blank">Catalonia.AI, l’Estratègia d’Intel·ligència Artificial de Catalunya</a>, aprovada el 18 de febrer, i el pla estratègic de la <a rel="noreferrer noopener" href="https://www.udg.edu/ca/Portals/63/Escenaris/PE_2030_SumaIntel_20190306.pdf" target="_blank">Universitat de Girona ‘2030: La suma d’Intel·ligències’</a>, que vol buscar el millor encaix de la intel·ligència artificial amb la intel·ligència natural i la intel·ligència col·lectiva.</p>
+
+
+
+<p>El tret de sortida de l’Observatori l’han donat aquest matí el conseller de Polítiques Digitals, Jordi Puigneró, i el rector de la UdG, Quim Salvi, entre altres representants del Govern i la universitat, que han presentat el nou organisme en un acte telemàtic amb la intervenció de Karma Peiró i de la <a href="/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/">professora d’Investigació de l’Institut de Robòtica (CSIC-UPC) i escriptora Carme Torras</a>.</p>
+
+
+
+<h3>La necessitat d’una mirada ètica</h3>
+
+
+
+<p>Els intents de regular la intel·ligència artificial des d’una mirada ètica persegueixen l’evolució tecnològica, però de moment no l’atrapen. El febrer, la presidenta de la Comissió Europea (CE), Ursula Von der Leyen, va presentar un pla per regular la IA i recuperar la sobirania digital davant els gegants tecnològics, tot i que les veus crítiques li van retreure poca concreció. A l’abril del 2019, un grup d’experts d’alt nivell de la CE havia fet públiques unes Directrius Ètiques per a una IA Confiable (<em>Ethics Guidelines for Trustworthy AI</em>). Poc després, el professor de filosofia de la Universitat de Mainz (Alemanya) Thomas Metzinger, que va formar part del grup d’experts, va denunciar al diari <em>Der Tagesspiegel</em> que “<a href="/2020/02/15/etica-inteligencia-artificial-maquillatge/">el relat de la Intel·ligència Artificial confiable pretén eixamplar els mercats futurs</a> i utilitzar els debats sobre Ètica com un bell decorat públic per a una estratègia d’inversió a gran escala”. Per això, cal prendre consciència que la revisió ètica de la IA necessita molt més que una declaració de bones intencions.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1463</post-id>	</item>
+		<item>
+		<title>Els algoritmes invisibles de Catalunya</title>
+		<link>/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/</link>
+					<comments>/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2020 22:38:59 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[ADA]]></category>
+		<category><![CDATA[ADM]]></category>
+		<category><![CDATA[Algorithm]]></category>
+		<category><![CDATA[Algorithm Decision Making]]></category>
+		<category><![CDATA[Algoritme]]></category>
+		<category><![CDATA[Algoritmes de Decisió Automatitzada]]></category>
+		<category><![CDATA[APDCAT]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Autoritat Catalana de Protecció de Dades]]></category>
+		<category><![CDATA[Facial Recognition]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Karma Peiró]]></category>
+		<category><![CDATA[Reconeixement Facial]]></category>
+		<guid isPermaLink="false">/?p=738</guid>
+
+					<description><![CDATA[Predir la reincidència criminal, escriure notícies o concedir ajuts socials: un informe recull més de cinquanta exemples de decisions automatitzades al territori català Prendre una&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Predir la reincidència criminal, escriure notícies o concedir ajuts socials: un informe recull més de cinquanta exemples de decisions automatitzades al territori català</h2>
+
+
+
+<p>Prendre una decisió no és simple, i menys quan la llibertat d’algú està en joc. Abans de concedir un permís o alliberar un pres, els jutges han de posar sobre la taula moltes variables. Tot i així, una màquina els ajuda. Fa deu anys que les presons catalanes fan servir una eina intel·ligent per valorar el risc de reincidència, el RisCanvi, que ja s’ha utilitzat amb vint mil presos. El sistema fa una predicció a partir de 43 variables que combina un sistema matemàtic: la biografia del pres, l’historial delictiu, la conducta dins la presó, el nivell educatiu, els vincles familiars, possibles patologies i addiccions, l’edat, el gènere o si ha nascut a l’Estat espanyol, entre altres. Un sistema similar ha aixecat una <a href="/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/">gran polèmica als Estats Units pels biaixos racistes que presentava</a>, ja que atribuïa més probabilitat de reincidència als negres que als blancs. Tot i així, cap investigació no ha demostrat que passi el mateix amb el RisCanvi i, a més, les decisions automatitzades són validades després per un professional humà.&nbsp;</p>
+
+
+
+<p>Aquest és un dels cinquanta exemples que apareixen a l’<a rel="noreferrer noopener" aria-label="informe Intel·ligència Artificial. Decisions Automatitzades a Catalunya (opens in a new tab)" href="https://apdcat.gencat.cat/web/.content/04-actualitat/noticies/documents/INFORME-INTELLIGENCIA-ARTIFICIAL-FINAL-WEB-OK.pdf" target="_blank">informe <em>Intel·ligència Artificial. Decisions Automatitzades a Catalunya</em></a>, elaborat per <a rel="noreferrer noopener" aria-label="Karma Peiró per encàrrec de l’Autoritat Catalana de Protecció de Dades (APDCAT) (opens in a new tab)" href="https://www.karmapeiro.com/" target="_blank">Karma Peiró per encàrrec de l’Autoritat Catalana de Protecció de Dades (APDCAT)</a>. El text treu a la llum alguns dels casos més sorprenents de decisions automatitzades que es prenen a Catalunya, però també subratlla la necessitat de prendre consciència -ens hi juguem les dades més íntimes- sense oblidar <a rel="noreferrer noopener" aria-label="els dilemes ètics que planteja la Intel·ligència Artificial (opens in a new tab)" href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/" target="_blank">la llarga llista dels dilemes ètics que planteja la Intel·ligència Artificial</a> (IA): “Cal dissenyar una IA segura i confiable, en què s’integrin els principis de la transparència, l’explicabilitat, la seguretat, l’auditabilitat i la responsabilitat”, hi escriu la presidenta de l’APDCAT, M. Àngels Barbarà.</p>
+
+
+
+<h3>L’aula intel·ligent</h3>
+
+
+
+<p>A escoles i instituts, les aplicacions de la Intel·ligència Artificial són diverses. Per exemple, s’ha començat a fer servir un programa nord-americà -l’<em>Assessment and Learning in Knowledge Spaces</em>&#8211; que determina &#8220;de manera ràpida i precisa&#8221; allò que sap i que no sap un estudiant sobre una assignatura. Els anomenats Algoritmes de Decisió Automatitzada (ADA) també poden dir com formar els grups de classe, en el decurs d’una activitat, en funció de les personalitats dels estudiants, evaluades prèviament. Segons el creador de l’eina, es busca fer equips equilibrats.&nbsp;</p>
+
+
+
+<p>A les aules també hi han entrat els assistents virtuals per crear mètodes d’estudi personalitzats. Fins i tot alguns són capaços d’alertar l’alumne que està a punt d’oblidar un coneixement après, mesurant la velocitat de l’oblit i recomanant una revisió de la lliçó abans que la memòria l’esborri. No hi podia faltar <a rel="noreferrer noopener" aria-label="el reconeixement facial, que s’ha utilitzat als instituts per controlar l’assistència dels alumnes (opens in a new tab)" href="/2019/10/07/reconeixement-facial/" target="_blank">el reconeixement facial, que s’ha utilitzat als instituts per controlar l’assistència dels alumnes</a>. De fet, l’APDCAT ha imposat recentment un procés sancionador a un d’aquests centres que, tot i que ara ha retirat el sistema, l’ha utilitzat des del 2012.</p>
+
+
+
+<h3>Periodisme Artificial</h3>
+
+
+
+<p>L’empresa <a href="https://www.narrativa.com/">Narrativa</a>, que genera notícies amb Intel·ligència Artificial, ja treballa per a 25 mitjans de comunicació i agències de notícies espanyoles. De moment, els algoritmes d’aquesta empresa només redacten articles amb base a dades objectives -per exemple, resultats electorals, dades econòmiques o la previsió del temps. Tot i així, amb aquesta eina, els mitjans doblen o tripliquen el volum d’articles diaris. “La màquina és superexacta en la creació de continguts; no dirà que un altre jugador ha marcat el gol, ni s’equivocarà en els resultats electorals de tal partit perquè beu de les dades”, hi explica David Lorente, el fundador. A més, el sistema s’entrena amb l’hemeroteca del mitjà que el contracta, n’imita el to i l’estil d’escriptura i, a més, supera els redactors de carn i ossos en velocitat, volum d’informació, precisió i correcció ortogràfica, tal com diu Lorente, per a qui l’opinió i les <em>fake news</em> són línies roges.</p>
+
+
+
+<h3>Extradició de migrants</h3>
+
+
+
+<p>El Departament de Matemàtiques i Informàtica de la Universitat de Barcelona (UB) ha elaborat un sistema que recull tots els casos d’extradició de persones migrants que han passat pel Tribunal Suprem i ha creat un model matemàtic que pot ajudar els jutges a decidir si l’afectat s’empara o no en els criteris que evitarien el seu retorn -per exemple, el risc de mort, de contraure una malaltia greu, de tortura o de tractament cruel, inhumà o degradant. El sistema, que encara no s’ha posat en pràctica a Catalunya, també podria ajudar els advocats i les associacions d’ajuda a les persones migrants, segons l&#8217;investigador de l&#8217;UB Jordi Vitrià.</p>
+
+
+
+<h3>Els bancs ho saben tot</h3>
+
+
+
+<p>La banca va ser la primera en fer servir els ADA, especialment a l’hora de concedir un crèdit o una hipoteca. Però… amb base a quina informació decideix l’ordinador? “Els bancs saben el teu sou, allò que gastes i factures, on vius i amb quanta gent, a quins horaris hi entres i en surts, controlen els mòbils&#8230; “ <a href="https://www.ccma.cat/catradio/alacarta/popap/quins-algoritmes-que-sutilitzen-a-catalunya-ens-afecten-directament/audio/1063189/">explicava l’autora de l&#8217;estudi, Karma Peiró, en una entrevista al Popap</a>. D’aquesta manera, l’algorisme fa una “radiografia integral” de tots els seus clients i, segons el perfil de cadascú, concedeixen o no un préstec, o li ofereixen determinats serveis.&nbsp;</p>
+
+
+
+<h3>Algorismes pels ajuts socials</h3>
+
+
+
+<p>L’Ajuntament de Barcelona ha començat a fer servir un sistema intel·ligent per agilitzar la concessió d’ajuts socials, a partir d’un repositori de tres-centes mil entrevistes i tècniques d’aprenentatge automàtic. Segons l’informe, les persones que acudeixen als centres de serveis socials de la ciutat amb problemes econòmics, situacions de dependència o violència de gènere han de passar una primera entrevista amb un assistent i seguir una sèrie de passos que eternitzen el procés. Però la Intel·ligència Artificial ha permès simplificar la burocràcia i, per tant, agilitzar la concessió d’ajuts.</p>
+
+
+
+<h3>Detectar els mals</h3>
+
+
+
+<p>Els hospitals són plens d’algoritmes que assisteixen els professionals humans. “El metge veu coses que l’algorisme no veu, i l’algorisme troba patrons que l’ull humà no veu: l’algorisme mira els arbres i el metge el bosc”, diu Ramón López de Mántaras, professor investigador del Consell Superior d’Investigacions Científiques (CSIC). &#8220;Assenyala que en la detecció del càncer de mama, hi ha estudis que demostren que el millor metge té un error del 5% o 6% amb les mamografies i l’ADA, del 6% o 7%, però que, treballant plegats, l’error és només del 0,5%”, diu l&#8217;informe. Però les màquines, que es nodreixen de tot l’historial de proves i diagnòstics acumulats durant anys, també serveixen per detectar l’exageració del dolor per poder accedir a una baixa, per exemple. I quan l’ordinador ho adverteix, la Seguretat Social denega la baixa.&nbsp;</p>
+
+
+
+<p>A l’àmbit de la salut, també s’utilitza el reconeixement facial per detectar transtorns per dèficit d’atenció amb hiperactivitat (TDAH) i depressions. El Centre de Visió per Computació (CVC) de la Universitat Autònoma de Barcelona (UAB) ha posat en marxa un sistema que analitza els gestos i les expressions facials dels menors d&#8217;edat i, a més, estudia el seu comportament a les xarxes socials.&nbsp;</p>
+
+
+
+<h3>Ètica i interessos comercials</h3>
+
+
+
+<p>Servint-se d&#8217;algoritmes, les agències de viatges apugen preus als qui reserven l’hotel des d’un barri benestant, o la Viquipèdia detecta les entrades incorrectes. Amb el reconeixement facial, es detecta un possible criminal o si un acusat menteix, en situacions de custòdia de menors. Aquests són només altres exemples de l’ús de la Intel·ligència Artificial a Catalunya, però la llista és molt més llarga.&nbsp;</p>
+
+
+
+<p>És perillosa aquesta col·lonització de la Intel·ligència Artificial en les nostres vides? Els algoritmes poden contenir biaixos, sí, però allò cert és que tampoc no podem dir que molts professionals siguin imparcials: també tenen prejudicis. Per això, l’autora de l’informe, Karma Peiró, es pregunta qui pot ser més just: un jutge o una màquina? De moment, no dona una resposta, com tampoc hi ha resposta quan algú demana a l’algoritme per què ha arribat a determinada conclusió. Per això, a les aplicacions dedicades al processament del llenguatge natural com ara els traductors, la diagnosi mèdica, la bioinformàtica o la detecció del frau financer se les anomena <a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">“caixes negres”, i és aquest, actualment, un dels grans dilemes de la IA</a>.</p>
+
+
+
+<p>&#8220;És ètic que els bancs ho sàpiguen tot de nosaltres, hàbits de consum, despeses i preferències d’oci i ens vulguin fidelitzar amb ofertes de productes, en funció de l’anàlisi del rendiment que han fet de nosaltres? És ètic que l’habitació d’un hotel em costi més diners a mi que al meu veí perquè saben a quin barri visc i poden interpretar la meva renda?&#8221;. S&#8217;ho pregunta Victòria Camps, Catedràtica d’Ètica i Filosofia del Dret Moral i Polític de la Universitat Autònoma de Barcelona (UAB), que reclama diferenciar entre l’interès comercial i l’ètica. Just amb aquesta intenció, la Comissió Europea prepara una nova llei que ha de veure la llum abans del 10 de març, segons va prometre la nova presidenta, Ursula von der Leyen, quan va assumir el càrrec. Però, <a href="/2020/02/15/etica-inteligencia-artificial-tapadora/">serà capaç, Europa, de fer una regulació independent de les grans tecnològiques?</a> </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">738</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Reconeixement Facial &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/reconeixement-facial/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 16 May 2020 13:17:51 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Reconeixement Facial &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Els algoritmes invisibles de Catalunya</title>
+		<link>/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/</link>
+					<comments>/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2020 22:38:59 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[ADA]]></category>
+		<category><![CDATA[ADM]]></category>
+		<category><![CDATA[Algorithm]]></category>
+		<category><![CDATA[Algorithm Decision Making]]></category>
+		<category><![CDATA[Algoritme]]></category>
+		<category><![CDATA[Algoritmes de Decisió Automatitzada]]></category>
+		<category><![CDATA[APDCAT]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Autoritat Catalana de Protecció de Dades]]></category>
+		<category><![CDATA[Facial Recognition]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Karma Peiró]]></category>
+		<category><![CDATA[Reconeixement Facial]]></category>
+		<guid isPermaLink="false">/?p=738</guid>
+
+					<description><![CDATA[Predir la reincidència criminal, escriure notícies o concedir ajuts socials: un informe recull més de cinquanta exemples de decisions automatitzades al territori català Prendre una&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Predir la reincidència criminal, escriure notícies o concedir ajuts socials: un informe recull més de cinquanta exemples de decisions automatitzades al territori català</h2>
+
+
+
+<p>Prendre una decisió no és simple, i menys quan la llibertat d’algú està en joc. Abans de concedir un permís o alliberar un pres, els jutges han de posar sobre la taula moltes variables. Tot i així, una màquina els ajuda. Fa deu anys que les presons catalanes fan servir una eina intel·ligent per valorar el risc de reincidència, el RisCanvi, que ja s’ha utilitzat amb vint mil presos. El sistema fa una predicció a partir de 43 variables que combina un sistema matemàtic: la biografia del pres, l’historial delictiu, la conducta dins la presó, el nivell educatiu, els vincles familiars, possibles patologies i addiccions, l’edat, el gènere o si ha nascut a l’Estat espanyol, entre altres. Un sistema similar ha aixecat una <a href="/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/">gran polèmica als Estats Units pels biaixos racistes que presentava</a>, ja que atribuïa més probabilitat de reincidència als negres que als blancs. Tot i així, cap investigació no ha demostrat que passi el mateix amb el RisCanvi i, a més, les decisions automatitzades són validades després per un professional humà.&nbsp;</p>
+
+
+
+<p>Aquest és un dels cinquanta exemples que apareixen a l’<a rel="noreferrer noopener" aria-label="informe Intel·ligència Artificial. Decisions Automatitzades a Catalunya (opens in a new tab)" href="https://apdcat.gencat.cat/web/.content/04-actualitat/noticies/documents/INFORME-INTELLIGENCIA-ARTIFICIAL-FINAL-WEB-OK.pdf" target="_blank">informe <em>Intel·ligència Artificial. Decisions Automatitzades a Catalunya</em></a>, elaborat per <a rel="noreferrer noopener" aria-label="Karma Peiró per encàrrec de l’Autoritat Catalana de Protecció de Dades (APDCAT) (opens in a new tab)" href="https://www.karmapeiro.com/" target="_blank">Karma Peiró per encàrrec de l’Autoritat Catalana de Protecció de Dades (APDCAT)</a>. El text treu a la llum alguns dels casos més sorprenents de decisions automatitzades que es prenen a Catalunya, però també subratlla la necessitat de prendre consciència -ens hi juguem les dades més íntimes- sense oblidar <a rel="noreferrer noopener" aria-label="els dilemes ètics que planteja la Intel·ligència Artificial (opens in a new tab)" href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/" target="_blank">la llarga llista dels dilemes ètics que planteja la Intel·ligència Artificial</a> (IA): “Cal dissenyar una IA segura i confiable, en què s’integrin els principis de la transparència, l’explicabilitat, la seguretat, l’auditabilitat i la responsabilitat”, hi escriu la presidenta de l’APDCAT, M. Àngels Barbarà.</p>
+
+
+
+<h3>L’aula intel·ligent</h3>
+
+
+
+<p>A escoles i instituts, les aplicacions de la Intel·ligència Artificial són diverses. Per exemple, s’ha començat a fer servir un programa nord-americà -l’<em>Assessment and Learning in Knowledge Spaces</em>&#8211; que determina &#8220;de manera ràpida i precisa&#8221; allò que sap i que no sap un estudiant sobre una assignatura. Els anomenats Algoritmes de Decisió Automatitzada (ADA) també poden dir com formar els grups de classe, en el decurs d’una activitat, en funció de les personalitats dels estudiants, evaluades prèviament. Segons el creador de l’eina, es busca fer equips equilibrats.&nbsp;</p>
+
+
+
+<p>A les aules també hi han entrat els assistents virtuals per crear mètodes d’estudi personalitzats. Fins i tot alguns són capaços d’alertar l’alumne que està a punt d’oblidar un coneixement après, mesurant la velocitat de l’oblit i recomanant una revisió de la lliçó abans que la memòria l’esborri. No hi podia faltar <a rel="noreferrer noopener" aria-label="el reconeixement facial, que s’ha utilitzat als instituts per controlar l’assistència dels alumnes (opens in a new tab)" href="/2019/10/07/reconeixement-facial/" target="_blank">el reconeixement facial, que s’ha utilitzat als instituts per controlar l’assistència dels alumnes</a>. De fet, l’APDCAT ha imposat recentment un procés sancionador a un d’aquests centres que, tot i que ara ha retirat el sistema, l’ha utilitzat des del 2012.</p>
+
+
+
+<h3>Periodisme Artificial</h3>
+
+
+
+<p>L’empresa <a href="https://www.narrativa.com/">Narrativa</a>, que genera notícies amb Intel·ligència Artificial, ja treballa per a 25 mitjans de comunicació i agències de notícies espanyoles. De moment, els algoritmes d’aquesta empresa només redacten articles amb base a dades objectives -per exemple, resultats electorals, dades econòmiques o la previsió del temps. Tot i així, amb aquesta eina, els mitjans doblen o tripliquen el volum d’articles diaris. “La màquina és superexacta en la creació de continguts; no dirà que un altre jugador ha marcat el gol, ni s’equivocarà en els resultats electorals de tal partit perquè beu de les dades”, hi explica David Lorente, el fundador. A més, el sistema s’entrena amb l’hemeroteca del mitjà que el contracta, n’imita el to i l’estil d’escriptura i, a més, supera els redactors de carn i ossos en velocitat, volum d’informació, precisió i correcció ortogràfica, tal com diu Lorente, per a qui l’opinió i les <em>fake news</em> són línies roges.</p>
+
+
+
+<h3>Extradició de migrants</h3>
+
+
+
+<p>El Departament de Matemàtiques i Informàtica de la Universitat de Barcelona (UB) ha elaborat un sistema que recull tots els casos d’extradició de persones migrants que han passat pel Tribunal Suprem i ha creat un model matemàtic que pot ajudar els jutges a decidir si l’afectat s’empara o no en els criteris que evitarien el seu retorn -per exemple, el risc de mort, de contraure una malaltia greu, de tortura o de tractament cruel, inhumà o degradant. El sistema, que encara no s’ha posat en pràctica a Catalunya, també podria ajudar els advocats i les associacions d’ajuda a les persones migrants, segons l&#8217;investigador de l&#8217;UB Jordi Vitrià.</p>
+
+
+
+<h3>Els bancs ho saben tot</h3>
+
+
+
+<p>La banca va ser la primera en fer servir els ADA, especialment a l’hora de concedir un crèdit o una hipoteca. Però… amb base a quina informació decideix l’ordinador? “Els bancs saben el teu sou, allò que gastes i factures, on vius i amb quanta gent, a quins horaris hi entres i en surts, controlen els mòbils&#8230; “ <a href="https://www.ccma.cat/catradio/alacarta/popap/quins-algoritmes-que-sutilitzen-a-catalunya-ens-afecten-directament/audio/1063189/">explicava l’autora de l&#8217;estudi, Karma Peiró, en una entrevista al Popap</a>. D’aquesta manera, l’algorisme fa una “radiografia integral” de tots els seus clients i, segons el perfil de cadascú, concedeixen o no un préstec, o li ofereixen determinats serveis.&nbsp;</p>
+
+
+
+<h3>Algorismes pels ajuts socials</h3>
+
+
+
+<p>L’Ajuntament de Barcelona ha començat a fer servir un sistema intel·ligent per agilitzar la concessió d’ajuts socials, a partir d’un repositori de tres-centes mil entrevistes i tècniques d’aprenentatge automàtic. Segons l’informe, les persones que acudeixen als centres de serveis socials de la ciutat amb problemes econòmics, situacions de dependència o violència de gènere han de passar una primera entrevista amb un assistent i seguir una sèrie de passos que eternitzen el procés. Però la Intel·ligència Artificial ha permès simplificar la burocràcia i, per tant, agilitzar la concessió d’ajuts.</p>
+
+
+
+<h3>Detectar els mals</h3>
+
+
+
+<p>Els hospitals són plens d’algoritmes que assisteixen els professionals humans. “El metge veu coses que l’algorisme no veu, i l’algorisme troba patrons que l’ull humà no veu: l’algorisme mira els arbres i el metge el bosc”, diu Ramón López de Mántaras, professor investigador del Consell Superior d’Investigacions Científiques (CSIC). &#8220;Assenyala que en la detecció del càncer de mama, hi ha estudis que demostren que el millor metge té un error del 5% o 6% amb les mamografies i l’ADA, del 6% o 7%, però que, treballant plegats, l’error és només del 0,5%”, diu l&#8217;informe. Però les màquines, que es nodreixen de tot l’historial de proves i diagnòstics acumulats durant anys, també serveixen per detectar l’exageració del dolor per poder accedir a una baixa, per exemple. I quan l’ordinador ho adverteix, la Seguretat Social denega la baixa.&nbsp;</p>
+
+
+
+<p>A l’àmbit de la salut, també s’utilitza el reconeixement facial per detectar transtorns per dèficit d’atenció amb hiperactivitat (TDAH) i depressions. El Centre de Visió per Computació (CVC) de la Universitat Autònoma de Barcelona (UAB) ha posat en marxa un sistema que analitza els gestos i les expressions facials dels menors d&#8217;edat i, a més, estudia el seu comportament a les xarxes socials.&nbsp;</p>
+
+
+
+<h3>Ètica i interessos comercials</h3>
+
+
+
+<p>Servint-se d&#8217;algoritmes, les agències de viatges apugen preus als qui reserven l’hotel des d’un barri benestant, o la Viquipèdia detecta les entrades incorrectes. Amb el reconeixement facial, es detecta un possible criminal o si un acusat menteix, en situacions de custòdia de menors. Aquests són només altres exemples de l’ús de la Intel·ligència Artificial a Catalunya, però la llista és molt més llarga.&nbsp;</p>
+
+
+
+<p>És perillosa aquesta col·lonització de la Intel·ligència Artificial en les nostres vides? Els algoritmes poden contenir biaixos, sí, però allò cert és que tampoc no podem dir que molts professionals siguin imparcials: també tenen prejudicis. Per això, l’autora de l’informe, Karma Peiró, es pregunta qui pot ser més just: un jutge o una màquina? De moment, no dona una resposta, com tampoc hi ha resposta quan algú demana a l’algoritme per què ha arribat a determinada conclusió. Per això, a les aplicacions dedicades al processament del llenguatge natural com ara els traductors, la diagnosi mèdica, la bioinformàtica o la detecció del frau financer se les anomena <a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">“caixes negres”, i és aquest, actualment, un dels grans dilemes de la IA</a>.</p>
+
+
+
+<p>&#8220;És ètic que els bancs ho sàpiguen tot de nosaltres, hàbits de consum, despeses i preferències d’oci i ens vulguin fidelitzar amb ofertes de productes, en funció de l’anàlisi del rendiment que han fet de nosaltres? És ètic que l’habitació d’un hotel em costi més diners a mi que al meu veí perquè saben a quin barri visc i poden interpretar la meva renda?&#8221;. S&#8217;ho pregunta Victòria Camps, Catedràtica d’Ètica i Filosofia del Dret Moral i Polític de la Universitat Autònoma de Barcelona (UAB), que reclama diferenciar entre l’interès comercial i l’ètica. Just amb aquesta intenció, la Comissió Europea prepara una nova llei que ha de veure la llum abans del 10 de març, segons va prometre la nova presidenta, Ursula von der Leyen, quan va assumir el càrrec. Però, <a href="/2020/02/15/etica-inteligencia-artificial-tapadora/">serà capaç, Europa, de fer una regulació independent de les grans tecnològiques?</a> </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">738</post-id>	</item>
+		<item>
+		<title>Reconeixement facial: una tecnologia que avança malgrat els emperons</title>
+		<link>/2019/12/13/una-tecnologia-que-avanca-malgrat-els-emperons/</link>
+					<comments>/2019/12/13/una-tecnologia-que-avanca-malgrat-els-emperons/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2019 22:33:00 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Facial Recognition]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Reconeixement Facial]]></category>
+		<guid isPermaLink="false">/?p=814</guid>
+
+					<description><![CDATA[Alguns experts alerten dels perills que pot comportar la sistematització de la identificació biomètrica de les cares El reconeixement facial ja permet volar sense treure&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Alguns experts alerten dels perills que pot comportar la sistematització de la identificació biomètrica de les cares</h2>
+
+
+
+<p>El reconeixement facial ja permet volar sense treure el passaport, pagar sense targeta i desbloquejar el mòbil sense posar-hi el PIN. O sigui, fa guanyar temps. A diferència d’altres sistemes d’identificació, com el DNI o les empremtes dactilars, aquesta tecnologia transforma els rostres -la distància entre les pupil·les, la posició del nas i la longitud entre les comissures dels llavis, per exemple- en dades universals, permanents i intransferibles. Tot, per mitjà de la intel·ligència artificial.</p>
+
+
+
+<p class="has-text-align-center"><strong>Llegeix l&#8217;<a rel="noreferrer noopener" aria-label="article complet a l'ARA Balears (opens in a new tab)" href="https://www.arabalears.cat/societat/tecnologia-avanca-malgrat-emperons_0_2361963941.html" target="_blank">article complet a l&#8217;ARA Balears</a>.</strong></p>
+
+
+
+<p class="has-small-font-size">Foto: Un oficial de la Duana dels Estats Units assisteix a un passatger que se sotmet a un escaneig facial abans d&#8217;agafar un l&#8217;avió. Houston International Airport. 12 de febrer del 2018. Autora: Donna Burton. <em>Flickr</em>. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/12/13/una-tecnologia-que-avanca-malgrat-els-emperons/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">814</post-id>	</item>
+		<item>
+		<title>La Faceapp suposa una amenaça per a la contraintel·ligència, segons l&#8217;FBI</title>
+		<link>/2019/12/03/faceapp-amenaca-seguretat-fbi/</link>
+					<comments>/2019/12/03/faceapp-amenaca-seguretat-fbi/#respond</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2019 20:00:28 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[FaceApp]]></category>
+		<category><![CDATA[Facial Recognition]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Reconeixement Facial]]></category>
+		<guid isPermaLink="false">/?p=497</guid>
+
+					<description><![CDATA[La Faceapp, l&#8217;aplicació mòbil que al juliol va farcir les xarxes socials de cares envellides i rejovenides, suposa &#8220;una amenaça per a la contraintel·ligència&#8221;, diu&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>La Faceapp, l&#8217;aplicació mòbil que al juliol va farcir les xarxes socials de cares envellides i rejovenides, suposa &#8220;una amenaça per a la contraintel·ligència&#8221;, diu l&#8217;FBI en una carta dirigida al senador nord-americà Chuck Schumer, que ell mateix ha publicat a Twitter. Així és la resposta de l&#8217;oficina federal d&#8217;investigació dels Estats Units després que el senador demanés investigar la famosa app: </p>
+
+
+
+<p>&#8220;<em>Qualsevol aplicació mòbil o producte similar desenvolupat a Rússia, com la FaceApp, és una amenaça potencial per a la contraintel·ligència, segons les dades que el producte recol·lecta, les seves polítiques de privacitat i termes d&#8217;ús i els mecanismes legals que permeten al govern de Rússia accedir a totes les dades dins les seves fronteres</em>&#8220;.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">A warning to share with your family &amp; friends:<br><br>This year when millions were downloading <a href="https://twitter.com/hashtag/FaceApp?src=hash&amp;ref_src=twsrc%5Etfw">#FaceApp</a>, I asked the FBI if the app was safe.<br><br>Well, the FBI just responded.<br><br>And they told me any app or product developed in Russia like FaceApp is a potential counterintelligence threat. <a href="https://t.co/ioMzpp2Xi5">pic.twitter.com/ioMzpp2Xi5</a></p>&mdash; Chuck Schumer (@SenSchumer) <a href="https://twitter.com/SenSchumer/status/1201607736900964353?ref_src=twsrc%5Etfw">December 2, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>La viralització de l&#8217;aplicació va anar acompanyada d&#8217;un cert alarmisme perquè, tal com <a rel="noreferrer noopener" href="https://www.ara.cat/media/FaceApp-al-centre-polemica-exagerada_0_2272572906.html" target="_blank">va explicar Albert Cuesta al diari ARA</a>, FaceApp no transforma la imatge dins el telèfon mòbil, sinó que l&#8217;envia a uns servidors externs per a fer les modificacions i, tot seguit, descarrega el resultat al dispositiu. Però les imatges no van a parar a servidors russos, com molts van pensar-se, sinó que són enviades als servidors d&#8217;Amazon Web Services i de Google Cloud. A més, FaceApp va dir públicament que suprimeix la major part de fotografies dels seus servidors al cap de 48 hores.</p>
+
+
+
+<p>Tot i així, l&#8217;FBI alerta a la carta que els Serveis d’Intel·ligència russos tenen “una gran capacitat d’explotació cibernètica” i, segons les lleis locals, poden “accedir de forma remota a totes les comunicacions i servidors de les xarxes russes sense haver de fer cap sol·licitud als proveïdors d&#8217;Internet”. </p>
+
+
+
+<p>Cal tenir en compte que aquests comentaris de l&#8217;FBI s&#8217;emmarquen en la creixent preocupació dels Estats Units envers els productes tecnològics estrangers. De fet, més recentment li ha tocat el rebre a <a href="/2019/11/27/el-video-duna-jove-que-alerta-sobre-els-camps-de-concentracio-de-la-xina-i-esquiva-per-ara-la-censura/">TikTok, una plataforma de compartició de vídeos</a> propietat de la companyia xinesa ByteDance que es creu que té aproximadament mig milió d&#8217;usuaris actius a tot el món. En aquest sentit, <a rel="noreferrer noopener" aria-label="segons diversos mitjans (s'obre en una nova pestanya)" href="https://www.bbc.com/news/business-50639443" target="_blank">segons diversos mitjans com la BBC</a>, Schumer també va demanar a l&#8217;octubre una avaluació de riscos de seguretat nacional per a TikTok i altres plataformes de propietat xinesa. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/12/03/faceapp-amenaca-seguretat-fbi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">497</post-id>	</item>
+		<item>
+		<title>El vídeo sobre maquillatge que alerta dels &#8220;camps de concentració&#8221; de la Xina</title>
+		<link>/2019/11/27/el-video-duna-jove-que-alerta-sobre-els-camps-de-concentracio-de-la-xina-i-esquiva-per-ara-la-censura/</link>
+					<comments>/2019/11/27/el-video-duna-jove-que-alerta-sobre-els-camps-de-concentracio-de-la-xina-i-esquiva-per-ara-la-censura/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Wed, 27 Nov 2019 14:43:27 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Censura Digital]]></category>
+		<category><![CDATA[Facial Recognition]]></category>
+		<category><![CDATA[Reconeixement Facial]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[TikTok]]></category>
+		<category><![CDATA[Vigilància]]></category>
+		<category><![CDATA[Xarxes Socials]]></category>
+		<guid isPermaLink="false">/?p=423</guid>
+
+					<description><![CDATA[Una jove de 17 anys aficionada a publicar tutorials de maquillatge a TikTok, la versió internacional d&#8217;una plataforma xinesa de vídeos, ha denunciat que algunes&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Una jove de 17 anys aficionada a publicar tutorials de maquillatge a TikTok, la versió internacional d&#8217;una plataforma xinesa de vídeos, ha denunciat que algunes de les seves gravacions han estat censurades després d&#8217;alertar que milers de persones de la minoria musulmana dels uigurs <a rel="noreferrer noopener" aria-label="es troben detingudes en &quot;camps de concentració&quot; (s'obre en una nova pestanya)" href="https://www.ccma.cat/324/xina-leaks-els-documents-secrets-de-la-repressio-a-la-minoria-musulmana-uigur/noticia/2966001/" target="_blank">es troben retingudes en &#8220;camps de concentració&#8221;</a>. </p>
+
+
+
+<p>En <a rel="noreferrer noopener" aria-label="un dels tutorials (s'obre en una nova pestanya)" href="https://www.tiktok.com/@getmefamouspartthree/video/6762657542972689670" target="_blank">un dels tutorials</a>, l&#8217;adol·lescent nord-americana afganesa, Feroza Aziz, mostra als espectadors com utilitzar un arrissador de pestanyes i, de cop i volta, canvia de tema: <em>&#8220;Aleshores, baixes l&#8217;arrissador i utilitzes el teu telèfon&#8230; per buscar allò que està succeïnt a la Xina, que està creant camps de concentració on hi aboca musulmans innocents, els separen de les famílies, segrestant-los, assassinant-los, violant-los, obligant-los a menjar carn de porc, obligant-los a beure, obligant-los a convertir-se. Les persones que acaben en aquests camps de concentració no tornen amb vida. Aquest és un altre Holocaust, però ningú en parla&#8221;. </em>Tan bon punt va veure la llum, el vídeo es va fer viral.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+https://twitter.com/soIardan/status/1198664176304037890?s=20
+</div></figure>
+
+
+
+<p>L&#8217;adol·lescent afirma que, tan bon punt va publicar el vídeo a TikTok, el seu compte va ser suspès. Explica, però, que també va pujar-lo a Instagram i a Twitter per esquivar la censura. Allò cert és que la pàgina d&#8217;Aziz ha caigut dimecres a la matinada, durant unes hores, però s&#8217;ha reestablert més tard. <a rel="noreferrer noopener" aria-label="Segons diversos mitjans com The Guardian (s'obre en una nova pestanya)" href="https://www.theguardian.com/technology/2019/nov/27/tiktok-makeup-tutorial-conceals-call-to-action-on-chinas-treatment-of-uighurs" target="_blank">Segons diversos mitjans com The Guardian</a>, TikTok ha negat haver censurat les publicacions i només ha admès haver prohibit un dels vídeos de l&#8217;adol·lescent -un mem d&#8217;Ossama bin Laden- argumentant que infringia les normes sobre material vinculat amb el terrorisme.</p>
+
+
+
+<p>Però Aziz ha respost piulant que la plataforma ja va suspendre el seu compte en el passat, després de publicar contingut relacionat amb la població musulmana de Xinjiang. També ha explicat que, a continuació, va crear un nou compte a TikTok, que també va ser suspès quan va tornar a parlar dels uigurs. De fet, la plataforma ja ha estat criticada en altres ocasions per <a rel="noreferrer noopener" aria-label="censurar el contingut que el govern considera inacceptable (s'obre en una nova pestanya)" href="https://www.eldiario.es/tecnologia/TikTok-contenidos-Tiananmen-Hong-Kong_0_945955593.html" target="_blank">censurar el contingut que el govern xinès considera inacceptable</a>.  </p>
+
+
+
+<h5>La Xina explota les dades d&#8217;una app per tancar els musulmans</h5>
+
+
+
+<p>Aquesta polèmica coincideix amb les filtracions sense precedents d&#8217;una sèrie de documents classificats -coneguts com a &#8216;China Leaks&#8217;- que connecten el líder del país, Xi Jinping, amb la repressió de les minories ètniques de la regió de Xinjiang: vigilància massiva amb intel·ligència artificial, detencions preventives i camps d&#8217;internament per a la població musulmana, segons ha revelat aquest diumenge el <a rel="noreferrer noopener" aria-label="Consorci Internacional de Periodistes d'Investigació (ICIJ) ha revelat aquest diumenge (s'obre en una nova pestanya)" href="https://www.icij.org/investigations/china-cables/exposed-chinas-operating-manuals-for-mass-internment-and-arrest-by-algorithm/" target="_blank">Consorci Internacional de Periodistes d&#8217;Investigació (ICIJ)</a>.</p>
+
+
+
+<p>Mentre l&#8217;Executiu xinès assegura que els documents filtrats són &#8220;fake news&#8221;, els documents ofereixen, segons diversos mitjans internacionals, una confirmació fiable de l&#8217;existència d&#8217;uns camps que han estat concebuts des de l&#8217;inici com a centres de detencions massives i rentats de cervell.</p>
+
+
+
+<p>Segons <a rel="noreferrer noopener" aria-label="El País, que forma part de l'ICIJ (s'obre en una nova pestanya)" href="https://elpais.com/internacional/2019/11/24/actualidad/1574585084_949708.html" target="_blank">El País, l&#8217;únic mitjà de l&#8217;Estat espanyol que és membre de l&#8217;ICIJ</a>, els arxius documenten condemnes sense proves i una caça d&#8217;exiliats a través de la xarxa d&#8217;embaixades. Aquesta repressió se serviria d&#8217;una plataforma digital que recopila incomptables dades a partir de tècniques que van des del reconeixement facial fins a l&#8217;ús d&#8217;aplicacions mòbils aparentment inofensives. </p>
+
+
+
+<p>Segons <a rel="noreferrer noopener" aria-label="El País, una de les aplicacions és Zapya (s'obre en una nova pestanya)" href="https://elpais.com/internacional/2019/11/24/actualidad/1574587603_671331.html" target="_blank">el mateix mitjà de comunicació, una de les aplicacions és Zapya</a>, creada a Pequín però desenvolupada majoritàriament a Califòrnia, que permet compartir arxius de text, fotografies i vídeos sense necessitat de connexió a Internet. Els creadors de l&#8217;aplicació es dirigeixen sovint als usuaris musulmans i els animen a celebrar festes islàmiques o a compartir l&#8217;Alcorà, mentre el sistema de vigilància xinès afegeix els qui difonen aquest tipus d&#8217;esdeveniments a la llista de sospitosos. El testimoni d&#8217;un usuari, recollit en el mateix reportatge, encara va més enllà: &#8220;Si et descarregues Zapya, la policia t&#8217;arresta&#8221;. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/27/el-video-duna-jove-que-alerta-sobre-els-camps-de-concentracio-de-la-xina-i-esquiva-per-ara-la-censura/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">423</post-id>	</item>
+		<item>
+		<title>Reconeixement facial II: la tecnologia que ens vigila</title>
+		<link>/2019/10/13/els-perills-del-reconeixement-facial/</link>
+					<comments>/2019/10/13/els-perills-del-reconeixement-facial/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sun, 13 Oct 2019 15:25:01 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Control]]></category>
+		<category><![CDATA[Facial Recognition]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Legislació]]></category>
+		<category><![CDATA[Reconeixement Facial]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<guid isPermaLink="false">/?p=51</guid>
+
+					<description><![CDATA[La legislació avança a poc a poc, mentre empreses i cossos policials trepitgen les línies roges El reconeixement facial ens pot ser molt útil. Traduir&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h3>La legislació avança a poc a poc, mentre empreses i cossos policials trepitgen les línies roges</h3>
+
+
+
+<p>El reconeixement facial ens pot ser molt útil. Traduir les nostres cares en dades úniques i intransferibles pot facilitar-nos la vida, permetre&#8217;ns entrar a l&#8217;avió sense mostrar el passaport, desbloquejar el mòbil sense dibuixar el patró o pagar sense introduir el PIN. I al mateix temps, ens deixa un estol d&#8217;incògnites a l&#8217;aire. A diferència del reconeixement de veu o les empremtes dactilars, dona peu a grans perills, mentre <a rel="noreferrer noopener" aria-label="el seu ús s'expandeix acceleradament (s'obre en una nova pestanya)" href="/2019/10/09/reconeixement-facial/" target="_blank">el seu ús s&#8217;estén a gran velocitat</a>, la legislació avança lentament i les empreses i els cossos de seguretat trepitgen totes les línies vermelles. El reconeixement facial fa possible, per primer cop, que ens identifiquin des de qualsevol lloc, amb o sense el nostre consentiment, o que usurpin les nostres dades biomètriques. Un problema que no resoldrem canviant la contrasenya.  </p>
+
+
+
+<p>Cal tenir en compte que la informació que es pot treure d&#8217;un rostre és immensa. Per exemple, si ens graven sortint d&#8217;una botiga de roba alternativa, el sistema pot pressuposar que tindrem determinada ideologia. Si ens trobem a una manifestació, sabrà quina és la nostra posició política i també com ens vestim, si tenim una aparença saludable o no, entre moltes altres dades. Les empreses que empren sistemes biomètrics <a href="https://www.ccma.cat/324/pagar-amb-la-cara-un-comerc-de-barcelona-primer-despanya-amb-reconeixement-facial/noticia/2948475/" target="_blank" rel="noreferrer noopener" aria-label="diuen que no guarden les imatges (s'obre en una nova pestanya)">diuen que no guarden les imatges</a>, sinó dades xifrades i codificades. D&#8217;aquesta manera, si algú pirateja el sistema i obté les dades, les haurà de descodificar per a utilitzar-les, i fer-ho no és fàcil.</p>
+
+
+
+<p>Alguns diuen que la tecnologia del reconeixement facial no és ni bona ni dolenta en sí mateixa, i que la qüestió és l&#8217;ús que se&#8217;n fa. <a rel="noreferrer noopener" aria-label="El problema arriba quan la informació es transmet a un servidor central (s'obre en una nova pestanya)" href="https://elpais.com/tecnologia/2019/05/21/actualidad/1558455279_966010.html" target="_blank">El gran problema arriba quan la informació es transmet a un servidor central</a> sense el nostre consentiment i es combina amb altres dades nostres, així com els rastres que anem deixant per Internet. Amb aquesta informació combinada es pot saber quasi tot sobre nosaltres. I tot fa pensar que les empreses ho utilitzaran per als seus interessos, mentre els cossos policials ja l&#8217;ha introduït en el seu dia a dia per arrestar delinqüents o sospitosos.  </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1088" height="726" src="/wp-content/uploads/2019/10/170518-D-DB155-006.jpg" alt="" class="wp-image-83" srcset="/wp-content/uploads/2019/10/170518-D-DB155-006.jpg 1088w, /wp-content/uploads/2019/10/170518-D-DB155-006-300x200.jpg 300w, /wp-content/uploads/2019/10/170518-D-DB155-006-1024x683.jpg 1024w, /wp-content/uploads/2019/10/170518-D-DB155-006-768x512.jpg 768w" sizes="(max-width: 1088px) 100vw, 1088px" /><figcaption>Imatge del Departament de Defensa dels EUA.</figcaption></figure>
+
+
+
+<p><a href="/2019/10/09/reconeixement-facial/">Dins les fronteres d&#8217;Europa</a>, França vol llançar enguany el seu sistema d’identificació per reconeixement facial i no en descarta el seu ús per a la vigilància. El govern alemany experimenta amb aquesta tecnologia en una concorreguda estació de tren per caçar terroristes. Les furgones policials de Gran Bretanya s&#8217;han equipat amb càmeres de reconeixement facial i, utilitzant aquest sistema, ja s&#8217;han detingut desenes de persones. Un home denuncià la Policia de Gal·les per fotografiar el seu rostre amb un sistema de reconeixement facial automàtic <a rel="noreferrer noopener" href="https://www.bbc.com/news/uk-48315979" target="_blank">mentre feia compres nadalenques</a>. </p>
+
+
+
+<h5>Errors i biaixos</h5>
+
+
+
+<p>Malgrat tot, els sistemes d&#8217;identificació facial acumulen una extensa llista d&#8217;errades. Durant la final de la Champions League del 2017, la tecnologia de la policia gal·lesa <a rel="noreferrer noopener" aria-label="va fallar a l'hora d'identificar a nou de cada deu (s'obre en una nova pestanya)" href="https://www.wired.co.uk/article/face-recognition-police-uk-south-wales-met-notting-hill-carnival" target="_blank">va fallar a l&#8217;hora d&#8217;identificar a nou de cada deu</a> persones. Alguns entesos advertiren que els sistemes utilitzats pel cos gal·lès i altres forces de seguretat manquen de supervisió normativa i de transparència.</p>
+
+
+
+<p>El 2018, l&#8217;eina de reconeixement facial d&#8217;Amazon, Rekognition, va confondre 28 congressistes amb sospitosos de la policia. El problema és que la manca de precisió pot costar-nos la llibertat o fins i tot la vida, tenint en compte que la gent de color es veu més perjudicada per les pràctiques policials. Fins i tot el director executiu del gegant del comerç electrònic, Jeff Bezos, <a rel="noreferrer noopener" aria-label="va mostrar-se preocupat per les conseqüències negatives (s'obre en una nova pestanya)" href="https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28" target="_blank">va mostrar-se preocupat per les conseqüències negatives</a> de la vigilància facial en el cas de les persones de color, els migrants sense documentació o els manifestants.</p>
+
+
+
+<p>A més, la <a rel="noreferrer noopener" aria-label="investigació acadèmica també ha demostrat (s'obre en una nova pestanya)" href="http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf" target="_blank">investigació acadèmica ha demostrat</a> que el reconeixement facial és menys precís per als rostres de pell fosca i les dones. Els conjunts massius de dades amb què els algoritmes són entrenats estan condicionats pels nostres coneixements i prejudicis, i solen incloure un percentatge molt menor d&#8217;imatges de dones i persones de pell fosca. El sistema utilitzat per la policia del comtat de Broward, Florida, va cometre greus errors en considerar que la gent de color era més probable que cometés un delicte. Una disparitat que <a rel="noreferrer noopener" aria-label="no s'explicava pels delictes previs (s'obre en una nova pestanya)" href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing" target="_blank">no s&#8217;explicava ni per les estadístiques, ni pels delictes previs</a> dels acusats. </p>
+
+
+
+<h5>Ciutats pioneres </h5>
+
+
+
+<p>L’Ajuntament de San Francisco va ser el primer en considerar que la tecnologia del reconeixement facial no era fiable i, al juny, esdevenia la primera ciutat nordamericana que prohibia l&#8217;ús policial del reconeixement facial. La van seguir Oakland (Califòrnia) i Somerville (Massachussets). Alguns membres del Congrés volen limitar-ne l’ús a tots els Estats Units. El màxim republicà del Comitè de Supervisió de la Cambra va comparar la tecnologia amb el “1984” de George Orwell i, a l’agost, el senador Bernie Sanders va convertir-se en el primer candidat a la presidència a demanar la prohibició total d’aquest software.&nbsp;</p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="970" height="492" src="/wp-content/uploads/2019/10/security-wall-graffiti-black-wallpaper-preview.jpg" alt="" data-id="11" data-link="/2019/10/07/reconeixement-facial/security-wall-graffiti-black-wallpaper-preview/" class="wp-image-11" srcset="/wp-content/uploads/2019/10/security-wall-graffiti-black-wallpaper-preview.jpg 970w, /wp-content/uploads/2019/10/security-wall-graffiti-black-wallpaper-preview-300x152.jpg 300w, /wp-content/uploads/2019/10/security-wall-graffiti-black-wallpaper-preview-768x390.jpg 768w" sizes="(max-width: 970px) 100vw, 970px" /><figcaption class="blocks-gallery-item__caption">Obra de Banksy.</figcaption></figure></li></ul></figure>
+
+
+
+<p>Malgrat tot, hi ha qui no hi veu el problema. La mare d’un alumne de l’institut públic Enric Borràs, que ha utilitzat des del 2012 un sistema de reconeixement facial per controlar l&#8217;assistència, defensava la tecnologia que &#8220;<a rel="noreferrer noopener" aria-label="allò que fa és ajudar els pares (s'obre en una nova pestanya)" href="https://www.businessinsider.es/instituto-catalan-usa-reconocimiento-facial-asistencia-484683" target="_blank">allò que fa és ajudar els pares</a>&#8220;. A Cardiff, la ciutat més gran de Gal·les, les furgonetes policials amb càmeres de reconeixement facial s’han <a rel="noreferrer noopener" aria-label="visió comuna durant l’últim any (s'obre en una nova pestanya)" href="https://www.brookings.edu/wp-content/uploads/2017/10/safe-city-innovation_final.pdf" target="_blank">normalitzat durant l’últim any</a>. El cos va defensar els sistemes de reconeixement facial com a mesura per compensar els pressupostos del govern durant anys. Als Estats Units, una enquesta recent mostra que la meitat dels enquestats donen suport al seu ús si existeixen garanties de privadesa, i un&nbsp;<a rel="noreferrer noopener" aria-label="nou informe de Pew Research (s'obre en una nova pestanya)" href="https://href.li/?https://www.pewinternet.org/2019/09/05/more-than-half-of-u-s-adults-trust-law-enforcement-to-use-facial-recognition-responsibly/" target="_blank">nou informe de Pew Research</a>&nbsp;demostra que més de la meitat dels nord-americans confien en la policia per fer-lo servir. Per al 2022, es preveu que el mercat global de la tecnologia del reconeixement facial arribi als 7.000 bilions de dòlars, segons&nbsp;<a rel="noreferrer noopener" href="https://href.li/?https://www.marketsandmarkets.com/PressReleases/facial-recognition.asp" target="_blank">va predir Markets and Markets</a>. </p>
+
+
+
+<h5>Legislació</h5>
+
+
+
+<p>A Europa, les dades biomètriques estan&nbsp;<a href="https://href.li/?https://eugdpr.org/">més protegides per llei</a>&nbsp;que en altres indrets, i només poden utilitzar-se en situacions excepcionals. El Reglament General de Protecció de Dades (RGPD) prohibeix de manera general el seu tractament, però contempla excepcions. Per exemple, en les cerques policials de delinqüents i terroristes a nivell internacional o quan l&#8217;usuari ha donat el seu consentiment. </p>
+
+
+
+<p>Mentrestant, la legislació espanyola és minsa: dins la Llei de Protecció de Dades de caràcter personal, la recopilació de dades biomètriques només s’hi esmenta un cop. Això sí, deixa ben clar que abans de donar algú d’alta a qualsevol sistema de reconeixement facial, l’empresa ha d’informar l’usuari i <a rel="noreferrer noopener" aria-label="rebre’n el seu consentiment exprés (s'obre en una nova pestanya)" href="https://www.boe.es/boe_catalan/dias/2018/12/06/pdfs/BOE-A-2018-16673-C.pdf" target="_blank">rebre’n el seu consentiment exprés</a>.&nbsp;</p>
+
+
+
+<p>Amb tot, el Parlament Europeu ha aprovat la creació d&#8217;una base de dades biomètriques d&#8217;empremtes dactilars o cares dels habitants i els visitants de la Unió Europea, <a rel="noreferrer noopener" href="https://www.eldiario.es/tecnologia/UE-datos-identidades-faciales-biometricosUE-acuerda-europeos-fichados-deportar_0_891711413.html" target="_blank">l&#8217;anomenat DNI biomètric</a>. Una informació que estarà disponible per a totes les forces de seguretat.  </p>
+
+
+
+<p>Davant l&#8217;imparable estesa del reconeixement facial, el desenvolupament d’una legislació específica és urgent, com ho és l&#8217;obertura d&#8217;un debat públic. Tot plegat, fa pensar que ens trobem davant d&#8217;un instrument que amenaça les llibertats civils, a banda de ser una eina policial perillosament inexacta. D&#8217;aquesta manera, és lògic que no s&#8217;utilitzi fins que no es valorin els possibles els danys i es prenguin totes les precaucions per evitar perjudicar les comunitats vulnerables o els drets civils. A més, com va apuntar Edward Snowden&nbsp;<a rel="noreferrer noopener" href="https://href.li/?https://www.eldiario.es/internacional/gobiernos-empezando-autoridad-plataformas-tecnologicas_0_942806555.html" target="_blank">en una entrevista al diario.es</a>, Apple, Amazon, Google o Facebook no tenen un país, però sí molts diners. I els governs intenten beneficiar-se del poder d’aquestes empreses i les empreses entenen que poden beneficiar-se amb menys regulació i l’habilitat d’influir directament sobre la legislació.  </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/10/13/els-perills-del-reconeixement-facial/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">51</post-id>	</item>
+		<item>
+		<title>Reconeixement facial I: La imparable caça de rostres</title>
+		<link>/2019/10/07/reconeixement-facial/</link>
+					<comments>/2019/10/07/reconeixement-facial/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2019 11:36:53 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Facial Recognition]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Reconeixement Facial]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[Vigilància]]></category>
+		<guid isPermaLink="false">/?p=7</guid>
+
+					<description><![CDATA[El seu ús s&#8217;expandeix al territori català i als estats europeus El malson de George Orwell, plasmat a 1984, s&#8217;allunya de la ficció política i&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>El seu ús s&#8217;expandeix al territori català i als estats europeus</h2>
+
+
+
+<p>El malson de George Orwell, plasmat a 1984, s&#8217;allunya de la ficció política i s&#8217;instal·la al món real. Els sistemes de reconeixement facial s&#8217;estenen de manera accelerada i obren un ventall de possibilitats: la tan temuda videovigilància o l&#8217;ús policial per caçar delinqüents; però també fer classe sense passar llista, pagar sense targeta de crèdit o desbloquejar el mòbil sense el PIN. O sigui, fer-nos la vida més fàcil i assolir la nostra gran obsessió: guanyar temps. </p>
+
+
+
+<p>A diferència d&#8217;altres sistemes d&#8217;identificació, el reconeixement facial permet convertir els nostres rostres en dades universals, úniques i permanents. La distància entre les pupil·les, la posició del nas o la longitud entre les comissures dels llavis es tradueixen en una plantilla que un ordinador compara automàticament amb milions de plantilles d’altres cares, per mitjà d&#8217;Intel·ligència Artificial. El caràcter intransferible d&#8217;aquestes dades ha impulsat en els darrers anys un camp actiu d&#8217;investigació i molts assajos per a implementar un sistema que, <a href="/2019/10/14/els-perills-del-reconeixement-facial/">malgrat tot, encara presenta errors</a>. </p>
+
+
+
+<h5>On s&#8217;utilitza?</h5>
+
+
+
+<p>A Catalunya, per exemple, l’institut públic Enric Borràs, de Badalona, ha utilitzat el reconeixement facial per passar llista des del 2012, juntament amb un sistema d’enviament de SMS a la família, tal com apareix a la&nbsp;<a rel="noreferrer noopener" href="https://href.li/?http://badalona.cat/portalWeb/getfile?dID=105914&amp;rendition=Web" target="_blank">Guia d’informació educativa del curs 2019-2020</a>. I no és l’únic. El col·legi privat SEK Catalunya, de la Garriga, també <a rel="noreferrer noopener" aria-label="el va fer servir el curs passat (s'obre en una nova pestanya)" href="https://www.businessinsider.es/instituto-catalan-usa-reconocimiento-facial-asistencia-484683" target="_blank">el va fer servir el curs passat</a>.</p>
+
+
+
+<p>Des de final de setembre, un restaurant de Barcelona ofereix l’opció de pagar amb la cara. Mentrestant, diversos bancs fan proves per implantar la tecnologia. Els clients de CaixaBank ja <a rel="noreferrer noopener" aria-label="poden utilitzar el rostre enlloc de les tecles (s'obre en una nova pestanya)" href="https://www.caixabank.com/comunicacion/noticia/caixabank-the-worlds-first-bank-to-use-facial-recognition-to-withdraw-cash-at-atms_en.html?id=41476" target="_blank">poden utilitzar el rostre enlloc del número</a> d&#8217;identificació personal en alguns caixers automàtics. </p>
+
+
+
+<p>Aeròdroms de tot el món es preparen per acollir aquesta tecnologia per agilitzar l’embarcament dels passatgers. A Espanya, el primer en provar-ho ha sigut el de Maó, a Menorca, que ofereix aquesta opció des del març. Al setembre, el consistori madrileny posava en marxa les proves per pagar als autobusos públics tan sols mostrant la cara al sensor.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="es" dir="ltr">El gerente de EMT, Alfonso Sánchez ha probado el reconocimiento facial para el pago &quot;por la cara&quot; en el bus en la <a href="https://twitter.com/hashtag/DemoDay?src=hash&amp;ref_src=twsrc%5Etfw">#DemoDay</a> de <a href="https://twitter.com/MadridMotion?ref_src=twsrc%5Etfw">@MadridMotion</a>. Rápido y sencillo, ¡buen viaje! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f9d1-1f3fb.png" alt="🧑🏻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4f2.png" alt="📲" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/5BKuaoK5V1">pic.twitter.com/5BKuaoK5V1</a></p>&mdash; EMT de Madrid (@EMTmadrid) <a href="https://twitter.com/EMTmadrid/status/1174621480015028224?ref_src=twsrc%5Etfw">September 19, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h5>Esclat a Europa</h5>
+
+
+
+<p>Mentre la Xina, els Emirats Àrabs o el Japó despleguen milers de càmeres amb reconeixement facial pels carrers, a Europa les dades biomètriques estan&nbsp;<a href="https://href.li/?https://eugdpr.org/">més protegides per llei</a>&nbsp;i només poden utilitzar-se en situacions excepcionals. De fet, i a diferència dels dos col·legis catalans esmentats, una escola sueca ha hagut d&#8217;enfrontar una multa de 18.000 euros per controlar l&#8217;assistència amb aquesta tecnologia. </p>
+
+
+
+<p>A només 1.500 quilòmetres d&#8217;aquí, a la Gran Bretanya, les furgones policials equipades amb càmeres de reconeixement facial s’allunyen cada dia més de l’excepcionalitat i <a rel="noreferrer noopener" aria-label="ja són 58 els detinguts després de ser identificats (s'obre en una nova pestanya)" href="https://www.nytimes.com/2019/09/15/technology/britain-surveillance-privacy.html" target="_blank">ja són desenes els detinguts després de ser identificats</a> per aquesta tecnologia. El sistema envia una alerta quan identifica un rostre de la llista negra i, en alguns casos, s’ha procedit a un arrest. </p>
+
+
+
+<p>L’aeroport de Gatwick, a Londres, es convertia al setembre en el primer del Regne Unit amb <a rel="noreferrer noopener" aria-label="càmeres permanents de reconeixement facial (s'obre en una nova pestanya)" href="https://www.bbc.com/news/technology-49728301" target="_blank">càmeres permanents de reconeixement facial</a> i, segons un investigador de la Universitat d’Essex, els funcionaris discuteixen sobre la integració de la tecnologia en les càmeres de la ciutat. A l&#8217;estiu,&nbsp;<a href="https://href.li/?https://ico.org.uk/about-the-ico/news-and-events/news-and-blogs/2019/08/statement-live-facial-recognition-technology-in-kings-cross/">la Comissària d’Informació del Regne Unit va mostrar-se</a>&nbsp;profundament preocupada per l’ús creixent d’aquesta tecnologia als espais públics i anunciava que s’havia obert una investigació sobre la seva utilització a la zona del King’s Cross, al centre de Londres, per on milers de persones passen cada dia.</p>
+
+
+
+<p>El president francès, Emmanuel Macron, és a punt de llançar un sistema d’identificació per reconeixement facial i <a href="https://www.xataka.com/inteligencia-artificial/francia-lanzara-este-ano-su-sistema-identificacion-reconocimiento-facial-obligara-a-usarlo-tramites-administrativos" target="_blank" rel="noreferrer noopener" aria-label="n’imposarà l'ús per a fer alguns tràmits (s'obre en una nova pestanya)">n’imposarà l&#8217;ús per a fer alguns tràmits</a> administratius. Macron defensa que vol donar als seus ciutadans una identitat digital segura, mentre alguns col·lectius i la Comissió Nacional de la Informàtica i les Llibertats (CNIL) sostenen que viola les normes europees que regulen la cessió de dades.</p>
+
+
+
+<p>El Ministeri d’Interior alemany anuncià a l&#8217;agost del 2017 la implantació de videovigilància amb reconeixement facial a l’estació de trens de Südkreuz, però feia un mes que hi feien proves. L’objectiu del Govern germànic és facilitar la detecció de persones buscades i, especialment, terroristes. </p>
+
+
+
+<h5>Abast mundial</h5>
+
+
+
+<p>Als Estats Units, l’ús governamental d’aquesta tecnologia va en augment, segons el <a rel="noreferrer noopener" aria-label="grup de defensa de drets digitals Fight for the Future (s'obre en una nova pestanya)" href="https://www.banfacialrecognition.com/map/" target="_blank">grup de defensa de drets digitals Fight for the Future</a>. I cada dia més aeroports americans pugen al carro. Trump ha promès que el reconeixement facial es desplegarà als 20 principals aeroports nord-americans de cara al 2021, i que la tecnologia s’aplicarà al 100% dels passatgers internacionals. Al mapa s’hi pot veure la freqüència amb què les agències nord-americanes fan servir aquest programari per escanejar fotografies de milions de ciutadans (sovint sense el seu coneixement ni consentiment).</p>
+
+
+
+<figure class="wp-block-image"><img src="https://tecnologacat.files.wordpress.com/2019/10/image-1.png?w=1024" alt=""/></figure>
+
+
+
+<p>Més enllà de les fronteres nacionals, els gegants tecnològics ens han posat el reconeixement facial a la butxaca. Google escaneja els textos de les imatges que hi tenim a Google Fotos, incloent-hi les dades personals desades a les captures de pantalla. Un fet que <a rel="noreferrer noopener" aria-label="pot incomplir la Regulació (s'obre en una nova pestanya)" href="https://www.businessinsider.es/google-fotos-detecta-texto-imagenes-subes-479637" target="_blank">pot incomplir la Regulació</a> General de Protecció de Dades (GDPR) de la Unió Europea, perquè l’empresa no n&#8217;ha demanat el consentiment als usuaris. Mentrestant, Facebook ha ampliat fa un mes la seva eina de reconeixement facial. Aquesta, <a rel="noreferrer noopener" aria-label="pretén servir d’ajuda per protegir els usuaris (s'obre en una nova pestanya)" href="https://newsroom.fb.com/news/2019/09/update-face-recognition/" target="_blank">pretén servir d’ajuda per protegir els usuaris</a> d&#8217;una eventual suplantació d&#8217;identitat i substitueix l’eina de suggerència d’etiquetatge, que deixa d’estar disponible arrel d’una demanda acceptada a tràmit per un tribunal federal.&nbsp;</p>
+
+
+
+<p>El reconeixement facial ja forma part del nostre dia a dia, malgrat els <a href="/2019/10/14/els-perills-del-reconeixement-facial/">dubtes i desconfiances que aixeca arreu</a>. I, davant el desplegament d&#8217;aquesta tecnologia, organitzacions defensores dels drets es pregunten fins a quin punt val la pena perdre privacitat a canvi de la promesa d&#8217;una major seguretat. Algunes ciutats nordamericanes, com San Francisco o Berkeley, n&#8217;han prohibit l&#8217;ús. De moment, però, al tauler global, els partidaris guanyen el pols als detractors.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/10/07/reconeixement-facial/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">7</post-id>	</item>
+	</channel>
+</rss>

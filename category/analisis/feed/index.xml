@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Anàlisis &#8211; La Tecnòloga</title>
+	<atom:link href="/category/analisis/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Anàlisis &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Art i robots</title>
+		<link>/2020/08/10/art-i-robots/</link>
+		
+		<dc:creator><![CDATA[Peter Suechting]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2020 16:26:09 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Art]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Deepfakes]]></category>
+		<category><![CDATA[Destacat]]></category>
+		<category><![CDATA[Falsificacions]]></category>
+		<category><![CDATA[GAN]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[Xarxes Generatives Antagòniques]]></category>
+		<guid isPermaLink="false">/?p=1554</guid>
+
+					<description><![CDATA[Durant els darrers dos anys, investigadors del Laboratori de Dades per a la Intel·ligència Artificial (Data-to-AI Lab) de l’Institut Tecnològic de Massachusetts (MIT) ha estat experimentant amb GANs per resoldre un grapat de problemes socialment rellevants, que van des de transmetre -i detectar- missatges secrets i protegir vídeos amb una marca d’aigua fins a identificar anomalies i preservar la privacitat. Al DAI Lab li complau compartir alguns dels seus projectes més engrescadors amb les comunitats de l’aprenentatge automàtic i la ciència de dades amb l’esperança de generar debat i col·laboració. ]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">Foto: Retrat de Belamy. Imatge cortesia de <a href="https://art.art/blog/christies-first-ai-artwork">Christie’s</a>.</p>
+
+
+
+<p><em>Nota dels editors:</em> <em>Aquest article és el primer d&#8217;una sèrie que ha impulsat el Laboratori de Dades per a la Intel·ligència Artificial (Data-to-AI Lab) de l’Institut Tecnològic de Massachusetts (MIT), amb qui La Tecnòloga col·labora, i que vol generar debat i cooperació en les comunitats de l’aprenentatge automàtic (machine learning) i la ciència de dades.</em> <em>Podeu llegir l&#8217;article original en <a rel="noreferrer noopener" href="https://medium.com/mit-data-to-ai-lab/art-robots-661b7ad86411" target="_blank">aquest enllaç</a>.</em> <em>Traducció d&#8217;Anna Schnabel.</em></p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<h2>Sobre les Xarxes Generatives Antagòniques i el seu potencial creatiu</h2>
+
+
+
+<p>Les estimacions inicials del valor del retrat <a rel="noreferrer noopener" href="https://www.christies.com/Lotfinder/lot_details.aspx?hdnSaleID=27814&amp;LN=363&amp;intsaleid=27814&amp;sid=41bfe836-b0c1-4afa-9298-09cc909345ee" target="_blank">Edmond de Belamy</a> van situar el seu preu entre els 7.000 i els 10.000 dòlars. En realitat, la pintura en si no és res de l’altre món. Pinzellades barroeres de color marró, negre, blanc i gris esbossen un home més aviat desdibuixat mirant lúgubrement i confusa fora del quadre. Però el 25 d’octubre de 2018, quan va tornar la calma a la casa de subhastes Christie’s, a Nova York, <a rel="noreferrer noopener" href="https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans" target="_blank">el retrat s’havia venut per 432.500 dòlars</a>.&nbsp;</p>
+
+
+
+<h3><strong>L’art d’artificial&nbsp;</strong></h3>
+
+
+
+<p>Què va provocar el frenesí per apostar per part dels participants presents aquella tarda a la sala de subhastes? El fet que la tela havia estat ‘pintada’ per una màquina. La <a rel="noreferrer noopener" href="https://obvious-art.com/gallery-obvious/" target="_blank">sèrie de retrats de Belamy</a> és obra d’<a rel="noreferrer noopener" href="http://obvious-art.com/" target="_blank"><em>Obvious</em></a>, un grup de tres artistes i programadors francesos que produïren la peça utilitzant <a rel="noreferrer noopener" href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/" target="_blank">Xarxes Generatives Antagòniques</a>, o GANs, a partir d’un conjunt de dades de 15.000 retrats europeus¹. El resultat? Onze obres úniques, incloent-hi el retrat Edmond de Belamy, amb trets característics de les obres que van nodrir i entrenar el model.</p>
+
+
+
+<p>El projecte atribueix potencialment a l&#8217;art produït per intel·ligència artificial (AI) el mateix mèrit que a l&#8217;art fruit de la mà humana. Al cap i a la fi, el que els d&#8217;<em>Obvious</em> van fer és imprimir el resultat de l&#8217;algorisme que els va agradar més amb una impressora d’injecció i, posteriorment, van posar-hi un marc daurat i van signar l&#8217;obra amb un fragment del codi de l’algorisme. Res té d’especial l’objecte en si mateix; es podria imprimir i emmarcar un miler de vegades més. Així doncs, la guerra d&#8217;ofertes per aconseguir el retrat de Belamy sembla respondre més aviat a la voluntat de fer-se amb una peça clau de la història contemporània: el moment en què les màquines esdevenen artistes.</p>
+
+
+
+<p>Les màquines creen, però poden ser creatives? Aquesta és la pregunta que fa sorgir l’aparició dels GANs. Per a programadors com els d’<em>Obvious</em>, els GANs poden convertir-se en una eina molt poderosa a l&#8217;hora de prendre part en el debat sobre l’autenticitat. Com a tal, el projecte de Belamy és només un fragment d’un debat molt més ampli al voltant de la definició de la creativitat i sobre si els humans poden encara considerar-se els seus practicants exclusius.</p>
+
+
+
+<h3><strong>Fallar és generatiu</strong></h3>
+
+
+
+<p>Des de la seva concepció dins de la ment d’Ian Goodfellow, els GANs s’han aplicat a una gran varietat de tasques ‘creatives’. D’acord amb <a href="https://arxiv.org/pdf/1406.2661.pdf">l&#8217;article de Goodfellow et. al. del 2014</a>, les Xarxes Generatives Antagòniques entrenen dos models -un generador i un discriminador- al mateix temps. Un conjunt de dades original (imatges, text, etc.) es presenta als dos algorismes, cadascun dels quals separa les dades i avalua com es relacionen els seus components entre ells. Aquesta és una aplicació típica d’una xarxa neuronal. Però el que ve a continuació és la clau del procés. La mitologia del moment dibuixa a Goodfellow plantejant-se una pregunta: &#8220;què passaria si les xarxes neuronals poguessin competir entre elles?&#8221;</p>
+
+
+
+<p>Dins dels GANs, el concepte de les xarxes antagòniques està vinculat a una operació anomenada &#8216;retropropagació&#8217;, que és un component crític del procés d’aprenentatge. Així, la wiki de Skymind.AI compara:</p>
+
+
+
+<p><em>“&#8230; una xarxa neuronal amb una gran peça d’artilleria que intenta colpejar un objecte llunyà amb un projectil. Quan la xarxa neuronal fa una suposició sobre un punt de les dades, dispara, un núvol de pols emergeix a l’horitzó, i el tirador intenta esbrinar on impacta el projectil i la distància que la separa de l’objectiu. I aquesta distància és la mesura de l’error. La mesura de l’error és aleshores aplicada a l’angle i la direcció de l’arma, abans que dispari de nou. La retropropagació pren l’error associat amb una suposició incorrecta d’una xarxa neuronal, i utilitza aquest error per ajustar els paràmetres de la xarxa neuronal en la direcció en què es redueix l&#8217;error”.&nbsp;</em></p>
+
+
+
+<p>En aquest sentit, la retropropagació és similar a la cognició humana. Un operador d’artilleria, disparant uns quants projectils per provar i refinar la seva punteria abans de fer diana, aprèn què funciona i què necessita ajustar i automàticament fa aquests canvis cada cop que dispara. Però així com l’operador ha de confiar en els propis ulls per comprovar el seu grau d’èxit o fracàs, els GANs tenen un algorisme discriminador que indica si el simulacre és discerniblement fals o no. A més a més, una màquina pot disparar milers de trets en el mateix temps en què un humà dispara un sol cop. La potència iterativa de càlcul de la màquina permet, doncs, que ambdues xarxes coevolucionin ràpidament.</p>
+
+
+
+<p>En resum, la retropropagació crea un entorn en el qual un algorisme generador s’entrena de manera ràpida i eficaç competint contra un algorisme discriminador. L’algorisme generador no té límits pel que fa a les habilitats que pot assolir amb relació al discriminador. A través d’aquest procés, la falsificació s’acosta asimptòticament a la realitat fins al punt que distingir entre els dos deixa de ser possible, fins i tot per a les màquines. Així, després de l’entrenament apropiat, l’algorisme generador esdevé capaç de produir simulacres que poden enganyar l’ull digital del discriminador i, conseqüentment, l’ull humà observant el resultat.</p>
+
+
+
+<h3><strong>Remesclant la realitat</strong></h3>
+
+
+
+<p>Hi ha nombrosos exemples d’eines basades en GANs en els últims anys, que van des de les populars i depredadores aplicacions per a crear <a href="https://www.bbc.com/news/technology-42912529">deepfakes</a> fins a d’altres més il·lustrades com el <a href="https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html">DeepDream</a>, eines basades en GANs per generar inquietants imatges al·lucinògenes a partir de fotografies reals. <a href="https://magenta.tensorflow.org/">Project Magenta</a>, un grup d’investigadors afiliats a Google, desenvolupen i acullen una llibreria d’eines basades en GANs per augmentar la producció de música digital, proporcionant una altra aplicació fascinant per a la manipulació i la millora del so. (Podeu escoltar els resultats de la col·laboració entre Magenta i el grup musical de Los Angeles YACHT a l’àlbum que llançaren el setembre del 2019 <a href="https://magenta.tensorflow.org/chain-tripping">aquí</a>. I a sota hi trobareu un exemple d’interpolació de vídeo utilitzant eines basades en GANs per a projectar cossos en moviment, <a href="https://arxiv.org/pdf/1808.07371.pdf">presentat en un article recent de Caroline Chan</a>.)</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Everybody Dance Now" width="1160" height="653" src="https://www.youtube.com/embed/mSaIrz8lM1U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Però no creguem que els investigadors en IA inverteixen el seu temps en deixar sense feina a artistes ja famolencs, perquè aquestes aplicacions artístiques encara no estan preparades per competir amb els grans mestres. Continuen sent eines per ser emprades pels humans en àmbits molt diversos i en diferents graus d’utilitat. Això sí, a banda d’aplicacions artístiques, les eines basades en GANs estan fent ruta cap a altres reialmes, un tema que s’explorarà en una altra publicació.&nbsp;</p>
+
+
+
+<p><em>Durant els darrers dos anys, investigadors del Laboratori de Dades per a la Intel·ligència Artificial (Data-to-AI Lab) de l’Institut Tecnològic de Massachusetts (MIT) ha estat experimentant amb GANs per resoldre un grapat de problemes socialment rellevants, que van des de transmetre -i detectar- missatges secrets i protegir vídeos amb una marca d’aigua fins a identificar anomalies i preservar la privacitat. Al DAI Lab li complau compartir alguns dels seus projectes més engrescadors amb les comunitats de l’aprenentatge automàtic i la ciència de dades amb l’esperança de generar debat i col·laboració. Amb aquesta intenció, aquest article és el primer d’una sèrie de publicacions sobre els projectes de xarxes generatives antagòniques del laboratori per a incloure mostres de la nostra feina, tutorials, comentaris i llibreries de codi obert. Planegem publicar aquests articles cada dues setmanes, alternant-los amb una sèrie de tutorials dedicats a varis dels nostres últims projectes relacionats amb GANs. Torneu aviat a la nostra pàgina de Medium i seguiu-nos a Twitter.</em></p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">A commentary on GANs by Peter Suechting. With this article, we are launching a multipart bi-weekly series on the lab’s GAN-related projects, to include demonstrations of our work, tutorials, commentary essays, and open-source libraries.  <a href="https://t.co/sLICz5FA3a">https://t.co/sLICz5FA3a</a></p>&mdash; MIT &#8211; Data to AI Lab (@lab_dai) <a href="https://twitter.com/lab_dai/status/1291043188052918278?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>[1]: El debat persisteix sobre l’origen del codi que <em>Obvious</em> va utilitzar per produir el retrat de Belamy. El programador Robbie Barat, artista d&#8217;IA no afiliat a <em>Obvious</em>, és responsable, segons algunes fonts, del 90% del codi utilitzat en el projecte, tot i que originalment havia publicat el codi sota la llicència <a href="https://creativecommons.org/">creative commons</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1554</post-id>	</item>
+		<item>
+		<title>Distopies tecnològiques per jutjar el demà</title>
+		<link>/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/</link>
+					<comments>/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 29 May 2020 16:39:13 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Robots]]></category>
+		<guid isPermaLink="false">/?p=1337</guid>
+
+					<description><![CDATA[La ciència-ficció ha contribuït a crear debat i consciència crítica sobre la tecnologia i la Intel·ligència Artificial “Maleït creador! Per què no vaig perdre en&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>La ciència-ficció ha contribuït a crear debat i consciència crítica sobre la tecnologia i la Intel·ligència Artificial</h2>
+
+
+
+<p>“Maleït creador! Per què no vaig perdre en aquell moment la flama de l’existència que tan imprudentment vares encendre?” brama, amb set de venjança, la solitària criatura de Víctor Frankenstein a l’obra mestra de Mary Shelley. Sense màquines al relat, <em>Frankenstein</em> ha contribuït a crear un imaginari simbòlic de la Intel·ligència Artificial (IA) més a prop del recel que de l&#8217;encís: les nostres creacions poden rebel·lar-se i posar la humanitat contra les cordes. Són un mirall d&#8217;aquesta por irracional les novel·les <em>1984</em>, <em>Jo, robot</em>, <em>Un Món feliç</em>; les pel·lícules <em>Blade Runner</em>, <em>Matrix</em>, <em>Ex-Machina</em>; les sèries <em>Black Mirror</em>, <em>Westworld</em>… La llista és inacabable.</p>
+
+
+
+<p>Segons l&#8217;estudi <em>El Factor Frankenstein: anatomia de la por a la Intel·ligència Artificial</em>, elaborat per SogetiLabs el 2017, més d’un terç dels ciutadans de la Unió Europea creu que l’IA serà una amenaça per a la supervivència de l&#8217;home a llarg termini. Mentrestant, un 46% no veu cap benefici en la idea de desenvolupar robots humanoides. &#8220;Hi ha quelcom d&#8217;atàvic en la por que els humans sentim cap al progrés i la tecnologia. Cap a un futur que ens parla de suplantació&#8221;, escriu el director de <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=p2xad7Rm4DI" target="_blank">la pel·lícula <em>Eva</em></a>, el barceloní Kike Maíllo, a <a rel="noreferrer noopener" href="https://revistaidees.cat/es/la-maquina-aparentemente-desobediente/" target="_blank"><em>La Màquina Aparentment Desobedient</em>, publicat a la Revista Idees</a> del Centre d&#8217;Estudis de Temes Contemporanis (CETC), que dimecres va oferir un diàleg en línia sobre l&#8217;imaginari simbòlic de l&#8217;IA entre dos investigadors de primer nivell: Ramon López de Mántaras i Carme Torras. </p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Diàleg online | L’imaginari simbòlic de la IA" width="1160" height="653" src="https://www.youtube.com/embed/4VlbfWFlNbs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>El cert és que la ciència-ficció ha apel·lat molt més a la distopia que a la utopia. I quan la tecnologia entra en escena, ja podem presagiar un final apocalíptic. Tot i això, la ciència-ficció no només ha servit per sembrar el terror: també ha contribuït a &#8220;crear debat i consciència crítica sobre la tecnologia i la Intel·ligència Artificial&#8221;, va advertir Carme Torras. </p>
+
+
+
+<p>De fet, Torras, que és investigadora a l&#8217;Institut de Robòtica i Informàtica Industrial de la Universitat Politècnica de Catalunya (UPC), doctora en Informàtica i novel·lista, ho ha posat en pràctica a <em>La mutació sentimental</em> (Editorial Pagès Editors), on es planteja si el fet de ser criat per mainaderes artificials i educat per mestres robòtics afectaria els nostres hàbits intel·lectuals, emocionals i socials. Al mateix temps, posa sobre la taula una sèrie de qüestions que són utilitzades actualment a diverses universitats del món per impartir formació ètica en algunes carreres tecnològiques. Així, Orwell, Huxley o Shelley han entrat a l&#8217;acadèmia per polemitzar el dilema seguretat versus llibertat, el totalitarisme tecnològic, els substituts emocionals, les rèpliques humanes i un prolongat etcètera. Els interrogants morals també perseguiran el lector d&#8217;<em>Enxarxats</em>, obra de la mateixa autora &#8211;<a rel="noreferrer noopener" href="https://www.fundaciobit.org/es/carme-torras-enxarxats/" target="_blank">i a la qual la Fundació Bit va dedicar aquesta ressenya</a>. Aquesta setmana, la Fundació Mallorca Literària ha entrevistat a Torras sobre aquesta novel·la i ha reflexionat amb ella sobre els múltiples dilemes que plantegen les xarxes socials a la societat. </p>
+
+
+
+<figure class="wp-block-embed-facebook wp-block-embed is-type-video is-provider-facebook"><div class="wp-block-embed__wrapper">
+<div class="fb-video" data-allowfullscreen="true" data-href="https://www.facebook.com/mallorcaliteraria/videos/669074210336191/"></div>
+</div></figure>
+
+
+
+<h3>La màquina es rebel·la</h3>
+
+
+
+<p>Predir el futur mai ha estat fàcil. Tot i això, durant l&#8217;acte del CETC, Ramón López de Mántaras, enginyer físic i investigador del Consell Superior d&#8217;Investigacions Científiques (CSIC), ens recordà la gran quantitat de projectes de recerca en IA dels darrers 50 anys que van ser anticipats per <em>2001: una Odissea a l’Espai</em> (1968). Per exemple, <a rel="noreferrer noopener" href="/2019/12/13/una-tecnologia-que-avanca-malgrat-els-emperons/" target="_blank">el reconeixement facial</a> -“fins i tot quan la cara només hi està dibuixada”, precisa l&#8217;investigador-, el diagnòstic predictiu d’avaries, la lectura de llavis, la capacitat de jugar a escacs a molt alt nivell o el domini absolut del llenguatge natural. López de Mántaras afegeix que el supercomputador Hal, encarregat de controlar les funcions de la nau espacial, no simula tenir estats mentals sinó que realment els experimenta, així com la por de ser desconnectat. Per això Hal &#8220;mata en defensa pròpia&#8221;, diu. De nou, la màquina es rebel·la.&nbsp;</p>
+
+
+
+<p>No obstant això, el dilema del robot entre acatar i sotmetre&#8217;s va aparèixer per primer cop a l&#8217;obra d&#8217;Isaac Asimov. El visionari autor, que enguany hauria complit 100 anys, despuntà com a escriptor enmig de l’horror d’Hiroshima i Nagasaki i una allau d’avenços tecnològics que amenaçaren com mai abans la humanitat. Asimov, científic de professió, va recórrer a la literatura per plantejar els dubtes i les pors que li generava la ciència: al seu llibre <em>Jo, Robot</em> va establir <a href="https://ca.wikipedia.org/wiki/Lleis_de_la_rob%C3%B2tica">les famoses lleis fonamentals de la convivència entre humans i robots</a>, que han estat assimilades per la comunitat que investiga en IA.</p>
+
+
+
+<p>La fragmentació del coneixement en compartiments estancs mai no ha afavorit el progrés. Per això, la multidisciplinarietat és necessària si volem evitar el desastre. <a rel="noreferrer noopener" href="https://revistaidees.cat/la-ciencia-ficcio-i-el-debat-entre-etica-i-intelligencia-artificial/" target="_blank">Com escriu Torras a la Revista Idees</a>, el món de la recerca de la IA ha vist &#8220;la necessitat de treballar conjuntament amb científics socials, psicòlegs, advocats, filòsofs i antropòlegs per tal d’analitzar les implicacions socials i ètiques de les tecnologies que s’estan desenvolupant i la forma com s’estan desplegant&#8221;. I en aquesta tasca, la literatura, el setè art i els diferents engranatges que alimenten el nostre imaginari simbòlic hi tenen molt a dir. Com va dir Neal Stephenson, la ciència-ficció pot donar idees per a innovacions tècniques i, sobretot, &#8220;pot oferir una imatge coherent d’aquestes innovacions integrades en una societat, en l’economia i en la vida de les persones”. </p>
+
+
+
+<p>Així, Kike Maíllo aconsegueix a la seva pel·lícula <em>Eva</em> que el gran públic es plantegi: Les màquines de companyia podran ser bones amigues nostres? Serem capaços d&#8217;establir lligams d&#8217;afecte amb artefactes que es limiten a obeir el seu propietari? I si els conferim consciència i lliure albir per a igualar-nos-hi, quina relació de poder hi establirem amb les màquines, una vegada hagin adquirit una intel·ligència immensament superior a la nostra?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1337</post-id>	</item>
+		<item>
+		<title>Intel·ligència Artificial per combatre el Covid-19</title>
+		<link>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/</link>
+					<comments>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 20 Mar 2020 21:26:48 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Aprenentatge Profund]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Coronavirus]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[SARS]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Virus]]></category>
+		<category><![CDATA[Xarxes Neuronals]]></category>
+		<guid isPermaLink="false">/?p=847</guid>
+
+					<description><![CDATA[La Intel·ligència Artificial, la ciència de dades i la tecnologia tenen un paper clau per rastrejar i combatre la pandèmia del coronavirus]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">Imatge: <a rel="noreferrer noopener" aria-label="Casos de COVID-19 segons el Centre de Sistemes, Ciència i Enginyeria (CSSE) a la Universitat John Hopkins (JHU) (opens in a new tab)" href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" target="_blank">Casos de COVID-19 segons el Centre de Sistemes, Ciència i Enginyeria (CSSE) de la Universitat John Hopkins (JHU)</a> el dia 20 de març a les 22:30 hores. </p>
+
+
+
+<h2>La Intel·ligència Artificial, la ciència de dades i la tecnologia tenen un paper determinant en rastrejar i combatre la pandèmia del coronavirus</h2>
+
+
+
+<p>El món ha emmalaltit. L&#8217;últim dia d&#8217;hivern tanca amb més de 259.000 casos confirmats per coronavirus i 11.250 morts, i els mitjans de comunicació ens recorden a tothora que no hem tocat sostre. Però enmig de les males notícies, una d’esperançadora. Aquesta setmana, la Xina, on es va originar la pandèmia, ha registrat per primer cop zero contagis locals. I el robust sector tecnològic de la segona potència mundial hi ha tingut un paper determinant. Concretament, la Intel·ligència Artificial (IA), la ciència de dades i la tecnologia per rastrejar i combatre el Covid-19. Per exemple, un sistema de control que utilitza dades massives (<em>Big Data</em>) per identificar i avaluar el risc de cada individu en funció del seu historial de viatges o la possible exposició a persones portadores del virus.</p>
+
+
+
+<p>El gegant asiàtic, però, també ha fet ús del vessant més polèmic de la tecnologia. El sofisticat sistema de vigilància del règim de Xi Jinping <a href="/2019/10/13/els-perills-del-reconeixement-facial/">s’ha servit del reconeixement facial</a> i de programari de detecció de temperatura per identificar persones que tenen febre o més probabilitats de patir el virus. Fins i tot va proporcionar a la policia de la regió de Sichuan cascos intel·ligents per identificar persones amb temperatura elevada. Mentre l’exigència de la privadesa en el tractament de les dades personals guanya pes arreu, és sabut que a la Xina la protecció de la informació personal decau en l’escala de prioritats.&nbsp;</p>
+
+
+
+<h3><strong>IA per predir un brot</strong></h3>
+
+
+
+<p>Tot i així, la Intel·ligència Artificial pot ajudar-nos en aquest gran repte que tenim al davant d’una manera menys problemàtica. Per exemple, l&#8217;IA es fa servir per detectar l’afectació del Covid-19, pot guiar el desenvolupament de fàrmacs o identificar, rastrejar i pronosticar els brots. De fet, abans que es fessin públics els primers casos de coronavirus, la Intel·ligència Artificial ja ho sabia. El 31 de desembre, un algoritme desenvolupat per una empresa canadenca especialitzada en avaluar el risc de malalties infeccioses, BlueDot, ja havia descobert el brot i avisat de la notícia als seus clients, <a href="https://www.wired.com/story/ai-epidemiologist-wuhan-public-health-warnings/">segons Wired</a>, deu dies abans que l’Organització Mundial de la Salut (OMS) donés l’avís.</p>
+
+
+
+<p>D’aquesta manera, <a rel="noreferrer noopener" aria-label="el sistema de BlueDot (opens in a new tab)" href="https://bluedot.global/" target="_blank">el sistema de BlueDot</a> proporciona una vigilància centralitzada de malalties partint de més de 10.000 fonts -documents governamentals, notícies publicades en webs informatius i diaris en més de 65 idiomes diferents-, permet conèixer la probabilitat que arribi una malaltia infecciosa a un indret determinat i envia notificacions personalitzades dels brots, segons l’interès del client. Així, per exemple, un algoritme llegeix notícies publicades en mitjans locals que mencionen casos de grip, morts sense una explicació aparent i símptomes que no s’ubiquen en un diagnòstic concret, tant en humans com en animals, i utilitza aquesta informació per a fer una predicció.</p>
+
+
+
+<p>L’empresa també té accés a dades globals de bitllets d’avió, que poden ajudar a predir cap a on i quan viatgen els residents infectats, i quantes persones volen amb ells. És així com la companyia va predir correctament que el coronavirus saltaria de Wuhan a Bangkok, Seül, Taipei i Tòquio els dies següents a la seva aparició inicial. Una vegada l&#8217;IA ha fet la seva feina, els epidemiòlegs verifiquen si les conclusions tenen sentit des d&#8217;un punt de vista científic, i envien un informe als funcionaris de salut pública. I aquesta no és la primera vegada que BlueDot té èxit: ja va predir el brot de Zika al sud de Florida en <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)00080-5/fulltext">una publicació a la revista mèdica britànica The Lancet</a>.</p>
+
+
+
+<h3><strong>IA per ajudar a detectar l’afectació</strong></h3>
+
+
+
+<p>Però per trobar eines útils no cal anar tan lluny. <a href="https://citibeats.net/">Una startup catalana, Citibeats</a>, crea observatoris per a governs sobre el coronavirus. De moment, ha llançat observatoris ciutadans en 26 països de Llatinoamèrica, <a href="https://cronicaglobal.elespanol.com/creacion/vida-tecky/startup-catalana-capaz-crear-observatorios-datos-gobiernos-durante-coronavirus_329040_102.html">segons explica el director, Ivan Caballero, a Crónica Global</a>. D’acord amb Caballero, ofereixen informació pública, gratuïta i en temps real sobre l’evolució del Covid-19 en diferents àrees territorials. Així, la Intel·ligència Artificial pot detectar en quins barris hi ha més necessitats, així com els canvis d’hàbits i comportaments que es produeixen. Segons el mateix mitjà, la startup es troba actualment en converses amb el Govern espanyol i amb la Generalitat de Catalunya sobre la possibilitat de crear un observatori sobre el coronavirus.</p>
+
+
+
+<p>La <a rel="noreferrer noopener" aria-label="startup valenciana Quibim (opens in a new tab)" href="https://quibim.com/" target="_blank">startup valenciana Quibim</a> ha desenvolupat un sistema d’Aprenentatge Profund (<em>Deep Learning</em>, o sigui, una xarxa neuronal artificial que emula el funcionament d’un cervell biològic per a fer tasques concretes) que determina l’afectació d’un pacient amb Covid-19 a partir d’imatges mèdiques. D’aquesta manera, no diagnostica el virus, però ajuda als metges a prendre la decisió d’hospitalitzar o no als contagiats. De fet, aquesta solució ja s’utilitza en alguns centres per valorar la gravetat d’un pacient amb símptomes i decidir si enviar-lo a casa o ingressar-lo, tal com <a href="https://retina.elpais.com/retina/2020/03/17/innovacion/1584450877_681658.html">explica el director de Quibim a El País Retina</a>.</p>
+
+
+
+<p>Un altre sistema que ajuda a diagnosticar la malatia és aquell que ofereix <a href="https://global.infervision.com/">la multinacional Infervision</a>, que ha llançat un sistema per assistir a metges i infermers per detectar i supervisar el Covid-19. <a href="https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/amp">Segons un altre article de Wired</a>, un algoritme de la companyia s’ha utilitzat en 34 hospitals xinesos per detectar signes visuals de la pneumònia associada al virus SARS-Cov-2 en 32.000 radiografies pulmonars, tot i que el diagnòstic definitiu requereix detectar el virus en els fluids corporals. Tots aquests sistemes permeten alleugerir la immensa càrrega de feina dels professionals sanitaris i millora la velocitat de diagnòstic.&nbsp;</p>
+
+
+
+<h3>Robots que desinfecten amb llum ultraviolada</h3>
+
+
+
+<p>A les màquines no els preocupa contagiar-se, de manera que són els éssers ideals per netejar i esterilitzar espais en temps de confinament. Els <a href="http://www.uvd-robots.com/">robots de Blue Ocean Robotics</a> tenen com a objectiu prevenir i reduir la propagació de virus, bacteris i altres microbis descomposant la seva estructura d’ADN utilitzant llum ultraviolada.</p>
+
+
+
+<p>Per la seva banda, <a href="https://benevolent.ai/">BenevolentAI</a> utilitza Intel·ligència Artificial per crear medicines que puguin combatre les malalties més agressives. Actualment recolza els esforços per tractar el Covid-19. <a href="https://www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/#3b5882345f5f">Segons Forbes</a>, durant les setmanes posteriors al brot va utilitzar les seves capacitats de predicció per examinar l’afinitat de tots els fàrmacs aprovats per identificar aquells que tenen propietats antivíriques i antiinflamatòries, útils per combatre o mitigar els efectes del coronavirus.</p>
+
+
+
+<p>Així doncs, la Intel·ligència Artificial s’ha unit a la lluita contra una pandèmia que ens ha tancat a casa i ha paralitzat el frenètic ritme de vida del planeta. Per ara, però, el principal problema és que aquests sistemes necessiten una sèrie de dades que, o bé encara s&#8217;estan generant, o bé no resulten completament accessibles. Tot i que BlueDot va predir el brot deu dies abans que fos anunciat per l’OMS, empreses com aquesta no solen revelar a qui proporcionen la informació ni com l’utilitzen. A més, també és cert que sovint la publicitat entorn les capacitats de la IA supera la realitat. Confiar-hi massa podria provocar la presa de decisions incorrectes, tenint en compte que els algoritmes <a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">poden contenir biaixos i no ser infalibles</a>. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">847</post-id>	</item>
+		<item>
+		<title>Ètica per blanquejar la Intel·ligència Artificial</title>
+		<link>/2020/02/15/etica-inteligencia-artificial-maquillatge/</link>
+					<comments>/2020/02/15/etica-inteligencia-artificial-maquillatge/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 15 Feb 2020 00:31:19 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Filosofia]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Philosophy]]></category>
+		<guid isPermaLink="false">/?p=747</guid>
+
+					<description><![CDATA[La Unió Europea ultima una nova llei per regular l&#8217;IA: podrà esquivar la pressió dels lobbies tecnològics? Queden poc més de vint dies perquè la&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h3>La Unió Europea ultima una nova llei per regular l&#8217;IA: podrà esquivar la pressió dels <em>lobbies</em> tecnològics?</h3>
+
+
+
+<p>Queden poc més de vint dies perquè la nova presidenta de la Comissió Europea (CE), Ursula von der Leyen, compleixi una de les grans promeses: una regulació més dura per a l&#8217;ús de la Intel·ligència Artificial (IA) abans dels cent primers dies de mandat. <a rel="noreferrer noopener" aria-label="Segons Bloomberg, que va tenir accés a l'esborrany de la normativa (opens in a new tab)" href="https://www.bloomberg.com/news/articles/2020-01-16/europe-mulls-new-tougher-rules-for-artificial-intelligence" target="_blank">Segons Bloomberg, que va tenir accés a un esborrany de la normativa</a>, el braç executiu de la Unió Europea (UE) estudia noves obligacions per a les autoritats públiques amb relació a l&#8217;IA i, entre altres mesures, es planteja <a href="/2019/10/13/els-perills-del-reconeixement-facial/">la prohibició del reconeixement facial</a> durant cinc anys amb la finalitat de buscar solucions que rebaixin els riscos que comporta aquesta tecnologia.</p>
+
+
+
+<p>Segons Bloomberg, un portaveu de la CE va dir que la UE vol definir ara un projecte legislatiu propi, amb &#8220;perspectiva europea&#8221; i &#8220;humana&#8221;. O sigui, allunyada del camí que han seguit els Estats Units, la Xina o el Japó; els seus grans competidors en la cursa de les superpotències per liderar el camp de la Intel·ligència Artificial. Una regulació on l&#8217;ètica, la confiança i la seguretat dels ciutadans siguin al centre de l&#8217;estratègia.</p>
+
+
+
+<p>Però aquesta proposta normativa no és el primer que veurà la llum. A l&#8217;octubre del 2018, es va aprovar la Declaració sobre Ètica i Protecció de Dades en Intel·ligència Artificial, i a l&#8217;abril del 2019, un grup d’experts d’alt nivell de la Comissió Europea va fer públiques les seves Directrius Ètiques per a una IA Confiable (<em>Ethics Guidelines for Trustworthy AI</em>). Aquest projecte, però, no va convèncer a tothom. Ni tan sols a tots els experts que van firmar el document. </p>
+
+
+
+<h5>Veus crítiques</h5>
+
+
+
+<p>El 8 d&#8217;abril del 2019, un dels 52 membres de la comissió d&#8217;experts <a rel="noreferrer noopener" aria-label="va denunciar en un article allò que considerava un &quot;blanquejament ètic&quot; de les directrius (opens in a new tab)" href="https://www.tagesspiegel.de/politik/eu-guidelines-ethics-washing-made-in-europe/24195496.html" target="_blank">va denunciar en un article allò que considerava un &#8220;blanquejament ètic&#8221; de les directrius</a> que, en un principi, havien d&#8217;establir unes línies roges per a la Intel·ligència Artificial al vell continent. Així, Thomas Metzinger, professor de filosofia de la Universitat de Mainz, Alemanya, assegura a <em>Der Tagesspiegel</em> que &#8220;la història de la Intel·ligència Artificial confiable és una narrativa publicitària inventada per la indústria, un conte per anar a dormir per als clients del futur&#8221;.</p>
+
+
+
+<p>&#8220;El relat de la Intel·ligència Artificial de confiança pretén eixamplar els mercats futurs i utilitzar els debats sobre Ètica com un bell decorat públic per a una estratègia d’inversió a gran escala&#8221;, prosegueix Metzinger. Explica, a més, que la seva tasca a la comissió passava per desenvolupar els principis ètics no negociables sobre els usos de la IA a Europa -per exemple, l&#8217;<a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">ús d’armes automàtiques letals</a> o la puntuació social de ciutadans per part de l’Estat-, fins que l&#8217;expresident de Nokia i també membre del grup d&#8217;experts, Pekka Ala-Pietilä, li va demanar educadament que retirés l&#8217;expressió &#8220;no negociable&#8221; del document. Més tard, altres membres de la comissió i representants de la indústria, van insistir amb vehemència que s&#8217;eliminés del text el concepte de &#8220;línies roges&#8221; i que, com a molt, es parlés de &#8220;preocupacions crítiques&#8221;. I així s&#8217;hi va reflectir. </p>
+
+
+
+<p>&#8220;La indústria organitza i conrea debats ètics per adquirir temps, distreure el públic i evitar o endarrerir la regulació&#8221;, conclou Metzinger. Afegeix, en aquest sentit, que als polítics també solen constituir comitès d’ètica perquè &#8220;els dona un curs d’acció quan, en realitat, no saben què fer&#8221;. De la mateixa manera, el professor assenyala que Facebook va finançar un institut per formar ètics de l&#8217;IA, mentre Google va intentar constituir un marc ètic contractant els filòsofs Joanna Bryson i Luciano Floridi, essent aquest darrer membre del grup d&#8217;experts. Un fet que hauria pogut donar a Google la possibilitat de conèixer de primera mà les restriccions per a l&#8217;IA que es gestaven a la comissió.</p>
+
+
+
+<p>Tanmateix, la de Metzinger no va ser l&#8217;única veu que es va alçar. El desembre de l&#8217;any passat, <a rel="noreferrer noopener" aria-label="un exinvestigador del Massachusetts Institute of Technology (MIT) denunciava a The Intercept (opens in a new tab)" href="https://theintercept.com/2019/12/20/mit-ethical-ai-artificial-intelligence/?utm_source=The+Intercept+Newsletter&amp;utm_campaign=0277d72712-EMAIL_CAMPAIGN_2019_12_21&amp;utm_medium=email&amp;utm_term=0_e00a5122d3-0277d72712-129874945" target="_blank">un exinvestigador del Massachusetts Institute of Technology (MIT), Rodrigo Ochigame, denunciava a The Intercept</a> que Silicon Valley pagava estudis sobre ètica de la Intel·ligència Artificial per impedir la seva regulació i que, per tant, la recerca esdevenia una &#8220;tapadora&#8221; destinada a &#8220;blanquejar&#8221; aquesta tecnologia. </p>
+
+
+
+<h5>La intrusió dels gegants</h5>
+
+
+
+<p>Ochigame assegura que la majoria dels treballs finançats al voltant de la recerca en Intel·ligència Artificial Ètica &#8220;està aliniada estratègicament amb el <em>lobby</em> tecnològic que busca evitar restriccions per al desplegament de tecnologies controvertides&#8221;. En aquest sentit, l&#8217;exinvestigador esmenta les grans empreses que han abanderat uns principis ètics basats en estudis desenvolupats i finançats pel MIT i altres universitats punteres que van rebre diners de la indústria de la tecnologia per treballar en aquest camp.</p>
+
+
+
+<p>L&#8217;exestudiant també revela els vincles entre les grans tecnològiques i els instituts de recerca en l&#8217;àmbit de l&#8217;Ètica. Així, per exemple, Ochigame escriu que &#8220;el <em>Data &amp; Society Research Institute</em> està dirigit per un investigador de Microsoft i finançat inicialment per una subvenció Microsoft; l&#8217;<em>AI Institute</em> de la Universitat de Nova York va ser cofundat per un altre investigador de Microsoft i parcialment finançat per Microsoft, Google i DeepMind; l&#8217;<em>Stanford Institute for Human-Centered AI</em> està codirigit per un exvicepresident de Google; a la Universitat de Califòrnia, la divisió de Ciències de les Dades de Berkeley està encapçalada per un veterà de Microsoft; i el <em>MIT Schwarzman College of Computing</em> està dirigit per un membre del consell d&#8217;Amazon&#8221;. </p>
+
+
+
+<p>Ochigame hi afegeix que el camp de l&#8217;Ètica també s&#8217;ha fet important per a l&#8217;exèrcit nord-americà, no només pel que fa a les <a rel="noreferrer noopener" aria-label="preocupacions sobre armes autònomes letals (opens in a new tab)" href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/" target="_blank">preocupacions sobre les polèmiques armes autònomes letals</a>, sinó també pel que fa a les <a href="/2019/10/30/microsoft-pren-a-amazon-els-secrets-de-lexercit-nordamerica/">disputes entre empreses de Silicon Valley sobre certs contractes militars altament lucratius</a>. L&#8217;1 de novembre, el Consell d&#8217;Innovació del Departament de Defensa va publicar les seves recomanacions sobre Principis Ètics de l&#8217;IA. L&#8217;exinvestigador assenyala que el consell està dirigit per Eric Schmidt, que era el president executiu d&#8217;Alphabet, la matriu de Google.</p>
+
+
+
+<h5>Preguntes sense resposta</h5>
+
+
+
+<p>Qui decideix quan s’ha d’utilitzar IA, amb quines finalitats, i qui i com la desenvolupa? Aquestes són les preguntes que han de marcar una via ètica independent, segons <a rel="noreferrer noopener" href="https://algorithmwatch.org/wp-content/uploads/2019/01/Automating_Society_Report_2019.pdf" target="_blank">l&#8217;informe <em>Automating Society</em> d&#8217;Algorithm Watch</a>, i que el Parlament Europeu va recolzar quan subratllava la importància d&#8217;una mirada social, moral i responsable en el desplegament de la Intel·ligència Artificial. I aquesta és la línia pròpia que la Comissió Europea s&#8217;ha plantejat empènyer. Però&#8230; es prendrà l&#8217;ètica seriosament, Europa? O caldrà esperar més per a això (quan potser sigui massa tard)?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/15/etica-inteligencia-artificial-maquillatge/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">747</post-id>	</item>
+		<item>
+		<title>Intel·ligència Artificial: dilemes ètics del 2020</title>
+		<link>/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/</link>
+					<comments>/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/#comments</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 03 Jan 2020 22:23:18 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Algorismes]]></category>
+		<category><![CDATA[Aprenentatge Profund]]></category>
+		<category><![CDATA[Armes autònomes letals]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Deep Fakes]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Lethal autonomous weapon]]></category>
+		<category><![CDATA[Military robots]]></category>
+		<category><![CDATA[Robots sexuals]]></category>
+		<category><![CDATA[Robots soldat]]></category>
+		<category><![CDATA[Sexual robots]]></category>
+		<guid isPermaLink="false">/?p=568</guid>
+
+					<description><![CDATA[On ens durà enguany, la Intel·ligència Artificial? Ningú en sap del cert la resposta. Però nosaltres tenim clars els dubtes essencials.]]></description>
+										<content:encoded><![CDATA[
+<p>El meteòric ascens de la Intel·ligència Artificial (IA) durant el 2019 és fruit del seu enorme potencial per a fer-nos, teòricament, l’existència més fàcil. Ja és normal desbloquejar el mòbil amb reconeixement facial, deixar-se guiar per un assistent virtual, veure anuncis personalitzats i escoltar música seguint els consells d&#8217;un algoritme. Acaba la dècada amb la certesa que la nostra vida quotidiana està cada cop més vinculada a l&#8217;aprenentatge de les màquines que, dia a dia, minut a minut, penetra als àmbits més sensibles com les relacions humanes, la salut, la criminalitat, la sexualitat, l&#8217;educació i fins i tot els conflictes armats. On ens durà enguany, la Intel·ligència Artificial? Ningú en sap del cert la resposta, però tenim clars els interrogants.</p>
+
+
+
+<p class="has-large-font-size"><strong>La guerra intel·ligent</strong></p>
+
+
+
+<p>Fa dos anys,<a href="https://www.theguardian.com/technology/2017/aug/20/elon-musk-killer-robots-experts-outright-ban-lethal-autonomous-weapons-war" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)"> 116 experts en el camp de la Intel·ligència Artificial reclamaven a les Nacions Unides</a> que prohibís l&#8217;ús de <strong>robots soldat</strong>. En una carta advertien que &#8220;les <strong>armes autònomes letals</strong> -o sigui, armes que es disparen soles- fan possible que un conflicte armat es lliuri a una escala més gran que mai, i a intervals de temps tan ràpids que ni els humans podran comprendre&#8221;. La majoria d&#8217;Estats membres han recolzat públicament la prohibició del robot assassí. Tot i així, actualment s&#8217;oposen a vetar-los el<a href="https://www.theguardian.com/science/2019/mar/29/uk-us-russia-opposing-killer-robot-ban-un-ai" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)"> Regne Unit, Israel, Austràlia, Rússia, Corea del Sud o els Estats Units</a>. Dotzenes de<a href="https://www.technologyreview.com/s/614488/why-remote-war-is-bad-war/"> startups privades venen el mite de la guerra intel·ligent</a> i als seus laboratoris s&#8217;inventen noves formes més netes i eficaces de matar. <a href="https://www.ara.cat/internacional/Iran-promet-venjanca-atac-nord-america_0_2373962741.html" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">L’assassinat, aquest divendres, del general iranià Soleimani, amb quatre míssils</a> disparats des d’un dron nord-americà, és una prova més d’aquest procés.&nbsp;</p>
+
+
+
+<p>Actualment, el cap d&#8217;Intel·ligència Artificial del Pentàgon, Jack Shanahan, descarta per ara l&#8217;ús de soldats robot. Tot i així, Shanahan vol que l&#8217;IA ocupi un paper central en la lluita bèl·lica i<a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.wired.com/story/pentagon-ai-chief-prepares-for-battle/" target="_blank"> l&#8217;Exèrcit ha estat provant el desembre una torreta automatitzada</a>. Mentrestant, la Marina planeja fer servir vaixells no tripulats. Abans d&#8217;assumir el seu càrrec actual, Shahanan dirigia el Projecte Maven, que té com a objectiu desenvolupar drons intel·ligents per detectar les forces enemigues. Segons la revista Wired, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.wired.com/story/pentagon-ai-chief-prepares-for-battle/" target="_blank">el Pentàgon vol gastar-s&#8217;hi al voltant de 4.000 milions de dòlars</a> durant l&#8217;exercici del 2020.</p>
+
+
+
+<p>Una cosa queda clara: el govern nord-americà somia amb un exèrcit que utilitzi l&#8217;IA per moure&#8217;s més ràpid al camp de batalla. Però la integració militar de l&#8217;<a rel="noreferrer noopener" aria-label="aprenentatge automàtic (opens in a new tab)" href="https://www.termcat.cat/ca/cercaterm/fitxa/MzcwMTQyMA==" target="_blank">aprenentatge automàtic</a> (<em>Machine Learning</em>) planteja molts dubtes. L&#8217;armament intel·ligent permet eixamplar la distància moral amb una escena bèl·lica, fent menys incòmoda la veritat: que en una guerra s’hi maten persones. </p>
+
+
+
+<p class="has-large-font-size"><strong>Robots sexuals</strong></p>
+
+
+
+<p>L&#8217;IA també ha entrat per la porta gran del negoci del sexe. Els robots sexuals intel·ligents ja no són ciència ficció i <em>Sex dolls</em>,<a href="https://www.sexdolls.com/with-artificial-intelligence/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)"> una empresa que distribueix nines sexuals intel·ligents</a>, assegura que &#8220;poden calibrar-se fàcilment per fer quasi totes les funcions imaginables&#8221;. A més, explica que també disposen de sensors integrats a les seves mans, als genitals, a la cara i als pits: &#8220;Això permet que el robot pugui sentir quan el toqueu&#8221;. Fins i tot poden suar, gemegar i lubricar-se, segons l&#8217;empresa. A més, les nines poden integrar-se amb la vida quotidiana i, tal com diu la companyia, ofereixen diferents modes: familiar, romàntic o sexy.</p>
+
+
+
+<p>La introducció de la tecnologia en les relacions sexuals no és cap novetat, però aquesta vegada el realisme de l&#8217;objecte marca la diferència. Alguns autors fins i tot han plantejat obrir un debat sobre els drets dels robots, com a éssers simbòlics i semblants als humans. Mentrestant, altres defensen que l&#8217;ús dels ninots sexuals intel·ligents no va més enllà d&#8217;una masturbació assistida. Ara bé, els grans problemes arriben quan aquests robots -realistes- perpetuen els estereotips de gènere: potencien els clixés? O -encara pitjor- si els robots s&#8217;assemblen a menors d&#8217;edat: afavoreixen les conductes pedòfiles? Per altra banda, poden contribuir en la cosificació de la dona i, per tant, normalitzar la cultura de la violació. Com influeix allò simbòlic, com el físic d&#8217;un androide, en el món real?</p>
+
+
+
+<p class="has-large-font-size"><strong>Generació d&#8217;informació massiva</strong></p>
+
+
+
+<p>Durant els darrers anys hi ha hagut una explosió de &#8216;papers&#8217; sobre les Xarxes Generatives Adversàries (també anomenades GAN, segons les sigles de <em>Generative Adversarial Network</em>), que utilitzen l&#8217;<a rel="noreferrer noopener" aria-label="aprenentatge profund (opens in a new tab)" href="https://www.termcat.cat/ca/cercaterm/fitxa/MzcwMTQyMQ==" target="_blank">aprenentatge profund</a> (<em>Deep Learning</em>) per generar imatges, vídeos o àudios hiperrealistes de manera totalment artificial.</p>
+
+
+
+<p>Els GAN, en alguns casos, persegueixen fins inofensius, com rejovenir actors de cinema o fer vídeos còmics, però també poden utilitzar-se per a<a href="/2019/11/13/equipo-e-deepfake-desinformacio/"> generar els anomenats <em>Deepfakes</em>,</a> sovint falsificacions malintencionades amb conseqüències preocupants. Artistes com Scarlett Johansson o Katy Perry foren víctimes d&#8217;una sèrie de vídeos pornogràfics falsos que circularen el 2019 per Internet. Però els <em>Deepfakes</em> també podrien servir per implicar algú en un crim que no ha comès, falsejar notícies o manipular l&#8217;opinió pública durant unes eleccions. La polèmica va inundar les xarxes socials quan Obama va deixar anar que “el president Trump és totalment idiota”. Una afirmació que, en realitat, mai va fer.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="You Won’t Believe What Obama Says In This Video! &#x1f609;" width="1160" height="653" src="https://www.youtube.com/embed/cQ54GDm1eL0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Més enllà de les imatges,<a href="/2019/11/12/openai-allibera-un-generador-intelligent-de-text-que-considerava-massa-perillos/"> els generadors de textos intel·ligents també penetren al mercat</a>. El nivell de sofisticació d&#8217;alguns sistemes és tan gran que <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.digitaltrends.com/cool-tech/japanese-ai-writes-novel-passes-first-round-nationanl-literary-prize/" target="_blank">ja hi ha hagut polèmica per l’ús d’IA en la redacció d’un text presentat a un concurs de literatura</a>. Durant la propera dècada, el futur del periodisme o la redacció de continguts -sobretot les branques menys creatives- es desdibuixa i planteja encara més dubtes.</p>
+
+
+
+<p>També és possible crear Deepfakes d&#8217;àudio, que obren horitzons igual d&#8217;inquietants. A través d&#8217;aquest sistema, <a href="https://www.wsj.com/articles/fraudsters-use-ai-to-mimic-ceos-voice-in-unusual-cybercrime-case-11567157402" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">uns estafadors van falsificar la veu d&#8217;un executiu en una trucada de telèfon</a>, aconseguint robar 243.000 dòlars a través d&#8217;un empleat que pensava que rebia instruccions del director de l&#8217;empresa.</p>
+
+
+
+<p>Existeix algun sistema fiable per detectar els àudios, vídeos i textos manipulats? La investigació es desplega a les millors universitats i als departaments de recerca de les grans empreses tecnològiques i, tanmateix, els algoritmes de detecció encara no són capaços d&#8217;enxampar les falsificacions de manera immediata. De fet, Facebook va admetre el setembre que <a href="https://ai.facebook.com/blog/deepfake-detection-challenge" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">no era capaç d’identificar els <em>Deepfakes</em> més sofisticats</a> perquè la tecnologia que els produeix millora massa ràpid. En un esforç per combatre la proliferació dels vídeos enganyosos, Facebook, Microsoft i acadèmics de les universitats més punteres, com la d&#8217;Oxford o el MIT, encapçalen el &#8216;<a href="https://venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Deepfake Challenge</a>&#8216; per impulsar la investigació i assegurar el desenvolupament d&#8217;eines de codi obert per la detecció de vídeos sintètics. La companyia de Mark Zukerberg ha destinat més de 10 milions de dòlars per animar a la participació: un senyal del valor de l&#8217;operació.</p>
+
+
+
+<p class="has-large-font-size"><strong>Màquines que treballen</strong></p>
+
+
+
+<p>El 2020, hi haurà molts àmbits professionals on s’aplicarà l&#8217;IA per primer cop. Els supermercats i les petites botigues comencen a implementar sistemes de predicció de demanda, segons les dades d&#8217;allò que van vendre en determinada data. La Intel·ligència Artificial revolucionarà la logística de les empreses, i ho farà també amb l’educació, la justícia i la medicina.</p>
+
+
+
+<p>Els metges s&#8217;estan bolcant en l’aprenentatge automàtic per recolzar la presa de certes decisions. Aquest nou any, ajudarà a molts professionals sanitaris a fer diagnòstics de malalties de manera automàtica. De fet, <a href="https://www.ccma.cat/324/un-sistema-dintelligencia-artificial-millora-la-deteccio-precoc-de-cancer-de-mama/noticia/2976182/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">un programa informàtic ja pot diagnosticar càncer de mama</a> de manera més acurada, eficient i ràpida que un oncòleg a partir d’una mamografia. Algunes teràpies conductuals basades en els <em>smartphones</em> ofereixen la promesa de tractar la depressió, els transtorns alimentaris o l&#8217;abús d&#8217;alguns fàrmacs.</p>
+
+
+
+<p>Per altra banda, a les presons catalanes ja fa una dècada que es fan servir algoritmes de presa de decisions per calcular les possibilitats de reincidència dels que surten en llibertat. L&#8217;IA també pot ser utilitzada per predir crims. <a href="https://www.cio.com/article/3401401/can-crime-be-predicted-with-ai-ml.html" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">L&#8217;anomenada &#8216;policia predictiva&#8217; és capaç d&#8217;identificar la data, l&#8217;hora i l&#8217;ubicació en què és més probable que es produeixin certs delictes</a>, per tal que els agents prioritzin aquestes zones i franges temporals. A més, després d&#8217;unes quantes investigacions, els models analítics predictius s&#8217;han perfeccionat molt i de ben segur que seran utilitzats ben aviat a casa nostra. </p>
+
+
+
+<p>En l&#8217;àmbit educatiu, algunes facultats estan començant a guardar les dades acadèmiques i no acadèmiques dels estudiants. Sistemes d&#8217;IA són utilitzats per desenvolupar un perfil d&#8217;aprenentatge personalitzat en funció de la capacitat, l&#8217;experiència i la modalitat preferida d&#8217;estudi.<a href="https://www.forbes.com/sites/cognitiveworld/2019/07/12/ai-applications-in-education/#246ec87d62a3"> Els educadors comencen a utilitzar els assistents de veu</a> com l&#8217;Amazon Alexa, Google Home o Apple Siri, que permeten als estudiants interactuar amb material educatiu sense la intervenció del professor. Utilitzar sistemes intel·ligents a escoles i instituts pot incrementar l&#8217;eficiència de moltes institucions educatives i abaixar els costos.</p>
+
+
+
+<p class="has-large-font-size"><strong>Biaixos i caixes negres</strong></p>
+
+
+
+<p>De moment, però, els sistemes l&#8217;IA no són perfectes i poden cometre errors. Greus. Si un ordinador s&#8217;entrena amb un conjunt de dades suficient i fiable, els resultats poden ser de gran ajuda. Però, en canvi, si s&#8217;alimenta amb informació deficient i esbiaixada, o el sistema no es programa adequadament, els resultats poden conduir a l&#8217;equívoc o, en el pitjor dels casos, a la discriminació i a la desigualtat. Algunes investigacions han destapat que certs sistemes per predir la reincidència dels presos<a href="/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/"> tendien a assignar riscos molt més elevats a les persones de pell fosca que a les de pell blanca</a>. Quin és el problema? Si les dades que alimenten un algoritme contenen una representació esbiaixada de la realitat, les prediccions de l’algoritme predictiu reproduiran el mateix biaix.</p>
+
+
+
+<p>Un altre gran escull dels sistemes intel·ligents és allò que es coneix com el problema de la &#8216;caixa negra&#8217;: quan l&#8217;IA pren decisions que cap ésser humà pot explicar. Abans podiem rastrejar les resolucions que una màquina adoptava gràcies a un determinat codi. Però ara, els enfocaments complexos de l&#8217;aprenentatge automàtic poden fer que la presa de decisions automatitzada sigui completament inescrutable. La Intel·ligència Artificial aprèn per sí mateixa i genera respostes i decisions que l&#8217;intel·lecte humà mai podrà concebre, a velocitats fora del nostre abast.</p>
+
+
+
+<p>El 2015, un grup de recerca d&#8217;un hospital de Nova York va aplicar l&#8217;aprenentatge profund a la seva base de dades (de 700.000 registres de pacients). El sistema va descobrir patrons ocults en les dades que semblaven anticipar sorprenentment bé l&#8217;aparició de trastorns psiquiàtrics com l&#8217;esquizofrènia, que és molt difícil de predir. El coordinador de l&#8217;equip mèdic es pregunta com és possible, i encara no ho sap.</p>
+
+
+
+<p>El problema de la caixa negra és més perillós en l&#8217;àmbit de la Defensa, per exemple. Per això, correspon a les administracions públiques buscar assessorament expert independent i ser transparents en les seves polítiques i la presa de decisions, de manera que les comunitats puguin tenir confiança en què la tecnologia no oferirà resultats esbiaixiats o vulnerarà la sobirania dels professionals de carn i ossos.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">568</post-id>	</item>
+		<item>
+		<title>Algoritmes esbiaixats: màquines que no fan justícia</title>
+		<link>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/</link>
+					<comments>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/#respond</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2019 12:22:37 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Algorithm]]></category>
+		<category><![CDATA[Algoritme]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Aprenentatge Automàtic]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Salut]]></category>
+		<category><![CDATA[Tinder]]></category>
+		<guid isPermaLink="false">/?p=297</guid>
+
+					<description><![CDATA[Florida, 2014. Una tarda de primavera, Brisha Borden i un amiga, totes dues de 18 anys, roben una bici i un patinet. En plena fugida,&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Florida, 2014. Una tarda de primavera, Brisha Borden i un amiga, totes dues de 18 anys, roben una bici i un patinet. En plena fugida, s’adonen que són massa grans per conduir els vehicles, que pertanyen a un nen de sis anys. La policia les arresta i les acusa de robar uns objectes valorats en 80 dòlars. A l’estiu anterior, Vernon Prater, de 41 anys, és detingut per robar a una botiga diversos articles que sumen 86,35 dòlars. Està en cerca i captura i ja ha passat cinc anys a la presó per robatori armat i dos delictes més. A la presó, un sistema informàtic anomenat COMPAS* puntua la probabilitat de reincidència dels reclusos. A Borden, de pell negra, li atribueix un risc elevat i a Prater, de pell blanca, un risc baix. Dos anys després, es descobreix que l’algoritme predictiu no l’ha encertada: Borden no ha comès cap altra infracció, mentre Prater compleix una pena de vuit anys de presó per un altre robatori.</p>
+
+
+
+<p>Aquest no és un cas aïllat. Dos anys després d’aquests fets, <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">una investigació de Propublica va demostrar</a> que el sistema tendia a assignar riscos molt més elevats a les persones de pell fosca que a les de pell blanca. Era el resultat d’allò que es coneix com a biaix predictiu; en aquest cas, racista.</p>
+
+
+
+<h2>D’on surt aquest biaix?</h2>
+
+
+
+<p>L&#8217;origen s’amaga en els principis més bàsics dels algoritmes predictius, també anomenats d’Aprenentatge Automàtic (Machine Learning, en anglès). Aquests algoritmes, actualment tant habituals, es basen en una anàlisis estadística de dades històriques, a partir de les quals s’extreuen patrons que més endavant serveixen per fer prediccions sobre noves dades. Com a conseqüència, si aquestes dades històriques contenen una representació esbiaixada de la realitat, les prediccions de l’algoritme predictiu reproduiran el mateix biaix.</p>
+
+
+
+<p>Però això no és tot. L’estudi de Propublica va demostrar que la diferència a l’hora d’avaluar persones de colors diferents no s&#8217;explicava només per unes dades històricament esbiaixades, sinó que l&#8217;algoritme tendia a equivocar-se de manera diferent en funció de si examinava persones de pell negra o de pell blanca. Així, COMPAS va atribuir el doble de vegades un risc erròniament alt de reincidència als presos de pell negra; mentre va assignar un risc erròniament baix a molts més reclusos de pell blanca. Per tant, en aquest cas, la Intel·ligència Artificial no ajudava a mitigar les diferències racials inherents a les dades històriques, sinó que encara les potenciava més.</p>
+
+
+
+<p>Per què? Propublica ressaltava que COMPAS no preguntava la raça del pres per formar l’algoritme. No obstant això, les variables que utilitzava per obtenir informació eren 137 preguntes personals sobre el detingut i el seu entorn, com “Els teus amics o familiars formen part de bandes criminals?” o “Has provat l&#8217;heroïna?”. Però el problema és que, als Estats Units, les diferències socials entre els col·lectius racials són prou importants com perquè es vegin reflectides en aquest tipus de respostes. Així, si s&#8217;evités proporcionar a l&#8217;algoritme dades que permeten deduir el color de pell, es quedaria sense informació per a fer prediccions amb precisió.</p>
+
+
+
+<h2>Conseqüències en el treball, en la salut, en l’amor</h2>
+
+
+
+<p>El cas de COMPAS no és una excepció, ja que els biaixos predictius són un fenomen inherent als algoritmes d’Intel·ligència Artificial, que són cada dia més freqüents al nostre entorn. </p>
+
+
+
+<p>El 2014, <a href="https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G?utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz--y-ycxgaCuFg_VJZNKEV72YYe72ryGDwDcZmF4qpvJJsCrmqY2DqHNktpSZD4K2U0Vk-Ri">Amazon va desenvolupar una eina intel·ligent per reclutar els millors treballadors</a>. Un any més tard, la multinacional va adonar-se que als llocs tècnics no hi havia cap dona. La companyia va abandonar l’eina després que una auditoria interna trobés que els candidats homes havien obtingut més puntuació que les dones. Per què? <a href="https://medium.com/think-by-shifta/por-qu%C3%A9-la-inteligencia-artificial-discrimina-a-las-mujeres-18b123ecca4c">Tal com expliquen Karma Peiró i Ricardo Baeza-Yates a Medium</a>, les dades massives que serviren per nodrir l’algoritme de sel·lecció de personal es basaven en currículums rebuts durant l&#8217;última dècada, quan amb prou feines hi havia dones programadores. Quan el sistema automàtic detectava la paraula “dona” o un sinònim, la penalitzava i puntuava més baix.</p>
+
+
+
+<p>En l’àmbit sanitari, als Estats Units s’utilitzen algoritmes per guiar algunes decisions mèdiques. El 25 d’octubre, <a href="https://science.sciencemag.org/content/366/6464/447.full?utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz--y-ycxgaCuFg_VJZNKEV72YYe72ryGDwDcZmF4qpvJJsCrmqY2DqHNktpSZD4K2U0Vk-Ri">la revista Science explicava que els models utilitzats per assignar cures</a> als 100 milions de pacients nordamericans que pateixen malalties cròniques, com atacs de cor o diabetis, prioritzaven els pacients blancs en detriment dels negres, i rebien abans una assistència mèdica urgent.</p>
+
+
+
+<p>Al llibre El Algoritmo del Amor, Judith Duportail explica que <a href="https://www.arabalears.cat/cultura/Tinder-construir-parelles-desiguals_0_2285171474.html">l’algoritme de Tinder classifica els usuaris segons la bellesa, el gènere, els estudis i la classe social</a>. Duportail sosté que els homes amb més ingressos i nivell d’estudis tenen una gratificació i, en canvi, a les dones amb els mateixos atributs se les penalitza. Per això, considera que Tinder vol construir parelles desiguals en què l’home sempre sigui superior: amb més estudis, més ingressos i més edat. Com s&#8217;explica això? Per una banda, l’algoritme és el resultat d’una compilació de dades que ha tingut lloc dins una societat masclista i, per l’altra banda, segons l’autora del llibre, els programadors de l’aplicació han introduït els seus propis biaixos dins el programari. Com trencar aquest cercle viciós?</p>
+
+
+
+<h2>Algunes solucions</h2>
+
+
+
+<p>El <a href="https://fedit.com/2017/09/proyecto-fair-un-algoritmo-para-evitar-discriminaciones-en-la-busqueda-de-trabajo-o-de-pareja/">Centre Tecnològic Eurecat, de la mà de la Universitat Pompeu Fabra (UPF) i la Universitat Tècnica de Berlín</a>, ha creat un algoritme, anomenat FA*IR, per evitar la discriminació per raons de gènere, procedència o aparença física en cercadors de feina o de parella. FA*IR detecta els biaixos i els corregeix incorporant un mecanisme per a reordenar els resultats sense afectar la validesa del rànquing. <a href="https://www.upf.edu/recercaupf/-/asset_publisher/RVNxhLpxnc9g/content/id/226511859/maximized">Des de l’UPF, a més, proposen utilitzar els algoritmes de manera crítica</a> i en col·laboració amb experts de l’àrea que correspongui.</p>
+
+
+
+<p>Rachel Thomas, directora del Centre d’Ètica Aplicada a les Dades de la Universitat de San Francisco, recomana que cada conjunt de dades es presenti amb un document on s’hi descrigui com es va compilar. També aconsella especificar-hi qualsevol preocupació ètica o legal que hagi pogut sorgir durant el procés. Suggereix, tanmateix, que els equips incloguin gent diversa capaç d’advertir els diferents biaixos.</p>
+
+
+
+<p>El 2017, l’<a href="https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf">Associació de Maquinària Informàtica (ACM) publicà un manifest</a> en defensa de la transparència algorítimica i va establir set principis:</p>
+
+
+
+<ol><li>Consciència. Els creadors d’aquests sistemes han de ser conscients de la possibilitat que hi hagi biaixos en el seu disseny, implementació i ús.</li><li>Accés. Els reguladors han d’afavorir l’introducció de mecanismes perquè els individus i grups negativament afectats per decisions algorítmiques puguin qüestionar-les i rectificar-les.</li><li>Passar comptes. Les institucions han de ser responsables de les decisions de l’algoritme, encara que no puguin detallar com s’han pres.</li><li>Explicació. Les institucions que empren sistemes intel·ligents han de promoure la producció d’explicacions sobre els procediments i les decisions específiques que s’hi prenen.</li><li>Procedència de les dades. Les dades emprades per a l’entrenament han d’anar acompanyades d’una descripció del seu origen.</li><li>Auditabilitat. Models, dades i decisions han de quedar registrats perquè puguin auditar-se quan se sospita d’algun error.</li><li>Validació i proves. Les institucions han de fer proves rutinàries per a avaluar i determinar si el model genera discriminació.</li></ol>
+
+
+
+<h2>Encara queda molt per fer</h2>
+
+
+
+<p>Malgrat els esforços, els biaixos algoritmics són entre els grans problemes de la comunitat científica. En alguns casos, les dades sovint reflecteixen diferències no atribuïbles a biaixos, sinó que són resultat d’una descripció objectiva de la realitat i no té sentit corregir-los. A vegades, però, aquests contrastos són producte de certes diferències històriques que cal pal·liar per construir una societat més justa. Tot plegat requereix una feina complexa però necessària per redefinir com conceptualitzem el món i, en conseqüència, com obtenim les dades. Al mateix temps, és urgent introduir l&#8217;Ètica a l&#8217;hora d&#8217;entrenar models intel·ligents que, de ben segur, tindran un gran impacte social.</p>
+
+
+
+<h5>Notes:</h5>
+
+
+
+<p class="has-small-font-size">*COMPAS és l&#8217;acrònim de Correctional Offender Management Profiling for Alternative Sanctions, que en català es tradueix com a Perfilat per la Gestió Correctiva d&#8217;Infractors per Sancions Alternatives.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">297</post-id>	</item>
+		<item>
+		<title>La tecnologia que pot transformar l&#8217;activisme</title>
+		<link>/2019/10/22/tecnologia-transforma-activisme/</link>
+					<comments>/2019/10/22/tecnologia-transforma-activisme/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Mon, 21 Oct 2019 22:07:49 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Activisme]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Tsunami Democràtic]]></category>
+		<guid isPermaLink="false">/?p=101</guid>
+
+					<description><![CDATA[Totes les lluites socials es materialitzen a la xarxa. Però el Tsunami Democràtic fa un pas més amb una app que té el món expectant.&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Totes les lluites socials es materialitzen a la xarxa. Però el Tsunami Democràtic fa un pas més amb una app que té el món expectant. No per allò que ha fet, sinó més aviat per allò que pot fer. Ni assemblees presencials, ni torns de paraula en cua, ni votacions in situ, ni encartellades amb cola i escombra: tota acció del Tsunami és orquestrada en línia. És un moviment sense rostre que actua i s’expressa a través d’eines tecnològiques que desafien la repressió i la censura, i amb un insòlit poder de convocatòria. Alguns especialistes creuen que l&#8217;aplicació pot ser una eina revolucionària per a la democràcia participativa i una de les seves pedres angulars: la desobediència civil.</p>
+
+
+
+<p>La famosa app encara no ha arrencat i, tot i així, el 16 d&#8217;octubre ja se l’havíen descarregada més de 270.000 persones i s&#8217;havien fet 15.000 activacions amb èxit. Una xifra que no va aturar de créixer durant els dies posteriors, igual que ho va fer el compte de Twitter -que ja té 203.200 seguidors- i el canal de Telegram -amb 370.100 subscriptors-. Just després que trancendís la sentència, a la una del migdia, el Tsunami convocava una mobilització a l’aeroport. Al vespre, ja s’hi havien congregat milers de persones per col·lapsar als accessos a la terminal 1. El 18 d&#8217;octubre, un jutge decretava el tancament del web del Tsunami Democràtic, ara investigat per terrorisme. Tot i així, una gran quantitat de gent ha decidit que els fa cas perquè els sembla raonable allò que proposa i perquè, des de l&#8217;inici, ha comptat amb el suport públic del president Quim Torra, el vicepresident Pere Aragonès i el president del Parlament, Roger Torrent. </p>
+
+
+
+<h5>1. Insòlit poder de convocatòria</h5>
+
+
+
+<p>Les xarxes i els canals de missatgeria, com Telegram, han permès respostes massives. Unes reaccions que l&#8217;app del Tsunami pot continuar potenciant. Quan t&#8217;instal·les l&#8217;aplicació, se&#8217;t demana la geolocalització i quan estàs disponible per protestar. D&#8217;aquesta manera, els administradors poden saber quan i on mobilitzar la gent i enviar unes notificacions o unes altres segons l&#8217;ubicació física. Això els fa possible convocar unes manifestacions espontànies multitudinàries. L&#8217;app també demana als usuaris la seva intenció de participar en una acció propera, de manera que es pot preveure l&#8217;assistència amb antelació. Igualment, com que l&#8217;aplicació et permet registrar quan arribes al punt de trobada, els administradors poden fer el seguiment de la participació en temps real. Una gran eina per coordinar les accions o el naixement de la revolta com a servei?</p>
+
+
+
+<h5>2. Lideratge anònim </h5>
+
+
+
+<p>Els líders del Tsunami no són visibles i, com passa cada cop més sovint amb els moviments socials, la seva presència és exclusivament digital. En aquest cas, però, els administradors s&#8217;amaguen rere l&#8217;anonimat per evitar un procés judicial com el de l&#8217;exlíder de l&#8217;ANC Jordi Sànchez i el president d&#8217;Òmnium Cultural, Jordi Cuixart. A nivell intern, funcionen com un motor en què cada peça sap quina és la seva tasca i es coordina amb les altres, treballant en compartiments estancs i intentant protegir el màxim la identitat dels seus components, fins i tot entre ells. </p>
+
+
+
+<h5>3. Evita infiltrats</h5>
+
+
+
+<p>L&#8217;app està dissenyada expressament per evitar infiltrats. Igual que a l&#8217;1 d&#8217;Octubre, el Tsunami ha creat una xarxa de comunicació xifrada i descentralitzada per distribuir les diferents accions en el territori. D&#8217;aquesta manera, com que l&#8217;app utilitza tecnologia de geolocalització per coordinar l’activitat, les persones es poden organitzar en “cèl·lules” geogràfiques i els manifestants només poden veure accions que es desenvolupen en un determinat radi, evitant que la informació surti a la xarxa i limitant allò que pot descobrir un infiltrat, que només tindria accés a una part molt petita de les convocatòries. </p>
+
+
+
+<h5>4. Esquiva la censura</h5>
+
+
+
+<p>L&#8217;aplicació tampoc no està disponible al Play Store d&#8217;Android ni a l&#8217;App Store d&#8217;Apple. Així, es pretén esquivar el veto de les empreses tecnològiques per la pressió del govern, <a rel="noreferrer noopener" aria-label="com va passar a Hong Kong (s'obre en una nova pestanya)" href="https://www.lavanguardia.com/internacional/20191010/47889999197/apple-elimina-app-seguimiento-policia-hong-kong.html" target="_blank">com va passar a Hong Kong</a>. En aquest sentit, Telegram també és una eina útil: Putin la va bloquejar a Rússia perquè el seu director es va negar a col·laborar amb els serveis secrets. Ara bé, hi confiarà la gent amb una aplicació que s&#8217;ha d&#8217;instal·lar manualment?</p>
+
+
+
+<h5>5. Xarxa de confiança</h5>
+
+
+
+<p>L’aplicació està elaborada amb Retroshare, un programari de lliure accés que s’utilitza per crear xarxes xifrades d’amic a amic, en què els usuaris només entren en contacte amb persones que coneixen personalment. En aquesta xarxa, els usuaris només intercanvien dades amb els seus amics connectats, mentre es manté l&#8217;anonimat entre els que no són amics. Tot això s&#8217;aconsegueix amb l&#8217;intercanvi presencial de claus, com són els codis QR, i sense l&#8217;intervenció d&#8217;un servidor central.</p>
+
+
+
+<h5>6. Cap a la democràcia digital?</h5>
+
+
+
+<p><a rel="noreferrer noopener" aria-label="Alguns experts veuen en l'app del Tsunami (s'obre en una nova pestanya)" href="https://techcrunch.com/2019/10/17/catalan-separatists-have-tooled-up-with-a-decentralized-app-for-civil-disobedience/" target="_blank">Alguns experts veuen en l&#8217;app del Tsunami</a> una estructura que fa possible una forma més democràtica de participació de base. Ara, un manifestant pot optar per seguir les instruccions per a una acció orientada, però també pot respondre i rebre comentaris, participant en les decisions. De fet, si l&#8217;aplicació aconsegueix sostenir l’acció i implicar els ciutadans a llarg termini, allò que volen els creadors és que pugui servir per altres causes on, gràcies a la tecnologia, les persones esdevinguin nodes de dades amb capacitat de rebre i transmetre informació. </p>
+
+
+
+<h5>7. Els artífexs: una &#8220;elit tecnològica&#8221;</h5>
+
+
+
+<p>Enric Luján, professor de Ciència Política especialitzat en tecnologia de la Universitat de Barcelona i membre del grup Críptica, opina que les solucions tecnològiques del Tsunami les desenvolupa <a rel="noreferrer noopener" aria-label="una &quot;elit tècnica clandestina&quot; altament qualificada (s'obre en una nova pestanya)" href="https://github.com/s3rrallonga/s3rrallonga.github.io/issues/4" target="_blank">una &#8220;elit tecnològica clandestina&#8221;, altament qualificada</a> i després se socialitzen &#8220;entre la resta dels mortals&#8221;. Per aquest motiu, considera que l&#8217;estructura del moviment és &#8220;clarament jeràrquica&#8221; perquè no tothom hi té el mateix nivell: per un costat hi ha un grup dirigent que emet missatges, decideix accions, genera i reparteix codis QR, i per altre costat hi ha milers de nodes -que l&#8217;aplicació anomena &#8220;gotes&#8221;- que reben aquesta informació i l&#8217;executen. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+https://twitter.com/imGeheimen/status/1184194150167650304?s=20
+</div></figure>
+
+
+
+<h5>8. Hong Kong: el mirall</h5>
+
+
+
+<p>Els activistes hongkonguesos tampoc tenen un lideratge oficial. Tot i així, demostren una capacitat de coordinació sense precedents, i que ha sorprès el planeta. Quan arriba la policia per detenir-los, es dispersen en diferents direccions i desapareixen, seguint el lema del moviment: &#8220;be water&#8221;. Una consigna que guarda similituds amb el Tsunami, fet de &#8220;gotes&#8221; d&#8217;aigua. De fet, la mobilització a l&#8217;aeroport buscava un &#8220;efecte Hong Kong&#8221;. Picnic per la República enllaça al seu web tres canals de Telegram de les mobilitzacions de Hong Kong, amb la intenció d&#8217;inspirar les accions catalanes. Totes dues aplicacions compten amb un mecanisme que permet avisar a l&#8217;organització de la presència policial sota la consigna &#8220;hi ha piolins&#8221;.</p>
+
+
+
+<h5>9. De moment, codi privat</h5>
+
+
+
+<p>El codi no és obert i, per això, ningú sap del cert com funciona l&#8217;app ni com es gestionen les dades dels usuaris. Tot i això, el creador de l&#8217;aplicació, <a rel="noreferrer noopener" aria-label="&quot;S3rrallonga&quot;, assegura al repositori de l'aplicació (s'obre en una nova pestanya)" href="https://github.com/s3rrallonga/s3rrallonga.github.io/issues/4" target="_blank">&#8220;S3rrallonga&#8221;, assegura al repositori de l&#8217;aplicació</a> que l&#8217;objectiu és alliberar-la perquè sigui &#8220;utilitzada a nivell global per qualsevol grup de persones que vulgui autoorganitzar-se sense patir censura&#8221;. </p>
+
+
+
+<h5>10. Coordinar en remot</h5>
+
+
+
+<p>Des d&#8217;on s&#8217;envien els missatges? Internet permet orquestrar grans mobilitzacions des de qualsevol part del planeta. Permet esquivar represàlies, però també pot suposar que persones deslligades de la realitat social d&#8217;un indret en moguin els fils. Aleshores, es pot confiar el lideratge d&#8217;un moviment social l&#8217;impulsor del qual no és a peu de carrer? Tot i així, en un món permanentment connectat, això serà la sens dubte el més habitual. </p>
+
+
+
+<p></p>
+
+
+
+<h6>Fonts consultades:</h6>
+
+
+
+<ul><li><a rel="noreferrer noopener" aria-label="TECH CRUNCH: Catalan separatists have tooled up with a decentralized app for civil disobedience (s'obre en una nova pestanya)" href="https://techcrunch.com/2019/10/17/catalan-separatists-have-tooled-up-with-a-decentralized-app-for-civil-disobedience/" target="_blank">TECH CRUNCH: Catalan separatists have tooled up with a decentralized app for civil disobedience</a>.</li><li><a rel="noreferrer noopener" aria-label="WIRED: Catalonia has created a new kind of online activism. Everyone should pay attention (s'obre en una nova pestanya)" href="https://www.wired.co.uk/article/barcelonia-riots-catalonia-protests-news" target="_blank">WIRED: Catalonia has created a new kind of online activism. Everyone should pay attention</a>.</li><li><a rel="noreferrer noopener" aria-label="XATAKA: Tsunami Democràtic, así es la app de las protestas independentistas: con sistema 'Retroshare' y códigos QR basados en la ubicación (s'obre en una nova pestanya)" style="font-size: 1.125rem;" href="https://www.xataka.com/aplicaciones/tsunami-democratic-asi-app-protestas-independentistas-sistema-retroshare-codigos-qr-basados-ubicacion" target="_blank">XATAKA: Tsunami Democràtic, así es la app de las protestas independentistas: con sistema &#8216;Retroshare&#8217; y códigos QR basados en la ubicación</a><span style="font-size: 1.125rem;">.</span></li><li><a rel="noreferrer noopener" aria-label="REGIÓ 7: Tsunami Democràtic: què és i qui hi ha al darrere? (s'obre en una nova pestanya)" href="https://www.regio7.cat/arreu-catalunya-espanya-mon/2019/10/15/que-es-tsunami-democratic/573839.html" target="_blank">REGIÓ 7: Tsunami Democràtic: què és i qui hi ha al darrere?</a></li><li><a rel="noreferrer noopener" aria-label="CATALUNYA RÀDIO: Genís Roca: &quot;L'elit de Tsunami deuen ser menys de 10 persones. Tecnològicament no els podran trobar&quot; (s'obre en una nova pestanya)" href="https://www.ccma.cat/catradio/alacarta/el-suplement/genis-roca-lelit-de-tsunami-deuen-ser-menys-de-10-persones-tecnologicament-no-els-podran-trobar/audio/1052358/" target="_blank">CATALUNYA RÀDIO: Genís Roca: &#8220;L&#8217;elit de Tsunami deuen ser menys de 10 persones. Tecnològicament no els podran trobar&#8221;</a>.</li><li><a rel="noreferrer noopener" aria-label="VIA EMPRESA: La revolta com a motor d'innovació (s'obre en una nova pestanya)" href="https://www.viaempresa.cat/opinio/genis-roca-revolta-motor-innovacio-tsunami-democratic_2076257_102.html" target="_blank">VIA EMPRESA: La revolta com a motor d&#8217;innovació</a>.</li><li><a rel="noreferrer noopener" href="https://www.eldiario.es/tecnologia/tsunami-tecnologico_0_953655054.html" target="_blank">ELDIARIO.ES: El tsunami también es tecnológico</a>.</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/10/22/tecnologia-transforma-activisme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">101</post-id>	</item>
+	</channel>
+</rss>

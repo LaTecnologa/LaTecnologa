@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Amazon &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/amazon/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:42:17 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Amazon &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Algoritmes esbiaixats: màquines que no fan justícia</title>
+		<link>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/</link>
+					<comments>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/#respond</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2019 12:22:37 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Algorithm]]></category>
+		<category><![CDATA[Algoritme]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Aprenentatge Automàtic]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Salut]]></category>
+		<category><![CDATA[Tinder]]></category>
+		<guid isPermaLink="false">/?p=297</guid>
+
+					<description><![CDATA[Florida, 2014. Una tarda de primavera, Brisha Borden i un amiga, totes dues de 18 anys, roben una bici i un patinet. En plena fugida,&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Florida, 2014. Una tarda de primavera, Brisha Borden i un amiga, totes dues de 18 anys, roben una bici i un patinet. En plena fugida, s’adonen que són massa grans per conduir els vehicles, que pertanyen a un nen de sis anys. La policia les arresta i les acusa de robar uns objectes valorats en 80 dòlars. A l’estiu anterior, Vernon Prater, de 41 anys, és detingut per robar a una botiga diversos articles que sumen 86,35 dòlars. Està en cerca i captura i ja ha passat cinc anys a la presó per robatori armat i dos delictes més. A la presó, un sistema informàtic anomenat COMPAS* puntua la probabilitat de reincidència dels reclusos. A Borden, de pell negra, li atribueix un risc elevat i a Prater, de pell blanca, un risc baix. Dos anys després, es descobreix que l’algoritme predictiu no l’ha encertada: Borden no ha comès cap altra infracció, mentre Prater compleix una pena de vuit anys de presó per un altre robatori.</p>
+
+
+
+<p>Aquest no és un cas aïllat. Dos anys després d’aquests fets, <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">una investigació de Propublica va demostrar</a> que el sistema tendia a assignar riscos molt més elevats a les persones de pell fosca que a les de pell blanca. Era el resultat d’allò que es coneix com a biaix predictiu; en aquest cas, racista.</p>
+
+
+
+<h2>D’on surt aquest biaix?</h2>
+
+
+
+<p>L&#8217;origen s’amaga en els principis més bàsics dels algoritmes predictius, també anomenats d’Aprenentatge Automàtic (Machine Learning, en anglès). Aquests algoritmes, actualment tant habituals, es basen en una anàlisis estadística de dades històriques, a partir de les quals s’extreuen patrons que més endavant serveixen per fer prediccions sobre noves dades. Com a conseqüència, si aquestes dades històriques contenen una representació esbiaixada de la realitat, les prediccions de l’algoritme predictiu reproduiran el mateix biaix.</p>
+
+
+
+<p>Però això no és tot. L’estudi de Propublica va demostrar que la diferència a l’hora d’avaluar persones de colors diferents no s&#8217;explicava només per unes dades històricament esbiaixades, sinó que l&#8217;algoritme tendia a equivocar-se de manera diferent en funció de si examinava persones de pell negra o de pell blanca. Així, COMPAS va atribuir el doble de vegades un risc erròniament alt de reincidència als presos de pell negra; mentre va assignar un risc erròniament baix a molts més reclusos de pell blanca. Per tant, en aquest cas, la Intel·ligència Artificial no ajudava a mitigar les diferències racials inherents a les dades històriques, sinó que encara les potenciava més.</p>
+
+
+
+<p>Per què? Propublica ressaltava que COMPAS no preguntava la raça del pres per formar l’algoritme. No obstant això, les variables que utilitzava per obtenir informació eren 137 preguntes personals sobre el detingut i el seu entorn, com “Els teus amics o familiars formen part de bandes criminals?” o “Has provat l&#8217;heroïna?”. Però el problema és que, als Estats Units, les diferències socials entre els col·lectius racials són prou importants com perquè es vegin reflectides en aquest tipus de respostes. Així, si s&#8217;evités proporcionar a l&#8217;algoritme dades que permeten deduir el color de pell, es quedaria sense informació per a fer prediccions amb precisió.</p>
+
+
+
+<h2>Conseqüències en el treball, en la salut, en l’amor</h2>
+
+
+
+<p>El cas de COMPAS no és una excepció, ja que els biaixos predictius són un fenomen inherent als algoritmes d’Intel·ligència Artificial, que són cada dia més freqüents al nostre entorn. </p>
+
+
+
+<p>El 2014, <a href="https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G?utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz--y-ycxgaCuFg_VJZNKEV72YYe72ryGDwDcZmF4qpvJJsCrmqY2DqHNktpSZD4K2U0Vk-Ri">Amazon va desenvolupar una eina intel·ligent per reclutar els millors treballadors</a>. Un any més tard, la multinacional va adonar-se que als llocs tècnics no hi havia cap dona. La companyia va abandonar l’eina després que una auditoria interna trobés que els candidats homes havien obtingut més puntuació que les dones. Per què? <a href="https://medium.com/think-by-shifta/por-qu%C3%A9-la-inteligencia-artificial-discrimina-a-las-mujeres-18b123ecca4c">Tal com expliquen Karma Peiró i Ricardo Baeza-Yates a Medium</a>, les dades massives que serviren per nodrir l’algoritme de sel·lecció de personal es basaven en currículums rebuts durant l&#8217;última dècada, quan amb prou feines hi havia dones programadores. Quan el sistema automàtic detectava la paraula “dona” o un sinònim, la penalitzava i puntuava més baix.</p>
+
+
+
+<p>En l’àmbit sanitari, als Estats Units s’utilitzen algoritmes per guiar algunes decisions mèdiques. El 25 d’octubre, <a href="https://science.sciencemag.org/content/366/6464/447.full?utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz--y-ycxgaCuFg_VJZNKEV72YYe72ryGDwDcZmF4qpvJJsCrmqY2DqHNktpSZD4K2U0Vk-Ri">la revista Science explicava que els models utilitzats per assignar cures</a> als 100 milions de pacients nordamericans que pateixen malalties cròniques, com atacs de cor o diabetis, prioritzaven els pacients blancs en detriment dels negres, i rebien abans una assistència mèdica urgent.</p>
+
+
+
+<p>Al llibre El Algoritmo del Amor, Judith Duportail explica que <a href="https://www.arabalears.cat/cultura/Tinder-construir-parelles-desiguals_0_2285171474.html">l’algoritme de Tinder classifica els usuaris segons la bellesa, el gènere, els estudis i la classe social</a>. Duportail sosté que els homes amb més ingressos i nivell d’estudis tenen una gratificació i, en canvi, a les dones amb els mateixos atributs se les penalitza. Per això, considera que Tinder vol construir parelles desiguals en què l’home sempre sigui superior: amb més estudis, més ingressos i més edat. Com s&#8217;explica això? Per una banda, l’algoritme és el resultat d’una compilació de dades que ha tingut lloc dins una societat masclista i, per l’altra banda, segons l’autora del llibre, els programadors de l’aplicació han introduït els seus propis biaixos dins el programari. Com trencar aquest cercle viciós?</p>
+
+
+
+<h2>Algunes solucions</h2>
+
+
+
+<p>El <a href="https://fedit.com/2017/09/proyecto-fair-un-algoritmo-para-evitar-discriminaciones-en-la-busqueda-de-trabajo-o-de-pareja/">Centre Tecnològic Eurecat, de la mà de la Universitat Pompeu Fabra (UPF) i la Universitat Tècnica de Berlín</a>, ha creat un algoritme, anomenat FA*IR, per evitar la discriminació per raons de gènere, procedència o aparença física en cercadors de feina o de parella. FA*IR detecta els biaixos i els corregeix incorporant un mecanisme per a reordenar els resultats sense afectar la validesa del rànquing. <a href="https://www.upf.edu/recercaupf/-/asset_publisher/RVNxhLpxnc9g/content/id/226511859/maximized">Des de l’UPF, a més, proposen utilitzar els algoritmes de manera crítica</a> i en col·laboració amb experts de l’àrea que correspongui.</p>
+
+
+
+<p>Rachel Thomas, directora del Centre d’Ètica Aplicada a les Dades de la Universitat de San Francisco, recomana que cada conjunt de dades es presenti amb un document on s’hi descrigui com es va compilar. També aconsella especificar-hi qualsevol preocupació ètica o legal que hagi pogut sorgir durant el procés. Suggereix, tanmateix, que els equips incloguin gent diversa capaç d’advertir els diferents biaixos.</p>
+
+
+
+<p>El 2017, l’<a href="https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf">Associació de Maquinària Informàtica (ACM) publicà un manifest</a> en defensa de la transparència algorítimica i va establir set principis:</p>
+
+
+
+<ol><li>Consciència. Els creadors d’aquests sistemes han de ser conscients de la possibilitat que hi hagi biaixos en el seu disseny, implementació i ús.</li><li>Accés. Els reguladors han d’afavorir l’introducció de mecanismes perquè els individus i grups negativament afectats per decisions algorítmiques puguin qüestionar-les i rectificar-les.</li><li>Passar comptes. Les institucions han de ser responsables de les decisions de l’algoritme, encara que no puguin detallar com s’han pres.</li><li>Explicació. Les institucions que empren sistemes intel·ligents han de promoure la producció d’explicacions sobre els procediments i les decisions específiques que s’hi prenen.</li><li>Procedència de les dades. Les dades emprades per a l’entrenament han d’anar acompanyades d’una descripció del seu origen.</li><li>Auditabilitat. Models, dades i decisions han de quedar registrats perquè puguin auditar-se quan se sospita d’algun error.</li><li>Validació i proves. Les institucions han de fer proves rutinàries per a avaluar i determinar si el model genera discriminació.</li></ol>
+
+
+
+<h2>Encara queda molt per fer</h2>
+
+
+
+<p>Malgrat els esforços, els biaixos algoritmics són entre els grans problemes de la comunitat científica. En alguns casos, les dades sovint reflecteixen diferències no atribuïbles a biaixos, sinó que són resultat d’una descripció objectiva de la realitat i no té sentit corregir-los. A vegades, però, aquests contrastos són producte de certes diferències històriques que cal pal·liar per construir una societat més justa. Tot plegat requereix una feina complexa però necessària per redefinir com conceptualitzem el món i, en conseqüència, com obtenim les dades. Al mateix temps, és urgent introduir l&#8217;Ètica a l&#8217;hora d&#8217;entrenar models intel·ligents que, de ben segur, tindran un gran impacte social.</p>
+
+
+
+<h5>Notes:</h5>
+
+
+
+<p class="has-small-font-size">*COMPAS és l&#8217;acrònim de Correctional Offender Management Profiling for Alternative Sanctions, que en català es tradueix com a Perfilat per la Gestió Correctiva d&#8217;Infractors per Sancions Alternatives.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">297</post-id>	</item>
+		<item>
+		<title>Microsoft guardarà els secrets del Pentàgon</title>
+		<link>/2019/10/30/microsoft-pren-a-amazon-els-secrets-de-lexercit-nordamerica/</link>
+					<comments>/2019/10/30/microsoft-pren-a-amazon-els-secrets-de-lexercit-nordamerica/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Tue, 29 Oct 2019 22:55:21 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Economia]]></category>
+		<category><![CDATA[Exèrcit]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">/?p=201</guid>
+
+					<description><![CDATA[Amazon ja gestiona alguns dels espais de seguretat més compromesos del govern federal L&#8217;Exèrcit dels Estats Units firmarà amb Microsoft un contracte per 10 bilions&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h3>Amazon ja gestiona alguns dels espais de seguretat més compromesos del govern federal</h3>
+
+
+
+<p>L&#8217;Exèrcit dels Estats Units <a rel="noreferrer noopener" aria-label="firmarà amb Microsoft un contracte per 10 bilions de dòlars (s'obre en una nova pestanya)" href="https://www.technologyreview.com/f/614635/microsoft-has-beaten-amazon-to-the-pentagons-10-billion-cloud-computing-contract/" target="_blank">firmarà amb Microsoft un contracte per 10 bilions de dòlars</a> per modernitzar els seus vells sistemes informàtics i transferir la totalitat de les seves dades a únic sistema de <a rel="noreferrer noopener" aria-label="computació en el núvol (s'obre en una nova pestanya)" href="https://www.termcat.cat/en/node/2541" target="_blank">computació en el núvol</a>. A més, els proporcionarà serveis d&#8217;anàlisis de dades i ofimàtica en el núvol a través del seu sistema Office 365, així com l&#8217;allotjament dels antecendents penals, les auditories fiscals i, fins i tot, els secrets militars classificats. Amb aquesta operació, el Departament de Defensa&nbsp;<a rel="noreferrer noopener" href="https://www.bbc.com/mundo/noticias-america-latina-45790309" target="_blank">pretén guanyar avantatja tàctica als camps de batalla</a>, en un context on és clau l’eficiència amb què es gestiona la informació.</p>
+
+
+
+<p>Fins fa poques setmanes, <a rel="noreferrer noopener" aria-label="Amazon va encapçalar la cursa pel contracte bilionari (s'obre en una nova pestanya)" href="https://www.technologyreview.com/s/614487/meet-americas-newest-military-giant-amazon/" target="_blank">Amazon va encapçalar la cursa pel contracte bilionari</a> (el més lucratiu que ha plantejat mai l&#8217;Exèrcit), però Microsoft li ha impedit convertir-se en el gran monopoli virtual de la seguretat nacional. Tot i així, el gegant del comerç electrònic ja acapara prop del 48% del mercat mundial de la informàtica en núvol -enfront del 17% de Microsoft- i gestiona alguns dels espais de seguretat més sensibles per a les tasques del govern. </p>
+
+
+
+<h5>L&#8217;Exèrcit nordamericà estreny els vincles amb Silicon Valley </h5>
+
+
+
+<p>El 2013, Amazon es va convertir en el proveïdor de computació en núvol de la CIA per 600 milions de dòlars. Quatre anys més tard, Amazon Web Services allotjava la informació recopilada pel sistema d’intel·ligència que ajudà el president Donald Trump a deportar milions d’immigrants dels Estats Units -i que creava perfils detallats, utilitzats després per rastrejar les seves relacions familiars, les connexions personals, les adreces, els registres de telèfon o els seus trets biomètrics. A més, alguns departaments de policia utilitzen el programari de reconeixement facial d&#8217;Amazon, Rekognition, que pot detectar l’edat, el gènere i fins i tot certes emocions,&nbsp;<a href="/2019/10/14/els-perills-del-reconeixement-facial/">encara que falli en molts casos</a>.</p>
+
+
+
+<p>D&#8217;aquesta manera, Microsoft i Amazon es repartiran el pastís de l&#8217;emmagatzematge de les dades més sensibles de la primera potència mundial. Aleshores, què pot passar si les dades personals de milions de ciutadans o els secrets d’Estat arriben a ser gestionats, de manera directa o indirecta, per una firma comercial? Podem confiar aquestes dades a empreses privades quan cada cop son més habituals els <a aria-label="perquè hauria compartit la informació personal (s'obre en una nova pestanya)" href="https://www.forbes.com/sites/johnkoetsier/2019/09/04/alleged-global-google-privacy-leak-gdpr-workaround-could-incur-27b-fine/#4c8cdbd92a02">escàndols per filtracions i usos abusius de les dades dels seus usuaris</a>? A més, entra en l&#8217;equació la gran capacitat d’influència de les grans empreses en la confecció de les lleis. Tot plegat ens condueix cap a una nova configuració dels governs i la indústria, i ningú n’ha predit les conseqüències.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/10/30/microsoft-pren-a-amazon-els-secrets-de-lexercit-nordamerica/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">201</post-id>	</item>
+		<item>
+		<title>Amazon, de líder del comerç electrònic a gegant militar</title>
+		<link>/2019/10/08/amazon-gegant-militar/</link>
+					<comments>/2019/10/08/amazon-gegant-militar/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Tue, 08 Oct 2019 14:33:55 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Cloud Computing]]></category>
+		<category><![CDATA[Economia]]></category>
+		<category><![CDATA[EUA]]></category>
+		<category><![CDATA[Exèrcit]]></category>
+		<category><![CDATA[Informàtica en núvol]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Els secrets d'Estat de la primera potència mundial podrien ser gestionats pel líder del comerç minorista en línia]]></description>
+										<content:encoded><![CDATA[
+<h3>Els secrets d&#8217;Estat de la primera potència mundial podrien arribar a ser gestionats per la companyia</h3>
+
+
+
+<p>El Pentàgon estreny els vincles amb Silicon Valley. Amazon encapçala la cursa per signar un dels contractes d&#8217;<a rel="noreferrer noopener" aria-label="informàtica en núvol (s'obre en una nova pestanya)" href="https://www.termcat.cat/en/node/2541" target="_blank">informàtica en núvol</a> més lucratius que ha plantejat mai l&#8217;Exèrcit nordamericà, amb 10 bilions de dòlars en joc. Una passa més perquè la companyia <a rel="noreferrer noopener" aria-label="assumeixi tota la informació del govern nordamericà (s'obre en una nova pestanya)" href="https://www.technologyreview.com/s/614487/meet-americas-newest-military-giant-amazon/" target="_blank">assumeixi la informació del govern federal</a>, des dels antecedents penals fins a les auditories fiscals. El projecte estableix la construcció d&#8217;una infraestructura a Internet que emmagatzemi informació militar confidencial. L&#8217;exèrcit pretén refrescar la burocràcia militar utilitzant els serveis de les empreses tecnològiques. És així com el Departament de Defensa nordamericà <a rel="noreferrer noopener" aria-label="pretén guanyar avantatja tàctica al camp de batalla (s'obre en una nova pestanya)" href="https://www.bbc.com/mundo/noticias-america-latina-45790309" target="_blank">pretén guanyar avantatja tàctica als camps de batalla</a>, en un context on és clau l&#8217;eficiència amb què es gestiona la informació.</p>
+
+
+
+<p>La companyia de Jeff Bezos ja no es conforma, doncs, amb ser el major minorista en línia del món. El 2013, Amazon va convertir-se en el proveïdor d&#8217;informàtica en núvol de la CIA. L&#8217;acord, que es va signar per un valor de 600 milions de dòlars, va convertir l&#8217;empresa en la gran contractista de la seguretat nacional. El 2017, destaparen que el sistema d’intel·ligència que ajudà Trump a deportar milions d’immigrants dels Estats Units -i que creava perfils detallats que després s’utilitzaven per rastrejar els immigrants com les relacions familiars, connexions personals, adreces, registres de telèfon o trets biomètrics- <a rel="noreferrer noopener" aria-label="emmagatzema tota la informació als Amazon (s'obre en una nova pestanya)" href="https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/" target="_blank">emmagatzema tota la informació als Amazon</a> Web Services (AWS). L&#8217;any següent, els serveis al núvol van proporcionar a la companyia el 13% del seu negoci global. A més, alguns departaments de policia ja utilitzen el programari de reconeixement facial en el núvol, Rekognition. Una eina que pot detectar l&#8217;edat, el gènere i fins i tot certes emocions, <a href="/2019/10/14/els-perills-del-reconeixement-facial/">tot i que falla en molts casos</a>. </p>
+
+
+
+<p>La cursa per firmar el contracte amb l&#8217;Exèrcit ha nascut enmig de les crítiques furibundes d&#8217;altres postulants -Microsoft, Oracle o Google, entre altres-. Per un costat, alguns han denunciat que el procés d&#8217;oferta no s&#8217;ha desenvolupat en condicions d&#8217;igualtat i s&#8217;ha afavorit Amazon des del principi. Per altre costat, molts critiquen que només pugui haver-hi un sol guanyador que, a efectes pràctics, acabarà controlant gran part dels núvols del govern federal. Tot plegat, condueix cap a una nova configuració del govern i la indústria, sense que ningú n&#8217;hagi predit les implicacions. Allò més probable, però, és que el finalista del contracte disposi en el futur d&#8217;una gran capacitat d&#8217;influència en les regulacions que el podrien afectar, tenint en compte que, actualment, les grans amenaces dels monopolis no són tant els competidors com la legislació.  </p>
+
+
+
+<p>Llavors, quin serà el paper d&#8217;Amazon en la política i la seguretat nacional? Quines són les conseqüències de que els secrets d&#8217;Estat arribin a ser gestionats, de manera indirecta, per una firma comercial?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/10/08/amazon-gegant-militar/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1</post-id>	</item>
+	</channel>
+</rss>

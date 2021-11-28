@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Ethics &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/ethics/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Ethics &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Teresa López-Pellisa, enderrocant el masclisme des de la cibercultura</title>
+		<link>/2020/09/18/teresa-lopez-pellisa-enderrocant-masclisme-cibercultura/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2020 17:39:52 +0000</pubDate>
+				<category><![CDATA[Diàlegs]]></category>
+		<category><![CDATA[Ciberfeminisme]]></category>
+		<category><![CDATA[Ciència ficció]]></category>
+		<category><![CDATA[Destacat]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[ginoides]]></category>
+		<category><![CDATA[Las Otras. Antología de mujeres artificiales]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[Science Fiction]]></category>
+		<category><![CDATA[Teresa López-Pellisa]]></category>
+		<guid isPermaLink="false">/?p=1601</guid>
+
+					<description><![CDATA[Entrevista a Teresa López-Pellisa, professora de Literatura a la Universitat de les Illes Balears (UIB), membre del Grup d’Estudis sobre el Fantàstic de la Universitat Autònoma de Barcelona (UAB) i és coneguda pel seu treball vinculat a la cibercultura, la ciència-ficció i el feminisme. Ha editat, entre altres títols, Las Otras: Antología de mujeres artificiales (2018), Distópicas i Poshumanas (2018) i Ciberfeminismo. De VNS Matrix a Laboria Cuboniks (2019). També és autora d’Insólitas: Narradoras de lo fantástico en Latinoamérica y España (2019), Historia de la ciencia ficción en la cultura española (2018)]]></description>
+										<content:encoded><![CDATA[
+<h3>López-Pellisa és professora de Literatura a la Universitat de les Illes Balears (UIB), membre del Grup d’Estudis sobre el Fantàstic de la Universitat Autònoma de Barcelona (UAB) i és coneguda pel seu treball vinculat a la cibercultura, la ciència-ficció i el feminisme. Ha editat, entre altres títols, <em>Las Otras: Antología de mujeres artificiales</em> (2018), <em>Distópicas </em>i<em> Poshumanas</em> (2018) i <em>Ciberfeminismo. De VNS Matrix a Laboria Cuboniks</em> (2019). També és autora d’<em>Insólitas: Narradoras de lo fantástico en Latinoamérica y España</em> (2019), <em>Historia de la ciencia ficción en la cultura española</em> (2018)</h3>
+
+
+
+<p>El cíborg ha burlat els límits de la ciència-ficció per convertir-se en la nova definició de l’ésser humà: com a espècie, hem creat artificialment el món que habitem i, alhora, hem modificat la naturalesa per adaptar-la al nostre mode de vida. I, en aquest context, la tecnologia també pot servir a causes emancipadores. Aquesta idea teixeix els escrits reunits per Teresa López-Pellisa i Remedios Zafra a l’antologia <a rel="noreferrer noopener" href="https://edicionesholobionte.com/ciberfeminismo-remedios-zafra-y-teresa-lopez-pellisa-eds/" target="_blank"><em>Ciberfeminismo. De VNS Matrix a Laboria Cuboniks </em>(Ediciones Holobionte)</a>, que recullen el pensament de més de vint creadores i pensadores ciberfeministes, o sigui, els feminismes orientats a la tecnologia. El mateix principi vertebra els relats de <a href="https://www.eolasediciones.es/catalogo/coleccion-las-puertas-de-lo-posible/las-otras-antologia-de-mujeres-artificiales/" target="_blank" rel="noreferrer noopener"><em>Las Otras: Antología</em> <em>de mujeres artificiales</em> (Eolas Ediciones)</a>, editat per López-Pellisa i que aplega contes de vint-i-sis autores i autors catalans, espanyols i llatinoamericans sobre ginoides, nines o dones virtuals i biotecnològiques de silici, plàstic i dígits binaris. L’obra defuig els clixés i, aquest cop, molts autors s’atreveixen a anar més enllà de la concepció tradicional de la dona artificial com a fetitxe, prostituta o companya sentimental en el marc de les relacions heteronormatives i dibuixen la imatge de l’autòmat femení des de postures dissidents.&nbsp;</p>
+
+
+
+<p><strong>Potser se’n parla poc, de ciberfeminisme, tot i que el feminisme i la seva relació amb la tecnologia és un tema d’absoluta actualitat?</strong></p>
+
+
+
+<p>L’etiqueta de ciberfeminisme ja no està d’actualitat, tot i que continua existint. De fet, moltes ciberfeministes han anat canviant de posicionaments, tal com es pot comprovar en el procés del llibre [<em>Ciberfeminismo. De VNS Matrix a Laboria Cuboniks</em>] que, primer cop, tradueix i reuneix textos clau del ciberfeminisme. El concepte de ciberfeminisme s’encunya als anys noranta. Neix sobretot en el context de l’art feminista i el <a rel="noreferrer noopener" href="https://es.wikipedia.org/wiki/Net.art" target="_blank"><em>Net.art</em></a>, quan es reflexiona sobre la <em>cibercultura</em> en uns termes que avui ens resulten inversemblants i ingenus. Cal tenir en compte que als noranta no tothom tenia un ordinador personal. Tal com escriu Remedios Zafra al pròleg, el llibre també reivindica la necessitat de publicar aquests textos en la llengua cíborg, meridional i mestissa que és el castellà per evidenciar les relacions entre Espanya i Llatinoamèrica amb una cultura digital que semblava que pertanyia exclusivament al món anglosaxó, i recull des dels primers manifestos dels noranta fins al <a rel="noreferrer noopener" href="https://www.nuvol.com/llibres/rosi-braidotti-posthuma-es-una-paraula-molt-molesta-31471" target="_blank">posthumanisme</a> i el <a rel="noreferrer noopener" href="http://lab.cccb.org/ca/helen-hester-la-biologia-no-determina-el-desti-es-pot-modificar-tecnologicament/" target="_blank">xenofeminisme</a>, que és cap a allò al qual ha tendit el ciberfeminisme. El problema és que el ciberfeminisme dels noranta reclamava un espai per a la cultura digital que per a les dones no ha existit. Es pensava en una relació postgènere a l’espai virtual que finalment no ha sigut real perquè el patriarcat l’ha col·lonitzat.&nbsp;</p>
+
+
+
+<p><strong>Com es podria caracteritzar el ciberfeminisme avui?</strong></p>
+
+
+
+<p>Trobem el ciberfeminisme en <em>Las Otras</em> o en pel·lícules com <em>Her</em>, <em>Ex-Machina</em>, <em>Ghost in the Shell</em>, o en sèries com <em>Black Mirror</em>; productes culturals que reflexionen sobre l’imaginari científic i tecnològic de la feminitat i la projecció d’aquest futur especulatiu a través de la ciència-ficció. Cada cop que tractem l’imaginari femení tecnològic parlem de ciberfeminisme. Els ciberfeminismes plantegen que allò personal és hiperpolític -i no només polític, com deien els feminismes de la segona onada- entenent la hiperpolítica com una ampliació d&#8217;allò polític a través de la seva extensió al món virtual. Totes les lluites feministes que es duen a terme a través de la xarxa tenen a veure amb el ciberfeminisme o allò que s’ha denominat tecnofeminisme. El llibre va de Venus Matrix, un grup d’artistes australianes sorgit als noranta, fins als textos xenofeministes del 2019. Algunes treballen des del ciberactivisme i les xarxes de dones del ciberespai, mentre altres treballen des de la idea de la representació de la dona en l’imaginari científic i tecnològic cultural i els estereotips que s’hi repeteixen i que reforcen la desigualtat de gènere.</p>
+
+
+
+<p><strong>Estem veient la quasi monopolització dels codis estètics per part de lògiques mercantilistes i algunes grans empreses, i, per tant, ni els videojocs, ni les xarxes socials, ni altres espais virtuals són, generalment, feministes avui en dia.</strong></p>
+
+
+
+<p>Els estereotips no només es perpetuen en la ficció: la ficció crea la realitat. Allò que consumim és allò que naturalitzem com a normatiu i com a real. Per això és important analitzar la representació femenina al cinema i la literatura del passat: per a entendre com s&#8217;ha construït una realitat que es continua perpetuant. El que passa és que interioritzem aquests rols i discursos en la mesura que els veiem. Al món virtual de&nbsp;<em>Second&nbsp;Life</em>, tots els avatars tenen uns cossos impressionants. Allà tothom pot tenir el físic que sempre ha volgut. Però el gust i l&#8217;estètica deriven de la cultura, i si&nbsp;continuem educant-nos en els mateixos models, res canviarà. Si no plantegem alternatives, no podem imaginar-nos altres possibilitats. I és en la imaginació poètica i l&#8217;espai simbòlic on es plantegen aquestes altres opcions. Per això la&nbsp;ciència-ficció&nbsp;és tan interessant: perquè ens pot mostrar altres societats viables. I perquè la ficció crea o reforça la realitat. Però, compte, que també pot ser conservadora.</p>
+
+
+
+<p><strong>Sovint les distopies ens transmeten recel&nbsp;cap&nbsp;a allò que en realitat és crític o vol qüestionar el present.</strong>..</p>
+
+
+
+<p>Sí, és un dels gèneres de moda del segle XXI. Trobem una gran quantitat de distopies al teatre, a la narrativa i al cinema. I habitualment són súper conservadores. Ens diuen que el futur és pitjor, que val més quedar-nos així i conformar-nos amb allò que tenim. A través de la por, se&#8217;ns condueix cap a la immobilitat. Però també hi ha distopies interessants, aquelles que ens inciten a canviar les causes del nostre malestar. És preferible sortir de l&#8217;habitual discurs distòpic per plantejar-nos alternatives socials, solidàries, de gènere, de sexualitat&#8230; I, això, avui, l&#8217;única narrativa que ho fa possible és la&nbsp;ciència-ficció.</p>
+
+
+
+<p><strong>Ha de ser aquesta una de les missions de la ciència-ficció? A <em>Ciberfeminismo</em> es planteja que l’art té més potència deconstructiva que la teoria perquè aquesta última està més afectada pels codis i estructures científic-tecnològiques.</strong></p>
+
+
+
+<p>Quasi totes les filòsofes i els filòsofs contemporanis utilitzen la&nbsp;ciència-ficció&nbsp;en els seus textos.&nbsp;Braidotti,&nbsp;Haraway,&nbsp;Zizek o&nbsp;Sloterdijk, que s&#8217;adonen que no es tracta d&#8217;un gènere marginal perquè planteja qüestions, metàfores i imaginacions de la poètica de la resistència amb un contingut social i polític molt interessant. A través de la&nbsp;ciència-ficció&nbsp;es pot plantejar un món fora del patriarcat i del gènere binari i normatiu. Unes altres regles són possibles en la ficció i en el ciberespai, que era allò que plantejaven algunes&nbsp;ciberfeministes&nbsp;dels noranta. Ara bé, cal després que puguem treure aquestes qüestions al món real, ja que al final la ficció és el reflex del món i viceversa.</p>
+
+
+
+<p><strong>La tecnologia diria que és ambivalent. Per una banda, ha esdevingut un lloc on ha quallat la societat patriarcal mentre, alhora, pot tenir un paper important per a les lluites feministes. Com podem utilitzar la tecnologia per aconseguir una justícia social i de gènere, segons els últims corrents ciberfeministes?&nbsp;</strong></p>
+
+
+
+<p>La reproducció i la biotecnologia són temes que actualment treballen els col·lectius <a rel="noreferrer noopener" href="https://es.wikipedia.org/wiki/SubRosa" target="_blank">SubRosa</a> o <a rel="noreferrer noopener" href="https://laboriacuboniks.net/" target="_blank">Laboria Cuboniks</a>, i tenen molt a veure amb el posthumanisme tecnomaterialista (tot són paraulotes meravelloses!). En plena segona onada del feminisme, <a rel="noreferrer noopener" href="https://ca.wikipedia.org/wiki/Shulamith_Firestone" target="_blank">Shulamith Firestone</a> escriu la <em>Dialèctica del Sexe,</em> on parla de l’alliberament del rol reproductiu de les dones a través dels anticonceptius. Aquest fet suposa una revolució perquè de sobte les dones guanyen la capacitat de decidir si volen reproduir-se o no. Més enllà dels anticonceptius, també es posa sobre la taula la possibilitat de l’ectogènesi, que és la gestació fora de l’úter. Hi ha una antologia de ciència-ficció escrita per dones espanyoles i llatinoamericanes, <em>Proyectogénesis</em>, on només hi apareixen relats que plantegen mons on això succeeix. I, en alguns casos, no són gens encoratjadors. És clar, el problema d’aquesta tecnologia -com el de qualsevol altra- és a quins interessos respon, qui hi accedirà o quin preu tindrà. Per això els ciberfeminismes han reclamat que aquestes eines siguin sense ànim de lucre. En el marc del capitalisme monopolista, els beneficis d’una tecnologia perverteixen el seu sentit. Què passaria si l’Estat necessita més soldats o pagadors d’impostos perquè mantinguin el sistema i la reproducció humana ja no depèn de la dona? A l’Estat li interessa tenir un control sobre els úters i els cossos femenins, i per això es legisla. </p>
+
+
+
+<p><strong>Tot això ja s’ho van plantejar les primeres ciberfeministes?</strong></p>
+
+
+
+<p>Quan&nbsp;<a rel="noreferrer noopener" href="https://ca.wikipedia.org/wiki/Donna_Haraway" target="_blank">Donna&nbsp;Haraway [considerada la primera&nbsp;ciberfeminista] escriu el Manifest Cíborg</a>, l&#8217;humà entès com a cíborg, com un organisme biològic modificat per la tecnologia, esdevé un ésser <em>queer</em>. Tot i que el concepte <em>queer</em> no apareix fins més tard,&nbsp;Haraway&nbsp;l&#8217;utilitza més enllà del significat literal i el transforma en una metàfora del subjecte postmodern. Alhora, ens diu que els límits entre biologia i cultura o entre natural i artificial són borrosos. Ens diu que la biologia és un discurs científic que respon a uns certs interessos històrics de gènere, per exemple.&nbsp;Haraway&nbsp;obre un món per a l&#8217;ésser humà que interactua amb els entorns digitals i evidencia que les nostres identitats estan absolutament&nbsp;intervingudes&nbsp;per les noves tecnologies. D&#8217;alguna manera, tots som cíborgs, al marge de les pròtesis que cadascú duu al cos -vacunes, ulleres, etc. Els ciberfeminismes i el&nbsp;posthumanisme&nbsp;crític feminista sostenen que cal desplaçar l&#8217;humà com a mesura de totes les coses perquè aquesta idea és absolutament androcèntrica, antropocèntrica, patriarcal i racista, i no inclou les dones, ni els cossos amb disfuncionalitat, ni els d&#8217;altres colors de pell, ni els altres éssers vius amb els quals convivim&#8230;&nbsp;Aquest pensament té molt a veure amb la quarta onada feminista que vivim, on l&#8217;ecocrítica&nbsp;és fonamental. Cal veure com la tecnologia i la biotecnologia han vist beneficis en l&#8217;explotació de la terra i els cossos. Això preocupa molt des de l&#8217;ectogènesi, la clonació o la intervenció en la línia germinal, que consisteix&nbsp;a&nbsp;dissenyar els éssers que naixeran utilitzant la reproducció en els cossos femenins. En aquest sentit, es parla d&#8217;eugenèsia terapèutica. Però les tecnologies poden servir tant per al control com per a l&#8217;alliberament. Ara ens toca debatre quin ús donarem a la biotecnologia un cop descoberta la recepta de l&#8217;ADN que ens permet intervenir-lo i modificar-lo.</p>
+
+
+
+<p><strong>Cal veure com utilitzarem el <a rel="noreferrer noopener" href="https://www.ccma.cat/tv3/alacarta/no-pot-ser/gen-etica/video/6035499/" target="_blank">mètode d’edició genètica CRISPR</a>…</strong></p>
+
+
+
+<p>Exacte, l&#8217;edició de l&#8217;ADN suposa un canvi de paradigma. De fet, John&nbsp;Haldan, un biòleg de principis del segle XX -qui, per cert, coneixia&nbsp;Aldous&nbsp;Huxley, l&#8217;autor de la novel·la distòpica genètica Un món feliç (1932)- va treballar en les possibilitats de la biologia reproductiva&nbsp;durant els anys vint i somiava amb la possibilitat que, en un futur, l&#8217;espècie es reproduiria per ectogènesi. Sostenia que&nbsp;el 2044&nbsp;el 75-80% de la població naixeria a través d&#8217;aquest mètode i que, a més, només veurien la llum aquells éssers desitjables. Parlava d&#8217;eugenèsia, un tema que les teories darwinianes del segle XIX van posar molt de moda. Fins als&nbsp;anys seixanta, el Japó esterilitzava les persones amb Síndrome de&nbsp;Down&nbsp;o alguna deficiència sense el seu consentiment. Es tracta d&#8217;una pràctica eugenèsica que executa l&#8217;Estat sense el consentiment de les persones afectades. Avui en dia es duen a terme diverses pràctiques eugenèsiques.</p>
+
+
+
+<p><strong>A&nbsp;<em>Las&nbsp;Otras&nbsp;</em>escrius que &#8220;en els relats d&#8217;aquesta antologia no només ens trobem amb&nbsp;Galatees&nbsp;sinó també amb Pandores, un mite que m&#8217;interessa reivindicar com a metàfora per a&nbsp;analizar&nbsp;aquells textos&nbsp;en què&nbsp;es creen dones des d&#8217;una perspectiva&nbsp;patrilinial&nbsp;per a l&#8217;ús, el goig i el gaudi del plaer masculí&#8221;.</strong></p>
+
+
+
+<p>El relat de <em>Las Otras</em> de José María Merino, membre de la Reial Acadèmia Espanyola (RAE) i un dels autors de la literatura fantàstica de ciència-ficció més importants d’Espanya que ha publicat diversos textos protagonitzats per dones artificials, parla de prostíbuls i d’una societat on les fèmines virtuals estan molt sol·licitades, mentre manquen homes artificials perquè no hi ha demanda. Però va ser molt interessant veure com alguns autors dels contes de l’antologia<em> </em>defugen l’imaginari grecollatí i estereotipat de Galatees i Pandores i plantegen alternatives com fan Alberto Chimal, Naief Yehya o Lola Robles. Segons el mite, Pigmalió, el rei de Xipre, esculpeix Galatea perquè s’ha de casar i tenir descendència, però no li interessa cap dona de l’illa que regna. Perquè les considera a totes malvades i malignes. Perquè té por de l’altre, d’allò desconegut, allò que no és ell mateix. Per tant, decideix crear-se la seva pròpia muller i, tal com relata Ovidi a <em>Metamorfosis</em>, la fa a imatge seva. Aleshores, la deessa Venus infon vida a l’escultura. Galatea és la projecció del desig masculí, és la seva imatge, tal com passa amb la majoria d’actrius de Hollywood: dones que responen a la sexualitat heteronormativa per al gaudi i el plaer de l’ull masculí. Al final, Galatea és com una dona inflable que, a més, viu feliç com a esposa submisa i mare fins al final dels seus dies.</p>
+
+
+
+<p>Pandora també és una dona artificial que neix per encàrrec de Zeus amb l’objectiu de castigar <a href="https://ca.wikipedia.org/wiki/Prometeu_(mitologia)" target="_blank" rel="noreferrer noopener">Prometeu</a> per haver ajudat els homes. Per això, Zeus ordena a Hefest la creació d’alguna cosa desastrosa per a l’home. Cada déu de l’Olimp li confereix un do, mentre Hermes li infon la curiositat i la mentida. Al mateix temps, els déus omplen una capsa amb els mals de la humanitat i, Pandora, presa de la curiositat, l’obre i fugen tots els mals que corren avui per la terra, provocant també la seva mort. A mi m’interessa Pandora perquè quan parlem de dones artificials sempre es fa al·lusió a Galatea i, en canvi, mai es menciona a Pandora. En la majoria de textos com aquest, la dona -ja sigui de fang, metàl·lica, virtual o electrònica- acaba sent assassinada o destruïda, carregant-se també l’home que l’ha creada, que sovint és el pare o l’amant de l’artefacte. Ho veiem, per exemple, a <em>El hombre de arena</em> de Hoffmann. En el fons, crec que en aquests textos es penalitza la relació de l’home amb una dona artificial perquè amb ella no es pot reproduir. En la majoria d’aquests textos es parla de dones incompletes, que no tenen la regla ni poden engendrar fills. Són una joguina, un mer entreteniment.</p>
+
+
+
+<p><strong>És un enfocament que hauríem de canviar?</strong></p>
+
+
+
+<p>El posthumanisme crític es planteja una relació diferent amb la tecnologia i els éssers no humans. Desaprova l’antropolatria, la superioritat de l’ésser humà, tal com va fer Haraway al <em>Manifest de les espècies de companyia</em>. Dins el sistema capitalista, tractem malament els objectes perquè els comprem, ens els apropiem, els tirem i, després, ens en comprem uns altres. Això només fomenta el consumisme, l’esgotament dels recursos i la sobreproducció. En la ciència-ficció, la majoria d’éssers artificials són autoconscients, però se’ls tracta malament. Per això serveixen com una metàfora de l’altre i la diversitat. I, al final, el que es penalitza és això: la relació amb algú que no és igual.&nbsp;</p>
+
+
+
+<p><strong>Per què hi ha encara tan poques tecnòlogues dones amb relació als homes? </strong><a href="/2020/02/11/mhan-arribat-a-dir-que-som-massa-guapa-per-ser-informatica/"><strong>A la UIB, les dones no arriben al 8,5% del total de matriculats a Enginyeria Informàtica a la Universitat de les Illes Balears i representen com a màxim el 18% dels treballadors amb perfil tècnic del sector digital</strong></a><strong>. Què cal fer per empènyer les dones a intervenir-hi, tenint en compte que la tecnologia tindrà un pes tan gran en la fabricació del futur?</strong></p>
+
+
+
+<p>És una qüestió de cultura i educació. Jo, que sóc professora de lletres, pràcticament només tinc dones. I a la carrera de Magisteri potser hi ha dos homes. Per això hem de construir imaginaris on les dones facin ciència i tecnologia, i amb això la ficció té un paper fonamental. Quantes pel·lícules has vist protagonitzades per una dona <em>hacker</em>? Si de petita ja et relaciones de manera natural amb la tecnologia, de gran escolliràs la carrera que vulguis. Però mentre els missatges que arriben a les nenes siguin que han d’estar boniques, dedicar-se a la criança i ser mestres… Per a generar nous discursos s’ha de fer resistència… però clar, quina resistència pot fer una adolescent de disset anys, si tot just comença a formar-se la seva consciència política? Quantes pensadores has llegit durant la carrera de Filosofia?</p>
+
+
+
+<p><strong>Doncs molt poques, la veritat.&nbsp;Hannah&nbsp;Arendt i poques més. Cap de les que ha esmentat aquí. D&#8217;homes, un munt.</strong></p>
+
+
+
+<p>Pràcticament, tots. Tenim un problema, i és com s’ensenya la Història. Porten tota la vida dient-me que no hi ha autores de ciència-ficció i és mentida. La primera novel·la del gènere és <em>Frankenstein</em> (1818) de Mary Shelley. De fet, la primera ginotopia [utopia on només apareixen personatges femenins] l’escriu <a rel="noreferrer noopener" href="https://ca.wikipedia.org/wiki/Llibre_de_la_ciutat_de_les_dames" target="_blank">Christine de Pisan el 1405</a> que, considerada la primera escriptora professional de la història d’Occident, imagina un món poblat només per dones que poden educar-se, escriure i cultivar-se. Allò cert és que li va costar molt viure en un món d’homes i no van parar de dir-li que mancava de capacitat intel·lectual. Quan estudiem Història de la literatura sembla que al segle XVIII no hi havia escriptores. Hi eren, però s’han invisibilitzat. Del ciberfeminisme he après que cal recompondre la Història de la ciència i la tecnologia tenint en compte la participació de les dones. No sabem què feien les dones del passat? Doncs investiguem-ho. Tothom coneix <em>Utopia</em> (1516) de Thomas More o <em>La ciutat del sol</em> (1602) de Campanella; però pocs coneixen <em>The Blazing World</em> (1666), una utopia fascinant de l’anglesa Margaret Cavendish on, a més, hi apareix una perspectiva ecocrítica molt interessant. </p>
+
+
+
+<p><strong>A la&nbsp;ciència-ficció&nbsp;també veiem allò que&nbsp;Barbara&nbsp;Creed&nbsp;defineix com&nbsp;la síndrome&nbsp;del femení monstruós. Per exemple, tal com comenta Rosi&nbsp;Braidotti, a la pel·lícula <em>Alien</em> l&#8217;ordinador principal que controla la nau es diu Mare i és molt malvada amb la protagonista.&nbsp;<em>Las&nbsp;Otras</em>&nbsp;vol combatre també aquesta idea?</strong></p>
+
+
+
+<p>La teòrica&nbsp;Rosi&nbsp;Braidotti amb la seva filosofia del&nbsp;posthumanisme&nbsp;crític feminista es presenta com&nbsp;a antihumanista. La seva posició vol fer-nos veure que hi ha alternatives a l&#8217;humanisme occidental imperialista, capitalista, blanc, occidental i heteronormatiu, per la qual cosa el&nbsp;posthumanisme&nbsp;ens ofereix altres maneres de relacionar-nos entre els éssers humans, amb el planeta que habitem i amb altres éssers vius i&nbsp;tecnològics. No és que&nbsp;Braidotti&nbsp;no cregui en la humanitat, sinó que aposta per una altra idea de l&#8217;humà més igualitària, justa i sostenible.<br>A l&#8217;antologia de <em>Las Otras</em> hi ha relats que defensen la subjectivitat&nbsp;posthumana, però també hi ha monstruositats femenines que simbolitzen i reforcen el patriarcat al costat d&#8217;unes altres que el subverteixen. La tradició literària i cinematogràfica està plagada d&#8217;aquesta mena de monstres femenins. Sense anar més lluny, l&#8217;exemple d&#8217;<em>Alien</em> també pot llegir-se com una crítica&nbsp;a la&nbsp;maternitat&nbsp;obligatòria. Si&nbsp;tens&nbsp;la&nbsp;bestiola&nbsp;al&nbsp;ventre, has de parir&nbsp;vulguis&nbsp;o no.  Cal tenir en compte que la pel·lícula s&#8217;estrena als anys setanta, durant la segona onada feminista, quan precisament es comença a reivindicar el dret a l&#8217;avortament.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1601</post-id>	</item>
+		<item>
+		<title>Neix l’Observatori d’ètica en intel·ligència artificial de Catalunya</title>
+		<link>/2020/06/29/observatori-etica-intelligencia-artificial-catalunya/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2020 16:44:41 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[ADA]]></category>
+		<category><![CDATA[Algoritmes de Decisió Automatitzada]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Carme Torras]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Karma Peiró]]></category>
+		<guid isPermaLink="false">/?p=1463</guid>
+
+					<description><![CDATA[“L’evolució tecnològica és tan àmplia, profunda i veloç que els éssers humans no som capaços d’anticipar com s&#8217;incorporarà a les nostres vides”, afirmava Maria Àngels&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>“L’evolució tecnològica és tan àmplia, profunda i veloç que els éssers humans no som capaços d’anticipar com s&#8217;incorporarà a les nostres vides”, afirmava Maria Àngels Barbarà, directora de l’Autoritat Catalana de Protecció de Dades, a l’informe <a rel="noreferrer noopener" href="https://apdcat.gencat.cat/web/.content/04-actualitat/noticies/documents/INFORME-INTELLIGENCIA-ARTIFICIAL-FINAL-WEB-OK.pdf" target="_blank"><em>Intel·ligència Artificial. Decisions Automatitzades a Catalunya</em></a>. La periodista Karma Peiró recull a l’estudi més de cinquanta exemples d’usos d’algorismes de decisió automatitzada (ADA) a Catalunya i que, <a href="/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/">en molts casos, han passat desapercebuts per a la majoria de la població tot i intervenir en decisions sovint sensibles</a>: per exemple, extradir migrants, concedir ajuts socials, predir el risc de reincidència d’un pres o advertir què ha après i què no ha après un alumne a l’escola. El que passa és que si les màquines s’entrenen amb prou dades fiables, els ADA poden facilitar-nos enormement la vida; però si es nodreixen amb informació deficient i esbiaixada, <a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">els resultats poden conduir a errors o a decisions discriminatòries</a>. Per això el naixement, aquest dilluns, de l&#8217;Observatori d&#8217;Ètica en Intel·ligència Artificial de Catalunya és una bona notícia.</p>
+
+
+
+<p>La iniciativa neix del Govern i la Universitat de Girona (UdG) i pren la forma d’una càtedra amb seu a la facultat. <a rel="noreferrer noopener" href="http://politiquesdigitals.gencat.cat/ca/detalls/Noticia/200629_Observatori_IA" target="_blank">Segons una nota de la Generalitat</a>, l’Observatori té la missió d’estudiar els impactes ètics i legals de la implantació de la IA en la vida diària, de vetllar perquè la tecnologia s’apliqui de manera segura i justa, d’establir unes directrius ètiques i, en definitiva, de desenvolupar al país “una intel·ligència artificial ètica i confiable”. Per aconseguir-ho, l’observatori vol analitzar l’evolució del desenvolupament de la IA a Catalunya, impulsar jornades i tallers per debatre sobre ètica, regulació i IA, promoure la conscienciació ciutadana entorn la IA i les decisions automatitzades i crear un consell assessor format per experts d’àmbits diversos -acadèmic, tecnològic, humanístic, legal, econòmic, etc.</p>
+
+
+
+<p>La iniciativa compta amb un pressupost de 250.000 euros per al període 2020–2022, finançats principalment pel Departament de Polítiques Digitals en el marc de l’estratègia <a rel="noreferrer noopener" href="http://politiquesdigitals.gencat.cat/ca/tic/catalonia-ai" target="_blank">Catalonia.AI, l’Estratègia d’Intel·ligència Artificial de Catalunya</a>, aprovada el 18 de febrer, i el pla estratègic de la <a rel="noreferrer noopener" href="https://www.udg.edu/ca/Portals/63/Escenaris/PE_2030_SumaIntel_20190306.pdf" target="_blank">Universitat de Girona ‘2030: La suma d’Intel·ligències’</a>, que vol buscar el millor encaix de la intel·ligència artificial amb la intel·ligència natural i la intel·ligència col·lectiva.</p>
+
+
+
+<p>El tret de sortida de l’Observatori l’han donat aquest matí el conseller de Polítiques Digitals, Jordi Puigneró, i el rector de la UdG, Quim Salvi, entre altres representants del Govern i la universitat, que han presentat el nou organisme en un acte telemàtic amb la intervenció de Karma Peiró i de la <a href="/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/">professora d’Investigació de l’Institut de Robòtica (CSIC-UPC) i escriptora Carme Torras</a>.</p>
+
+
+
+<h3>La necessitat d’una mirada ètica</h3>
+
+
+
+<p>Els intents de regular la intel·ligència artificial des d’una mirada ètica persegueixen l’evolució tecnològica, però de moment no l’atrapen. El febrer, la presidenta de la Comissió Europea (CE), Ursula Von der Leyen, va presentar un pla per regular la IA i recuperar la sobirania digital davant els gegants tecnològics, tot i que les veus crítiques li van retreure poca concreció. A l’abril del 2019, un grup d’experts d’alt nivell de la CE havia fet públiques unes Directrius Ètiques per a una IA Confiable (<em>Ethics Guidelines for Trustworthy AI</em>). Poc després, el professor de filosofia de la Universitat de Mainz (Alemanya) Thomas Metzinger, que va formar part del grup d’experts, va denunciar al diari <em>Der Tagesspiegel</em> que “<a href="/2020/02/15/etica-inteligencia-artificial-maquillatge/">el relat de la Intel·ligència Artificial confiable pretén eixamplar els mercats futurs</a> i utilitzar els debats sobre Ètica com un bell decorat públic per a una estratègia d’inversió a gran escala”. Per això, cal prendre consciència que la revisió ètica de la IA necessita molt més que una declaració de bones intencions.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1463</post-id>	</item>
+		<item>
+		<title>Distopies tecnològiques per jutjar el demà</title>
+		<link>/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/</link>
+					<comments>/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 29 May 2020 16:39:13 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Robots]]></category>
+		<guid isPermaLink="false">/?p=1337</guid>
+
+					<description><![CDATA[La ciència-ficció ha contribuït a crear debat i consciència crítica sobre la tecnologia i la Intel·ligència Artificial “Maleït creador! Per què no vaig perdre en&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>La ciència-ficció ha contribuït a crear debat i consciència crítica sobre la tecnologia i la Intel·ligència Artificial</h2>
+
+
+
+<p>“Maleït creador! Per què no vaig perdre en aquell moment la flama de l’existència que tan imprudentment vares encendre?” brama, amb set de venjança, la solitària criatura de Víctor Frankenstein a l’obra mestra de Mary Shelley. Sense màquines al relat, <em>Frankenstein</em> ha contribuït a crear un imaginari simbòlic de la Intel·ligència Artificial (IA) més a prop del recel que de l&#8217;encís: les nostres creacions poden rebel·lar-se i posar la humanitat contra les cordes. Són un mirall d&#8217;aquesta por irracional les novel·les <em>1984</em>, <em>Jo, robot</em>, <em>Un Món feliç</em>; les pel·lícules <em>Blade Runner</em>, <em>Matrix</em>, <em>Ex-Machina</em>; les sèries <em>Black Mirror</em>, <em>Westworld</em>… La llista és inacabable.</p>
+
+
+
+<p>Segons l&#8217;estudi <em>El Factor Frankenstein: anatomia de la por a la Intel·ligència Artificial</em>, elaborat per SogetiLabs el 2017, més d’un terç dels ciutadans de la Unió Europea creu que l’IA serà una amenaça per a la supervivència de l&#8217;home a llarg termini. Mentrestant, un 46% no veu cap benefici en la idea de desenvolupar robots humanoides. &#8220;Hi ha quelcom d&#8217;atàvic en la por que els humans sentim cap al progrés i la tecnologia. Cap a un futur que ens parla de suplantació&#8221;, escriu el director de <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=p2xad7Rm4DI" target="_blank">la pel·lícula <em>Eva</em></a>, el barceloní Kike Maíllo, a <a rel="noreferrer noopener" href="https://revistaidees.cat/es/la-maquina-aparentemente-desobediente/" target="_blank"><em>La Màquina Aparentment Desobedient</em>, publicat a la Revista Idees</a> del Centre d&#8217;Estudis de Temes Contemporanis (CETC), que dimecres va oferir un diàleg en línia sobre l&#8217;imaginari simbòlic de l&#8217;IA entre dos investigadors de primer nivell: Ramon López de Mántaras i Carme Torras. </p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Diàleg online | L’imaginari simbòlic de la IA" width="1160" height="653" src="https://www.youtube.com/embed/4VlbfWFlNbs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>El cert és que la ciència-ficció ha apel·lat molt més a la distopia que a la utopia. I quan la tecnologia entra en escena, ja podem presagiar un final apocalíptic. Tot i això, la ciència-ficció no només ha servit per sembrar el terror: també ha contribuït a &#8220;crear debat i consciència crítica sobre la tecnologia i la Intel·ligència Artificial&#8221;, va advertir Carme Torras. </p>
+
+
+
+<p>De fet, Torras, que és investigadora a l&#8217;Institut de Robòtica i Informàtica Industrial de la Universitat Politècnica de Catalunya (UPC), doctora en Informàtica i novel·lista, ho ha posat en pràctica a <em>La mutació sentimental</em> (Editorial Pagès Editors), on es planteja si el fet de ser criat per mainaderes artificials i educat per mestres robòtics afectaria els nostres hàbits intel·lectuals, emocionals i socials. Al mateix temps, posa sobre la taula una sèrie de qüestions que són utilitzades actualment a diverses universitats del món per impartir formació ètica en algunes carreres tecnològiques. Així, Orwell, Huxley o Shelley han entrat a l&#8217;acadèmia per polemitzar el dilema seguretat versus llibertat, el totalitarisme tecnològic, els substituts emocionals, les rèpliques humanes i un prolongat etcètera. Els interrogants morals també perseguiran el lector d&#8217;<em>Enxarxats</em>, obra de la mateixa autora &#8211;<a rel="noreferrer noopener" href="https://www.fundaciobit.org/es/carme-torras-enxarxats/" target="_blank">i a la qual la Fundació Bit va dedicar aquesta ressenya</a>. Aquesta setmana, la Fundació Mallorca Literària ha entrevistat a Torras sobre aquesta novel·la i ha reflexionat amb ella sobre els múltiples dilemes que plantegen les xarxes socials a la societat. </p>
+
+
+
+<figure class="wp-block-embed-facebook wp-block-embed is-type-video is-provider-facebook"><div class="wp-block-embed__wrapper">
+<div class="fb-video" data-allowfullscreen="true" data-href="https://www.facebook.com/mallorcaliteraria/videos/669074210336191/"></div>
+</div></figure>
+
+
+
+<h3>La màquina es rebel·la</h3>
+
+
+
+<p>Predir el futur mai ha estat fàcil. Tot i això, durant l&#8217;acte del CETC, Ramón López de Mántaras, enginyer físic i investigador del Consell Superior d&#8217;Investigacions Científiques (CSIC), ens recordà la gran quantitat de projectes de recerca en IA dels darrers 50 anys que van ser anticipats per <em>2001: una Odissea a l’Espai</em> (1968). Per exemple, <a rel="noreferrer noopener" href="/2019/12/13/una-tecnologia-que-avanca-malgrat-els-emperons/" target="_blank">el reconeixement facial</a> -“fins i tot quan la cara només hi està dibuixada”, precisa l&#8217;investigador-, el diagnòstic predictiu d’avaries, la lectura de llavis, la capacitat de jugar a escacs a molt alt nivell o el domini absolut del llenguatge natural. López de Mántaras afegeix que el supercomputador Hal, encarregat de controlar les funcions de la nau espacial, no simula tenir estats mentals sinó que realment els experimenta, així com la por de ser desconnectat. Per això Hal &#8220;mata en defensa pròpia&#8221;, diu. De nou, la màquina es rebel·la.&nbsp;</p>
+
+
+
+<p>No obstant això, el dilema del robot entre acatar i sotmetre&#8217;s va aparèixer per primer cop a l&#8217;obra d&#8217;Isaac Asimov. El visionari autor, que enguany hauria complit 100 anys, despuntà com a escriptor enmig de l’horror d’Hiroshima i Nagasaki i una allau d’avenços tecnològics que amenaçaren com mai abans la humanitat. Asimov, científic de professió, va recórrer a la literatura per plantejar els dubtes i les pors que li generava la ciència: al seu llibre <em>Jo, Robot</em> va establir <a href="https://ca.wikipedia.org/wiki/Lleis_de_la_rob%C3%B2tica">les famoses lleis fonamentals de la convivència entre humans i robots</a>, que han estat assimilades per la comunitat que investiga en IA.</p>
+
+
+
+<p>La fragmentació del coneixement en compartiments estancs mai no ha afavorit el progrés. Per això, la multidisciplinarietat és necessària si volem evitar el desastre. <a rel="noreferrer noopener" href="https://revistaidees.cat/la-ciencia-ficcio-i-el-debat-entre-etica-i-intelligencia-artificial/" target="_blank">Com escriu Torras a la Revista Idees</a>, el món de la recerca de la IA ha vist &#8220;la necessitat de treballar conjuntament amb científics socials, psicòlegs, advocats, filòsofs i antropòlegs per tal d’analitzar les implicacions socials i ètiques de les tecnologies que s’estan desenvolupant i la forma com s’estan desplegant&#8221;. I en aquesta tasca, la literatura, el setè art i els diferents engranatges que alimenten el nostre imaginari simbòlic hi tenen molt a dir. Com va dir Neal Stephenson, la ciència-ficció pot donar idees per a innovacions tècniques i, sobretot, &#8220;pot oferir una imatge coherent d’aquestes innovacions integrades en una societat, en l’economia i en la vida de les persones”. </p>
+
+
+
+<p>Així, Kike Maíllo aconsegueix a la seva pel·lícula <em>Eva</em> que el gran públic es plantegi: Les màquines de companyia podran ser bones amigues nostres? Serem capaços d&#8217;establir lligams d&#8217;afecte amb artefactes que es limiten a obeir el seu propietari? I si els conferim consciència i lliure albir per a igualar-nos-hi, quina relació de poder hi establirem amb les màquines, una vegada hagin adquirit una intel·ligència immensament superior a la nostra?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1337</post-id>	</item>
+		<item>
+		<title>Ètica per blanquejar la Intel·ligència Artificial</title>
+		<link>/2020/02/15/etica-inteligencia-artificial-maquillatge/</link>
+					<comments>/2020/02/15/etica-inteligencia-artificial-maquillatge/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 15 Feb 2020 00:31:19 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Filosofia]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Philosophy]]></category>
+		<guid isPermaLink="false">/?p=747</guid>
+
+					<description><![CDATA[La Unió Europea ultima una nova llei per regular l&#8217;IA: podrà esquivar la pressió dels lobbies tecnològics? Queden poc més de vint dies perquè la&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h3>La Unió Europea ultima una nova llei per regular l&#8217;IA: podrà esquivar la pressió dels <em>lobbies</em> tecnològics?</h3>
+
+
+
+<p>Queden poc més de vint dies perquè la nova presidenta de la Comissió Europea (CE), Ursula von der Leyen, compleixi una de les grans promeses: una regulació més dura per a l&#8217;ús de la Intel·ligència Artificial (IA) abans dels cent primers dies de mandat. <a rel="noreferrer noopener" aria-label="Segons Bloomberg, que va tenir accés a l'esborrany de la normativa (opens in a new tab)" href="https://www.bloomberg.com/news/articles/2020-01-16/europe-mulls-new-tougher-rules-for-artificial-intelligence" target="_blank">Segons Bloomberg, que va tenir accés a un esborrany de la normativa</a>, el braç executiu de la Unió Europea (UE) estudia noves obligacions per a les autoritats públiques amb relació a l&#8217;IA i, entre altres mesures, es planteja <a href="/2019/10/13/els-perills-del-reconeixement-facial/">la prohibició del reconeixement facial</a> durant cinc anys amb la finalitat de buscar solucions que rebaixin els riscos que comporta aquesta tecnologia.</p>
+
+
+
+<p>Segons Bloomberg, un portaveu de la CE va dir que la UE vol definir ara un projecte legislatiu propi, amb &#8220;perspectiva europea&#8221; i &#8220;humana&#8221;. O sigui, allunyada del camí que han seguit els Estats Units, la Xina o el Japó; els seus grans competidors en la cursa de les superpotències per liderar el camp de la Intel·ligència Artificial. Una regulació on l&#8217;ètica, la confiança i la seguretat dels ciutadans siguin al centre de l&#8217;estratègia.</p>
+
+
+
+<p>Però aquesta proposta normativa no és el primer que veurà la llum. A l&#8217;octubre del 2018, es va aprovar la Declaració sobre Ètica i Protecció de Dades en Intel·ligència Artificial, i a l&#8217;abril del 2019, un grup d’experts d’alt nivell de la Comissió Europea va fer públiques les seves Directrius Ètiques per a una IA Confiable (<em>Ethics Guidelines for Trustworthy AI</em>). Aquest projecte, però, no va convèncer a tothom. Ni tan sols a tots els experts que van firmar el document. </p>
+
+
+
+<h5>Veus crítiques</h5>
+
+
+
+<p>El 8 d&#8217;abril del 2019, un dels 52 membres de la comissió d&#8217;experts <a rel="noreferrer noopener" aria-label="va denunciar en un article allò que considerava un &quot;blanquejament ètic&quot; de les directrius (opens in a new tab)" href="https://www.tagesspiegel.de/politik/eu-guidelines-ethics-washing-made-in-europe/24195496.html" target="_blank">va denunciar en un article allò que considerava un &#8220;blanquejament ètic&#8221; de les directrius</a> que, en un principi, havien d&#8217;establir unes línies roges per a la Intel·ligència Artificial al vell continent. Així, Thomas Metzinger, professor de filosofia de la Universitat de Mainz, Alemanya, assegura a <em>Der Tagesspiegel</em> que &#8220;la història de la Intel·ligència Artificial confiable és una narrativa publicitària inventada per la indústria, un conte per anar a dormir per als clients del futur&#8221;.</p>
+
+
+
+<p>&#8220;El relat de la Intel·ligència Artificial de confiança pretén eixamplar els mercats futurs i utilitzar els debats sobre Ètica com un bell decorat públic per a una estratègia d’inversió a gran escala&#8221;, prosegueix Metzinger. Explica, a més, que la seva tasca a la comissió passava per desenvolupar els principis ètics no negociables sobre els usos de la IA a Europa -per exemple, l&#8217;<a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">ús d’armes automàtiques letals</a> o la puntuació social de ciutadans per part de l’Estat-, fins que l&#8217;expresident de Nokia i també membre del grup d&#8217;experts, Pekka Ala-Pietilä, li va demanar educadament que retirés l&#8217;expressió &#8220;no negociable&#8221; del document. Més tard, altres membres de la comissió i representants de la indústria, van insistir amb vehemència que s&#8217;eliminés del text el concepte de &#8220;línies roges&#8221; i que, com a molt, es parlés de &#8220;preocupacions crítiques&#8221;. I així s&#8217;hi va reflectir. </p>
+
+
+
+<p>&#8220;La indústria organitza i conrea debats ètics per adquirir temps, distreure el públic i evitar o endarrerir la regulació&#8221;, conclou Metzinger. Afegeix, en aquest sentit, que als polítics també solen constituir comitès d’ètica perquè &#8220;els dona un curs d’acció quan, en realitat, no saben què fer&#8221;. De la mateixa manera, el professor assenyala que Facebook va finançar un institut per formar ètics de l&#8217;IA, mentre Google va intentar constituir un marc ètic contractant els filòsofs Joanna Bryson i Luciano Floridi, essent aquest darrer membre del grup d&#8217;experts. Un fet que hauria pogut donar a Google la possibilitat de conèixer de primera mà les restriccions per a l&#8217;IA que es gestaven a la comissió.</p>
+
+
+
+<p>Tanmateix, la de Metzinger no va ser l&#8217;única veu que es va alçar. El desembre de l&#8217;any passat, <a rel="noreferrer noopener" aria-label="un exinvestigador del Massachusetts Institute of Technology (MIT) denunciava a The Intercept (opens in a new tab)" href="https://theintercept.com/2019/12/20/mit-ethical-ai-artificial-intelligence/?utm_source=The+Intercept+Newsletter&amp;utm_campaign=0277d72712-EMAIL_CAMPAIGN_2019_12_21&amp;utm_medium=email&amp;utm_term=0_e00a5122d3-0277d72712-129874945" target="_blank">un exinvestigador del Massachusetts Institute of Technology (MIT), Rodrigo Ochigame, denunciava a The Intercept</a> que Silicon Valley pagava estudis sobre ètica de la Intel·ligència Artificial per impedir la seva regulació i que, per tant, la recerca esdevenia una &#8220;tapadora&#8221; destinada a &#8220;blanquejar&#8221; aquesta tecnologia. </p>
+
+
+
+<h5>La intrusió dels gegants</h5>
+
+
+
+<p>Ochigame assegura que la majoria dels treballs finançats al voltant de la recerca en Intel·ligència Artificial Ètica &#8220;està aliniada estratègicament amb el <em>lobby</em> tecnològic que busca evitar restriccions per al desplegament de tecnologies controvertides&#8221;. En aquest sentit, l&#8217;exinvestigador esmenta les grans empreses que han abanderat uns principis ètics basats en estudis desenvolupats i finançats pel MIT i altres universitats punteres que van rebre diners de la indústria de la tecnologia per treballar en aquest camp.</p>
+
+
+
+<p>L&#8217;exestudiant també revela els vincles entre les grans tecnològiques i els instituts de recerca en l&#8217;àmbit de l&#8217;Ètica. Així, per exemple, Ochigame escriu que &#8220;el <em>Data &amp; Society Research Institute</em> està dirigit per un investigador de Microsoft i finançat inicialment per una subvenció Microsoft; l&#8217;<em>AI Institute</em> de la Universitat de Nova York va ser cofundat per un altre investigador de Microsoft i parcialment finançat per Microsoft, Google i DeepMind; l&#8217;<em>Stanford Institute for Human-Centered AI</em> està codirigit per un exvicepresident de Google; a la Universitat de Califòrnia, la divisió de Ciències de les Dades de Berkeley està encapçalada per un veterà de Microsoft; i el <em>MIT Schwarzman College of Computing</em> està dirigit per un membre del consell d&#8217;Amazon&#8221;. </p>
+
+
+
+<p>Ochigame hi afegeix que el camp de l&#8217;Ètica també s&#8217;ha fet important per a l&#8217;exèrcit nord-americà, no només pel que fa a les <a rel="noreferrer noopener" aria-label="preocupacions sobre armes autònomes letals (opens in a new tab)" href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/" target="_blank">preocupacions sobre les polèmiques armes autònomes letals</a>, sinó també pel que fa a les <a href="/2019/10/30/microsoft-pren-a-amazon-els-secrets-de-lexercit-nordamerica/">disputes entre empreses de Silicon Valley sobre certs contractes militars altament lucratius</a>. L&#8217;1 de novembre, el Consell d&#8217;Innovació del Departament de Defensa va publicar les seves recomanacions sobre Principis Ètics de l&#8217;IA. L&#8217;exinvestigador assenyala que el consell està dirigit per Eric Schmidt, que era el president executiu d&#8217;Alphabet, la matriu de Google.</p>
+
+
+
+<h5>Preguntes sense resposta</h5>
+
+
+
+<p>Qui decideix quan s’ha d’utilitzar IA, amb quines finalitats, i qui i com la desenvolupa? Aquestes són les preguntes que han de marcar una via ètica independent, segons <a rel="noreferrer noopener" href="https://algorithmwatch.org/wp-content/uploads/2019/01/Automating_Society_Report_2019.pdf" target="_blank">l&#8217;informe <em>Automating Society</em> d&#8217;Algorithm Watch</a>, i que el Parlament Europeu va recolzar quan subratllava la importància d&#8217;una mirada social, moral i responsable en el desplegament de la Intel·ligència Artificial. I aquesta és la línia pròpia que la Comissió Europea s&#8217;ha plantejat empènyer. Però&#8230; es prendrà l&#8217;ètica seriosament, Europa? O caldrà esperar més per a això (quan potser sigui massa tard)?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/15/etica-inteligencia-artificial-maquillatge/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">747</post-id>	</item>
+		<item>
+		<title>Algoritmes esbiaixats: màquines que no fan justícia</title>
+		<link>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/</link>
+					<comments>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/#respond</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2019 12:22:37 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Algorithm]]></category>
+		<category><![CDATA[Algoritme]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Aprenentatge Automàtic]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Salut]]></category>
+		<category><![CDATA[Tinder]]></category>
+		<guid isPermaLink="false">/?p=297</guid>
+
+					<description><![CDATA[Florida, 2014. Una tarda de primavera, Brisha Borden i un amiga, totes dues de 18 anys, roben una bici i un patinet. En plena fugida,&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Florida, 2014. Una tarda de primavera, Brisha Borden i un amiga, totes dues de 18 anys, roben una bici i un patinet. En plena fugida, s’adonen que són massa grans per conduir els vehicles, que pertanyen a un nen de sis anys. La policia les arresta i les acusa de robar uns objectes valorats en 80 dòlars. A l’estiu anterior, Vernon Prater, de 41 anys, és detingut per robar a una botiga diversos articles que sumen 86,35 dòlars. Està en cerca i captura i ja ha passat cinc anys a la presó per robatori armat i dos delictes més. A la presó, un sistema informàtic anomenat COMPAS* puntua la probabilitat de reincidència dels reclusos. A Borden, de pell negra, li atribueix un risc elevat i a Prater, de pell blanca, un risc baix. Dos anys després, es descobreix que l’algoritme predictiu no l’ha encertada: Borden no ha comès cap altra infracció, mentre Prater compleix una pena de vuit anys de presó per un altre robatori.</p>
+
+
+
+<p>Aquest no és un cas aïllat. Dos anys després d’aquests fets, <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">una investigació de Propublica va demostrar</a> que el sistema tendia a assignar riscos molt més elevats a les persones de pell fosca que a les de pell blanca. Era el resultat d’allò que es coneix com a biaix predictiu; en aquest cas, racista.</p>
+
+
+
+<h2>D’on surt aquest biaix?</h2>
+
+
+
+<p>L&#8217;origen s’amaga en els principis més bàsics dels algoritmes predictius, també anomenats d’Aprenentatge Automàtic (Machine Learning, en anglès). Aquests algoritmes, actualment tant habituals, es basen en una anàlisis estadística de dades històriques, a partir de les quals s’extreuen patrons que més endavant serveixen per fer prediccions sobre noves dades. Com a conseqüència, si aquestes dades històriques contenen una representació esbiaixada de la realitat, les prediccions de l’algoritme predictiu reproduiran el mateix biaix.</p>
+
+
+
+<p>Però això no és tot. L’estudi de Propublica va demostrar que la diferència a l’hora d’avaluar persones de colors diferents no s&#8217;explicava només per unes dades històricament esbiaixades, sinó que l&#8217;algoritme tendia a equivocar-se de manera diferent en funció de si examinava persones de pell negra o de pell blanca. Així, COMPAS va atribuir el doble de vegades un risc erròniament alt de reincidència als presos de pell negra; mentre va assignar un risc erròniament baix a molts més reclusos de pell blanca. Per tant, en aquest cas, la Intel·ligència Artificial no ajudava a mitigar les diferències racials inherents a les dades històriques, sinó que encara les potenciava més.</p>
+
+
+
+<p>Per què? Propublica ressaltava que COMPAS no preguntava la raça del pres per formar l’algoritme. No obstant això, les variables que utilitzava per obtenir informació eren 137 preguntes personals sobre el detingut i el seu entorn, com “Els teus amics o familiars formen part de bandes criminals?” o “Has provat l&#8217;heroïna?”. Però el problema és que, als Estats Units, les diferències socials entre els col·lectius racials són prou importants com perquè es vegin reflectides en aquest tipus de respostes. Així, si s&#8217;evités proporcionar a l&#8217;algoritme dades que permeten deduir el color de pell, es quedaria sense informació per a fer prediccions amb precisió.</p>
+
+
+
+<h2>Conseqüències en el treball, en la salut, en l’amor</h2>
+
+
+
+<p>El cas de COMPAS no és una excepció, ja que els biaixos predictius són un fenomen inherent als algoritmes d’Intel·ligència Artificial, que són cada dia més freqüents al nostre entorn. </p>
+
+
+
+<p>El 2014, <a href="https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G?utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz--y-ycxgaCuFg_VJZNKEV72YYe72ryGDwDcZmF4qpvJJsCrmqY2DqHNktpSZD4K2U0Vk-Ri">Amazon va desenvolupar una eina intel·ligent per reclutar els millors treballadors</a>. Un any més tard, la multinacional va adonar-se que als llocs tècnics no hi havia cap dona. La companyia va abandonar l’eina després que una auditoria interna trobés que els candidats homes havien obtingut més puntuació que les dones. Per què? <a href="https://medium.com/think-by-shifta/por-qu%C3%A9-la-inteligencia-artificial-discrimina-a-las-mujeres-18b123ecca4c">Tal com expliquen Karma Peiró i Ricardo Baeza-Yates a Medium</a>, les dades massives que serviren per nodrir l’algoritme de sel·lecció de personal es basaven en currículums rebuts durant l&#8217;última dècada, quan amb prou feines hi havia dones programadores. Quan el sistema automàtic detectava la paraula “dona” o un sinònim, la penalitzava i puntuava més baix.</p>
+
+
+
+<p>En l’àmbit sanitari, als Estats Units s’utilitzen algoritmes per guiar algunes decisions mèdiques. El 25 d’octubre, <a href="https://science.sciencemag.org/content/366/6464/447.full?utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz--y-ycxgaCuFg_VJZNKEV72YYe72ryGDwDcZmF4qpvJJsCrmqY2DqHNktpSZD4K2U0Vk-Ri">la revista Science explicava que els models utilitzats per assignar cures</a> als 100 milions de pacients nordamericans que pateixen malalties cròniques, com atacs de cor o diabetis, prioritzaven els pacients blancs en detriment dels negres, i rebien abans una assistència mèdica urgent.</p>
+
+
+
+<p>Al llibre El Algoritmo del Amor, Judith Duportail explica que <a href="https://www.arabalears.cat/cultura/Tinder-construir-parelles-desiguals_0_2285171474.html">l’algoritme de Tinder classifica els usuaris segons la bellesa, el gènere, els estudis i la classe social</a>. Duportail sosté que els homes amb més ingressos i nivell d’estudis tenen una gratificació i, en canvi, a les dones amb els mateixos atributs se les penalitza. Per això, considera que Tinder vol construir parelles desiguals en què l’home sempre sigui superior: amb més estudis, més ingressos i més edat. Com s&#8217;explica això? Per una banda, l’algoritme és el resultat d’una compilació de dades que ha tingut lloc dins una societat masclista i, per l’altra banda, segons l’autora del llibre, els programadors de l’aplicació han introduït els seus propis biaixos dins el programari. Com trencar aquest cercle viciós?</p>
+
+
+
+<h2>Algunes solucions</h2>
+
+
+
+<p>El <a href="https://fedit.com/2017/09/proyecto-fair-un-algoritmo-para-evitar-discriminaciones-en-la-busqueda-de-trabajo-o-de-pareja/">Centre Tecnològic Eurecat, de la mà de la Universitat Pompeu Fabra (UPF) i la Universitat Tècnica de Berlín</a>, ha creat un algoritme, anomenat FA*IR, per evitar la discriminació per raons de gènere, procedència o aparença física en cercadors de feina o de parella. FA*IR detecta els biaixos i els corregeix incorporant un mecanisme per a reordenar els resultats sense afectar la validesa del rànquing. <a href="https://www.upf.edu/recercaupf/-/asset_publisher/RVNxhLpxnc9g/content/id/226511859/maximized">Des de l’UPF, a més, proposen utilitzar els algoritmes de manera crítica</a> i en col·laboració amb experts de l’àrea que correspongui.</p>
+
+
+
+<p>Rachel Thomas, directora del Centre d’Ètica Aplicada a les Dades de la Universitat de San Francisco, recomana que cada conjunt de dades es presenti amb un document on s’hi descrigui com es va compilar. També aconsella especificar-hi qualsevol preocupació ètica o legal que hagi pogut sorgir durant el procés. Suggereix, tanmateix, que els equips incloguin gent diversa capaç d’advertir els diferents biaixos.</p>
+
+
+
+<p>El 2017, l’<a href="https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf">Associació de Maquinària Informàtica (ACM) publicà un manifest</a> en defensa de la transparència algorítimica i va establir set principis:</p>
+
+
+
+<ol><li>Consciència. Els creadors d’aquests sistemes han de ser conscients de la possibilitat que hi hagi biaixos en el seu disseny, implementació i ús.</li><li>Accés. Els reguladors han d’afavorir l’introducció de mecanismes perquè els individus i grups negativament afectats per decisions algorítmiques puguin qüestionar-les i rectificar-les.</li><li>Passar comptes. Les institucions han de ser responsables de les decisions de l’algoritme, encara que no puguin detallar com s’han pres.</li><li>Explicació. Les institucions que empren sistemes intel·ligents han de promoure la producció d’explicacions sobre els procediments i les decisions específiques que s’hi prenen.</li><li>Procedència de les dades. Les dades emprades per a l’entrenament han d’anar acompanyades d’una descripció del seu origen.</li><li>Auditabilitat. Models, dades i decisions han de quedar registrats perquè puguin auditar-se quan se sospita d’algun error.</li><li>Validació i proves. Les institucions han de fer proves rutinàries per a avaluar i determinar si el model genera discriminació.</li></ol>
+
+
+
+<h2>Encara queda molt per fer</h2>
+
+
+
+<p>Malgrat els esforços, els biaixos algoritmics són entre els grans problemes de la comunitat científica. En alguns casos, les dades sovint reflecteixen diferències no atribuïbles a biaixos, sinó que són resultat d’una descripció objectiva de la realitat i no té sentit corregir-los. A vegades, però, aquests contrastos són producte de certes diferències històriques que cal pal·liar per construir una societat més justa. Tot plegat requereix una feina complexa però necessària per redefinir com conceptualitzem el món i, en conseqüència, com obtenim les dades. Al mateix temps, és urgent introduir l&#8217;Ètica a l&#8217;hora d&#8217;entrenar models intel·ligents que, de ben segur, tindran un gran impacte social.</p>
+
+
+
+<h5>Notes:</h5>
+
+
+
+<p class="has-small-font-size">*COMPAS és l&#8217;acrònim de Correctional Offender Management Profiling for Alternative Sanctions, que en català es tradueix com a Perfilat per la Gestió Correctiva d&#8217;Infractors per Sancions Alternatives.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">297</post-id>	</item>
+	</channel>
+</rss>

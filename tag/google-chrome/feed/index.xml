@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Google Chrome &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/google-chrome/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:15:28 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Google Chrome &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Google posa fi a les &#8216;cookies&#8217;, l&#8217;eina que rastreja els usuaris</title>
+		<link>/2020/01/15/google-elimina-chrome-cookies-privadesa/</link>
+					<comments>/2020/01/15/google-elimina-chrome-cookies-privadesa/#respond</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2020 21:14:20 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Cookies]]></category>
+		<category><![CDATA[Galetes]]></category>
+		<category><![CDATA[GDPR]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Chrome]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Publicitat]]></category>
+		<guid isPermaLink="false">/?p=654</guid>
+
+					<description><![CDATA[Google elimina les cookies, l'eina que rastreja els usuaris, però crearà eines alternatives que poden convertir-la en un intermediari encara més poderós]]></description>
+										<content:encoded><![CDATA[
+<h2>La companyia crearà eines alternatives que poden convertir-la en un intermediari de la publicitat digital encara més poderós</h2>
+
+
+
+<p>Google Chrome eliminarà les ‘cookies’ o galetes publicitàries -que segueixen els usuaris d&#8217;una web a una altra i rastregen els seus hàbits de navegació-, tal com ja han fet Microsoft, Mozilla Firefox i Safari d&#8217;Apple. Ho ha anunciat Justin Schuh, el director d&#8217;enginyeria del navegador, en una entrada al blog titulada &#8216;<a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://blog.chromium.org/2020/01/building-more-private-web-path-towards.html" target="_blank">Construir una web més privada; un camí perquè les galetes de tercers quedin obsoletes</a>&#8216;. I ja ha fixat data: el 2022.</p>
+
+
+
+<p>Les <em>cookies</em> de tercers són importantíssimes per la indústria publicitària i editorial des de fa 25 anys. Són petits arxius de text que donen informació als venedors de les pàgines web que un usuari visita i, d’aquesta manera, els permet personalitzar els anuncis en línia. </p>
+
+
+
+<h3>Google en sortirà reforçat</h3>
+
+
+
+<p>El principal negoci de Google és la publicitat, i les <em>cookies</em> són un pilar d&#8217;aquest negoci. Però com moltes de les reformes favorables a la privacitat que s’estan introduïnt a Europa i als Estats Units, aquesta mesura pot reforçar encara més Google, que ja ha acumulat grans quantitats de dades internes dels seus usuaris. I la informació és poder.</p>
+
+
+
+<p>El propi enginyer de Chrome explica que desenvoluparan eines alternatives per mantenir webs amb publicitat. Unes alternatives que poden convertir Chrome en un intermediari encara més important per a la publicitat, <a rel="noreferrer noopener" aria-label="segons el Financial Times (opens in a new tab)" href="https://www.ft.com/content/1f56591e-36e1-11ea-a6d3-9a26f8c3cba4" target="_blank">segons el Financial Times</a>, en mantenir la informació sobre els usuaris, i podent compartir-la selectivament amb altres empreses. </p>
+
+
+
+<p>David Tomàs, CEO de Cyberclick, explica <a rel="noreferrer noopener" aria-label="al Popap que Google vol un sistema centralitzat (opens in a new tab)" href="https://www.ccma.cat/catradio/alacarta/popap/google-anuncia-que-eliminara-les-cookies-de-la-publicitat-digital/audio/1060533/" target="_blank">al Popap que Google vol un sistema centralitzat</a>, on tota la informació quedi sota el seu control i evitar sistemes que titlla d'&#8221;opacs&#8221; com els d&#8217;empremta digital de navegador (<em>fingerprinting</em>), que registren les característiques del navegador web de l&#8217;usuari -com el tamany de la pantalla- sense que ho sàpiga.</p>
+
+
+
+<h3>Un gegant sota la lupa</h3>
+
+
+
+<p>La mesura s&#8217;anuncia quan l&#8217;autoritat de protecció de dades d&#8217;Irlanda investiga el negoci de publicitat en línia de Google i la pràctica de les ofertes en temps real a petició de Brave, <a href="https://www.ara.cat/media/Brave-navegador-web-valent_0_2352964838.html">un nou navegador que inclou de sèrie funcions avançades de privadesa i bloqueig de publicitat</a>.</p>
+
+
+
+<p>Tot i així, Chrome <em>ven</em> la mesura<a href="https://blog.chromium.org/2020/01/building-more-private-web-path-towards.html"> com una resposta lògica als clams dels usuaris per una privacitat més sòlida a la xarxa</a>: &#8220;Els usuaris exigeixen una major privadesa (inclosa la transparència, decisió i control sobre com s&#8217;utilitzen les seves dades) i està clar que l&#8217;ecosistema web ha d&#8217;evolucionar per satisfer aquestes demandes creixents&#8221;, escriu Schuh.</p>
+
+
+
+<h3><strong>Una il·legalitat generalitzada</strong></h3>
+
+
+
+<p>Investigadors de l&#8217;Institut Tecnològic de Massachusetts (MIT) i altres universitats punteres <a rel="noreferrer noopener" aria-label="han publicat un estudi conjunt sobre l'ús de les cookies (opens in a new tab)" href="https://www.bbc.com/news/technology-51106526" target="_blank">han publicat un estudi conjunt sobre l&#8217;ús de les <em>cookies</em></a>, que no en surten ben parades. Les lleis de privadesa de la Unió Europea estableixen que el consentiment de seguiment de l&#8217;usuari ha de ser informat i donat lliurement. Tot i així, l&#8217;estudi suggereix que només un 11,8% dels llocs compleixen els requisits mínims del Reglament General de Protecció de Dades (GDPR).</p>
+
+
+
+<p>A més, els investigadors es van trobar amb tota mena d&#8217;estratègies per confondre l&#8217;usuari a l&#8217;hora de demanar el consentiment a l&#8217;ús de les galetes. Per exemple, van topar amb opcions d&#8217;acceptació premarcades, botons de denegació del consentiment amagats o que requerien molts clics per marcar-los o, directament, pàgines que feien seguiment abans de demanar el consetiment o, fins i tot, un cop denegat. </p>
+
+
+
+<p>En total, més de la meitat dels llocs analitzats no tenien l&#8217;opció de rebutjar el seguiment. I dels que la tenien, només un 12,6% permetien rebutjar-lo amb igual o inferior nombre de clics necessaris per acceptar-les.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/01/15/google-elimina-chrome-cookies-privadesa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">654</post-id>	</item>
+	</channel>
+</rss>

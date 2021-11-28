@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Hacker &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/hacker/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Hacker &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>El voluntariat digital triomfa en la competició catalana d&#8217;apps per al confinament</title>
+		<link>/2020/04/16/el-voluntariat-digital-triomfa-en-la-competicio-catalana-dapps-per-al-confinament/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2020 16:33:11 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Ajudem.cat]]></category>
+		<category><![CDATA[Alex Párraga]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Coronatíquets]]></category>
+		<category><![CDATA[Departament de Polítiques Digitals]]></category>
+		<category><![CDATA[Digital Future Society]]></category>
+		<category><![CDATA[Edukiapp]]></category>
+		<category><![CDATA[Fundació i2CAT]]></category>
+		<category><![CDATA[Hackató]]></category>
+		<category><![CDATA[Hacker]]></category>
+		<category><![CDATA[Hackovid]]></category>
+		<category><![CDATA[Humbert Blanco]]></category>
+		<category><![CDATA[Jordi Puigneró]]></category>
+		<category><![CDATA[Juan Irache]]></category>
+		<category><![CDATA[Lucía Román]]></category>
+		<category><![CDATA[Marc Aymerich]]></category>
+		<category><![CDATA[Marc Celeiro]]></category>
+		<category><![CDATA[Mobile World Capital Barcelona]]></category>
+		<category><![CDATA[Nebots]]></category>
+		<category><![CDATA[Pau Riba]]></category>
+		<category><![CDATA[Regalocal]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Toti Moragas]]></category>
+		<category><![CDATA[Trick-troc]]></category>
+		<category><![CDATA[UPCoders]]></category>
+		<category><![CDATA[Voluntariat digital]]></category>
+		<guid isPermaLink="false">/?p=961</guid>
+
+					<description><![CDATA[La &#8216;Hackovid&#8217; dona un impuls a la tecnologia ètica per a la quarentena &#8220;Tot granet de sorra compta&#8221; a l&#8217;hora d&#8217;encarar els reptes socials que&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>La &#8216;Hackovid&#8217; dona un impuls a la tecnologia ètica per a la quarentena</h2>
+
+
+
+<p>&#8220;Tot granet de sorra compta&#8221; a l&#8217;hora d&#8217;encarar els reptes socials que planteja la pandèmia. Així ho pensa l&#8217;Humbert Blanco que, al costat del Marc Celeiro i el Pau Riba -d&#8217;entre 17 i 21 anys- aquest dimecres han recollit virtualment el primer guardó de la &#8216;<a rel="noreferrer noopener" href="https://hackovid.cat/solutions" target="_blank">Hackovid</a>&#8216;, un concurs d&#8217;aplicacions innovadores per trobar solucions als entrebancs del confinament i el post-confinament. </p>
+
+
+
+<p>La proposta de Blanco, Celeiro i Riba és la plataforma <a rel="noreferrer noopener" href="https://ajudem.cat/" target="_blank">Ajudem.cat</a>, que facilita el voluntariat entre veïns. Així, la pàgina és un punt de trobada entre els qui volen ajudar i els qui necessiten un cop de mà, tenint en compte la proximitat geogràfica. I no només això. També ofereix informació i consells sobre la Covid-19 i compta amb una plataforma de videotrucades de programari lliure i de codi obert. &#8220;Hem utilitzat la infraestructura que tenim, de manera que els servidors són nostres i no suposa cap risc per a la privacitat”, subratlla Blanco a La Tecnòloga. I tot això ha estat desenvolupat en només 12 dies. &#8220;Hem treballat moltíssim i hem dormit poc&#8221;, admet. Però al final l&#8217;esforç ha valgut la pena i ara, gràcies al premi, el projecte compta amb 7.000 euros de pressupost.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2049.png" alt="⁉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Què és i com funciona <a href="https://t.co/PiKxBhLiQ1">https://t.co/PiKxBhLiQ1</a>? T&#39;ho expliquem en aquest vídeo! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4f9.png" alt="📹" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/SomAix%C3%AD?src=hash&amp;ref_src=twsrc%5Etfw">#SomAixí</a> <a href="https://t.co/frhBfujfDY">pic.twitter.com/frhBfujfDY</a></p>&mdash; Ajudem.cat (@ajudem_cat) <a href="https://twitter.com/ajudem_cat/status/1249283199282425861?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div><figcaption>Ajudem.cat facilita el voluntariat entre veïns.</figcaption></figure>
+
+
+
+<p>La &#8216;Hackovid&#8217;, impulsada pel Departament de Polítiques Digitals i la <a rel="noreferrer noopener" href="https://www.i2cat.net/about-us/" target="_blank">Fundació i2CAT</a>, amb el suport de la Mobile World Capital Barcelona, ha aconseguit reunir en aquesta primera &#8216;hackató&#8217; -o sigui, una marató de persones vinculades a la informàtica- més de 300 participants i més de 50 mentors per fer realitat una seixantena de solucions tecnològiques per a fer més digerible la quarantena. </p>
+
+
+
+<p>&#8220;S&#8217;han plantejat propostes genials i demostren que el sector tecnològic aporta un gran valor a la societat; ara més que mai&#8221;, afirma Blanco. Un valor que també ha subratllat el conseller de Polítiques Digitals i Administracions Públiques, Jordi Puigneró, durant la cerimònia virtual: &#8220;La crisi de la Covid-19 ha evidenciat fins a quin punt les tecnologies poden ser unes grans aliades no només per sortir de la crisi sanitària, sinó també per construir un futur amb més progrés i oportunitats&#8221;.</p>
+
+
+
+<h3>Tecnologia per a tothom</h3>
+
+
+
+<p>Enmig dels aplaudiments virtuals, també han rebut el premi de la Digital Future Society, dotat amb 5.000 euros, <a rel="noreferrer noopener" href="https://nebots.cat/" target="_blank">pel servei web i telefònic d&#8217;assistència tècnica voluntària &#8216;Nebots&#8217;</a>, desenvolupat per Juan Irache i Lucía Román, que són programador i metgessa. La pàgina pretén posar en contacte gent gran amb dificultats per entendre temes tècnics d’informàtica amb voluntaris entesos aquests àmbits -els anomenats &#8216;nebots&#8217;-. </p>
+
+
+
+<p>Irache explica a La Tecnòloga que la hackató ha servit per materialitzar una idea que ja existia abans d&#8217;arrencar la competició. &#8220;Tenim una piràmide poblacional cada cop més invertida i, per tant, no hi ha una persona jove que pugui ajudar a cada persona gran&#8221;, comenta. &#8220;La clau de Nebots -continua el programador- és que es basa en noves tecnologies però no requereix que els seus usuaris les utilitzin ja que poden, simplement, marcar un número de telèfon&#8221;.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="nebots — assistència tècnica humana" width="1160" height="653" src="https://www.youtube.com/embed/aiAxYJSkrPM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>Nebots és un servei web i telefònic d&#8217;assistència tècnica voluntària. NEBOTS</figcaption></figure>
+
+
+
+<p>Una empenta a la reactivació del comerç local va ser una de les necessitats més votades per la ciutadania, durant la fase inicial, i també és allò que ha donat forma als projectes dels qui s&#8217;han fet amb el segon, el tercer i el quart premi de la Hackovid. </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://upcoders.eebe.upc.edu/" target="_blank">Coronatíquets</a>, que s&#8217;ha endut 4.000 euros de pressupost, és un servei de tíquets per demanar hora per anar a les botigues i, d&#8217;aquesta manera, evitar que hi coincideixin més persones amb l&#8217;objectiu d&#8217;eludir aglomeracions i contagis. &#8220;Creiem que l&#8217;aplicació pot ser&nbsp;útil&nbsp;per estalviar patiment a molts petits comerços durant la desacceleració econòmica&#8221;, explica Tomàs Gea, que és enginyer electrònic. Ell i els seus companys d&#8217;equip -Toti Moragas, Marc Aymerich i Alex Párraga- formen part dels <a rel="noreferrer noopener" href="https://www.instagram.com/upcoders/" target="_blank">UPCoders</a>, una associació de programadors de la UPC. &#8220;Amb l&#8217;ajuda de la nostra app, els petits comerços que s&#8217;han vist forçats a tancar podran tornar a obrir les botigues de forma moderada, reduint així els impactes econòmics que puguin patir&#8221;, afegeix Gea.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Anunci Coronatiquets Hackovid" width="1160" height="653" src="https://www.youtube.com/embed/rAhCFlJ26Xo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>Coronatíquets és un servei de tíquets per demanar hora per anar a les botigues. CORONATÍQUETS</figcaption></figure>
+
+
+
+<p>Per la seva banda, <a rel="noreferrer noopener" href="https://www.regalocal.com/" target="_blank">Regalocal</a> ha obtingut 3.000 euros per desenvolupar un servei web gratuït&nbsp;que permet comprar cupons de regal en comerços locals per poder bescanviar un cop aquests tornin a obrir. </p>
+
+
+
+<p>Mentrestant, <a rel="noreferrer noopener" href="https://www.tricktroc.cat/home" target="_blank">Trick-troc</a> ha fet realitat una plataforma de comerç electrònic per promoure i millorar l’accessibilitat de la venda online i la distribució de productes de comerç local amb una finalitat social gràcies a una moneda virtual, el Troc, amb què es poden obtenir descomptes en comerços locals o fer donatius a entitats benèfiques de productes de comerços locals. Els ha valgut un premi de 2.000 euros. </p>
+
+
+
+<p>El cinquè premi de la Hackovid ha estat per als creadors de <a rel="noreferrer noopener" href="https://apps.apple.com/us/app/edukiapp/id1507658309?l=ca&amp;ls=1" target="_blank">l&#8217;Edukiapp</a>, una aplicació d&#8217;educació a distància per a professors i alumnes d&#8217;Infantil i Primària. </p>
+
+
+
+<h3>La solidaritat es propaga</h3>
+
+
+
+<p>Tot va començar el 3 d&#8217;abril, amb una fase de participació ciutadana. <a rel="noreferrer noopener" href="https://hackovid.cat/solutions" target="_blank">Les 60 solucions que s&#8217;hi han plantejat</a> donen resposta a alguns dels reptes més votats per la ciutadania d’entre les 175 necessitats socials identificades com aprendre des de casa, l&#8217;aprovisionament d’aliments, l&#8217;atenció especial a col·lectius de risc, tornar al mercat laboral, la solidaritat entre veïns o teletreballar.</p>
+
+
+
+<p>Però la Hackovid és només una gota de la pluja d&#8217;esforços col·laboratius que s&#8217;han propagat amb la pandèmia. Alguns d&#8217;aquests projectes han agafat una dimensió exponencial des de la seva creació, com és el cas de <a rel="noreferrer noopener" href="/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/" target="_blank">Coronawhy, una organització de tecnòlegs voluntaris</a> que treballen per fer digerible amb Intel·ligència Artificial la col·lecció d’articles científics vinculats a l&#8217;epidèmia per facilitar la recerca mèdica. D&#8217;altra banda, la setmana que ve la Comissió Europea acull una hackató per connectar la societat civil i tecnòlegs i inversors de tot el continent per desenvolupar solucions innovadores per combatre el virus que ha posat en pausa el món.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">We will host on 24-26 April a pan-European Hackathon to connect civil society, innovators, partners and buyers across Europe to develop innovative solutions to <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a>.<br><br>Register now and be part of the solution! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/27a1.png" alt="➡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/yUexZYLB55">https://t.co/yUexZYLB55</a> <a href="https://twitter.com/hashtag/EUvsVirus?src=hash&amp;ref_src=twsrc%5Etfw">#EUvsVirus</a> <a href="https://t.co/I5qbDJnTl3">pic.twitter.com/I5qbDJnTl3</a></p>&mdash; European Commission <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ea-1f1fa.png" alt="🇪🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@EU_Commission) <a href="https://twitter.com/EU_Commission/status/1250095573908312067?ref_src=twsrc%5Etfw">April 14, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">961</post-id>	</item>
+		<item>
+		<title>Quatre dies negociant amb ciberdelinqüents</title>
+		<link>/2019/12/20/ciberdelinquents-ransomware-empresa-catalana/</link>
+					<comments>/2019/12/20/ciberdelinquents-ransomware-empresa-catalana/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2019 19:53:24 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Dark web]]></category>
+		<category><![CDATA[Deep web]]></category>
+		<category><![CDATA[Hacker]]></category>
+		<category><![CDATA[INCIBE]]></category>
+		<category><![CDATA[Institut Nacional de Ciberseguretat]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Mossos Esquadra]]></category>
+		<category><![CDATA[Nico Castellano]]></category>
+		<category><![CDATA[No Con Name]]></category>
+		<category><![CDATA[Oleguer Rocafull]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[The Tor Project]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[Virus]]></category>
+		<guid isPermaLink="false">/?p=543</guid>
+
+					<description><![CDATA[El consultor en ciberseguretat José Nicolás Castellano detecta una onada creixent d’atacs per ransomware durant les últimes setmanes Una multinacional de Barcelona es despertava el&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>El consultor en ciberseguretat José Nicolás Castellano detecta una onada creixent d’atacs per ransomware durant les últimes setmanes</h2>
+
+
+
+<p>Una multinacional de Barcelona es despertava el dijous amb l’aigua al coll, els ordinadors bloquejats i un missatge anònim a les pantalles: o pagaven un rescat de més de mig milió d&#8217;euros o abaixaven la persiana. Un virus informàtic els havia agafat per sorpresa i, de cop i volta, totes les dades estaven xifrades. Des d’un xat anònim, algú els reclamava 540.000 euros si volien recuperar-les.&nbsp;</p>
+
+
+
+<p>A la tarda, la companyia va denunciar-ho als Mossos d’Esquadra. En aquest cas, però, feia falta alguna cosa més que la intervenció policial per dissuadir uns criminals d’identitat i parador desconeguts. L’única opció de rescatar les dades passava per seure i negociar amb gent que utilitzava les mateixes tàctiques que els segrestadors de persones. La conversa, però, s’havia de mantenir a través d’un xat anònim i sempre utilitzant <a href="/2019/11/16/edward-snowden-project-tor/">Tor, que permet navegar d’incògnit per la Xarxa</a>.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="964" height="724" src="/wp-content/uploads/2019/12/Nico_Oleguer_separats.jpg" alt="" class="wp-image-553" srcset="/wp-content/uploads/2019/12/Nico_Oleguer_separats.jpg 964w, /wp-content/uploads/2019/12/Nico_Oleguer_separats-300x225.jpg 300w, /wp-content/uploads/2019/12/Nico_Oleguer_separats-768x577.jpg 768w" sizes="(max-width: 964px) 100vw, 964px" /><figcaption>El consultor en ciberseguretat, José Nicolás Castellano, i l&#8217;analista d&#8217;Intel·ligència, Oleguer Rocafull.</figcaption></figure>
+
+
+
+<p>L’operació va allargar-se quatre dies. Va ser clau la intermediació d’Oleguer Rocafull, analista d&#8217;Intel·ligència, i el consultor en ciberseguretat José Nicolás Castellano, que també és el president i organitzador del congrés de ciberseguretat més veterà de l’Estat, <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.noconname.org/" target="_blank">el NoConName</a>. “Vam començar a negociar, però vam veure que a l’altra banda no es movien. Sabien que tenien el poder”, recorda Castellano. En aquest cas, la companyia, assistida pel consultor, va atrevir-se a discutir el preu que demanaven per a la informació menys crítica i va dir als <em>hackers</em> ‘Això és el que tenim. No demaneu més. Ho voleu?’. I ho van acceptar.&nbsp;</p>
+
+
+
+<p>No obstant això, l’empresa va veure’s obligada a pagar sense regatejar per les dades vitals. “Era qüestió de vida o mort”, explica Castellano, i afegeix que “la majoria d’empreses que han patit un atac semblant han hagut de tancar”. D’aquesta manera, després de moltes hores de tensió, el rescat va saldar-se amb el pagament de 142.000 euros -lluny dels 540.000 que demanaven al principi- i, això sí, la supervivència de l’empresa.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh6.googleusercontent.com/hoARGhEhjjJSc4soQqw6RNofWx_E2xeaAP-KI-0H7s6qTq90A0bbALEbRpZw46ZmD2VqXZmwcU35zP6G0xJAVA3AxpPanymsq2TEEwCEPhymgM5Dni0xD62zE1TKmVXFAYCI1fk" alt=""/><figcaption>Moment en què l’empresa rebia les últimes tres claus de desxifrat a través del xat anònim. </figcaption></figure>
+
+
+
+<p>Escenes com aquesta no són una excepció a Catalunya, on Castellano detecta una onada creixent d’infeccions per <em>ransomware </em>(de l&#8217;anglès <em>ransom</em>, ‘rescat’, i <em>ware</em>, de &#8216;programari&#8217;), que xifra els arxius i infecta els sistemes connectats a la mateixa xarxa. Una vegada instal·lat a l’ordinador, bloqueja l’accés i demana un rescat que oscil·la entre els centenars i els milers d’euros a canvi de les claus de desxifrat. “Aquest darrer mes hem vist moltes, moltes, empreses catalanes afectades. Els atacants van a sac”, assegura.&nbsp;</p>
+
+
+
+<p>A escala mundial, <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://resources.malwarebytes.com/resource/cybercrime-tactics-techniques-2019-q1-report/" target="_blank">l’últim estudi de la companyia de ciberseguretat <em>Malwarebytes</em></a> diu que, en comparació amb el primer trimestre del 2018, les incidències registrades per <em>ransomware</em> s’han incrementat un 500% durant els primers tres mesos d&#8217;enguany. A Nord-Amèrica, aquests virus ja han bloquejat desenes d’administracions senceres, i <a href="/2019/12/16/el-ransomware-ja-ha-apagat-els-ordinadors-a-varis-governs/">alguns Estats i ciutats fins i tot han declarat l’estat d’emergència</a>. A l’Estat espanyol, el Centre Criptològic Nacional (CCN) no atura de plantar cara a una allau d&#8217;incidències informàtiques semblants que han deixat <a href="/2019/11/05/com-evitar-el-ransomware-el-virus-que-recorre-europa/">víctimes com la Cadena SER o la consultora Everis, entre moltes altres empreses espanyoles</a>.&nbsp;</p>
+
+
+
+<h5>&#8216;<strong>Malware as a service</strong>&#8216;</h5>
+
+
+
+<p>Segons l’Institut Nacional de Ciberseguretat (INCIBE) de l’Estat espanyol, es tracta d’<a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.incibe.es/protege-tu-empresa/herramientas/servicio-antiransomware" target="_blank">un atac cada cop més freqüent perquè resulta molt lucratiu pels delinqüents</a> (es calcula que els creadors de WannaCry, un tipus de <em>ransomware</em> que afectà milers d’ordinadors el 2017, guanyaven uns 360.000 dòlars mensuals). A més, cada cop és més fàcil segrestar la informació degut als avenços de la criptografia. Igualment, els <em>hackers</em> poden ocultar la seva identitat i utilitzar sistemes internacionals de pagament anònim i que la Policia no pot rastrejar, com la criptomoneda ‘Bitcoin’.</p>
+
+
+
+<p>La majoria d’atacs recents provenen de <em>malwares</em> diferents, tot i que formen part de la família del <em>ransomware</em>. Els <em>hackers</em> funcionen com una empresa amb una organització interna, on cadascú té el seu paper: “s’anomena <em>Malware</em> as a service”, explica Castellano. D’aquesta manera, un primer grup es dedica a fer un estudi de mercat de l’empresa víctima i esbrina el seu poder adquisitiu, els pressupostos que mou, els ordinadors que utilitza, els programes que fa servir i els correus dels directius o dels qui gestionen les finances. I tota aquesta informació s’extreu per mitjà d’Internet. “Ho saben quasi tot”, comenta. Mentrestant, uns altres es fan càrrec de desenvolupar el programari de xifrat, uns altres ho venen a través del <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://ca.wikipedia.org/wiki/Web_profund" target="_blank">Web profund</a>, i uns altres fan l’atac.</p>
+
+
+
+<p>El vector d’infecció més típic és un correu amb un document adjunt. Quan algú l’obre per error, el <em>ransomware</em> penetra dins un ordinador i es replica en totes les màquines possibles per mitjà dels anomenats ‘moviments laterals’, que dispersen el virus. Aleshores, es comencen a xifrar les dades utilitzant sovint més d’una clau, cadascuna amb el seu preu. D’aquesta manera, l’empresa víctima ha de pagar certa quantitat per cada paquet d’informació encriptada.&nbsp;</p>
+
+
+
+<h5><strong>Punts febles</strong></h5>
+
+
+
+<p>El <em>ransomware</em> afecta sobretot les grans empreses, més propenses a pagar el rescat per evitar la pèrdua d’informació permanent, la interrupció de l’activitat normal i danys econòmics i reputacionals. Però també són objectius temptadors les petites i mitjanes empreses amb el <em>software</em> desactualitzat -les que utilitzen Microsoft Office 2007 o 2010, per exemple-, que manquen d’antivirus, mesures de seguretat, o disposen de contrasenyes febles. Castellano adverteix que “les empreses no es preparen per uns atacs informàtics cada cop més freqüents, i són aquestes les víctimes”. A més, no n’hi ha prou amb fer còpies de seguretat: “El sistema de còpies d’aquesta empresa no estava pensat per esquivar un atac, perquè el <em>ransomware</em> també ataca les còpies”. Evitar ensurts passa per fer anàlisis de riscos de ciberseguretat, formar el personal i fer proves de penetració, per exemple. “Les companyies s’han de plantejar ja que la ciberseguretat és una inversió i no una despesa”, conclou a Twitter.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="es" dir="ltr">Estos días he vivido de cerca una situación MUY delicada en empresas donde estaba en juego la existencia de la empresa. Ha sido “La pasta a cambio de la empresa” <a href="https://twitter.com/hashtag/negociacion?src=hash&amp;ref_src=twsrc%5Etfw">#negociacion</a> <a href="https://twitter.com/hashtag/ransomware?src=hash&amp;ref_src=twsrc%5Etfw">#ransomware</a> <a href="https://twitter.com/hashtag/bcn?src=hash&amp;ref_src=twsrc%5Etfw">#bcn</a> Deben plantearse YA que la ciberseguridad es una inversión y no un gasto.</p>&mdash; Nico (@niconname) <a href="https://twitter.com/niconname/status/1206391719387906048?ref_src=twsrc%5Etfw">December 16, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/12/20/ciberdelinquents-ransomware-empresa-catalana/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543</post-id>	</item>
+		<item>
+		<title>Com evitar el ransomware, el virus que recorre Europa</title>
+		<link>/2019/11/05/com-evitar-el-ransomware-el-virus-que-recorre-europa/</link>
+					<comments>/2019/11/05/com-evitar-el-ransomware-el-virus-que-recorre-europa/#respond</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Tue, 05 Nov 2019 00:10:55 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Bitcoin]]></category>
+		<category><![CDATA[Cibercrim]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Hacker]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Pirata]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Virus]]></category>
+		<guid isPermaLink="false">/?p=260</guid>
+
+					<description><![CDATA[La Cadena SER va llevar-se dilluns amb un virus que va afectar greument els seus sistemes informàtics. Al mateix temps, la consultora tecnològica Everis començava&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>La Cadena SER va llevar-se dilluns amb un virus que <a rel="noreferrer noopener" aria-label="ha afectat de manera greu els seus sistemes informàtics (s'obre en una nova pestanya)" href="https://cadenaser.com/ser/2019/11/04/sociedad/1572862102_968725.html" target="_blank">va afectar greument els seus sistemes informàtics</a>. Al mateix temps, la consultora tecnològica Everis començava la setmana amb els ordinadors totalment bloquejats. A la pantalla, s&#8217;hi mostrava el següent missatge: &#8220;Hola Everis, la teva xarxa ha estat piratejada i xifrada. No hi ha software gratuït de desxifrat disponible. Envia&#8217;ns un mail a sydney.wiley@protonmail.com o a evangelina.mathews@tutanota.com per saber la quantitat del rescat&#8221;. <a rel="noreferrer noopener" href="https://www.elconfidencial.com/tecnologia/2019-11-04/everis-la-ser-ciberataque-ransomware-152_2312019/" target="_blank">Segons alguns mitjans</a>, podrien haver-hi més empreses afectades i es creu que es tracta d&#8217;un atac planificat. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">pic supposedly posted by an <a href="https://twitter.com/hashtag/everis?src=hash&amp;ref_src=twsrc%5Etfw">#everis</a> employee <a href="https://t.co/fJaOtYmrTy">pic.twitter.com/fJaOtYmrTy</a></p>&mdash; Alex Barredo <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4c9.png" alt="📉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@somospostpc) <a href="https://twitter.com/somospostpc/status/1191303959585198080?ref_src=twsrc%5Etfw">November 4, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h5>Què és un ramsonware?</h5>
+
+
+
+<p>Rere els atacs <a rel="noreferrer noopener" aria-label="s'hi amaga un ramsonware, un virus (s'obre en una nova pestanya)" href="https://www.dsn.gob.es/es/actualidad/sala-prensa/ciberataques-ransomware-04-noviembre-2019" target="_blank">s&#8217;hi amaga un ramsonware, un virus</a> que segresta els nostres fitxers. Dit d&#8217;altra manera, és un programa maliciós que xifra els arxius i infecta els sistemes connectats a la mateixa xarxa, <a rel="noreferrer noopener" aria-label="encara que estiguin apagats (s'obre en una nova pestanya)" href="https://www.elespanol.com/omicrono/software/20191104/ryuk-ransomware-bloqueando-ordenadores-espana/441956182_0.html" target="_blank">fins i tot si estan apagats</a>. Una vegada instal·lat a l&#8217;ordinador, bloqueja l&#8217;accés i demana un rescat que oscil·la entre els centenars i els milers d&#8217;euros, pagables amb criptomonedes. Sovint, la via d&#8217;infecció és un document adjunt a un correu electrònic aparentment segur. Però també pot tractar-se d&#8217;un escriptori remot massa exposat a la xarxa, amb contrasenyes febles i sense mecanismes de protecció, algunes vulnerabilitats dels programes i el navegador o, directament, dispositius externs infectats que s&#8217;han connectat als equips. </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://www.elespanol.com/omicrono/software/20191104/ryuk-ransomware-bloqueando-ordenadores-espana/441956182_0.html" target="_blank">Segons El Español</a>, se sospita que aquest ransomware va ser creat per un grup rus anomenat <a rel="noreferrer noopener" aria-label="Grim Spider (s'obre en una nova pestanya)" href="https://malpedia.caad.fkie.fraunhofer.de/actor/grim_spider" target="_blank">Grim Spider</a>, pirates especialitzats en atacar grans objectius. Tot i així, segons l&#8217;Institut Nacional de Ciberseguretat (INCIBE), es tracta d&#8217;<a rel="noreferrer noopener" aria-label="un ciberatac cada cop més freqüent (s'obre en una nova pestanya)" href="https://www.incibe.es/protege-tu-empresa/herramientas/servicio-antiransomware" target="_blank">un atac cada cop més freqüent</a> perquè resulta molt lucratiu pels delinqüents (es calcula que els creadors de WannaCry, un tipus de ransomware que afectà milers d&#8217;ordinadors el 2017, <a rel="noreferrer noopener" aria-label="guanyaven uns 360.000 dòlars mensuals (s'obre en una nova pestanya)" href="https://www.elespanol.com/omicrono/software/20191104/ryuk-ransomware-bloqueando-ordenadores-espana/441956182_0.html" target="_blank">guanyaven uns 360.000 dòlars mensuals</a>). A més, cada cop és més fàcil segrestar la informació degut als avanços de la criptografia. Igualment, els pirates poden ocultar la seva identitat i utilitzar sistemes internacionals de pagament anònim, com els Bitcoin. </p>
+
+
+
+<h5>A qui pot afectar?</h5>
+
+
+
+<p>El ransomware afecta sobretot les grans empreses, més propenses a pagar el rescat per evitar la pèrdua d&#8217;informació permanent, la interrupció de l&#8217;activitat normal i danys econòmics i reputacionals. Però altres organitzacions també poden ser objectius temptadors. Entre els seus blancs predilectes podem trobar les universitats, amb uns equips de seguretat més petits i una gran interacció d&#8217;usuaris, sent així més probable el contagi. Les agències governamentals o els centres mèdics solen necessitar un accés immediat als seus fitxers, i les empreses amb dades confidencials poden estar disposades a pagar per mantenir la informació. Però no canteu victòria si no entreu dins d&#8217;aquestes categories: alguns ransomware es difonen de manera automàtica i indiscriminada a Internet i qualsevol ciutadà podria ser-ne víctima. </p>
+
+
+
+<p>El ransomware ataca principalment Windows, però <a rel="noreferrer noopener" aria-label="macOS, Android i iOS també se'n veuen afectats (s'obre en una nova pestanya)" href="https://www.statista.com/statistics/701020/major-operating-systems-targeted-by-ransomware/" target="_blank">macOS, Android i iOS també se&#8217;n veuen afectats</a>. Històricament, Linux s&#8217;ha comportat de manera més robusta davant dels virus, tot i que recentment <a rel="noreferrer noopener" aria-label="està augmentant el nombre d'atacs dirigits (s'obre en una nova pestanya)" href="https://invenioit.com/security/linux-ransomware-attacks-rise/" target="_blank">el nombre d&#8217;atacs dirigits</a> contra aquest sistema operatiu va en augment. Si fins ara el ransomware ha sigut quasi inexistent, és perquè els hackers no s&#8217;han molestat a desenvolupar-lo, tenint en compte que poques empreses funcionen amb Linux. </p>
+
+
+
+<h5>Què fer si et passa?</h5>
+
+
+
+<p>L&#8217;Institut Nacional de Ciberseguretat reclama no pagar per no incentivar els hackers a continuar amb la seva activitat delictiva. A més, demana apagar els ordinadors, trucar a la policia i avisar el servei tècnic. Tot i això, moltes organitzacions afectades paguen i no denuncien. <a rel="noreferrer noopener" aria-label="mentre el 66% d'empreses asseguren (s'obre en una nova pestanya)" href="https://www.csoonline.com/article/3236183/what-is-ransomware-how-it-works-and-how-to-remove-it.html" target="_blank">Segons un estudi, mentre el 66% d&#8217;empreses asseguren</a> que mai no accedirien a un rescat, en realitat el 65% el paguen quan se&#8217;n veuen afectades. Cal tenir en compte que els atacants ofereixen descomptes per actuar ràpidament, perquè les companyies accedeixin a pagar tan bon punt s&#8217;ha produït el segrest. </p>
+
+
+
+<p>Alguns programes maliciosos especialment sofisticats detecten l&#8217;ubicació de l’ordinador infectat i ajusten el rescat per adaptar-se a l’economia del país, exigint més a les empreses dels països rics i menys a les de les regions pobres.</p>
+
+
+
+<p>Si el teu ordinador ha estat infectat amb ransomware, hauràs de recuperar el control de l&#8217;aparell. Cal reiniciar el sistema operatiu al mode segur, instal·lar un antivirus, escanejar el sistema per trobar el programa ransomware i restaurar l&#8217;ordinador a l&#8217;estat anterior. Has de saber, malgrat tot, que amb tota probabilitat no podràs desxifrar els fitxers: només ho pot fer la clau matemàtica coneguda per l&#8217;atacant. </p>
+
+
+
+<h5>Com prevenir un atac?</h5>
+
+
+
+<p>Hi ha diverses recomanacions per evitar una infecció de ransomware, que són bones pràctiques de seguretat en general. Seguir-les, et servirà de protecció davant de qualsevol atac:</p>
+
+
+
+<ol><li><span style="font-size: 1.125rem;">Instal·lar antivirus i tenir-los actualitzats. </span></li><li>Dissenyar la xarxa evitant exposar serveis interns utilitzant tallafocs o detectors d&#8217;intrusions.</li><li>Actualitzar els sistemes de manera automatitzada i centrada. </li><li>Fer còpies de seguretat periòdiques.</li><li>Controlar els accessos, restringir l&#8217;ús d&#8217;aplicacions o d&#8217;equips no permesos.</li><li>Disposar de mitjans per navegar amb seguretat, xifrant les comunicacions i actualitzant els navegadors.</li><li>Configurar el correu electrònic amb filtres antispam i autenticació de correus entrants.</li><li>Desactiva les opcions d&#8217;Autorun i Autoplay a les unitats externes, com els USB o els CD.</li><li>Protegeix la seguretat del wifi.</li><li>En el cas d&#8217;una empresa, és recomanable formar els treballadors en matèria de ciberseguretat. </li></ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/05/com-evitar-el-ransomware-el-virus-que-recorre-europa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">260</post-id>	</item>
+	</channel>
+</rss>

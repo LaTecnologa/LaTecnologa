@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>VPN &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/vpn/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:28:25 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>VPN &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Immersos en la censura digital</title>
+		<link>/2019/11/30/radiografia-censura-digital-catalunya/</link>
+					<comments>/2019/11/30/radiografia-censura-digital-catalunya/#respond</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 30 Nov 2019 21:15:14 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[ANC]]></category>
+		<category><![CDATA[Assemblea Nacional Catalana]]></category>
+		<category><![CDATA[Catalunya]]></category>
+		<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Censura Digital]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Proxy]]></category>
+		<category><![CDATA[Referèndum]]></category>
+		<category><![CDATA[Seguretat]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[Tsunami Democràtic]]></category>
+		<category><![CDATA[Vigilància]]></category>
+		<category><![CDATA[VPN]]></category>
+		<guid isPermaLink="false">/?p=450</guid>
+
+					<description><![CDATA[Fem un repàs històric i una anàlisi del fenomen per ajudar a entendre com funciona Montesquieu, Kant i Sartre són de primer curs de Filosofia&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Fem un repàs històric i una anàlisi del fenomen per ajudar a entendre com funciona</h2>
+
+
+
+<p>Montesquieu, Kant i Sartre són de primer curs de Filosofia però, fins el 1966, algunes de les seves obres van formar part dels <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://sourcebooks.fordham.edu/mod/indexlibrorum.asp" target="_blank">Llibres Prohibits de l’Església</a>. La purga d’escrits que induïen a la crítica també va ser bandera del franquisme, que vetà 1984 d’Orwell o el Quixot de Cervantes mentre, alhora, se servia d’un control estricte de la ràdio i la televisió. La censura ens ha perseguit des de temps remots, però ha canviat el canal: Internet és el gran camp de batalla de la censura, que <a href="https://ctxt.es/es/20191106/Firmas/29360/Simona-Levi-Xnet-internet-Espana-China.htm">al 2019 es regula per decret reial</a>. </p>
+
+
+
+<p><a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://freedomhouse.org/report/freedom-world/freedom-world-2019/democracy-in-retreat" target="_blank">Un estudi de la Freedom House</a> alerta que governs de tot el món han concentrat dràsticament els esforços per <a href="/2019/10/14/enxampa-les-fake-news/">manipular els mitjans de comunicació durant el 2018</a>. I al mateix temps creixen, segons l’ONG, noves fórmules de censura: el control estatal de la connectivitat mòbil, la <a href="/2019/10/23/camuflatge-digital-hong-kong/">limitació de vídeos de reproducció instantània o ‘en streaming</a>’, ciberatacs contra opositors i defensors dels drets, noves restriccions de les Xarxes Privades Virtuals (VPN), així com, directament, represàlies i detencions de crítics, activistes i periodistes. Cadascuna és més distòpica que l’anterior i, malauradament, no ens queden tan lluny. Quins mecanismes de censura digital s’han fet servir, a Catalunya i l’Estat espanyol? Quins altres mecanismes de bloqueig en línia existeixen i on s&#8217;han produït? </p>
+
+
+
+<h3>Espanya</h3>
+
+
+
+<p>Avui, a Espanya, l’Independentisme és la principal diana de la censura digital. El nou Reial Decret 14/2019 permetrà tancar webs sense audiència prèvia i, <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://twitter.com/CripticaOrg/status/1199266408498159617" target="_blank">com va alertar l’associació Críptica, prendre el control</a> de la xarxa tecnològica quan l’Estat ho consideri oportú. Una normativa cosida a mida per esmorteir les mobilitzacions que han fet bullir els carrers després de <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.ara.cat/judici-presos-politics-1-octubre/sentencia-proces-presos-politics-tribunal-suprem-marchena-oriol-junqueras-jordi-sanchez-cuixart-turull-josep-rull-raul-romeva-joaquim-forn-carme-forcadell-dolors-bassa-santi-vila-carles-mundo-meritxell-borras_0_2321767925.html" target="_blank">la sentència del Procés</a>, però que permetrà, per exemple, desconnectar de la xarxa als participants d’una manifestació en qualsevol zona concreta de l’Estat espanyol. El decret, també batejat com a “155 digital”, <a href="https://civio.es/el-boe-nuestro-de-cada-dia/2019/11/05/las-administraciones-publicas-tienen-seis-meses-para-que-todas-sus-bases-y-servicios-con-datos-personales-esten-alojadas-en-servidores-europeos/" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">obliga així mateix a passar pel sedàs del govern central els sistemes de firma electrònica propis</a>, com l’IdentiCAT.</p>
+
+
+
+<h5>Sempre hi ha una fórmula</h5>
+
+
+
+<p>La Censura digital adquireix ara rang de llei. Però això ja ho vam veure a l’1-O, quan va enredar-se amb el Codi Penal. El 13 de setembre del 2017, un jutge va fer tancar el web <em>referendum.cat</em> tot i que, poc després, Carles Puigdemont difonia a Twitter els clons de la pàgina que havia estat tancada. “És impossible posar portes al camp”, comentava l&#8217;aleshores president. I tenia raó: sempre hi ha una fórmula.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr">És impossible posar portes al camp. Seguim! <a href="https://twitter.com/hashtag/1Oct?src=hash&amp;ref_src=twsrc%5Etfw">#1Oct</a> <a href="https://t.co/YJUQpMAtRU">pic.twitter.com/YJUQpMAtRU</a></p>&mdash; Carles Puigdemont (@KRLS) <a href="https://twitter.com/KRLS/status/909126641145798656?ref_src=twsrc%5Etfw">September 16, 2017</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>La setmana següent, la Guàrdia Civil va arrestar Josep Masoliver, treballador de la Fundació puntCAT -una entitat privada sense filiació política que promou el domini .cat a Internet-. Tot i que va quedar en llibertat 48 hores després, ha estat finalment processat per voler assegurar l’accés a referendum.cat i altres pàgines vinculades a l’1-O. <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.nytimes.com/2017/09/22/style/cat-domain-catalonia.html" target="_blank">Mitjans de tot el món se’n van fer ressò</a>: era Internet allò que estava en joc. Fins el 27 de setembre, més de 140 llocs web relacionats amb el referèndum van ser bloquejats i, després, continuà el bloqueig, que fins i tot <a href="https://elpais.com/politica/2017/10/10/actualidad/1507631073_313664.html?id_externo_rsoc=TW_CM" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">va arribar al grup de Whatsapp de l’Assemblea Nacional Catalana</a> (ANC) i Òmnium Cultural.&nbsp;</p>
+
+
+
+<h5>La fotografia de la vergonya</h5>
+
+
+
+<p>Dos anys més tard, el Tsunami Democràtic lidera la resposta contra una sentència que ha fet estralls. Alguns experts, com Enric Luján, han vinculat el <em>modus operandi</em> <a href="https://twitter.com/imGeheimen/status/1184178826739367939?s=20" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">d’aquest nou col·lectiu anònim amb l’arquitectura organitzativa i tecnològica de l’1-O</a>. Després de la primera acció a l’aeroport, va començar la persecució i la censura dels canals de difusió del grup. Un nou joc del gat i la rata que ja es va viure l’1 d’Octubre, amb el tancament de pàgines webs que es tornaven a replicar de seguida. Més endavant, la Guàrdia Civil va enviar una petició de bloqueig a la plataforma GitHub de Microsoft, on s’allotjava el web i l’app del Tsunami. Després, l’empresa feia públic el missatge del cos policial, que apareixia al costat de peticions similars de Rússia i la Xina. La fotografia deixava en molt mal lloc l’Estat espanyol.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="es" dir="ltr">Como parte de su política de transparencia <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@GitHub</a> ha publicado la carta de la Guardia Civil exigiéndole retirar la página de <a href="https://twitter.com/hashtag/tsunamidemocractic?src=hash&amp;ref_src=twsrc%5Etfw">#tsunamidemocractic</a> junto con otras peticiones similares de Rusia y China.<a href="https://t.co/yGYtq4sCqq">https://t.co/yGYtq4sCqq</a> <a href="https://t.co/t3Za7HBIPD">pic.twitter.com/t3Za7HBIPD</a></p>&mdash; Xnet (@X_net_) <a href="https://twitter.com/X_net_/status/1189449939593482240?ref_src=twsrc%5Etfw">October 30, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div></figure>
+
+
+
+<p>El 18 d’octubre, el domini tsunamidemocratic.cat era bloquejat “gràcies a la col·laboració de les grans teleoperadores”, segons explicava el Tsunami en un comunicat. Alhora, recomanava descarregar la seva singular aplicació, <a href="/2019/10/22/tecnologia-transforma-activisme/">concebuda per esquivar la censura</a>, i animava a utilitzar una VPN. Però el servei més útil pel Tsunami ha estat sens subte Telegram, l’aplicació russa que el president Vladimir Putin va bloquejar perquè el seu director es va negar a col·laborar amb els serveis secrets. Des de Telegram, s’ha continuat permetent l’accés a l’app, que des d’aquesta setmana <a href="https://www.producthunt.com/posts/tsunami-democratic-app" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">també és a la principal llista de noves aplicacions i serveis tecnològics, Product Hunt:</a> un nou revés a la censura.&nbsp;</p>
+
+
+
+<h3>Casos extrems</h3>
+
+
+
+<p>El país on va néixer Telegram és conegut per la seva relació íntima amb la censura. Al principi d’aquest mes, <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.bbc.com/mundo/noticias-internacional-50268214" target="_blank">va entrar en vigor l’anomenada ‘llei d’Internet sobirana</a>’, que estableix que l’Estat ja no necessita una autorització judicial ni contactar amb les teleoperadores per bloquejar qualsevol contingut d’Internet considerat sospitós. Putin justifica la mesura per la millora de la ciberseguretat, però els crítics temen que el Kremlin vol crear un <em>firewall</em> -’tallafocs’, en català- capaç de tallar completament les connexions del país amb la web mundial. Això ja ho va fer el govern de l’Iran, quan <a href="https://www.bbc.com/mundo/noticias-internacional-50489085" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">va deixar sense Internet a un pais de 80 milions de persones</a> enmig d’unes protestes pel dràstic augment dels preus del combustible, on van ser disparats desenes de manifestants.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Update: 65 hours after <a href="https://twitter.com/hashtag/Iran?src=hash&amp;ref_src=twsrc%5Etfw">#Iran</a> implemented a near-total internet shutdown, some of the last remaining networks are now being cut and connectivity to the outside world has fallen further to 4% of normal levels <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4c9.png" alt="📉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/Internet4Iran?src=hash&amp;ref_src=twsrc%5Etfw">#Internet4Iran</a> <a href="https://twitter.com/hashtag/IranProtests?src=hash&amp;ref_src=twsrc%5Etfw">#IranProtests</a><br><br><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4f0.png" alt="📰" class="wp-smiley" style="height: 1em; max-height: 1em;" /><a href="https://t.co/1Al0DT8an1">https://t.co/1Al0DT8an1</a> <a href="https://t.co/uLWx3i0uBO">pic.twitter.com/uLWx3i0uBO</a></p>&mdash; NetBlocks (@netblocks) <a href="https://twitter.com/netblocks/status/1196734263963607041?ref_src=twsrc%5Etfw">November 19, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h5>El Projecte Escut Daurat</h5>
+
+
+
+<p>El firewall és una realitat al país liderat per Xi Jinping, i és un cas extrem de censura digital. Per a executar-la, el govern utilitza des del 2003 el conegut com a ‘Gran Tallafocs’ o, com s’ha batejat oficialment, el ‘Projecte Escut Daurat’. El tallafocs xinès funciona interceptant els requeriments que envien els ordinadors dins de la xarxa a la Xina. El <em>firewall</em> els analitza i determina si els deixa passar. D’aquesta manera, recolzant-se en l’ús massiu de les noves tecnologies, Jinping ha aconseguit imposar un model de societat basat en el control estricte de la informació i els ciutadans.</p>
+
+
+
+<h3>Com funciona la censura digital?</h3>
+
+
+
+<p>Quan només se censuraven llibres o cadenes de ràdio i televisió, els mecanismes eren més senzills. Actualment, la complexitat de les tecnologies que fem servir per comunicar-nos a través de la xarxa, ha donat lloc a una sèrie de procediments cada cop son més enrevessats. Fem un repàs dels més habituals.</p>
+
+
+
+<h5>Proveïdors d’Internet (ISP)</h5>
+
+
+
+<p>Els casos més habituals requereixen la col·laboració de les empreses proveïdores d’Internet, o ISP per les sigles d’Internet Service Provider en anglès, com Telefonica o Orange. Aquestes companyies interfereixen en les comunicacions dels seus usuaris bloquejant o alterant el contingut que aquests reben als seus dispositius, sovint a conseqüència d’un requeriment judicial o d&#8217;una petició del govern.</p>
+
+
+
+<ul><li><strong>Filtratge d’IP</strong>: En els casos més senzills, el proveïdor bloqueja tota comunicació dels seus usuaris amb una adreça IP d’un servidor en particular. Recordem que una <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://ca.wikipedia.org/wiki/Adre%C3%A7a_IP" target="_blank">adreça IP</a> és un codi numèric d’entre 4 i 12 dígits que identifica de manera única un servidor a Internet. Així doncs, bloquejant les comunicacions amb aquesta adreça, s&#8217;impedeix als usuaris accedir a qualsevol contingut o servei allotjat en aquell servidor, ja sigui una pàgina web, imatges, o un servei de correu electrònic. <a href="https://www.eff.org/deeplinks/2014/02/venezuelas-net-crackdown-escalates" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">Aquest sistema s&#8217;hauria aplicat a Veneçuela</a> per a impedir l&#8217;accés a imatges de Twitter o a Pastebin, una aplicació que permet pujar petits textos i que era utilitzada pels activistes d’Anonymous per a difondre maneres d&#8217;esquivar la censura.</li></ul>
+
+
+
+<ul><li><strong>Filtratge de noms de domini</strong>: Quan s&#8217;introdueix un <a href="https://ca.wikipedia.org/wiki/Domini_d%27Internet">nom de domini</a> com “tecnologa.cat” en un navegador web, el que fa aquest és demanar al DNS (Sistema de Noms de Domini) l&#8217;adreça IP corresponent per poder accedir al servidor i subministrar-ne el contingut. Si el DNS consultat pertany a l’ISP, aquest pot decidir no retornar la IP del servidor i bloquejar-ne així el contingut. En altres casos, en comptes d’evitar contestar, respondria una adreça IP alternativa en la que es mostra un missatge judicial. <a href="https://ooni.io/es/post/internet-censorship-catalonia-independence-referendum/" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">Dades de l’Observatori Obert d’Interferències de Xarxa (OONI) demostren</a> que France Telecom Espanya i Euskaltel van adoptar aquesta tècnica per bloquejar llocs web relacionats amb el referèndum de Catalunya.</li></ul>
+
+
+
+<ul><li><strong>Desconnexió total</strong>: En els casos més extrems, quan tots els altres sistemes fallen, el proveïdor d’internet pot optar per la solució més dràstica: deixar a tots els seus usuaris sense connexió a internet. Aquesta és una mesura extrema que s’ha aplicat en molt poques ocasions, normalment en un contextos de gran desestabilització del país. Els primers països a tancar l&#8217;accés a Internet per complet van ser Nepal el 2005 i Birmània el 2007. Egipte va tallar del tot l&#8217;accés a Internet durant la anomenada primavera àrab, <a href="https://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/8288163/How-Egypt-shut-down-the-internet.html" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">entre el 27 de gener i el 2 de febrer de 2011</a>. El cessament de l&#8217;activitat va ser absolut, encara que alguns usuaris van trobar maneres de sortejar-lo. Altres països que van emprar la mateixa tàctica van ser Líbia, amb talls intermitents, Bahrain (que va incrementar el seu filtratge, però no va tancar totalment l&#8217;accés a la xarxa) i Síria.</li></ul>
+
+
+
+<h5>Proveïdors de Serveis</h5>
+
+
+
+<p>En altres casos, la censura no té res a veure amb el nostre proveïdor d’Internet o ISP, sinó que s’aplica per part d’alguna altra empresa que ofereix un servei a Internet. Quan això passa, l’empresa és l’encarregada de bloquejar certs continguts mentre continua oferint-ne d’altres amb normalitat. En alguns casos, cal un requeriment judicial o una petició del govern però, en altres casos, es vesteix amb l’excusa d’una violació dels termes d’ús.</p>
+
+
+
+<ul><li><strong>Catàlegs d’aplicacions</strong>: Alguns dels proveïdors que bloquegen els seus continguts són els catàlegs d’aplicacions com Google Play Store o Apple Store. Quan això passa, determinades aplicacions deixen d’estar-hi disponibles per descarregar. Recentment es van observar casos d’aquests quan <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.eldiario.es/internacional/Apple-manifestantes-Hong-Kong-Policia_0_951205117.html" target="_blank">Apple va eliminar una aplicació amb què els manifestants de Hong Kong</a> coneixien l’ubicació de la Policia, o quan, fa tres setmanes, Quarz, portal de notícies amb sis anys de vida, desapareixia de l&#8217;App Store xinesa per la seva cobertura contínua sobre les protestes. Per altre cantó, l’app del Tsunami Democràtic no va arribar ni a donar-se d’alta al Play Store perquè s’assumia que Google la podia bloquejar.<br></li><li><strong>Xarxes Socials</strong>: Una altra de les més habituals és la censura en Xarxes Socials. A vegades, les xarxes com Twitter, Instagram o Facebook retiren continguts penjats per usuaris sota l’argument de que són inapropiats. En d’altres, els comptes dels usuaris poden arribar a ser suspesos de manera temporal o definitiva. Alguns cops, fins i tot, les Xarxes Socials ofereixen la possibilitat que els propis usuaris apliquin la censura a base de denunciar massivament i de manera sincronitzada a determinats perfils per violacions de les condicions d’ús. Per exemple, aquesta mateixa setmana, la plataforma Tiktok va haver de disculpar-se per haver bloquejat el compte d’una adolescent que <a href="/2019/11/27/el-video-duna-jove-que-alerta-sobre-els-camps-de-concentracio-de-la-xina-i-esquiva-per-ara-la-censura/">denunciava la repressió dels uigurs als seus vídeotutorials de maquillatge</a>.</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/30/radiografia-censura-digital-catalunya/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">450</post-id>	</item>
+	</channel>
+</rss>

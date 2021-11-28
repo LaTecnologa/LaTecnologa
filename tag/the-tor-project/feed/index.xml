@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>The Tor Project &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/the-tor-project/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>The Tor Project &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>La pandèmia dispara l’activitat il·legal al web fosc</title>
+		<link>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/</link>
+					<comments>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2020 16:10:16 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Agència de Ciberseguretat de Catalunya]]></category>
+		<category><![CDATA[Cibercrim]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Dark web]]></category>
+		<category><![CDATA[Edward Snowden]]></category>
+		<category><![CDATA[Silvia Puglisi]]></category>
+		<category><![CDATA[The Tor Project]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[Web fosc]]></category>
+		<guid isPermaLink="false">/?p=1446</guid>
+
+					<description><![CDATA[Vacunes i cures falses, drogues, més material pedòfil i credencials d’accés a entorns corporatius: el coronavirus desplaça la criminalitat al món virtual ]]></description>
+										<content:encoded><![CDATA[
+<h2>Vacunes i cures falses, drogues, més material pedòfil i credencials d’accés a entorns corporatius: el coronavirus desplaça la criminalitat al món virtual </h2>
+
+
+
+<p>La Covid-19 ha omplert Internet d’ofertes de cures, proves de diagnòstic, respiradors i equips de protecció personal a preus desorbitats, productes teòricament miraculosos i vacunes falses. Segons <a rel="noreferrer noopener" href="https://www.anu.edu.au/news/all-news/pandemic-profiting-vaccines-and-ppe-on-the-dark-web" target="_blank">una recerca de l’<em>Australian National University</em></a>, que a l’abril va investigar vint mercats clandestins d’Internet, s’hi ha arribat a vendre un fals vaccí per 24.598 dòlars, distribuït des dels Estats Units, mentre el preu mitjà d’aquest producte no baixa dels 575. D’acord amb l’estudi, es tracta de substàncies “probablement robades o distribuïdes il·legalment des de laboratoris d’assaig amb animals o humans o, fins i tot, amb pacients recuperats del coronavirus”.&nbsp;</p>
+
+
+
+<p>Productes com aquests s’han comercialitzat al llarg del confinament al <a href="https://www.termcat.cat/ca/actualitat/apunts/que-samaga-la-xarxa-web-profund-i-web-fosc">web fosc (en anglès, <em>dark web</em>)</a>, on habitualment hi ha lloc per a la venda il·legal d&#8217;armes, drogues, material pedòfil, targetes de crèdit robades, programari maliciós, documents falsificats i tota mena d’activitats que defugen la llei. Els abismes d’Internet no són accessibles des d’un navegador normal i, per a entrar, cal un programari especial. Un exemple és la xarxa d’anonimat TOR (<em>The Onion Router</em>; o, en català, L’Enrutador Ceba), composta per milers de servidors i estructurada en forma de capes, que fa pràcticament impossible identificar els usuaris. “Allò que et dona el web fosc és un anonimat quasi absolut”, expliquen fonts de l’Agència de Ciberseguretat de Catalunya. Tot això ho converteix en un espai molt atractiu per als cibercriminals.</p>
+
+
+
+<p>Les dades de <em>The Tor Project</em>, que és l’entitat d’administració de la xarxa Tor, evidencien un creixement molt significatiu d’usuaris durant la quarantena. Així, si el dia previ a l’anunci del decret d’alarma, el 12 de març, es van registrar a Espanya 23.703 usuaris, <a rel="noreferrer noopener" href="https://metrics.torproject.org/userstats-relay-country.html?start=2020-01-01&amp;end=2020-06-17&amp;country=es&amp;events=off" target="_blank">el 7 de maig es van assolir els 43.495</a>; o sigui, que el trànsit ha arribat a créixer més d’un 180% durant el confinament. Des d’aleshores, l’activitat ha minvat lleugerament, tot i que a l’últim mes s’han continuat veient xifres elevades: 38.169 usuaris l’11 de juny. Un increment que no té res a veure amb l’any passat, que amb prou feines va arribar als 29.481 usuaris.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="615" height="327" src="/wp-content/uploads/2020/06/image.png" alt="" class="wp-image-1447" srcset="/wp-content/uploads/2020/06/image.png 615w, /wp-content/uploads/2020/06/image-300x160.png 300w" sizes="(max-width: 615px) 100vw, 615px" /><figcaption>The Tor Project.</figcaption></figure>
+
+
+
+<h3>Espanya, el sisè estat més atacat per amenaces relacionades amb la Covid-19</h3>
+
+
+
+<p>El Covid-19 també s’ha popularitzat als fòrums de ciberdelinqüents especialitzats en el robatori de dades. Segons <a rel="noreferrer noopener" href="https://www.bitdefender.es/news/espa%C3%B1a-se-sit%C3%BAa-entre-los-seis-pa%C3%ADses-del-mundo-m%C3%A1s-atacados-por-ciberamenazas-relacionadas-con-el-coronavirus-3839.html" target="_blank">l’empresa de ciberseguretat Bitdefender</a>, Espanya s’ha convertit en el sisè país més atacat per amenaces relacionades amb la Covid-19. Al març, les ciberamenaces vinculades amb la crisi ja s’havien multiplicat per cinc, i a l’abril el creixement va ser encara major. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Una investigació de la consultora Digital Shadows</a> mostra un debat en un xat de la <em>dark web</em> sobre &#8220;Com treure el màxim partit de la quarantena&#8221;.&nbsp;</p>
+
+
+
+<p>Segons l’Agència de Ciberseguretat de Catalunya, l’activitat criminal que més ha crescut és la venda de credencials d’accés a entorns corporatius. Amb la implantació del teletreball a correcuita s’ha ampliat la bretxa de seguretat informàtica als sectors menys acostumats a aquesta modalitat laboral: “Ara els usuaris naveguen molt més i es compten moltes més víctimes de pesca per correu electrònic (<em>phishing</em>) utilitzant d&#8217;esquer la Covid-19”, explica una font de l’agència. “Algunes contrasenyes acaben sent venudes al web fosc i algú altre les compra per demanar rescats mentre altres amenacen la víctima amb filtrar la informació”, hi afegeix.&nbsp;</p>
+
+
+
+<p>La Covid-19 també ha donat un impuls sense precedents a la pederàstia. <a rel="noreferrer noopener" href="https://diariodetransporte.com/2020/04/informe-de-europol-sobre-cibercrimen-y-desinformacion-en-medio-de-la-crisis-sanitaria/" target="_blank">Un estudi de l’Europol sobre cibercrim durant la pandèmia</a> alerta que l’intercanvi de material pedòfil va disparar-se un 25% durant l’estat d’alarma, arribant a les 21.100 descàrregues entre el 17 i el 24 de març. Dues setmanes després, la Guàrdia Civil detectà a Espanya un nou rècord de la circulació de vídeos pedòfils quan l’augment va assolir el 507% durant l’estat d’alarma, <a rel="noreferrer noopener" href="https://elpais.com/sociedad/2020-04-27/el-trafico-de-videos-pedofilos-se-dispara-en-redes-un-507-durante-el-estado-de-alarma.html" target="_blank">segons una investigació de la Unitat Central Operativa (UCO) de la Guàrdia Civil que va fer públic <em>El País</em></a> i tal com ha pogut confirmar <em>La Tecnòloga</em>. L’Europol alerta que els pedòfils han aprofitat la pandèmia per buscar noves víctimes i reprodueix alguns dels seus missatges: “Hola, amb aquesta quarantena creieu que hi haurà més nens a Omegle [un lloc web per a xatejar amb persones anònimes] traient ‘<em>packs</em>’ [de fotografies íntimes]?”, es demana algú en un fòrum d&#8217;Internet, mentre algú altre encara va més enllà: “Imagina estar tancat a casa en tot moment. Aquells que tenen un fill a casa o els que passen més temps amb els seus fills, jajaja, m’agradaria tenir aquesta situació”.&nbsp;</p>
+
+
+
+<p>El confinament també ha provocat un augment de visites al web fosc per comprar droga. Amb la restricció dels moviments, els consumidors l’han anat a buscar al mercat negre d’Internet. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Com ho reflecteix Digital Shadows</a>, un venedor de cànnabis promet un bon servei als seus clients oferint-los “uns cogolls de laboratori densos i ensucrats, enviats a domicili per un venedor dedicat del web fosc”.</p>
+
+
+
+<p>L’increment de la venda de productes relacionats amb la Covid-19 al web fosc s’explica en part per la interrupció de l’activitat habitual dels ciberdelinqüents. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Digital Shadows reprodueix</a> les preocupacions d’alguns usuaris que temen els efectes de la pandèmia sobre els seus models de negoci. En un fòrum del web fosc, algú s’hi anuncia: “Un vell busca feina”. A la mateixa publicació explica que treballava des del 2012 en el frau orientat al turisme, hotels, vols i excursions, i hi afegeix: “(&#8230;) però des que va començar l’estafa del coronavirus m’he quedat indefinidament sense ingressos”.&nbsp;</p>
+
+
+
+<h3>El web fosc i la llibertat d’expressió</h3>
+
+
+
+<p>Perseguir els delinqüents del web fosc és una cursa d’obstacles quan l’anonimat s’interposa entre aquests i la policia, que normalment disposa de pocs recursos si no compta amb l’ajuda d’organismes internacionals com l’Europol o empreses privades de seguretat. Per això, governs de tot el món han intentat prohibir els servidors xifrats; un fet al qual s’hi oposen activistes, alertadors, periodistes o persones que, simplement, volen evitar que les dades de navegació caiguin en mans dels governs o les grans corporacions: &#8220;La privacitat sempre és prioritària. És un dret que ens permet desenvolupar les nostres idees, saber qui som i com volem presentar-nos al món&#8221;, <a href="/2020/06/14/silvia-puglisi-the-tor-project/">remarcava l&#8217;enginyera informàtica Silvia Puglisi, de <em>The Tor Project</em>, en una entrevista recent a <em>La Tecnòloga</em></a>.</p>
+
+
+
+<p>Així, en un país amb llibertats restringides, utilitzar el web fosc permet esquivar la censura, tot i que, segons l’investigador especialitzat en aquest àmbit Eric Jardine, els navegadors anònims també s’han popularitzat a les democràcies liberals arran d’una creixent preocupació per la privacitat. De fet, el pic més alt d’usuaris de Tor va coincidir amb l’inici de les revelacions sobre l&#8217;<a href="/2019/11/16/edward-snowden-project-tor/">espionatge massiu de l&#8217;Agència de Seguretat Nacional (NSA) d’Edward Snowden</a>, passant en tan sols un mes d’<a rel="noreferrer noopener" href="https://metrics.torproject.org/userstats-relay-country.html?start=2013-01-01&amp;end=2014-06-08&amp;country=all&amp;events=off" target="_blank">uns 800 mil usuaris a gairebé sis milions, el 18 de setembre del 2013</a>.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="608" height="325" src="/wp-content/uploads/2020/06/image-1.png" alt="" class="wp-image-1448" srcset="/wp-content/uploads/2020/06/image-1.png 608w, /wp-content/uploads/2020/06/image-1-300x160.png 300w" sizes="(max-width: 608px) 100vw, 608px" /><figcaption>The Tor Project.</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1446</post-id>	</item>
+		<item>
+		<title>Silvia Puglisi, de The Tor Project: “El principal paper de Tor és ajudar a persones en risc de censura per fer alguna cosa tan simple com llegir el diari”</title>
+		<link>/2020/06/14/silvia-puglisi-the-tor-project/</link>
+					<comments>/2020/06/14/silvia-puglisi-the-tor-project/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 13 Jun 2020 23:37:49 +0000</pubDate>
+				<category><![CDATA[Diàlegs]]></category>
+		<category><![CDATA[Destacat]]></category>
+		<category><![CDATA[No Con Name]]></category>
+		<category><![CDATA[Silvia Puglisi]]></category>
+		<category><![CDATA[The Tor Project]]></category>
+		<category><![CDATA[Tor]]></category>
+		<guid isPermaLink="false">/?p=1422</guid>
+
+					<description><![CDATA[Fotografia: Puglisi impartint una conferència al congrés de ciberseguretat No Con Name. / No Con Name Silvia Puglisi (Itàlia, 1983) és enginyera informàtica i va&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">Fotografia: Puglisi impartint una conferència al congrés de ciberseguretat No Con Name. / <em>No Con Name</em></p>
+
+
+
+<p>Silvia Puglisi (Itàlia, 1983) és enginyera informàtica i va estrenar-se a Google (Dublín), on va treballar cinc anys. Però si el punt de partida va ser el gegant tecnològic que ho sap quasi tot, ha acabat formant part d&#8217;una organització clau per a la defensa de la privacitat a Internet, <em>The Tor Project</em>, on treballa des de fa quatre anys. I, entremig, ha fet feina al <em>Fab Lab Barcelona</em> -una xarxa col·laborativa global per a la recerca- i s’ha doctorat a la Universitat Politècnica de Catalunya (UPC). </p>
+
+
+
+<p><em>The</em> <em>Tor Project</em> és l’entitat sense ànim de lucre que gestiona Tor, acrònim de <em>The Onion Router</em> (en català, l&#8217;Enrutador Ceba), que és el programari de codi obert que permet navegar anònimament per la Xarxa. Tal com explica Edward Snowden al llibre <em>Permanent Record</em>, Tor és una creació del govern dels Estats Units que es va acabar convertint en un dels pocs escuts eficaços contra la vigilància estatal, basat en un model de comunitat cooperativa que depèn de voluntaris experts en tecnologia de tot el món que gestionen els seus propis servidors des dels seus soterranis, golfes i garatges: “Gairebé cap dels servidors Tor -anomenats &#8216;capes&#8217;- coneix la identitat de l&#8217;origen del tràfic, ni té cap informació per identificar-lo. A més, en una autèntica jugada mestra, l&#8217;únic servidor Tor que coneix aquest origen (el primer de la cadena) no sap on es dirigeix el tràfic”. </p>
+
+
+
+<p>Però la xarxa d’anonimització més utilitzada del món no ha evitat els danys col·laterals de la pandèmia i, recentment, ha patit una dràstica reducció de la plantilla per la caiguda de les donacions i la congelació de les subvencions. A més, Puglisi i altres companys seus es troben en ERTO fins el desembre.</p>
+
+
+
+<p><strong>A què es dedica The Tor Project?</strong></p>
+
+
+
+<p>El Projecte Tor és una entitat d’administració de la xarxa Tor. No intervé en allò que passa a la xarxa en si, perquè aquesta no és controlada. El projecte s’ocupa, sobretot, de desenvolupar un protocol, o sigui, allò que defineix la manera de navegar per Internet. El resultat és el navegador Tor.&nbsp;</p>
+
+
+
+<p><strong>Quines implicacions té per a la nostra societat l&#8217;existència d&#8217;una xarxa com Tor? Què significa l’eslògan del Projecte Tor ‘Take back the Internet’?</strong></p>
+
+
+
+<p>El principal paper de Tor és ajudar a persones en situació de censura o risc de censura a l’hora de fer alguna cosa tan simple com llegir el diari o buscar informació. Per exemple, en alguns països, buscar a Internet sobre com avortar pot ser molt perillós. Per altra banda, res justifica que, quan llegeixes un diari, cinquanta empreses mirin com es mou el teu ratolí a la pantalla.&nbsp;</p>
+
+
+
+<p><strong>Quina rellevància té l&#8217;activitat del Projecte Tor per a la supervivència de la xarxa Tor: podria existir una sense l’altra, només amb el suport i treball de voluntaris?</strong></p>
+
+
+
+<p>L’objectiu del Projecte Tor és el desenvolupament del protocol, la resolució dels problemes del codi i el manteniment d’aquest codi. Però la xarxa és mantinguda sobretot per voluntaris. Jo mateixa tinc un node i la gent l’utilitza per accedir a la xarxa. La xarxa en si és, d’alguna manera, autònoma del projecte. De fet, hi ha molts projectes de codi lliure que es desenvolupen íntegrament per voluntaris. És el cas de Debian, una distribució de Linux. En altres casos, hi ha empreses o organitzacions al darrere.</p>
+
+
+
+<p><strong>Com pot una xarxa que depèn directament del treball d&#8217;una organització tenir garanties de ser una xarxa lliure i independent?</strong></p>
+
+
+
+<p>Per començar, no controlem la xarxa. Qualsevol persona pot posar un node a la xarxa. En segon lloc, el codi del programari és obert i molta gent el llegeix. Quan tu utilitzes el navegador Tor o afegeixes un node a la xarxa, pots confiar que molta gent accedeix i revisa aquest codi, tal com funciona una distribució Linux de codi lliure.&nbsp;</p>
+
+
+
+<p><strong>Actualment, el Projecte Tor tenia fins a 35 persones treballant en el nucli del seu servei, però l&#8217;alerta sanitària del coronavirus </strong><a rel="noreferrer noopener" href="https://www.adslzone.net/noticias/redes/despido-plantilla-tor-project-coronavirus/" target="_blank"><strong>ha forçat l&#8217;organització a acomiadar a 13 persones, que és un terç de la plantilla</strong></a><strong>, per a poder continuar endavant. Com afectarà això a Tor? Quines conseqüències per a la privacitat pot tenir?</strong></p>
+
+
+
+<p>Seguim treballant com abans i el protocol es manté igual. Tot i això, ara som menys gent i la resolució d’alguns problemes pot ser més lenta. Per sort, tenim una comunitat molt activa de persones que no treballen directament al Projecte Tor, però que investiguen sobre el protocol, o bé simplement fan traduccions, o bé fan desenvolupaments durant el seu temps lliure. Són molts els voluntaris que sostenen el projecte. El Projecte Tor funciona d’una manera similar a organitzacions com <a href="https://ca.wikipedia.org/wiki/Indymedia" target="_blank" rel="noreferrer noopener">Indymedia</a>, que a finals dels anys 90 va impulsar un mitjà de comunicació més independent i autosostenible. Molts dels qui en formaven part ara són a Tor.&nbsp;</p>
+
+
+
+<p><strong>Esdeveniments com la primavera àrab o les revelacions de Snowden, el 2013, van disparar l&#8217;èxit de Tor. El pic més alt d&#8217;usuaris va coincidir amb l&#8217;inici de les revelacions sobre l&#8217;espionatge massiu de la NSA, passant de menys de 800 mil usuaris a gairebé 6 milions en tan sols un mes&#8230;</strong></p>
+
+
+
+<p>Sovint s’ha parlat de la utopia de la tecnologia. Hi ha dos moments que trenquen amb aquesta creença. El primer coincideix amb les filtracions de Snowden, i el segon amb el cas de <em>Cambridge Analytica</em>, l’empresa que va tenir un paper decisiu en les victòries de Donald Trump i el Brexit utilitzant dades personals per a influir en decisions polítiques. Amb les revelacions de Snowden, es va trencar la confiança amb el govern, i amb l’escàndol de <em>Cambridge Analytica</em> es va trencar la confiança amb les grans corporacions. Crec que d’aquí a un temps ens passarà el mateix amb aplicacions com Facebook, Whatsapp o Instagram.</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="oW2fvqmDJi"><a href="/2019/11/16/edward-snowden-project-tor/">Snowden: &#8220;Tor [The Onion Router] feia plorar els espies&#8221;</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Snowden: &#8220;Tor [The Onion Router] feia plorar els espies&#8221;&#8221; &#8212; La Tecnòloga" src="/2019/11/16/edward-snowden-project-tor/embed/#?secret=oW2fvqmDJi" data-secret="oW2fvqmDJi" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p><strong>Com de ràpid hem de fugir d’aquestes xarxes socials?</strong></p>
+
+
+
+<p>És normal que la gent vulgui tenir-hi un compte, però com menys dades hi comparteixis, millor. L’ideal seria, per exemple, que no utilitzis el mateix navegador per accedir al compte bancari i per connectar-te a Facebook. Si una cosa la fas amb Chrome, l’altra la pots fer amb Firefox, o al revés. També és convenient evitar l’ús d’aplicacions mòbils que acaben enviant dades a grans corporacions com Google o Facebook. És preferible fer servir Facebook o Instagram des d’un navegador.&nbsp;</p>
+
+
+
+<p><strong>La Covid-19 ha implicat prioritzar la recol·lecta de dades personals per sobre de la privacitat. Hi haurà un abans i un després en matèria de llibertats?</strong></p>
+
+
+
+<p>A escala europea, els protocols per analitzar els contagis són força segurs. De fet, un dels protocols més descentralitzats han estat desenvolupats en bona part per l’espanyola <a rel="noreferrer noopener" href="https://es.wikipedia.org/wiki/Carmela_Troncoso" target="_blank">Carmela Troncoso</a> i el seu equip, que treballen a Ginebra. La majoria de les aplicacions dels governs s’han desenvolupat amb aquesta idea: que les anàlisis de dades personals es fan al telèfon de la persona i no es comparteixen ni amb el govern ni amb les empreses. Tot i això, els governs regionals ja tenen les dades dels contagis perquè les han obtingut a través dels hospitals i els diferents sistemes de salut. Malgrat tot, altres governs han actuat amb més picardia i han arribat a un acord amb empreses poc fiables. Per exemple, arran de la pandèmia, el govern d’Anglaterra ha començat a col·laborar amb Palantir, una empresa que ven dades de persones migrants o sospitoses d’alguna il·legalitat a la policia.</p>
+
+
+
+<p><strong>La privacitat ha de prioritzar-se per davant de la seguretat?</strong></p>
+
+
+
+<p>La privacitat sempre és prioritària. La privacitat és un dret que ens permet desenvolupar les nostres idees, saber qui som i com volem presentar-nos al món. A vegades penso que és com la roba. Tu esculls com et vesteixes, o si et vesteixes una mica més o una mica menys. No sóc de les persones que considera que la privacitat ha mort i que, si no tens res a amagar, no cal amoïnar-se. De fet, la privacitat està en moltes constitucions i és un dels drets fonamentals. Ara bé, l’anonimat no és el mateix que la privacitat. L’anonimat és quan tu has fet alguna cosa i ningú ho sap. A vegades l’anonimat provoca una certa por. A <em>La República</em>, Plató parla de Giges, un pastor que troba un anell que li dona el poder de la invisibilitat que utilitza per matar el rei. El conte ens ve a dir que el do d’ocultar-se serveix per a fer el mal. Això no és cert i, a més, actualment existeixen tots els mecanismes per descobrir si algú ha comès un crim independentment de si llegeix <em>El País</em>, <em>La Vanguardia</em> o si prefereix un altre diari.</p>
+
+
+
+<p><strong>Realment hi ha els mecanismes per a perseguir la pederàstia, la venda il·legal d’armes o el narcotràfic al web fosc (<em>dark web</em>)?</strong></p>
+
+
+
+<p>Sí, hi ha mecanismes. Sempre que la gent utilitza un servidor es produeixen errors. La gent que comet un delicte també deixa un rastre fora del web fosc. A vegades el web fosc provoca una certa por perquè no hi ha una empresa al darrere. Però, en molts casos, el material il·legal també es comparteix per Whatsapp, com passa amb molts vídeos de ciberassetjament. També hi ha molt material que es comparteix a Dropbox o <a rel="noreferrer noopener" href="https://www.cloudflare.com/es-es/" target="_blank">Cloudflare</a>, un servei que et proporciona cert anonimat perquè no revela on es troba el servidor.</p>
+
+
+
+<p><strong>El web fosc és un terme criminalitzat. Hauríem de canviar l&#8217;enfocament?</strong></p>
+
+
+
+<p>Crec que sovint els mitjans no troben una bona història quan parlen d’arxius compartits a Dropbox. En canvi, si parles del web fosc, hi ha tota una narrativa al darrere que desperta més interès i que va desenvolupar-se amb el sorgiment de <a href="https://es.wikipedia.org/wiki/Silk_Road" target="_blank" rel="noreferrer noopener">Silk Road</a>, un popular mercat negre de droga desmantellat el 2013, i que evocava històries de pirates.</p>
+
+
+
+<p><strong>Com es planteja a Tor el dilema entre privacitat i seguretat?</strong></p>
+
+
+
+<p>Nosaltres escollim sempre la privacitat perquè l’usuari és la baula més dèbil de la cadena; especialment si viu en un país amb llibertats limitades. Cal tenir en compte que a Internet també hi ha contingut il·legal i que cada país té la seva manera de detectar qui comparteix aquests continguts.&nbsp;</p>
+
+
+
+<p><strong>En un país on les llibertats estan limitades, el web fosc és un mitjà d&#8217;expressió i accés a informacions que en altres espais estarien vetats o suposaria un risc inassumible. Però Tor també és popular en les democràcies liberals. Per què és necessari Tor en un Estat com l’espanyol?</strong></p>
+
+
+
+<p>Tu has de tenir el dret de comprar alguna cosa i no haver de pagar un preu alterat pel fet d’haver buscat el mateix producte tres setmanes abans, com passa amb el cost d’un vol, per exemple. El dret a la privacitat és també això: no ser vist mentre busques qualsevol cosa.&nbsp;</p>
+
+
+
+<p><strong>Hi ha alguna mesura implementada per <em>The Tor Project</em> o alguna altra organització que intenti mitigar l&#8217;ús de la xarxa per a cometre crims?</strong></p>
+
+
+
+<p>El protocol <em>onion</em> et permet publicar un web sense que ningú identifiqui l’autor ni el visitant. Es protegeixen les dues parts. Per altra banda, si ve algú i ens diu que una pàgina és il·legal, nosaltres no tenim manera de conèixer el servidor d’origen. Tot i això, nosaltres no volem que aquest tipus de contingut sigui al web fosc i sovint pensem mecanismes per evitar que n’hi hagi. Però són continguts que també existeixen a Internet.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="JukvFXNqFg"><a href="/2020/02/19/10-motius-resistencia-digital/">10 motius per practicar la &#8216;Resistència Digital&#8217;</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;10 motius per practicar la &#8216;Resistència Digital&#8217;&#8221; &#8212; La Tecnòloga" src="/2020/02/19/10-motius-resistencia-digital/embed/#?secret=JukvFXNqFg" data-secret="JukvFXNqFg" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/06/14/silvia-puglisi-the-tor-project/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1422</post-id>	</item>
+		<item>
+		<title>Quatre dies negociant amb ciberdelinqüents</title>
+		<link>/2019/12/20/ciberdelinquents-ransomware-empresa-catalana/</link>
+					<comments>/2019/12/20/ciberdelinquents-ransomware-empresa-catalana/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2019 19:53:24 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Dark web]]></category>
+		<category><![CDATA[Deep web]]></category>
+		<category><![CDATA[Hacker]]></category>
+		<category><![CDATA[INCIBE]]></category>
+		<category><![CDATA[Institut Nacional de Ciberseguretat]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Mossos Esquadra]]></category>
+		<category><![CDATA[Nico Castellano]]></category>
+		<category><![CDATA[No Con Name]]></category>
+		<category><![CDATA[Oleguer Rocafull]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[The Tor Project]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[Virus]]></category>
+		<guid isPermaLink="false">/?p=543</guid>
+
+					<description><![CDATA[El consultor en ciberseguretat José Nicolás Castellano detecta una onada creixent d’atacs per ransomware durant les últimes setmanes Una multinacional de Barcelona es despertava el&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>El consultor en ciberseguretat José Nicolás Castellano detecta una onada creixent d’atacs per ransomware durant les últimes setmanes</h2>
+
+
+
+<p>Una multinacional de Barcelona es despertava el dijous amb l’aigua al coll, els ordinadors bloquejats i un missatge anònim a les pantalles: o pagaven un rescat de més de mig milió d&#8217;euros o abaixaven la persiana. Un virus informàtic els havia agafat per sorpresa i, de cop i volta, totes les dades estaven xifrades. Des d’un xat anònim, algú els reclamava 540.000 euros si volien recuperar-les.&nbsp;</p>
+
+
+
+<p>A la tarda, la companyia va denunciar-ho als Mossos d’Esquadra. En aquest cas, però, feia falta alguna cosa més que la intervenció policial per dissuadir uns criminals d’identitat i parador desconeguts. L’única opció de rescatar les dades passava per seure i negociar amb gent que utilitzava les mateixes tàctiques que els segrestadors de persones. La conversa, però, s’havia de mantenir a través d’un xat anònim i sempre utilitzant <a href="/2019/11/16/edward-snowden-project-tor/">Tor, que permet navegar d’incògnit per la Xarxa</a>.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="964" height="724" src="/wp-content/uploads/2019/12/Nico_Oleguer_separats.jpg" alt="" class="wp-image-553" srcset="/wp-content/uploads/2019/12/Nico_Oleguer_separats.jpg 964w, /wp-content/uploads/2019/12/Nico_Oleguer_separats-300x225.jpg 300w, /wp-content/uploads/2019/12/Nico_Oleguer_separats-768x577.jpg 768w" sizes="(max-width: 964px) 100vw, 964px" /><figcaption>El consultor en ciberseguretat, José Nicolás Castellano, i l&#8217;analista d&#8217;Intel·ligència, Oleguer Rocafull.</figcaption></figure>
+
+
+
+<p>L’operació va allargar-se quatre dies. Va ser clau la intermediació d’Oleguer Rocafull, analista d&#8217;Intel·ligència, i el consultor en ciberseguretat José Nicolás Castellano, que també és el president i organitzador del congrés de ciberseguretat més veterà de l’Estat, <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.noconname.org/" target="_blank">el NoConName</a>. “Vam començar a negociar, però vam veure que a l’altra banda no es movien. Sabien que tenien el poder”, recorda Castellano. En aquest cas, la companyia, assistida pel consultor, va atrevir-se a discutir el preu que demanaven per a la informació menys crítica i va dir als <em>hackers</em> ‘Això és el que tenim. No demaneu més. Ho voleu?’. I ho van acceptar.&nbsp;</p>
+
+
+
+<p>No obstant això, l’empresa va veure’s obligada a pagar sense regatejar per les dades vitals. “Era qüestió de vida o mort”, explica Castellano, i afegeix que “la majoria d’empreses que han patit un atac semblant han hagut de tancar”. D’aquesta manera, després de moltes hores de tensió, el rescat va saldar-se amb el pagament de 142.000 euros -lluny dels 540.000 que demanaven al principi- i, això sí, la supervivència de l’empresa.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh6.googleusercontent.com/hoARGhEhjjJSc4soQqw6RNofWx_E2xeaAP-KI-0H7s6qTq90A0bbALEbRpZw46ZmD2VqXZmwcU35zP6G0xJAVA3AxpPanymsq2TEEwCEPhymgM5Dni0xD62zE1TKmVXFAYCI1fk" alt=""/><figcaption>Moment en què l’empresa rebia les últimes tres claus de desxifrat a través del xat anònim. </figcaption></figure>
+
+
+
+<p>Escenes com aquesta no són una excepció a Catalunya, on Castellano detecta una onada creixent d’infeccions per <em>ransomware </em>(de l&#8217;anglès <em>ransom</em>, ‘rescat’, i <em>ware</em>, de &#8216;programari&#8217;), que xifra els arxius i infecta els sistemes connectats a la mateixa xarxa. Una vegada instal·lat a l’ordinador, bloqueja l’accés i demana un rescat que oscil·la entre els centenars i els milers d’euros a canvi de les claus de desxifrat. “Aquest darrer mes hem vist moltes, moltes, empreses catalanes afectades. Els atacants van a sac”, assegura.&nbsp;</p>
+
+
+
+<p>A escala mundial, <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://resources.malwarebytes.com/resource/cybercrime-tactics-techniques-2019-q1-report/" target="_blank">l’últim estudi de la companyia de ciberseguretat <em>Malwarebytes</em></a> diu que, en comparació amb el primer trimestre del 2018, les incidències registrades per <em>ransomware</em> s’han incrementat un 500% durant els primers tres mesos d&#8217;enguany. A Nord-Amèrica, aquests virus ja han bloquejat desenes d’administracions senceres, i <a href="/2019/12/16/el-ransomware-ja-ha-apagat-els-ordinadors-a-varis-governs/">alguns Estats i ciutats fins i tot han declarat l’estat d’emergència</a>. A l’Estat espanyol, el Centre Criptològic Nacional (CCN) no atura de plantar cara a una allau d&#8217;incidències informàtiques semblants que han deixat <a href="/2019/11/05/com-evitar-el-ransomware-el-virus-que-recorre-europa/">víctimes com la Cadena SER o la consultora Everis, entre moltes altres empreses espanyoles</a>.&nbsp;</p>
+
+
+
+<h5>&#8216;<strong>Malware as a service</strong>&#8216;</h5>
+
+
+
+<p>Segons l’Institut Nacional de Ciberseguretat (INCIBE) de l’Estat espanyol, es tracta d’<a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.incibe.es/protege-tu-empresa/herramientas/servicio-antiransomware" target="_blank">un atac cada cop més freqüent perquè resulta molt lucratiu pels delinqüents</a> (es calcula que els creadors de WannaCry, un tipus de <em>ransomware</em> que afectà milers d’ordinadors el 2017, guanyaven uns 360.000 dòlars mensuals). A més, cada cop és més fàcil segrestar la informació degut als avenços de la criptografia. Igualment, els <em>hackers</em> poden ocultar la seva identitat i utilitzar sistemes internacionals de pagament anònim i que la Policia no pot rastrejar, com la criptomoneda ‘Bitcoin’.</p>
+
+
+
+<p>La majoria d’atacs recents provenen de <em>malwares</em> diferents, tot i que formen part de la família del <em>ransomware</em>. Els <em>hackers</em> funcionen com una empresa amb una organització interna, on cadascú té el seu paper: “s’anomena <em>Malware</em> as a service”, explica Castellano. D’aquesta manera, un primer grup es dedica a fer un estudi de mercat de l’empresa víctima i esbrina el seu poder adquisitiu, els pressupostos que mou, els ordinadors que utilitza, els programes que fa servir i els correus dels directius o dels qui gestionen les finances. I tota aquesta informació s’extreu per mitjà d’Internet. “Ho saben quasi tot”, comenta. Mentrestant, uns altres es fan càrrec de desenvolupar el programari de xifrat, uns altres ho venen a través del <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://ca.wikipedia.org/wiki/Web_profund" target="_blank">Web profund</a>, i uns altres fan l’atac.</p>
+
+
+
+<p>El vector d’infecció més típic és un correu amb un document adjunt. Quan algú l’obre per error, el <em>ransomware</em> penetra dins un ordinador i es replica en totes les màquines possibles per mitjà dels anomenats ‘moviments laterals’, que dispersen el virus. Aleshores, es comencen a xifrar les dades utilitzant sovint més d’una clau, cadascuna amb el seu preu. D’aquesta manera, l’empresa víctima ha de pagar certa quantitat per cada paquet d’informació encriptada.&nbsp;</p>
+
+
+
+<h5><strong>Punts febles</strong></h5>
+
+
+
+<p>El <em>ransomware</em> afecta sobretot les grans empreses, més propenses a pagar el rescat per evitar la pèrdua d’informació permanent, la interrupció de l’activitat normal i danys econòmics i reputacionals. Però també són objectius temptadors les petites i mitjanes empreses amb el <em>software</em> desactualitzat -les que utilitzen Microsoft Office 2007 o 2010, per exemple-, que manquen d’antivirus, mesures de seguretat, o disposen de contrasenyes febles. Castellano adverteix que “les empreses no es preparen per uns atacs informàtics cada cop més freqüents, i són aquestes les víctimes”. A més, no n’hi ha prou amb fer còpies de seguretat: “El sistema de còpies d’aquesta empresa no estava pensat per esquivar un atac, perquè el <em>ransomware</em> també ataca les còpies”. Evitar ensurts passa per fer anàlisis de riscos de ciberseguretat, formar el personal i fer proves de penetració, per exemple. “Les companyies s’han de plantejar ja que la ciberseguretat és una inversió i no una despesa”, conclou a Twitter.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="es" dir="ltr">Estos días he vivido de cerca una situación MUY delicada en empresas donde estaba en juego la existencia de la empresa. Ha sido “La pasta a cambio de la empresa” <a href="https://twitter.com/hashtag/negociacion?src=hash&amp;ref_src=twsrc%5Etfw">#negociacion</a> <a href="https://twitter.com/hashtag/ransomware?src=hash&amp;ref_src=twsrc%5Etfw">#ransomware</a> <a href="https://twitter.com/hashtag/bcn?src=hash&amp;ref_src=twsrc%5Etfw">#bcn</a> Deben plantearse YA que la ciberseguridad es una inversión y no un gasto.</p>&mdash; Nico (@niconname) <a href="https://twitter.com/niconname/status/1206391719387906048?ref_src=twsrc%5Etfw">December 16, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/12/20/ciberdelinquents-ransomware-empresa-catalana/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543</post-id>	</item>
+		<item>
+		<title>Snowden: &#8220;Tor [The Onion Router] feia plorar els espies&#8221;</title>
+		<link>/2019/11/16/edward-snowden-project-tor/</link>
+					<comments>/2019/11/16/edward-snowden-project-tor/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 16 Nov 2019 12:09:16 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Dark web]]></category>
+		<category><![CDATA[Deep web]]></category>
+		<category><![CDATA[Edward Snowden]]></category>
+		<category><![CDATA[Permanent Record]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[The Tor Project]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[Vigilància]]></category>
+		<category><![CDATA[Vigilancia Permanente]]></category>
+		<category><![CDATA[Web profund]]></category>
+		<guid isPermaLink="false">/?p=378</guid>
+
+					<description><![CDATA[Edward Snowden explica què és el navegador Tor, que ja té versió en català Tor, el programari de codi obert que ens permet navegar anònimament&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Edward Snowden explica què és el navegador Tor, que ja té versió en català</h2>
+
+
+
+<p>Tor, el programari de codi obert que ens permet navegar anònimament per la xarxa, ja té versió en català. Per això rellegim més avall l&#8217;explicació d&#8217;aquesta eina que plasma el famós exespia nordamericà, <strong>Edward Snowden</strong>, al seu llibre <em><strong>Permanent Record</strong></em> (en castellà, <em>Vigilancia Permanente</em>).</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr">Our website and Tor Browser are now both available in <a href="https://twitter.com/hashtag/Catalan?src=hash&amp;ref_src=twsrc%5Etfw">#Catalan</a>. <br><br>Sabem que és més fàcil utilitzar alguna cosa en el vostre propi idioma. Si mai no heu provat el navegador Tor, avui és el dia.<br><br>Prova-ho ara: <a href="https://t.co/9ML1G7SRqZ">https://t.co/9ML1G7SRqZ</a> <a href="https://t.co/IjJeRk6hUy">pic.twitter.com/IjJeRk6hUy</a></p>&mdash; The Tor Project (@torproject) <a href="https://twitter.com/torproject/status/1195389642922700800?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p><em>Durant la meva temporada a Ginebra, quan un agent de cas em preguntava si hi havia un mode més segur, més ràpid i, en general, més eficient de fer el mateix </em>[navegar a Google de manera anònima]<em>, jo els presentava a Tor.</em></p>
+
+
+
+<p><em>El Tor Project era una creació de l&#8217;Estat que s&#8217;acabà convertint en <strong>un dels pocs escuts eficaços contra la vigilància estatal.</strong> Tor és un software gratuït de codi obert que, si s&#8217;utilitza amb compte, permet als seus usuaris navegar per Internet amb el més semblant a l&#8217;anonimat que es pot assolir a escala pràctica. Els seus protocols els desenvolupà el Laboratori d&#8217;Investigació Naval dels Estats Units al llarg de la dècada de 1990, i el 2003 el posà a disposició del públic, o sigui, de la població civil mundial de la qual depèn la seva funcionalitat. El motiu d&#8217;aquesta afirmació és que <strong>Tor es basa en un model de comunitat cooperativa i depèn de voluntaris experts en tecnologia de tot el món que gestionen els seus propis servidors Tor des dels seus soterranis, golfes i garatges</strong>. Enrutant a internet el tràfic dels seus usuaris per aquests servidors, Tor fa el mateix treball de protecció de l&#8217;origen d&#8217;aquest tràfic que el sistema de &#8220;cerca no atribuïble&#8221; de la CIA, amb la principal diferència que Tor ho fa millor, o com a mínim, de manera més eficient. Jo ja estava convençut d&#8217;això, però convèncer els agents de cas era una altra història.</em></p>
+
+
+
+<p><em>Amb el protocol Tor, el teu tràfic es distribueix i rebota per rutes generalitzades a l&#8217;atzar de servidor Tor en servidor Tor, amb la finalitat de substituir la teva identitat com a font d&#8217;una comunicació amb la de l&#8217;últim servidor Tor en una cadena que canvia constantment. <strong>Gairebé cap dels servidors Tor -anomenats &#8220;capes&#8221;- coneix la identitat de l&#8217;origen del tràfic, ni té cap informació per identificar-lo</strong>. A més, en una autèntica jugada mestra, l&#8217;únic servidor Tor que coneix aquest origen (el primer de la cadena) no sap on es dirigeix el tràfic. Dit d&#8217;una manera més planera: el primer servidor Tor que et connecta amb la xarxa Tor, o porta d&#8217;enllaç, sap que ets tu qui envia una sol·licitud, però com que no té permès llegir aquesta sol·licitud, no té ni idea que cerques mems de mascotes o informació sobre una protesta, i el servidor Tor final pel qual passa la teva sol·licitud, o sortida, sap exactament allò que s&#8217;està buscant, però no en té ni idea de qui ho està buscant. </em></p>
+
+
+
+<p><em>Aquest mètode de capes s&#8217;anomena &#8220;enrutament de ceba&#8221;, i d&#8217;aquí rep Tor el seu nom: les sigles en anglès d&#8217;aquest concepte, <strong>The Onion Router; l&#8217;acudit confidencial era que intentar vigilar la xarxa Tor feia plorar els espies</strong>. I aquí rau la ironia de tot el projecte: una tecnologia desenvolupada per l&#8217;Exèrcit dels Estats Units va fer al mateix temps més fàcil i més difícil la ciberintel·ligència, quan va aplicar coneixements de hacker per a protegir l&#8217;anonimat dels agents de la Intelligence Community, però només a força de garantir el mateix anonimat als adversaris, i als usuaris de tot el món. En aquest sentit, Tor és gairebé més neutral que Suïssa. A mi, personalment, <strong>Tor em canvià la vida, ja que em va tornar l&#8217;Internet de la meva infància, en permetre&#8217;m tastar lleugerament la llibertat de no sentir-me observat</strong>.</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/16/edward-snowden-project-tor/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">378</post-id>	</item>
+	</channel>
+</rss>

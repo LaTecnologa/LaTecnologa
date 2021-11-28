@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Xnet &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/xnet/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Xnet &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Xnet denuncia que Educació esquiva l&#8217;acord contra la &#8216;googleització&#8217; de les aules catalanes</title>
+		<link>/2020/07/29/xnet-denuncia-que-educacio-esquiva-lacord-contra-la-googleitzacio-de-les-aules-catalanes/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2020 17:48:40 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Suite]]></category>
+		<category><![CDATA[Xnet]]></category>
+		<guid isPermaLink="false">/?p=1537</guid>
+
+					<description><![CDATA[L&#8217;acord per buscar una alternativa al paquet d&#8217;aplicacions de Google Suite a les aules que va signar el juny el Departament d&#8217;Educació de la Generalitat&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>L&#8217;acord per buscar una alternativa al paquet d&#8217;aplicacions de Google Suite a les aules que va signar el juny el Departament d&#8217;Educació de la Generalitat amb la plataforma d&#8217;activistes Xnet pot haver quedat en paper mullat. Així ho ha denunciat aquest dimecres el col·lectiu defensor dels drets digitals <a rel="noreferrer noopener" href="https://xnet-x.net/digitalizacion-democratica-centros-educativos-cataluna/" target="_blank">en un comunicat</a>: segons Xnet, el nou pla de digitalització no inclou el compromís de revisar el programari i els servidors dels centres educatius catalans i no mostra cap intenció de buscar una alternativa al gegant Google, que al febrer va ser acusat per la Fiscalia de Nou Mèxic (EEUU) de recopilar dades dels alumnes de manera il·legal.  La preocupació és si la multinacional estaria accedint a un mercat de dades personals -com les capacitats intel·lectuals o els fracassos escolars de cada alumne, per posar-ne alguns exemples- dels menors. </p>
+
+
+
+<p>El &#8216;<a rel="noreferrer noopener" href="https://xnet-x.net/privacidad-datos-digitalizacion-democratica-educacion-sin-google/" target="_blank">Pla per a la digitalització democràtica dels centres educatius</a>&#8216; és, d&#8217;acord amb Xnet, el resultat d&#8217;un any de converses amb el Departament d&#8217;Educació amb l&#8217;objectiu d&#8217;impulsar una digitalització democràtica de les escoles. La proposta reclama que la comunitat educativa tingui el control de les pròpies dades, que la privacitat quedi garantida, que s&#8217;impulsi la capacitació digital puntera i l&#8217;ús de programari lliure. A diferència de les eines de Microsoft i Google, el programari lliure, a més de ser gratuït, permet a la comunitat de programadors accedir al codi font per tal d&#8217;auditar quines dades s&#8217;emmagatzemen, l&#8217;ús que se&#8217;n fa d&#8217;aquestes i si existeixen riscos de privacitat o seguretat per als estudiants.</p>
+
+
+
+<p>&#8220;Hem de denunciar una submissió innecessària a les pressions corporatives tant dels qui volen afavorir el monocultiu de multinacionals com Google i el seu <em>G Suite for Education</em>, com dels qui tenen interessos clientelars amb els diversos Departaments i volen impedir la diversitat i una digitalització que permeti florir més innovació a Catalunya i més llocs de feina que no depenguin del seu control&#8221;, diu Xnet al comunicat, on expliquen que compten amb el suport de la <a rel="noreferrer noopener" href="https://fapac.cat/" target="_blank">FaPaC</a>&nbsp;(Federació d’Associacions de Mares i Pares d’Alumnes de Catalunya),  l&#8217;<a rel="noreferrer noopener" href="https://www.sindicat.net/" target="_blank">USTEC</a>&nbsp;(Sindicat de treballadores i treballadors de l’ensenyament de Catalunya) i el <a rel="noreferrer noopener" href="https://www.sepc.cat/" target="_blank">SEPC</a>&nbsp;(Sindicat d’Estudiants dels Països Catalans).</p>
+
+
+
+<p>Xnet i<a rel="noreferrer noopener" href="https://maadix.net/es" target="_blank"> Maadix</a> -companyia especialitzada en solucions de codi obert, la privacitat de les comunicacions i la seguretat de les dades per a persones sense coneixements tècnics- van plantejar una sèrie d&#8217;aplicacions adaptades a les necessitats de la comunitat educativa auditables i de codi lliure i obert. La idea del col·lectiu és &#8220;<a rel="noreferrer noopener" href="https://xnet-x.net/privacidad-datos-digitalizacion-democratica-educacion-sin-google/" target="_blank">crear un cercle virtuós</a>&#8221; actualitzant i adaptant aquestes eines, algunes de les quals poc àgils i insuficients, per tal d&#8217;afavorir eines més ètiques i transparents que G Suite. Així mateix, el Pla, que segons Xnet, només l&#8217;1% del pressupost anunciat per Educació per a la digitalització, proposa capacitar les empreses catalanes per donar resposta a les necessitats educatives sense haver de recórrer a multinacionals poc respectuoses amb la privacitat. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1537</post-id>	</item>
+	</channel>
+</rss>

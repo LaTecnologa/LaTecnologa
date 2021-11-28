@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Feminisme &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/feminisme/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:12:27 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Feminisme &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>“M’han arribat a dir que sóc massa guapa per ser informàtica”</title>
+		<link>/2020/02/11/mhan-arribat-a-dir-que-som-massa-guapa-per-ser-informatica/</link>
+					<comments>/2020/02/11/mhan-arribat-a-dir-que-som-massa-guapa-per-ser-informatica/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2020 10:38:10 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Dones]]></category>
+		<category><![CDATA[Feminisme]]></category>
+		<category><![CDATA[Recerca]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[STEM]]></category>
+		<category><![CDATA[Tecnologia]]></category>
+		<guid isPermaLink="false">/?p=729</guid>
+
+					<description><![CDATA[Les dones no arriben al 8,5% del total de matriculats a Enginyeria Informàtica a la Universitat de les Illes Balears i només representen entre el 15 i el 18% dels treballadors amb perfil tècnic del sector digital de l'arxipèlag]]></description>
+										<content:encoded><![CDATA[
+<h2>Les dones no arriben al 8,5% del total de matriculats a Enginyeria Informàtica a la Universitat de les Illes Balears i representen com a màxim el 18% dels treballadors amb perfil tècnic del sector digital</h2>
+
+
+
+<p>Diu l’estereotip que a les dones no els agraden les carreres tècniques. I en el món dels programadors, l’estereotip es tradueix en xifres. María Calzada i Clara Bonnín, enginyeres informàtiques i programadores d’Habitíssimo, ho varen comprovar el primer dia de classe. “Al primer curs, érem almenys 120 alumnes i només quatre dones”, recorda Calzada. La masculinització del món informàtic les desconcerta, perquè a totes dues els encanta l’ofici. “Té un vessant creatiu molt estimulant”, diu Bonnín encongint les espatlles. Tot i això, els clixés hi són i les persegueixen. “M’han arribat a dir que sóc massa guapa per ser informàtica -lamenta Calzada-, i fins i tot massa normal”. A Bonnín també l’han tractada d’estranya, i al masclisme hi afegeix “el mite de l’informàtic ‘freaky’, sense aptituds socials, quan és tot el contrari”.</p>
+
+
+
+<p class="has-text-align-center"><strong>Llegeix <a rel="noreferrer noopener" aria-label="l'article complet a l'ARA Balears (opens in a new tab)" href="https://www.arabalears.cat/societat/han-arribat-massa-guapa-informatica_0_2395560521.html" target="_blank">l&#8217;article complet a l&#8217;ARA Balears</a>.</strong></p>
+
+
+
+<p class="has-small-font-size">Foto: María Calzada i Clara Bonnín, enginyeres informàtiques i programadores d’Habitíssimo, durant un dels actes organitzats per la <a rel="noreferrer noopener" aria-label="Plataforma 11F, amb motiu del Dia de la Dona i la Nina en la Ciència (opens in a new tab)" href="https://11fbalears.org/" target="_blank">Plataforma 11F, amb motiu del Dia de la Dona i la Nina en la Ciència</a>. Autora: <em>Anna Schnabel</em>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/11/mhan-arribat-a-dir-que-som-massa-guapa-per-ser-informatica/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">729</post-id>	</item>
+	</channel>
+</rss>

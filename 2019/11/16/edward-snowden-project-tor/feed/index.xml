@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: Snowden: &#8220;Tor [The Onion Router] feia plorar els espies&#8221;	</title>
+	<atom:link href="/2019/11/16/edward-snowden-project-tor/feed/" rel="self" type="application/rss+xml" />
+	<link>/2019/11/16/edward-snowden-project-tor/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Thu, 25 Jun 2020 16:14:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Per: La pandèmia dispara l’activitat il·legal al web fosc &#8211; La Tecnòloga		</title>
+		<link>/2019/11/16/edward-snowden-project-tor/#comment-81</link>
+
+		<dc:creator><![CDATA[La pandèmia dispara l’activitat il·legal al web fosc &#8211; La Tecnòloga]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2020 16:14:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=378#comment-81</guid>
+
+					<description><![CDATA[[&#8230;] fet, el pic més alt d’usuaris de Tor va coincidir amb l’inici de les revelacions sobre l&#8217;espionatge massiu de l&#8217;Agència de Seguretat Nacional (NSA) d’Edward Snowden, passant en tan sols un mes d’uns 800 mil usuaris a gairebé sis milions, el 18 de setembre del [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] fet, el pic més alt d’usuaris de Tor va coincidir amb l’inici de les revelacions sobre l&#8217;espionatge massiu de l&#8217;Agència de Seguretat Nacional (NSA) d’Edward Snowden, passant en tan sols un mes d’uns 800 mil usuaris a gairebé sis milions, el 18 de setembre del [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Per: Silvia Puglisi, de The TOR Project: “La privacitat és un dret que ens permet desenvolupar les nostres idees i saber qui som” &#8211; La Tecnòloga		</title>
+		<link>/2019/11/16/edward-snowden-project-tor/#comment-54</link>
+
+		<dc:creator><![CDATA[Silvia Puglisi, de The TOR Project: “La privacitat és un dret que ens permet desenvolupar les nostres idees i saber qui som” &#8211; La Tecnòloga]]></dc:creator>
+		<pubDate>Sat, 13 Jun 2020 23:43:05 +0000</pubDate>
+		<guid isPermaLink="false">/?p=378#comment-54</guid>
+
+					<description><![CDATA[[&#8230;] Snowden: &#8220;Tor [The Onion Router] feia plorar els espies&#8221; [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Snowden: &#8220;Tor [The Onion Router] feia plorar els espies&#8221; [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Per: Alumnes sense ordinador i ordinadors en desús: recollida solidària contra la bretxa digital &#8211; La Tecnòloga		</title>
+		<link>/2019/11/16/edward-snowden-project-tor/#comment-50</link>
+
+		<dc:creator><![CDATA[Alumnes sense ordinador i ordinadors en desús: recollida solidària contra la bretxa digital &#8211; La Tecnòloga]]></dc:creator>
+		<pubDate>Sat, 23 May 2020 15:13:34 +0000</pubDate>
+		<guid isPermaLink="false">/?p=378#comment-50</guid>
+
+					<description><![CDATA[[&#8230;] 90. No és un espai lliure de vigilància, on es pot expressar qualsevol opinió, com va demostrar Edward Snowden. Més aviat sembla un lloc ple de gent enfadada i obsessionada amb la seva pròpia representació, [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] 90. No és un espai lliure de vigilància, on es pot expressar qualsevol opinió, com va demostrar Edward Snowden. Més aviat sembla un lloc ple de gent enfadada i obsessionada amb la seva pròpia representació, [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

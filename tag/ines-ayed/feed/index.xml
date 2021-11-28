@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Ines Ayed &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/ines-ayed/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Thu, 04 Jun 2020 22:32:03 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Ines Ayed &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Videojocs per evitar caigudes de la gent gran</title>
+		<link>/2020/03/27/videojocs-evitar-caigudes-avis/</link>
+					<comments>/2020/03/27/videojocs-evitar-caigudes-avis/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2020 21:35:53 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Ines Ayed]]></category>
+		<category><![CDATA[Kinect]]></category>
+		<category><![CDATA[Recerca]]></category>
+		<category><![CDATA[UIB]]></category>
+		<category><![CDATA[Universitat de les Illes Balears]]></category>
+		<category><![CDATA[Videojocs]]></category>
+		<category><![CDATA[Visió per ordinador]]></category>
+		<guid isPermaLink="false">/?p=886</guid>
+
+					<description><![CDATA[La tecnologia va revolucionar el món del joc i ara ho fa amb les teràpies de rehabilitació. Sovint, els videojocs han sigut estigmatitzats com l&#8217;eina&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>La tecnologia va revolucionar el món del joc i ara ho fa amb les teràpies de rehabilitació. Sovint, els videojocs han sigut estigmatitzats com l&#8217;eina que ha entrenat una generació alienada per les pantalles, però avui no podem obviar que els seus usos ultrapassen l&#8217;oci. N&#8217;és una prova la tesi doctoral d&#8217;Ines Ayed, defensada a la Universitat de les Illes Balears (UIB) al febrer, i que ha investigat com millorar terapèuticament l&#8217;equilibri a través de videojocs que detecten els moviments. L&#8217;objectiu últim de la recerca és prevenir caigudes entre les persones majors, un 8% de les quals deriven en fractures o ferides greus i, a més, provoquen un elevat cost socio-sanitari, segons la tesi.</p>
+
+
+
+<p>Jocs comercials com l&#8217;EyeToy TM s&#8217;utilitzen fa alguns anys en programes de teràpies físiques, mentre altres sistemes com GestureTek, que utilitza realitat virtual, han estat específicament dissenyats per tractar pacients amb discapacitats físiques i cognitives. Al mercat encara hi ha més oferta, però la majoria no es recolza en cap estudi sòlid. Ayed, després de fer una extensa revisió sistemàtica de les investigacions prèvies sobre jocs per a la rehabilitació motora, proposa un sistema basat en les directrius de Kinect, un dispositiu llançat el 2010 per Microsoft que permet als usuaris de la Xbox interactuar amb la consola a través de gestos.</p>
+
+
+
+<h5>Kinect: del fracàs a l&#8217;èxit</h5>
+
+
+
+<p>Kinect es basa en sistemes de reconeixement facial, corporal i de veu a partir d&#8217;una càmera RGBD i una altra càmera d&#8217;infrarojos, sensors de profunditat, un micròfon i un processador personalitzat. Va aterrar envoltat de grans expectatives, amb la promesa d&#8217;oferir diversió en família, ja que permetia la interacció de fins a quatre persones amb la consola. Però el 2018 Kinect va deixar de fabricar-se per a la Xbox perquè no havia assolit l&#8217;èxit comercial esperat. Tot i així, aquesta tecnologia ha sobreviscut en altres sistemes aplicats a diversos camps com la robòtica, la recerca universitària, l’arquitectura o el disseny industrial i fins i tot la moda, que ha utilitzat el dispositiu per recrear vestidors interactius.</p>
+
+
+
+<p>Per avaluar objectivament l&#8217;eficàcia de Kinect, Ayed va col·laborar estretament amb fisioterapeutes i va estudiar els resultats d&#8217;un programa d&#8217;intervenció de cinc setmanes en dones grans d&#8217;una residència de Tunísia. Així, va concloure que el sistema és fiable i adequat per calcular i millorar l’equilibri. A més, la doctoranda, de la mà del Grup d’Investigació i Desenvolupament del Departament de Matemàtiques i Informàtica (DMI) de la UIB, destaca encara més beneficis dels videojocs aplicats a les teràpies físiques, com l’espacialitat -barreja de la informació digital amb la física de manera natural-, la sociabilitat -permet fomentar les activitats grupals- i la personalització -ja que s&#8217;adapta a les característiques dels usuaris o al seu context-. Amb tot, estudis recents esmentats a la tesi indiquen que els videojocs ajuden a motivar els pacients; un fet que també ajuda a millorar els resultats.</p>
+
+
+
+<p>La proposta de la investigadora es basa en la metodologia del Disseny Centrat en l’Usuari (DCU), que busca involucrar-lo el més aviat possible en el procés per anar avaluant la usabilitat i la validesa clínica del sistema en múltiples ocasions. L&#8217;objectiu és obtenir una eina final efectiva, eficient i satisfactòria per a l&#8217;usuari tenint en compte el seu context. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/03/27/videojocs-evitar-caigudes-avis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">886</post-id>	</item>
+	</channel>
+</rss>

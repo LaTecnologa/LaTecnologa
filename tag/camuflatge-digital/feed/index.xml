@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Camuflatge Digital &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/camuflatge-digital/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 05 Jun 2020 13:29:51 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Camuflatge Digital &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Hong Kong: 4 consells sobre camuflatge digital</title>
+		<link>/2019/10/23/camuflatge-digital-hong-kong/</link>
+					<comments>/2019/10/23/camuflatge-digital-hong-kong/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Wed, 23 Oct 2019 15:09:51 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Activisme]]></category>
+		<category><![CDATA[Camuflatge Digital]]></category>
+		<category><![CDATA[Hong Kong]]></category>
+		<category><![CDATA[Mòbil]]></category>
+		<category><![CDATA[Seguretat]]></category>
+		<guid isPermaLink="false">/?p=120</guid>
+
+					<description><![CDATA[Catalunya s&#8217;ha submergit en la revolta. Després de la sentència del Procés, les mobilitzacions es multipliquen i creix la repressió. També passa a Hong Kong,&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Catalunya s&#8217;ha submergit en la revolta. Després de la sentència del Procés, les mobilitzacions es multipliquen i creix la repressió. També passa a Hong Kong, on els carrers bullen per impedir que la Xina prengui més llibertats als ciutadans. La gran coordinació que exhibeixen -orquestrada a les aplicacions i a les xarxes socials- ha colpit el món. <a rel="noreferrer noopener" aria-label="Aquest manual elaborat per la Hong Kong Civil Liberties Union (s'obre en una nova pestanya)" href="https://drive.google.com/file/d/0B4W7-FlIxRL4Q01jcFh0X3VjVFk/view" target="_blank">Aquest manual elaborat per Keyboard Frontline i la Hong Kong Civil Liberties Union</a> es dirigeix als activistes de la primera línia de les manifestacions. En resumim alguns consells a continuació. “Be water!</p>
+
+
+
+<h3>Protegeix les dades</h3>
+
+
+
+<ol><li><span style="font-size: 1.125rem;">Abans d&#8217;unir-te a una protesta, és recomanable esborrar qualsevol informació sensible guardada al mòbil, incloent -però sense limitar-ho a això- qualsevol registre de comunicacions anteriors, així com la informació de contactes, correus electrònics, fotografies o vídeos. Com a alternativa, pots comprar un segon mòbil, lliure d&#8217;informació sensible, per utilitzar-lo durant les protestes. També has d&#8217;establir una contrasenya tant per al telèfon com per a les aplicacions, per evitar que pugui ser utilitzat si cau a mans d&#8217;algú altre. </span></li></ol>
+
+
+
+<h3>Protegeix el mòbil</h3>
+
+
+
+<p>Abans d&#8217;anar a manifestar-te, assegura&#8217;t que tens prou bateria al mòbil. Pots activar la funció per destruir les dades a distància i instal·lar-hi algunes aplicacions útils:</p>
+
+
+
+<p><strong>Utilitza un correu electrònic xifrat</strong>. Actualment, existeixen diversos proveïdors de serveis de correu electrònic que permeten xifrar els missatges. El correu s&#8217;encripta abans de ser enviat, i només es desxifra quan és rebut pel compte designat. Alguns d&#8217;aquests proveïdors són Hushmail, ProtonMail i StartMail.</p>
+
+
+
+<p><strong>Utilitza apps de missatgeria instantània xifrada de punt a punt</strong>. La majoria de hongkongesos utilitzen apps de missatgeria instantània no xifrada, com Whatsapp. Aquestes aplicacions envien missatges a través d&#8217;un servidor que pot emmagatzemar-los, obrint la porta al robatori o filtració de dades. Per això recomanem les apps xifrades de punt a punt, com Telegram. Per a fer una trucada telefònica, aconsellem utilitzar RedPhone (Android) o Signal (iPhone). No obstant això, recorda que el telèfon encara pot emmagatzemar gravacions, comunicacions i/o l&#8217;activitats que has generat amb una app concreta.</p>
+
+
+
+<p><strong>Utilitza un servei de fotografia o vídeo en streaming</strong>. Per fer fotos o vídeos, recomanem utilitzar aplicacions de fotografia o gravació de reproducció instantània i evitar que puguin suprimir-se. Instagram o Tumblr poden anar bé. Si vols gravar, reproduir i pujar els teus vídeos de manera instantània, pots provar amb Ustream.</p>
+
+
+
+<h3><strong>Utilitzar el telèfon és un dret</strong></h3>
+
+
+
+<p>El Pacte Internacional de Drets Civils i Polítics, la Llei Bàsica i la Carta de Drets de Hong Kong estableix la llibertat de comunicació i de fer-ho amb privacitat. Si pel carrer o en una protesta ets aturat o qüestionat per un agent, tens dret a utilitzar el mòbil per contactar amb altres, fer fotografies o gravar vídeos. Si ets arrestat, tens el dret de callar, així com d&#8217;evitar respondre a cap pregunta sobre el teu mòbil. Si algú et demana que donis la teva contrasenya del telèfon, avisa un advocat. En cas de no poder contactar-hi perquè t&#8217;han confiscat l&#8217;aparell, recorda el número de placa del policia, i quan i com va passar tot, per tal d&#8217;interposar una denúncia més tard.</p>
+
+
+
+<h3><strong>Abusos i queixes</strong></h3>
+
+
+
+<p>Si teniu alguna queixa contra el comportament de la policia en algun moment, has de recordar el número de placa, la localització, el temps i els detalls per informar de l&#8217;incident a la seva comissaria. També has de presentar una queixa al Centre de denúncies contra la policia i sol·licitar assessorament legal independent tan aviat com sigui possible.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/10/23/camuflatge-digital-hong-kong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">120</post-id>	</item>
+	</channel>
+</rss>

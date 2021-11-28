@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: PyData: La comunitat que impulsa el Software Científic Lliure també es reuneix a Mallorca	</title>
+	<atom:link href="/2020/01/23/pydata-mallorca-2020-software-lliure-cientific/feed/" rel="self" type="application/rss+xml" />
+	<link>/2020/01/23/pydata-mallorca-2020-software-lliure-cientific/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Wed, 20 May 2020 17:59:16 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Per: Les veritats incòmodes del negoci del software &#8211; La Tecnòloga		</title>
+		<link>/2020/01/23/pydata-mallorca-2020-software-lliure-cientific/#comment-46</link>
+
+		<dc:creator><![CDATA[Les veritats incòmodes del negoci del software &#8211; La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 20 May 2020 17:59:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=675#comment-46</guid>
+
+					<description><![CDATA[[&#8230;] incorporació del Windows Media Player, que requeria un esquema de llicències incompatible amb el Software Lliure. Va caler esperar quatre anys perquè la CE resolgués que la companyia de Bill Gates havia comès, [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] incorporació del Windows Media Player, que requeria un esquema de llicències incompatible amb el Software Lliure. Va caler esperar quatre anys perquè la CE resolgués que la companyia de Bill Gates havia comès, [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>La Tecnòloga &#8211; La Tecnòloga</title>
+	<atom:link href="/author/tecnologa/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>La Tecnòloga &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Xnet denuncia que Educació esquiva l&#8217;acord contra la &#8216;googleització&#8217; de les aules catalanes</title>
+		<link>/2020/07/29/xnet-denuncia-que-educacio-esquiva-lacord-contra-la-googleitzacio-de-les-aules-catalanes/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2020 17:48:40 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Suite]]></category>
+		<category><![CDATA[Xnet]]></category>
+		<guid isPermaLink="false">/?p=1537</guid>
+
+					<description><![CDATA[L&#8217;acord per buscar una alternativa al paquet d&#8217;aplicacions de Google Suite a les aules que va signar el juny el Departament d&#8217;Educació de la Generalitat&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>L&#8217;acord per buscar una alternativa al paquet d&#8217;aplicacions de Google Suite a les aules que va signar el juny el Departament d&#8217;Educació de la Generalitat amb la plataforma d&#8217;activistes Xnet pot haver quedat en paper mullat. Així ho ha denunciat aquest dimecres el col·lectiu defensor dels drets digitals <a rel="noreferrer noopener" href="https://xnet-x.net/digitalizacion-democratica-centros-educativos-cataluna/" target="_blank">en un comunicat</a>: segons Xnet, el nou pla de digitalització no inclou el compromís de revisar el programari i els servidors dels centres educatius catalans i no mostra cap intenció de buscar una alternativa al gegant Google, que al febrer va ser acusat per la Fiscalia de Nou Mèxic (EEUU) de recopilar dades dels alumnes de manera il·legal.  La preocupació és si la multinacional estaria accedint a un mercat de dades personals -com les capacitats intel·lectuals o els fracassos escolars de cada alumne, per posar-ne alguns exemples- dels menors. </p>
+
+
+
+<p>El &#8216;<a rel="noreferrer noopener" href="https://xnet-x.net/privacidad-datos-digitalizacion-democratica-educacion-sin-google/" target="_blank">Pla per a la digitalització democràtica dels centres educatius</a>&#8216; és, d&#8217;acord amb Xnet, el resultat d&#8217;un any de converses amb el Departament d&#8217;Educació amb l&#8217;objectiu d&#8217;impulsar una digitalització democràtica de les escoles. La proposta reclama que la comunitat educativa tingui el control de les pròpies dades, que la privacitat quedi garantida, que s&#8217;impulsi la capacitació digital puntera i l&#8217;ús de programari lliure. A diferència de les eines de Microsoft i Google, el programari lliure, a més de ser gratuït, permet a la comunitat de programadors accedir al codi font per tal d&#8217;auditar quines dades s&#8217;emmagatzemen, l&#8217;ús que se&#8217;n fa d&#8217;aquestes i si existeixen riscos de privacitat o seguretat per als estudiants.</p>
+
+
+
+<p>&#8220;Hem de denunciar una submissió innecessària a les pressions corporatives tant dels qui volen afavorir el monocultiu de multinacionals com Google i el seu <em>G Suite for Education</em>, com dels qui tenen interessos clientelars amb els diversos Departaments i volen impedir la diversitat i una digitalització que permeti florir més innovació a Catalunya i més llocs de feina que no depenguin del seu control&#8221;, diu Xnet al comunicat, on expliquen que compten amb el suport de la <a rel="noreferrer noopener" href="https://fapac.cat/" target="_blank">FaPaC</a>&nbsp;(Federació d’Associacions de Mares i Pares d’Alumnes de Catalunya),  l&#8217;<a rel="noreferrer noopener" href="https://www.sindicat.net/" target="_blank">USTEC</a>&nbsp;(Sindicat de treballadores i treballadors de l’ensenyament de Catalunya) i el <a rel="noreferrer noopener" href="https://www.sepc.cat/" target="_blank">SEPC</a>&nbsp;(Sindicat d’Estudiants dels Països Catalans).</p>
+
+
+
+<p>Xnet i<a rel="noreferrer noopener" href="https://maadix.net/es" target="_blank"> Maadix</a> -companyia especialitzada en solucions de codi obert, la privacitat de les comunicacions i la seguretat de les dades per a persones sense coneixements tècnics- van plantejar una sèrie d&#8217;aplicacions adaptades a les necessitats de la comunitat educativa auditables i de codi lliure i obert. La idea del col·lectiu és &#8220;<a rel="noreferrer noopener" href="https://xnet-x.net/privacidad-datos-digitalizacion-democratica-educacion-sin-google/" target="_blank">crear un cercle virtuós</a>&#8221; actualitzant i adaptant aquestes eines, algunes de les quals poc àgils i insuficients, per tal d&#8217;afavorir eines més ètiques i transparents que G Suite. Així mateix, el Pla, que segons Xnet, només l&#8217;1% del pressupost anunciat per Educació per a la digitalització, proposa capacitar les empreses catalanes per donar resposta a les necessitats educatives sense haver de recórrer a multinacionals poc respectuoses amb la privacitat. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1537</post-id>	</item>
+		<item>
+		<title>Presenten el primer observatori epidemiològic a Catalunya basat en intel·ligència artificial i dades massives</title>
+		<link>/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/</link>
+					<comments>/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/#comments</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 14:57:30 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Departament de Polítiques Digitals i Administració Pública de la Generalitat de Catalunya]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<guid isPermaLink="false">/?p=1484</guid>
+
+					<description><![CDATA[Estudiarà la propagació d&#8217;epidèmies a través de l’anàlisi de dades del cens, epidemiològiques, meteorològiques i mediambientals i d’algunes companyies telefòniques La pandèmia de la Covid-19&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Estudiarà la propagació d&#8217;epidèmies a través de l’anàlisi de dades del cens, epidemiològiques, meteorològiques i mediambientals i d’algunes companyies telefòniques</h2>
+
+
+
+<p>La pandèmia de la Covid-19 ha posat sobre la taula la necessitat d&#8217;anticipar-se als brots epidèmics per fer més eficients els processos de contenció i mitigació. Amb aquest objectiu, Catalunya ha vist néixer aquest dijous el primer projecte per a la prevenció d&#8217;epidèmies basat en intel·ligència artificial (IA) i l&#8217;anàlisi de dades massives (<em>Big Data</em>). </p>
+
+
+
+<p>L’observatori epidemiològic, impulsat pel Govern de la mà d&#8217;institucions mèdiques com l&#8217;Hospital Germans Trias i Pujol, operadores telefòniques, i centres educatius com la Universitat de Girona i la Rovira i Virgili, vol estudiar la propagació d&#8217;epidèmies a través de l’anàlisi de dades del cens, epidemiològiques, meteorològiques i mediambientals i d&#8217;algunes companyies telefòniques per crear &#8220;millors models predictius&#8221;, que ajudaran a elaborar models matemàtics i a dissenyar estratègies per preveure i mitigar la propagació d’epidèmies presents i futures. </p>
+
+
+
+<p>Segons una nota de premsa de la Generalitat, en primer lloc es procedirà al creuament de les dades de forma agregada i anonimitzada -en cap cas implicarà traçabilitat o identificació de les persones-, i a l’anàlisi i extensió de models matemàtics per comparar i predir patrons específics d&#8217;epidèmies, a partir de la grip i la Covid-19. Això permetrà definir un primer model epidemiològic al qual posteriorment s’aplicaran tècniques i algoritmes d&#8217;aprenentatge automàtic (<em>Machine Learning</em>) per millorar-lo. Finalment, es treballarà en la construcció d’una eina capaç d’integrar les diferents fonts de dades de manera automàtica que permetrà el monitoratge de l’evolució d’una epidèmia i crear un sistema de suport a les decisions obert per a les comunitats científica i sanitària.</p>
+
+
+
+<p><strong>&#8220;Respecte a la informació de caràcter personal&#8221;</strong></p>
+
+
+
+<p>La mateixa nota subratlla que &#8220;una de les prioritats d’aquest Observatori és definir un model de tractament de dades que garanteixi plenament el respecte a la informació de caràcter personal per protegir la intimitat i privacitat dels ciutadans&#8221;. &#8220;En aquest sentit -continua el comunicat-, per tal d’estudiar la transmissió del virus, es treballarà amb dades agregades epidemiològiques i de mobilitat, sempre agregades i anonimitzades, seguint les recomanacions i millors pràctiques del Comitè Europeu de Protecció de Dades (CEPD) i del Departament de Salut.&#8221;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="678" src="/wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-1024x678.png" alt="Presentació del primer observatori epidemiològic de Catalunya basat en tecnologies digitals avançades" class="wp-image-1490" srcset="/wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-1024x678.png 1024w, /wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-300x199.png 300w, /wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-768x508.png 768w, /wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20.png 1213w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Presentació del primer observatori epidemiològic de Catalunya basat en tecnologies digitals avançades</figcaption></figure>
+
+
+
+<p>L’Observatori s’ubicarà a l’Hospital Germans Trias i Pujol (HGTiP) i comptarà amb la coordinació científica del doctor Bonaventura Clotet, cap del Servei de Malalties Infeccioses de l’HGTiP i president de la Fundació Lluita contra la Sida (FLS). La coordinació tècnica anirà a càrrec del Center for Innovation in Data tech and Artificial Intelligence (CIDAI), creat en el marc de l’Estratègia en Intel·ligència Artificial del Govern de Catalunya, Catalonia.AI.</p>
+
+
+
+<p>Aquesta iniciativa publicoprivada suma els esforços de la Generalitat de Catalunya, a través del Departament de Polítiques Digitals i Administració Pública i el Departament de Salut; institucions mèdiques i de salut (Hospital Germans Trias i Pujol i Fundació Lluita contra la Sida); centres d’innovació i investigació tecnològica i grups de recerca (CIDAI, Eurecat, Barcelona Supercomputing Center, Universitat Rovira i Virgili i Universitat de Girona) i el Mobile World Capital Barcelona. A més, el projecte compta amb la col·laboració de la iniciativa GSMA AI for Impact.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1484</post-id>	</item>
+		<item>
+		<title>Neix l’Observatori d’ètica en intel·ligència artificial de Catalunya</title>
+		<link>/2020/06/29/observatori-etica-intelligencia-artificial-catalunya/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2020 16:44:41 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[ADA]]></category>
+		<category><![CDATA[Algoritmes de Decisió Automatitzada]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Carme Torras]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Karma Peiró]]></category>
+		<guid isPermaLink="false">/?p=1463</guid>
+
+					<description><![CDATA[“L’evolució tecnològica és tan àmplia, profunda i veloç que els éssers humans no som capaços d’anticipar com s&#8217;incorporarà a les nostres vides”, afirmava Maria Àngels&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>“L’evolució tecnològica és tan àmplia, profunda i veloç que els éssers humans no som capaços d’anticipar com s&#8217;incorporarà a les nostres vides”, afirmava Maria Àngels Barbarà, directora de l’Autoritat Catalana de Protecció de Dades, a l’informe <a rel="noreferrer noopener" href="https://apdcat.gencat.cat/web/.content/04-actualitat/noticies/documents/INFORME-INTELLIGENCIA-ARTIFICIAL-FINAL-WEB-OK.pdf" target="_blank"><em>Intel·ligència Artificial. Decisions Automatitzades a Catalunya</em></a>. La periodista Karma Peiró recull a l’estudi més de cinquanta exemples d’usos d’algorismes de decisió automatitzada (ADA) a Catalunya i que, <a href="/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/">en molts casos, han passat desapercebuts per a la majoria de la població tot i intervenir en decisions sovint sensibles</a>: per exemple, extradir migrants, concedir ajuts socials, predir el risc de reincidència d’un pres o advertir què ha après i què no ha après un alumne a l’escola. El que passa és que si les màquines s’entrenen amb prou dades fiables, els ADA poden facilitar-nos enormement la vida; però si es nodreixen amb informació deficient i esbiaixada, <a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">els resultats poden conduir a errors o a decisions discriminatòries</a>. Per això el naixement, aquest dilluns, de l&#8217;Observatori d&#8217;Ètica en Intel·ligència Artificial de Catalunya és una bona notícia.</p>
+
+
+
+<p>La iniciativa neix del Govern i la Universitat de Girona (UdG) i pren la forma d’una càtedra amb seu a la facultat. <a rel="noreferrer noopener" href="http://politiquesdigitals.gencat.cat/ca/detalls/Noticia/200629_Observatori_IA" target="_blank">Segons una nota de la Generalitat</a>, l’Observatori té la missió d’estudiar els impactes ètics i legals de la implantació de la IA en la vida diària, de vetllar perquè la tecnologia s’apliqui de manera segura i justa, d’establir unes directrius ètiques i, en definitiva, de desenvolupar al país “una intel·ligència artificial ètica i confiable”. Per aconseguir-ho, l’observatori vol analitzar l’evolució del desenvolupament de la IA a Catalunya, impulsar jornades i tallers per debatre sobre ètica, regulació i IA, promoure la conscienciació ciutadana entorn la IA i les decisions automatitzades i crear un consell assessor format per experts d’àmbits diversos -acadèmic, tecnològic, humanístic, legal, econòmic, etc.</p>
+
+
+
+<p>La iniciativa compta amb un pressupost de 250.000 euros per al període 2020–2022, finançats principalment pel Departament de Polítiques Digitals en el marc de l’estratègia <a rel="noreferrer noopener" href="http://politiquesdigitals.gencat.cat/ca/tic/catalonia-ai" target="_blank">Catalonia.AI, l’Estratègia d’Intel·ligència Artificial de Catalunya</a>, aprovada el 18 de febrer, i el pla estratègic de la <a rel="noreferrer noopener" href="https://www.udg.edu/ca/Portals/63/Escenaris/PE_2030_SumaIntel_20190306.pdf" target="_blank">Universitat de Girona ‘2030: La suma d’Intel·ligències’</a>, que vol buscar el millor encaix de la intel·ligència artificial amb la intel·ligència natural i la intel·ligència col·lectiva.</p>
+
+
+
+<p>El tret de sortida de l’Observatori l’han donat aquest matí el conseller de Polítiques Digitals, Jordi Puigneró, i el rector de la UdG, Quim Salvi, entre altres representants del Govern i la universitat, que han presentat el nou organisme en un acte telemàtic amb la intervenció de Karma Peiró i de la <a href="/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/">professora d’Investigació de l’Institut de Robòtica (CSIC-UPC) i escriptora Carme Torras</a>.</p>
+
+
+
+<h3>La necessitat d’una mirada ètica</h3>
+
+
+
+<p>Els intents de regular la intel·ligència artificial des d’una mirada ètica persegueixen l’evolució tecnològica, però de moment no l’atrapen. El febrer, la presidenta de la Comissió Europea (CE), Ursula Von der Leyen, va presentar un pla per regular la IA i recuperar la sobirania digital davant els gegants tecnològics, tot i que les veus crítiques li van retreure poca concreció. A l’abril del 2019, un grup d’experts d’alt nivell de la CE havia fet públiques unes Directrius Ètiques per a una IA Confiable (<em>Ethics Guidelines for Trustworthy AI</em>). Poc després, el professor de filosofia de la Universitat de Mainz (Alemanya) Thomas Metzinger, que va formar part del grup d’experts, va denunciar al diari <em>Der Tagesspiegel</em> que “<a href="/2020/02/15/etica-inteligencia-artificial-maquillatge/">el relat de la Intel·ligència Artificial confiable pretén eixamplar els mercats futurs</a> i utilitzar els debats sobre Ètica com un bell decorat públic per a una estratègia d’inversió a gran escala”. Per això, cal prendre consciència que la revisió ètica de la IA necessita molt més que una declaració de bones intencions.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1463</post-id>	</item>
+		<item>
+		<title>Una antropologia del futur</title>
+		<link>/2020/05/23/una-antropologia-del-futur/</link>
+					<comments>/2020/05/23/una-antropologia-del-futur/#comments</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Fri, 22 May 2020 22:53:13 +0000</pubDate>
+				<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Dejad que las máquinas vengan a mí]]></category>
+		<category><![CDATA[Editorial Enclave]]></category>
+		<category><![CDATA[Luis Montero]]></category>
+		<guid isPermaLink="false">/?p=1250</guid>
+
+					<description><![CDATA[A Dejad que las máquinas vengan a mí, de l'Editorial Enclave, el filòsof Luis Montero es capbussa en l'imaginari simbòlic de la ciència ficció per intentar respondre què és l'ésser humà un cop les màquines ja han penetrat en tots els àmbits de la nostra existència. I per a fer-ho, se serveix del nucli dur de la Filosofia com Descartes, Leibniz, Kant, Hegel o Nietzsche. ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>A <em>Dejad que las máquinas vengan a mí</em>, de l&#8217;Editorial Enclave, el filòsof Luis Montero, <a rel="noreferrer noopener" href="/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/" target="_blank">a qui recentment hem entrevistat</a>, es capbussa en la ciència ficció per intentar respondre què és l&#8217;ésser humà un cop les màquines ja han ancorat a tots els racons de la nostra existència. I, pel camí, se serveix del nucli dur de la Filosofia com Descartes, Leibniz, Kant, Hegel o Nietzsche. </strong></p>
+
+
+
+<p><strong>Montero, a més d&#8217;escriptor, ha estat guia turístic, creatiu publicitari i consultor estratègic. Ha viscut a Madrid, Nova York, Londres, Frankfurt, Marràqueix i Benarés. Ara resideix a Palma. Ha escrit les novel·les de ciència-ficció <em>Artrópodos</em>, <em>Feliz Año Nuevo</em> i <em>Clon</em>, i els assajos d&#8217;ontotecnologia <em>Mundo-hecho</em> i <em><a href="https://www.enclavedelibros.com/libro/dejad-que-las-maquinas-vengan-a-mi_29502" target="_blank" rel="noreferrer noopener">Dejad que las máquinas vengan a mí</a></em>. Per cortesia de l&#8217;Editorial Enclave, us oferim el principi d&#8217;aquest últim llibre.</strong></p>
+
+
+
+<p class="has-text-align-center">En <a rel="noreferrer noopener" href="/una-antropologia-del-futuro/" target="_blank">AQUEST ENLLAÇ</a> el trobareu en castellà, versió original.</p>
+
+
+
+<p></p>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<h3 class="has-text-align-center">PREFACI</h3>
+
+
+
+<p>Fa uns anys van presentar-me com un escriptor de filosofia ficció. Alguna cosa com un autor de ciència-ficció amb vel·leïtats filosòfiques. O com un filòsof prou mandrós com per a centrar-se en la ficció, entesa com el lloc de l&#8217;especulació sense argumentació. I tothom sap que allò complicat de la teoria no és tenir bones idees, aquestes estan pertot arreu, en qualsevol cantonada, en qualsevol text, en qualsevol comentari fugaç sentit pel carrer; no, el complicat de la teoria és compartir les raons que t&#8217;han conduït a una idea. Eludir l&#8217;instintiu que té el coneixement per a traduir-ho en una argumentació que pugui ser compartida. Per què? Perquè a les conclusions&nbsp;de l&#8217;instint d&#8217;un altre és impossible arribar. Però tornant a l&#8217;origen d&#8217;aquest llibre, si haig de justificar-lo per la confluència entre la meva afecció per la ficció científica o per la&nbsp;mandra&nbsp;que justifica prou atreviment com per a construir sobre el treball d&#8217;altres, només puc dir que potser totes dues raons són certes. I, a més, que les dues raons són la mateixa. Un no escriu&nbsp;ficcions&nbsp;en el buit, de la mateixa manera que no té idees especulatives en el buit. I potser per això vaig decidir aprofitar les ficcions que havien escrit uns altres, aquest cop en format pel·lícula, per a introduir les meves idees i els meus arguments. A vegades millors que les mateixes pel·lícules, a vegades no tant.</p>
+
+
+
+<p>Per què el cine? Perquè el cine és una tecnologia intermèdia entre la literatura i la Realitat Virtual (RV). Però, a diferència de la&nbsp;RV, el cine és una tecnologia madura, mentre que l&#8217;altre no va més enllà de promeses inacabades. De fet, aquest aforisme que obre aquest paràgraf no feia referència a l&#8217;origen a la RV sinó als videojocs: el cine, aleshores, era una tecnologia&nbsp;intermèdia entre la literatura i els videojocs. El cine és una tecnologia intermèdia entre la literatura i tot allò que projecti imatges i sigui immersiu, ja siguin aquests els videojocs, les projeccions en 360° o la&nbsp;RV -o&nbsp;allò que vingui després&#8230; El cine és el pont entre avui i el futur i, tot i que mai assolirà aquest futur, sempre l&#8217;atrapa i el sobreviu amb una solvència sorprenent. Avui molta més gent consumeix cine que&nbsp;videojocs, projeccions de 360° o Realitat Virtual. Però no només hi ha un motiu quantitatiu, també n&#8217;hi ha un de qualitatiu. De fet, és la versió a la pantalla gran allò que acredita l&#8217;èxit dels&nbsp;diferents&nbsp;formats: és la superproducció de Hollywood, ben saturada d&#8217;efectes digitals i bandes sonores&nbsp;bombàstiques, la qual cosa confirma el videojoc, la projecció en 3D o la&nbsp;RV&nbsp;com a productes culturals de referència. I és que, com es veurà més endavant, els cadàvers d&#8217;aquest segle&nbsp;XXI gaudeixen d&#8217;una salut excel·lent.</p>
+
+
+
+<p>Per què ciència-ficció? Aquesta pregunta és fàcil de respondre. Perquè la ciència-ficció és un magnífic planter d&#8217;experiments mentals. Molts dels personatges, situacions i mons descrits al cine de ciència-ficció obren infinites possibilitats especulatives que no són altra cosa que experiments mentals. I, des de sempre, aquests escenaris hipotètics que són els&nbsp;experiments&nbsp;mentals han tingut un pes fonamental en la història de la filosofia, i no sols en l&#8217;occidental. Un pes que no ha fet altra cosa que augmentar amb l&#8217;auge de la filosofia analítica. Avui, quasi pot afirmar-se, l&#8217;experiment mental és la forma primera d&#8217;argumentació.</p>
+
+
+
+<p>Per què cinema de ciència-ficció? Perquè, i aquesta és la base&nbsp;fonamental&nbsp;que explica aquest llibre, quan parlem de màquines estem parlant ineludiblement de nosaltres, els humans. I quan ho fem a través del cine, més que parlar, cridem. Tot argument que apareix en format cinematogràfic, que ja ve avalat per una certa popularitat, assoleix una&nbsp;audiència&nbsp;molt major que les novel·les o els videojocs, per exemple. I així, una altra vegada la mandra, els experiments mentals ja han estat explicats a audiències immenses prèviament. Així, molts dels temes i tesis d&#8217;aquest llibre ja han estat discutits abans per moltes persones, la qual cosa sens dubte simplifica l&#8217;esforç&nbsp;argumentatiu&nbsp;a l&#8217;hora de plantejar les meves idees. Sí, sóc mandrós.</p>
+
+
+
+<p>De tot això pot entendre&#8217;s que aquest no és un llibre de crítica cultural. No, és un <em>cultural&nbsp;study</em>. Amb tots els meus respectes cap a aquesta disciplina, que compta amb magnífics autors extremadament&nbsp;rellevants, les seves tesis sempre em resulten una mica arbitràries, perquè podrien donar-se o no independentment del producte&nbsp;cultural&nbsp;analitzat; no, aquest és un llibre d&#8217;allò que podria denominar-se&nbsp;<em>ontologia&nbsp;cultural</em>, l&#8217;intent de respondre a la pregunta «Què sóc?» a través de productes culturals. I no, no és un invent meu. Aquest intent d&#8217;explicar allò que som a través de productes&nbsp;culturals&nbsp;és una cosa que sempre ha fet la metafísica, però passa que aquells productes culturals solien ser altres llibres de metafísica. Perquè sí, aquest és un llibre de metafísica.</p>
+
+
+
+<p>I és que, i aquesta és la tesi que suporta tot el llibre, les màquines són la millor forma d&#8217;autoexploració&nbsp;que ha creat l&#8217;humà. Molt millor que la filosofia. Són un exercici, sovint extremadament candorós, d&#8217;autoconeixement. De fet, incomptables teories de la ment han sorgit a partir d&#8217;arquitectures de <em>hardware</em> i <em>software</em>, especialment durant el segle&nbsp;XX. El llistat d&#8217;influències recíproques entre un i un altre camp, la ciència-ficció i la teoria de la ment, és immens. Les màquines són l&#8217;encarnació d&#8217;aquest experiment mental que som per a nosaltres mateixos. Però no només això. Són una idea de nosaltres mateixos amb capacitat per a transformar-nos a nosaltres mateixos i el món que habitem. Estem en aquest moment en què l&#8217;experiment mental, això que nosaltres creiem sobre nosaltres mateixos, està deixant de ser <em>mental</em> per a convertir-se en <em>real</em>. Són temps interessants aquests.</p>
+
+
+
+<p>És allò que jo he anomenat <em>Mundo-hecho</em> en un altre lloc.</p>
+
+
+
+<p>I, finalment, un breu comentari sobre la selecció de les pel·lícules de ciència-ficció tractades. Tot i que potser la ciència-ficció és el gènere cinematogràfic l&#8217;inici del qual és més fàcil d&#8217;assenyalar, aquell pioner&nbsp;<em>Le&nbsp;Voyage&nbsp;dans&nbsp;la&nbsp;Lune</em>&nbsp;(1902) de&nbsp;Méliès, aquí s&#8217;ha optat per un altre criteri, encara que l&#8217;obra&nbsp;mestra&nbsp;francesa és un magnífic exemple de cine polític. Atès que es tracta de parlar de les màquines com un <em>altre-nosaltres</em>, un tema que no es tracta en l&#8217;obra francesa, la selecció no podia sinó començar amb la també pionera&nbsp;<em>Metropolis</em>&nbsp;(1927) de&nbsp;Lang&nbsp;i acabar amb&nbsp;<em>Blade&nbsp;Runner</em>&nbsp;(2017) de&nbsp;Villeneuve, i no perquè aquesta última és especialment pionera, sinó (1) perquè en introduir la natalitat dins de l&#8217;univers robot sembla que tanca un cercle relatiu a la fusió entre humà i màquina i (2), més pragmàtic, perquè en algun lloc havia d&#8217;acabar la selecció i aquesta fallida continuació del primer&nbsp;<em>Blade&nbsp;Runner</em>&nbsp;(1982) de Scott semblava un punt culminant en la història del gènere. En general he intentat mantenir-me dins de les fronteres del gènere, però a vegades he acabat acostant-me a altres obres que si bé no són directament atribuïbles a la ciència-ficció no estan tan lluny, almenys com a plantejament d&#8217;experiments mentals. Així, al llarg del text apareixeran autors com&nbsp;Buñuel&nbsp;o Lynch. Però, excepte aquestes comptades excepcions, he intentat mantenir-me dins dels límits reconeixibles del gènere. Això sí, les pel·lícules són utilitzades moltes vegades no tant pel que expliquen sinó pel que projecten. Més que pel·lícules vistes, són pel·lícules llegides, si és que això és possible, per a connectar-les amb alguns dels principals problemes metafísics que ens aguaiten des de l&#8217;aparició de les màquines a la nostra vida. Problemes que, d&#8217;altra banda,&nbsp;tampoc han canviat tant.</p>
+
+
+
+<p>Per això <em>Dejad que las máquinas vengan a mi</em> no tracta tant de màquines com de nosaltres. S&#8217;utilitza a les màquines com a mirall d&#8217;allò que som molt més que per a parlar de les màquines en si. I de com les màquines i la transformació del món que provoquen obren un espai especular on veure&#8217;ns reflectits. Poden les màquines promoure aquesta reflexió ontològica? Jo crec que sí. I no només perquè les màquines defineixen un món i a nosaltres, els seus habitants. També perquè les màquines, la seva&nbsp;constitució&nbsp;i fonament, són una projecció del que pensem, són la nostra constitució i fonament. Les màquines, que primer eren una projecció nostra, ara ens reflecteixen. I aquesta imatge és la que es vol analitzar en aquest llibre. Una anàlisi que també és una obligació, les màquines comencen a estar tan prop de nosaltres que ens trobem davant la disjuntiva de rendir-nos al seu assalt contra la idea d&#8217;allò humà o bé de redefinir-nos. El primer capítol investiga aquest assalt en allò que he anomenat el <em>desplaçament ontològic</em> i explora els diferents escenaris en què es pot plantejar aquesta redefinició. El segon analitza les bases per a aquesta nova definició d&#8217;allò que som a partir del <em>Principi de raó suficient</em>, això -sigui el que sigui, i al llarg del llibre es proposen i destil·len diferents alternatives- que ens constitueix com a humans i ens fa diferents de les màquines. El tercer capítol descriu el <em>gir metafísic</em> al qual ens obliga el món&nbsp;maquinitzat, o com les estratègies de definició d&#8217;allò humà, sobretot el llenguatge i els afectes, han estat desmantellades a causa de l&#8217;avanç de la metafísica, fonamentalment des de la meitat del segle passat. El quart explora l&#8217;impacte ontològic de la màquina, a través del qual es redefineixen dos vells debats però no connectats, la relació <em>jo-alteritat</em>&nbsp;d&#8217;una banda i la diatriba entre realisme i&nbsp;antirealisme&nbsp;per una altra, els plantejaments tradicionals del qual&nbsp;han estat superats per la formalització del món a la qual ens ha obligat la màquina, ja que aquesta només pot operar en un món altament formalitzat -allò que a un altre lloc he anomenat <em>món-fet</em>, davant del món donat on fins avui s&#8217;ha mogut tant el món com la metafísica. El cinquè narra l&#8217;assalt de la màquina a l&#8217;últim bastió de l&#8217;humà, la vida i les seves vivències; i com aquest assalt ha estat provocat pel mateix&nbsp;humà en generar allò que he anomenat l&#8217;<em>estrenyiment ontològic</em> d&#8217;això que hi ha, motor inicial de la formalització del món i principal responsable de l&#8217;aparèixer del món avui. I, en l&#8217;últim, esbosso alguna cosa que podria considerar-se un contra-Test de&nbsp;Turing, és a dir, la prova d&#8217;humanitat, una vegada vençuts tots els bastions que ens feien humans i per tant diferents de la resta d&#8217;allò donat, recau en les màquines. Ja no és la nostra feina decidir si una màquina és humana o no sinó que és la màquina la que ha de decidir si som humans o no.</p>
+
+
+
+<p>És cert que molts dels escenaris que es discuteixen al llarg de les pàgines de&nbsp;<em>Dejad&nbsp;que las máquinas vengan a mí</em> estan succeint ara mateix, per la qual cosa la seva definició conceptual moltes vegades és nebulosa. Per aquest motiu, aquest és un assaig que parla d&#8217;allò que som però que no es nega a arriscar-se i parlar d&#8217;allò que podríem ser una vegada ens trobem cara a cara amb una màquina tan capaç com un humà. És per això que és una antropologia del futur, un avançament d&#8217;allò que potser ens espera com a espècie. Una antropologia que busca pensar el demà per a repensar l&#8217;avui, si és que aquestes categories temporals segueixen conservant algun sentit. <em>Dejad&nbsp;que las máquinas vengan a mí</em> és un viatge en el temps, a vegades milers d&#8217;anys cap endarrere i a vegades uns quants cap endavant, per a arribar fins avui. Dit això, m&#8217;agradaria passar als agraïments. En primer lloc, voldria agrair el suport tant afectiu com logístic que m&#8217;ha ofert Laura Durán per a la confecció d&#8217;aquest llibre.</p>
+
+
+
+<p>A més, no puc oblidar-me de les meves filles, amb les qui he vist moltes de les pel·lícules aquí esmentades i els comentaris de les quals moltes vegades m&#8217;han obert els ulls a noves interpretacions i&nbsp;arguments. Sense la seva ajuda moltes de les tesis d&#8217;aquest llibre haurien estat unes altres. I, segurament, pitjors.</p>
+
+
+
+<p>També haig d&#8217;agrair a Albano Cruz la seva participació en les nostres sessions de&nbsp;<em>Tamagotchi</em>, un cicle de conferències que donàvem al voltant del concepte d&#8217;allò humà i les seves modificacions&nbsp;a través de la tecnologia. Moltes de les idees que es plantegen aquí estan estretament vinculades amb allò que vam explicar en aquells&nbsp;CSR&nbsp;de Madrid, Valladolid, Burgos, Vigo&#8230; així com en la mateixa Llibreria Enclave i al Medialab. De fet, aquest llibre és la meva versió d&#8217;aquelles xerrades. O, més ben dit, part d&#8217;aquest llibre és la meva versió d&#8217;aquelles xerrades. D&#8217;allò que vaig aprendre en aquelles xerrades. Des d&#8217;aquí el meu agraïment a tots els qui van suportar les 18 hores de discurs, les tres sessions de 6 hores cadascuna durant les quals Albano i jo tractàvem la fusió de l&#8217;home amb la tecnologia des d&#8217;un prisma lògic, ontològic i ètic; i no sols això: malgrat la nostra retòrica encara tenien ànims per a&nbsp;preguntar, qüestionar i refutar el nostre discurs. Aquest llibre és, en bona mesura, un homenatge a tots aquells assistents. Estic segur que tard o d&#8217;hora Albano escriurà el seu.</p>
+
+
+
+<p>I, per a acabar, vull agrair la perseverança i la fe en mi mateix, moltes vegades superior a les meves pròpies, dels meus editors, María i Pino, cor i pulmó, cervell i sang de l&#8217;Editorial Enclave. Sense ells aquest llibre mai hauria assolit el format llibre i mai ho hauria fet d&#8217;aquesta manera.</p>
+
+
+
+<p>I, per a acabar, gràcies al lector. Perquè, a partir d&#8217;aquest moment, tot el que llegeixi aquí li pertany, ho vulgui o no.</p>
+
+
+
+<p style="font-size:14px">Nota: La traducció és nostra.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/05/23/una-antropologia-del-futur/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1250</post-id>	</item>
+		<item>
+		<title>Twitter fa una prova per fer canviar als usuaris les respostes ofensives</title>
+		<link>/2020/05/06/twitter-experiment-canviar-usuaris-respostes-ofensives/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 06 May 2020 17:35:29 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">/?p=1057</guid>
+
+					<description><![CDATA[La companyia està provant un nou sistema per calmar els ànims abans que algú hi obri foc]]></description>
+										<content:encoded><![CDATA[
+<p>&#8220;Quan les coses s&#8217;escalfen, potser dius coses que no volies dir&#8221;, ha piulat Twitter aquest dimarts. I continua: &#8220;Estem posant en marxa un experiment a iOS amb un sistema que et dona l&#8217;opció de revisar la teva resposta abans que sigui publicada en cas d&#8217;utilitzar un llenguatge que pot ser ofensiu&#8221;. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">When things get heated, you may say things you don&#39;t mean. To let you rethink a reply, we’re running a limited experiment on iOS with a prompt that gives you the option to revise your reply before it’s published if it uses language that could be harmful.</p>&mdash; Twitter Support (@TwitterSupport) <a href="https://twitter.com/TwitterSupport/status/1257717113705414658?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Davant les habituals batalles verbals que es despleguen a Twitter, la plataforma vol oferir una segona oportunitat als tuitaires més agressius. Així, la companyia està provant un nou sistema per calmar els ànims abans que algú hi obri foc: quan els algorismes detecten una resposta amb llenguatge &#8220;ofensiu&#8221;, hi apareix una finestra amb una suggerència per canviar el text abans de ser publicat. Una mesura que ha sembrat la desconfiança a diversos usuaris de Twitter: &#8220;La llibertat d&#8217;expressió existeix perquè la gent pugui dir coses que no t&#8217;agraden. Al final és una companyia la que decideix què és apropiat i què no, que no és cap poder moral superior&#8221;, diu un usuari.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Freedom of speech is there to protect the speech you hate, always consider it that way. Also ultimately its a company thats deciding whats appropriate and whats not, not some higher moral power. Keep that in mind</p>&mdash; Professer_finesser (@Akwardgaming) <a href="https://twitter.com/Akwardgaming/status/1257820677836603395?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>L&#8217;any passat, Instagram va fer una prova similar. &#8220;Els resultats han estat positius. Veiem que aquests tocs d&#8217;atenció poden animar la gent a reconsiderar les seves paraules&#8221;, <a rel="noreferrer noopener" href="https://about.instagram.com/blog/announcements/our-progress-on-leading-the-fight-against-online-bullying" target="_blank">va escriure al desembre la companyia al seu blog</a>. D&#8217;aquesta manera, avui, quan els algorismes d&#8217;aquesta xarxa social detecten que un usuari és a punt de publicar un comentari potencialment lesiu, se li apareix un avís com el de la imatge, i l&#8217;informa de que frases similars ja han estat denunciades abans.  </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2048" height="1387" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n.png?fit=1024%2C694&amp;ssl=1" alt="" class="wp-image-1059" srcset="/wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n.png 2048w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-300x203.png 300w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-1024x694.png 1024w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-768x520.png 768w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-1536x1040.png 1536w" sizes="(max-width: 2048px) 100vw, 2048px" /><figcaption>Instagram.</figcaption></figure>
+
+
+
+<p>Cal tenir en compte que, amb Twitter, ja són totes les grans xarxes socials les que han mostrat la seva confiança en la Intel·ligència Artificial a l&#8217;hora de moderar continguts. I això és especialment cert quan la pandèmia ha fet retallar temporalment molts llocs de feina, <a rel="noreferrer noopener" href="https://techcrunch.com/2020/05/05/twitter-harmful-replies-prompt-harassment-test-feature/" target="_blank">segons Tech Crunch</a>. Tot i així, és evident que es tracta d&#8217;una mesura que ha vingut per quedar-se. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1057</post-id>	</item>
+		<item>
+		<title>10 motius per practicar la &#8216;Resistència Digital&#8217;</title>
+		<link>/2020/02/19/10-motius-resistencia-digital/</link>
+					<comments>/2020/02/19/10-motius-resistencia-digital/#comments</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2020 20:48:33 +0000</pubDate>
+				<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Críptica]]></category>
+		<category><![CDATA[Dades]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Edward Snowden]]></category>
+		<category><![CDATA[Identitat digital]]></category>
+		<category><![CDATA[Mòbil]]></category>
+		<category><![CDATA[Privacitat]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Resistencia Digital]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Seguretat]]></category>
+		<category><![CDATA[Smartphone]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[Vigilància]]></category>
+		<category><![CDATA[Vigilància Massiva]]></category>
+		<category><![CDATA[Vigilancia Permanente]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<guid isPermaLink="false">/?p=787</guid>
+
+					<description><![CDATA[Parlem del llibre Resistencia Digital. Manual de seguridad operacional e instrumental para smartphones, escrit pels membres de l'associació Críptica, que apropa a la gent les eines de protecció de la privadesa]]></description>
+										<content:encoded><![CDATA[
+<p>En general, encara ignorem la feixuga motxilla de dades que traginen els nostres petits <em>smartphones</em>, una extensió dels cossos i el nostre principal intermediari amb el món. Però si com el protagonista de <em>Matrix</em> escollim la píldora roja, hi ha un llibre que ens pot obrir els ulls: <em><strong>Resistencia Digital. Manual de seguridad operacional e instrumental para smartphones</strong></em>. <a rel="noreferrer noopener" aria-label="escrit pels membres de l'associació Críptica (opens in a new tab)" href="https://www.criptica.org/" target="_blank">Escrit pels membres de l&#8217;associació Críptica</a>, ens apropa les eines per protegir la informació que generem. És un manual, sí, perquè ofereix solucions tècniques -assequibles-, però sobretot és un assaig: planteja els problemes des de l&#8217;arrel i el context i, així, ens fa entendre que optar per una aplicació o una altra, o compartir cada detall de la nostra vida a les xarxes socials són -com diu el pròleg- <strong>decisions polítiques</strong>. Hi ha molts motius per practicar la &#8216;resistència digital&#8217;, però aquí teniu deu fragments del llibre, que també són deu raons per submergir-s&#8217;hi.</p>
+
+
+
+<ol><li>&#8220;Els mitjans de comunicació, <em>Wikileaks</em> i les xarxes socials&nbsp;van començar a escampar informació sobre les tècniques d&#8217;<strong>espionatge</strong> dels Estats Units i els seus aliats. Aquell degoteig de filtracions encara dura, fins al punt que gairebé s&#8217;han normalitzat les notícies sobre la <strong>vigilància massiva</strong>. Però ningú ha anat a la presó i l&#8217;espionatge continua.&#8221;</li><li>&#8220;Allò rellevant del <strong>telèfon intel·ligent</strong> no és la seva dimensió tecnològica, sinó el seu ús social: es tracta d&#8217;un aparell que portem a tot arreu amb nosaltres, que sol integrar totes les facetes de la persona (treball,&nbsp;amistats, hàbits de consum, activitat política), que serveix com a arxiu de les seves vivències i que concentra gran part (si no la totalitat) del seu <strong>historial relacional</strong>. A hores d&#8217;ara, qualsevol&nbsp;adversari sap que n&#8217;hi ha prou amb fer-se amb el control del telèfon per a accedir a un riu d&#8217;informació rellevant de manera immediata.&#8221;</li><li>&#8220;Seguint la regla d&#8217;or «no existeix una&nbsp;informació més ben protegida que aquella que no arriba a generar-se», has de desenvolupar l&#8217;art de saber quan no produir cap informació.&#8221;</li><li>&#8220;Atrapats com estem en aquest nou paradigma,&nbsp;irremeiablement&nbsp;hem d&#8217;aprendre a moure&#8217;ns en un mitjà que ens és hostil. Se&#8217;ns ha llançat al <strong>tatami&nbsp;cibernètic</strong>&nbsp;sense rebre cap instrucció prèvia, i això ens fa summament vulnerables davant d&#8217;adversaris que són més poderosos, més perseverants i més experimentats que nosaltres.&#8221;</li><li>L&#8217;<strong>anonimat</strong>, com a necessitat diferent de la seguretat o la privacitat, ha estat un recurs necessari en moltes ocasions històriques, actuant com a mesura de&nbsp;prevenció&nbsp;per limitar la superfície d&#8217;atac de l&#8217;adversari: sabut és que no pots colpejar allò que no pots veure. Ho il·lustren&nbsp;a la perfecció les filtracions d&#8217;<a href="/2019/11/16/edward-snowden-project-tor/">Edward&nbsp;Snowden, que va haver de mantenir la seva identitat real en secret</a> per a establir&nbsp;contacte amb la premsa sense cridar l&#8217;atenció de la&nbsp;NSA&nbsp;americana. (&#8230;) Més que «seguretat», l&#8217;anonimat ofereix una protecció similar a la del <strong>camuflatge</strong>, que serveix per allargar la fase d&#8217;identificació prèvia a l&#8217;atac&#8221;.</li><li><span style="font-family: &quot;Nunito Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 1.125rem;">&#8220;L&#8217;ús d&#8217;un terminal mòbil comporta la&nbsp;monitorizació&nbsp;de la localització física aproximada per part del proveïdor i d&#8217;aquells tercers a qui el proveïdor proporcioni accés</span>. Aquesta circumstància ha d&#8217;avaluar-se també des d&#8217;un <strong>punt de vista col·lectiu</strong>. Es pot deduir que dos o més persones es desplacen juntes si els seus telèfons es van connectant a les mateixes antenes al mateix temps quan es mouen.&#8221;</li><li>&#8220;<span style="font-family: &quot;Nunito Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 1.125rem;">Cada any som testimonis de com diversos proveïdors pateixen <strong>atacs i bretxes de seguretat</strong> en què es veuen&nbsp;compromeses centenars de milers de contrasenyes: <strong>Adobe,&nbsp;LinkedIn, PlayStation</strong>&#8230; No reutilitzar claus et protegeix fins i tot en cas que un atacant arribi a descobrir quina és la teva contrasenya en un servei, de manera que no pugui utilitzar-la per a accedir als teus altres comptes. Si, per contra, tens una mateixa clau que utilitzes per a tot, en cas que algú l&#8217;aconseguís guanyaria un accés integral a la teva </span><strong><span style="font-family: &quot;Nunito Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 1.125rem;">identitat <em>online</em></span>.</strong>&#8220;</li><li>&#8220;Una aplicació pot arribar a accedir a pràcticament tota la informació i sensors del nostre telèfon si té els <strong>permisos adequats</strong>: identitat, contactes, informació del wifi, localització GPS, SMS, trucades i fins i tot micròfon o càmera. La informació que recopila una aplicació és per tant molt major, i com a usuaris hem de decidir amb cura quines aplicacions tenen accés a quines dades en el nostre&nbsp;telèfon.&#8221; </li><li>&#8220;Existeixen diverses eines que relacionen els teus «m&#8217;agrada» o&nbsp;retuits&nbsp;amb moviments socials o ideologies&nbsp;polítiques&nbsp;afines, i això li concedeix un poder més gran al teu adversari. Com més informació generes, més fàcil és situar-te en una <strong>base de dades ideològica</strong> ben detallada, tenint en compte el teu rang d&#8217;edat, ciutat i cercle social. O pitjor encara, també existeixen eines <em>online</em> que es dediquen a classificar tota la informació que hagis generat en els teus perfils perquè amb un sol clic quedi exposada per categories.&#8221;</li><li>En la&nbsp;missatgeria&nbsp;instantània, &#8220;si algú pren la decisió personal de no protegir-se, la seva decisió individual repercuteix <em>ipso facto</em> en la seguretat i&nbsp;privadesa&nbsp;del conjunt de comunitats de les quals forma part. <strong>La seguretat és un esport d&#8217;equip</strong>: intentem que tot el nostre entorn habiliti un codi de desbloqueig i xifri l&#8217;aparell per evitar que terceres persones puguin accedir al seu contingut, que en bona part serà contingut que pot exposar la seva xarxa de contactes.&#8221;</li></ol>
+
+
+
+<p class="has-small-font-size">Nota: La traducció és nostra.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/19/10-motius-resistencia-digital/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">787</post-id>	</item>
+		<item>
+		<title>Google posa fi a les &#8216;cookies&#8217;, l&#8217;eina que rastreja els usuaris</title>
+		<link>/2020/01/15/google-elimina-chrome-cookies-privadesa/</link>
+					<comments>/2020/01/15/google-elimina-chrome-cookies-privadesa/#respond</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2020 21:14:20 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Cookies]]></category>
+		<category><![CDATA[Galetes]]></category>
+		<category><![CDATA[GDPR]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Chrome]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Publicitat]]></category>
+		<guid isPermaLink="false">/?p=654</guid>
+
+					<description><![CDATA[Google elimina les cookies, l'eina que rastreja els usuaris, però crearà eines alternatives que poden convertir-la en un intermediari encara més poderós]]></description>
+										<content:encoded><![CDATA[
+<h2>La companyia crearà eines alternatives que poden convertir-la en un intermediari de la publicitat digital encara més poderós</h2>
+
+
+
+<p>Google Chrome eliminarà les ‘cookies’ o galetes publicitàries -que segueixen els usuaris d&#8217;una web a una altra i rastregen els seus hàbits de navegació-, tal com ja han fet Microsoft, Mozilla Firefox i Safari d&#8217;Apple. Ho ha anunciat Justin Schuh, el director d&#8217;enginyeria del navegador, en una entrada al blog titulada &#8216;<a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://blog.chromium.org/2020/01/building-more-private-web-path-towards.html" target="_blank">Construir una web més privada; un camí perquè les galetes de tercers quedin obsoletes</a>&#8216;. I ja ha fixat data: el 2022.</p>
+
+
+
+<p>Les <em>cookies</em> de tercers són importantíssimes per la indústria publicitària i editorial des de fa 25 anys. Són petits arxius de text que donen informació als venedors de les pàgines web que un usuari visita i, d’aquesta manera, els permet personalitzar els anuncis en línia. </p>
+
+
+
+<h3>Google en sortirà reforçat</h3>
+
+
+
+<p>El principal negoci de Google és la publicitat, i les <em>cookies</em> són un pilar d&#8217;aquest negoci. Però com moltes de les reformes favorables a la privacitat que s’estan introduïnt a Europa i als Estats Units, aquesta mesura pot reforçar encara més Google, que ja ha acumulat grans quantitats de dades internes dels seus usuaris. I la informació és poder.</p>
+
+
+
+<p>El propi enginyer de Chrome explica que desenvoluparan eines alternatives per mantenir webs amb publicitat. Unes alternatives que poden convertir Chrome en un intermediari encara més important per a la publicitat, <a rel="noreferrer noopener" aria-label="segons el Financial Times (opens in a new tab)" href="https://www.ft.com/content/1f56591e-36e1-11ea-a6d3-9a26f8c3cba4" target="_blank">segons el Financial Times</a>, en mantenir la informació sobre els usuaris, i podent compartir-la selectivament amb altres empreses. </p>
+
+
+
+<p>David Tomàs, CEO de Cyberclick, explica <a rel="noreferrer noopener" aria-label="al Popap que Google vol un sistema centralitzat (opens in a new tab)" href="https://www.ccma.cat/catradio/alacarta/popap/google-anuncia-que-eliminara-les-cookies-de-la-publicitat-digital/audio/1060533/" target="_blank">al Popap que Google vol un sistema centralitzat</a>, on tota la informació quedi sota el seu control i evitar sistemes que titlla d'&#8221;opacs&#8221; com els d&#8217;empremta digital de navegador (<em>fingerprinting</em>), que registren les característiques del navegador web de l&#8217;usuari -com el tamany de la pantalla- sense que ho sàpiga.</p>
+
+
+
+<h3>Un gegant sota la lupa</h3>
+
+
+
+<p>La mesura s&#8217;anuncia quan l&#8217;autoritat de protecció de dades d&#8217;Irlanda investiga el negoci de publicitat en línia de Google i la pràctica de les ofertes en temps real a petició de Brave, <a href="https://www.ara.cat/media/Brave-navegador-web-valent_0_2352964838.html">un nou navegador que inclou de sèrie funcions avançades de privadesa i bloqueig de publicitat</a>.</p>
+
+
+
+<p>Tot i així, Chrome <em>ven</em> la mesura<a href="https://blog.chromium.org/2020/01/building-more-private-web-path-towards.html"> com una resposta lògica als clams dels usuaris per una privacitat més sòlida a la xarxa</a>: &#8220;Els usuaris exigeixen una major privadesa (inclosa la transparència, decisió i control sobre com s&#8217;utilitzen les seves dades) i està clar que l&#8217;ecosistema web ha d&#8217;evolucionar per satisfer aquestes demandes creixents&#8221;, escriu Schuh.</p>
+
+
+
+<h3><strong>Una il·legalitat generalitzada</strong></h3>
+
+
+
+<p>Investigadors de l&#8217;Institut Tecnològic de Massachusetts (MIT) i altres universitats punteres <a rel="noreferrer noopener" aria-label="han publicat un estudi conjunt sobre l'ús de les cookies (opens in a new tab)" href="https://www.bbc.com/news/technology-51106526" target="_blank">han publicat un estudi conjunt sobre l&#8217;ús de les <em>cookies</em></a>, que no en surten ben parades. Les lleis de privadesa de la Unió Europea estableixen que el consentiment de seguiment de l&#8217;usuari ha de ser informat i donat lliurement. Tot i així, l&#8217;estudi suggereix que només un 11,8% dels llocs compleixen els requisits mínims del Reglament General de Protecció de Dades (GDPR).</p>
+
+
+
+<p>A més, els investigadors es van trobar amb tota mena d&#8217;estratègies per confondre l&#8217;usuari a l&#8217;hora de demanar el consentiment a l&#8217;ús de les galetes. Per exemple, van topar amb opcions d&#8217;acceptació premarcades, botons de denegació del consentiment amagats o que requerien molts clics per marcar-los o, directament, pàgines que feien seguiment abans de demanar el consetiment o, fins i tot, un cop denegat. </p>
+
+
+
+<p>En total, més de la meitat dels llocs analitzats no tenien l&#8217;opció de rebutjar el seguiment. I dels que la tenien, només un 12,6% permetien rebutjar-lo amb igual o inferior nombre de clics necessaris per acceptar-les.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/01/15/google-elimina-chrome-cookies-privadesa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">654</post-id>	</item>
+		<item>
+		<title>Facebook prohibeix els &#8216;deepfakes&#8217;, però permet alguns vídeos manipulats</title>
+		<link>/2020/01/08/facebook-prohibeix-els-deepfakes-pero-permet-alguns-videos-manipulats/</link>
+					<comments>/2020/01/08/facebook-prohibeix-els-deepfakes-pero-permet-alguns-videos-manipulats/#respond</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2020 11:38:25 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Deep Fakes]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Fake News]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Notícies Falses]]></category>
+		<guid isPermaLink="false">/?p=633</guid>
+
+					<description><![CDATA[Facebook eliminarà vídeos manipulats amb Intel·ligència Artificial (IA) per distorsionar la realitat, coneguts com a &#8216;deepfakes&#8217;, alguns dels quals són pràcticament indistingibles d&#8217;un vídeo real.&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Facebook eliminarà vídeos manipulats amb Intel·ligència Artificial (IA) per distorsionar la realitat, <a href="/2019/11/13/equipo-e-deepfake-desinformacio/">coneguts com a &#8216;deepfakes&#8217;</a>, alguns dels quals són pràcticament indistingibles d&#8217;un vídeo real. Però&#8230; què són exactament els deepfakes? Tècnicament, són models matemàtics d&#8217;Aprenentatge Automàtic (<em>Machine Learning</em>) que analitzen milers de fotos d&#8217;una persona i aprenen a generar imatges amb la seva cara. Si això es fa per separat amb dues persones i es combinen els dos models, s&#8217;aconsegueix crear un model nou -o sigui, una imatge nova-, que és el deepfake.</p>
+
+
+
+<p>D&#8217;aquesta manera, <a rel="noreferrer noopener" aria-label="En un comunicat, la companyia explica que suprimirà o etiquetarà els vídeos fets amb la intenció d'enganyar (opens in a new tab)" href="https://about.fb.com/news/2020/01/enforcing-against-manipulated-media/" target="_blank">Facebook explica en un comunicat que suprimirà o etiquetarà els vídeos fets amb la intenció d&#8217;enganyar</a>; o sigui, aquelles falsificacions que als ulls de qualsevol persona podrien semblar reals, només si han estat fets amb Intel·ligència Artificial. </p>
+
+
+
+<p>La companyia, això sí, explica que no implementarà una política de retirada general dels vídeos manipulats marcats com a falsos pels verificadors (<em>fact-checkers</em>). D&#8217;aquesta manera, la nova directriu no s&#8217;aplicarà als vídeos satírics, ni als que només s&#8217;ha canviat l&#8217;ordre dels mots o s&#8217;han suprimit. Així, l&#8217;empresa de Mark Zuckerberg no prohibirà un vídeo com el de la presidenta de la Cambra de Representants dels Estats Units, Nancy Pelosi, que va editar-se (sense fer servir IA) per fer com si anés borratxa, i que va fer-se viral l&#8217;estiu passat.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Doctored Pelosi video highlights the threat of deepfake tech" width="1160" height="653" src="https://www.youtube.com/embed/EfREntgxmDs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Les reaccions al vídeo de Pelosi van ser diverses. Uns, condemnaren Facebook per no prohibir el vídeo. Altres, argumentaren que eliminar-lo assentava un perillós precedent per censurar paròdies polítiques o dissidents.</p>
+
+
+
+<p>Sens dubte, els vídeos falsos, editats amb eines a l&#8217;abast de la majoria, constitueixen una amenaça important per als polítics immersos en una cursa electoral, per exemple. Però la pregunta, aleshores, és: qui decideix què és satíric i què és enganyós? On és la línia que separa aquestes dues categories? Cal prohibir els vídeos falsos que mostren, posem per cas, una falsa declaració racista? I això, Facebook, no ho aclareix.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="¿Cómo se hace un &#039;deepfake&#039;?" width="1160" height="653" src="https://www.youtube.com/embed/nU0r-5vJUH0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>En aquest vídeo, on es mostra com es fa un Deepfake, el secretari general de Vox, Javier Ortega Smith, es transforma en l&#8217;expresident de Ciutadans, Albert Rivera.</figcaption></figure>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/01/08/facebook-prohibeix-els-deepfakes-pero-permet-alguns-videos-manipulats/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">633</post-id>	</item>
+		<item>
+		<title>El ransomware ja ha apagat els ordinadors d&#8217;uns quants governs</title>
+		<link>/2019/12/16/el-ransomware-ja-ha-apagat-els-ordinadors-a-varis-governs/</link>
+					<comments>/2019/12/16/el-ransomware-ja-ha-apagat-els-ordinadors-a-varis-governs/#respond</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2019 13:53:35 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Virus]]></category>
+		<guid isPermaLink="false">/?p=523</guid>
+
+					<description><![CDATA[Nova Orleans declara l&#8217;estat d&#8217;emergència i els funcionaris tornen al bolígraf i el paper El ransomware Ryuk, que fa unes setmanes va bloquejar els sistemes&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Nova Orleans declara l&#8217;estat d&#8217;emergència i els funcionaris tornen al bolígraf i el paper </h2>
+
+
+
+<p>El ransomware Ryuk, que fa unes setmanes <a href="/2019/11/05/com-evitar-el-ransomware-el-virus-que-recorre-europa/">va bloquejar els sistemes informàtics de la Cadena SER</a> i altres empreses espanyoles, podria ser la causa d&#8217;un atac que ha obligat a apagar tots els ordinadors de l&#8217;administració pública de Nova Orleans (Louisiana, Estats Units). L&#8217;afectació és tan gran que l&#8217;alcalde ha declarat l&#8217;estat d&#8217;emergència i els treballadors públics han hagut de tornar al bolígraf i el paper. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">A declaration of a state of emergency has been filed with the Civil District Court in connection with today’s cyber security event. <a href="https://t.co/OQXDGv7JS4">pic.twitter.com/OQXDGv7JS4</a></p>&mdash; The City Of New Orleans (@CityOfNOLA) <a href="https://twitter.com/CityOfNOLA/status/1205623401706115072?ref_src=twsrc%5Etfw">December 13, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Aquest és el cas més recent però, malauradament, no és l&#8217;únic. Als Estats Units, ja són unes quantes administracions locals i estatals que han patit <a href="/2019/11/05/com-evitar-el-ransomware-el-virus-que-recorre-europa/">els devastadors efectes del ransomware, els virus</a> que infecten les xarxes informàtiques d’una organització i bloquegen fitxers crítics a canvi d’un rescat. I la situació encara pot empitjorar. Alguns atacants han donat un pas més en l&#8217;extorsió i també <a rel="noreferrer noopener" aria-label="roben i venen les dades al millor postor, o amenacen els afectats (s'obre en una nova pestanya)" href="https://www.zdnet.com/article/ransomware-cybercriminals-are-adding-a-new-twist-to-their-demands/" target="_blank">roben dades i amenacen als afectats</a> amb filtrar-les per assegurar-se el pagament. </p>
+
+
+
+<p>L’any passat, Atlanta, Baltimore i diverses ciutats de Florida també van ser infectades. A l’agost, <a rel="noreferrer noopener" href="https://www.cnbc.com/2019/12/13/new-orleans-reports-cyberattacks-after-other-attacks-in-louisiana.html" target="_blank">23 ciutats de Texas van patir atacs de manera coordinada</a>. El mes passat, l&#8217;administració estatal de Louisiana va sumar-se a la llista de víctimes del <em>malware</em>, i ho feia per segon cop en sis mesos. Això l&#8217;obligà de nou a desactivar les pàgines web governamentals i altres serveis digitals i a declarar l&#8217;estat d&#8217;emergència. Ara, l&#8217;any acaba amb els sistemes de l&#8217;administració pública de Nova Orleans infectats i la policia bolcada en la persecució d&#8217;uns criminals sense rostre, que operen des de l&#8217;absolut anonimat. El més estrany és que, de moment, aquest cop ningú no ha reclamat diners.</p>
+
+
+
+<p><a rel="noreferrer noopener" aria-label="Segons Tech Crunch (s'obre en una nova pestanya)" href="https://techcrunch.com/2019/12/14/new-orleans-declares-state-of-emergency-following-ransomware-attack/" target="_blank">Segons Tech Crunch</a>, els governs i les autoritats locals són especialment vulnerables davant d&#8217;aquesta mena d&#8217;atacs, perquè sovint disposen d&#8217;insuficients recursos per protegir els sistemes de les principals amenaces. Amb tot, aquest últim atac no ha agafat desprevinguda la ciutat, que ja estava preparada per treballar <em>offline</em> i, per exemple, les comunicacions d&#8217;emergència no es van veure afectades, segons va difondre el compte de Twitter d’emergències “NOLA Ready”, utilitzat sobretot durant situacions catastròfiques com són els huracans. Tot i així, serveis com ara la planificació d&#8217;inspeccions d&#8217;edificis s&#8217;han hagut de gestionar a mà. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Emergency communications are not affected. <a href="https://twitter.com/opcd911?ref_src=twsrc%5Etfw">@opcd911</a> 9-1-1 &amp; 3-1-1 services are up and running. <a href="https://twitter.com/NOPDNews?ref_src=twsrc%5Etfw">@NOPDNews</a>, <a href="https://twitter.com/NewOrleansEMS?ref_src=twsrc%5Etfw">@NewOrleansEMS</a> &amp; <a href="https://twitter.com/NOLAFireDept?ref_src=twsrc%5Etfw">@NOLAFireDept</a> are fully able to respond to emergencies as normal.</p>&mdash; NOLA Ready (@nolaready) <a href="https://twitter.com/nolaready/status/1205565384188932097?ref_src=twsrc%5Etfw">December 13, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p><a rel="noreferrer noopener" aria-label="Segons el Ponemon Institute, que investiga la protecció de dades (s'obre en una nova pestanya)" href="https://elpais.com/tecnologia/2019/12/09/actualidad/1575881359_325197.html" target="_blank">Segons el Ponemon Institute, que investiga la protecció de dades</a>, només el 36% de les empreses tecnològiques dels Estats Units asseguraven el 2018 que els seus equips eren prou eficaços per a detectar problemes interns de ciberseguretat abans d&#8217;un atac. D&#8217;altra banda, un 71% dels alts executius i gerents no mantenien una comunicació fluida sobre els riscos amb els serveis de seguretat, i un 68% no captava bé el perill i l&#8217;efecte negatiu per a la companyia.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/12/16/el-ransomware-ja-ha-apagat-els-ordinadors-a-varis-governs/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">523</post-id>	</item>
+		<item>
+		<title>La Faceapp suposa una amenaça per a la contraintel·ligència, segons l&#8217;FBI</title>
+		<link>/2019/12/03/faceapp-amenaca-seguretat-fbi/</link>
+					<comments>/2019/12/03/faceapp-amenaca-seguretat-fbi/#respond</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2019 20:00:28 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[FaceApp]]></category>
+		<category><![CDATA[Facial Recognition]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Reconeixement Facial]]></category>
+		<guid isPermaLink="false">/?p=497</guid>
+
+					<description><![CDATA[La Faceapp, l&#8217;aplicació mòbil que al juliol va farcir les xarxes socials de cares envellides i rejovenides, suposa &#8220;una amenaça per a la contraintel·ligència&#8221;, diu&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>La Faceapp, l&#8217;aplicació mòbil que al juliol va farcir les xarxes socials de cares envellides i rejovenides, suposa &#8220;una amenaça per a la contraintel·ligència&#8221;, diu l&#8217;FBI en una carta dirigida al senador nord-americà Chuck Schumer, que ell mateix ha publicat a Twitter. Així és la resposta de l&#8217;oficina federal d&#8217;investigació dels Estats Units després que el senador demanés investigar la famosa app: </p>
+
+
+
+<p>&#8220;<em>Qualsevol aplicació mòbil o producte similar desenvolupat a Rússia, com la FaceApp, és una amenaça potencial per a la contraintel·ligència, segons les dades que el producte recol·lecta, les seves polítiques de privacitat i termes d&#8217;ús i els mecanismes legals que permeten al govern de Rússia accedir a totes les dades dins les seves fronteres</em>&#8220;.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">A warning to share with your family &amp; friends:<br><br>This year when millions were downloading <a href="https://twitter.com/hashtag/FaceApp?src=hash&amp;ref_src=twsrc%5Etfw">#FaceApp</a>, I asked the FBI if the app was safe.<br><br>Well, the FBI just responded.<br><br>And they told me any app or product developed in Russia like FaceApp is a potential counterintelligence threat. <a href="https://t.co/ioMzpp2Xi5">pic.twitter.com/ioMzpp2Xi5</a></p>&mdash; Chuck Schumer (@SenSchumer) <a href="https://twitter.com/SenSchumer/status/1201607736900964353?ref_src=twsrc%5Etfw">December 2, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>La viralització de l&#8217;aplicació va anar acompanyada d&#8217;un cert alarmisme perquè, tal com <a rel="noreferrer noopener" href="https://www.ara.cat/media/FaceApp-al-centre-polemica-exagerada_0_2272572906.html" target="_blank">va explicar Albert Cuesta al diari ARA</a>, FaceApp no transforma la imatge dins el telèfon mòbil, sinó que l&#8217;envia a uns servidors externs per a fer les modificacions i, tot seguit, descarrega el resultat al dispositiu. Però les imatges no van a parar a servidors russos, com molts van pensar-se, sinó que són enviades als servidors d&#8217;Amazon Web Services i de Google Cloud. A més, FaceApp va dir públicament que suprimeix la major part de fotografies dels seus servidors al cap de 48 hores.</p>
+
+
+
+<p>Tot i així, l&#8217;FBI alerta a la carta que els Serveis d’Intel·ligència russos tenen “una gran capacitat d’explotació cibernètica” i, segons les lleis locals, poden “accedir de forma remota a totes les comunicacions i servidors de les xarxes russes sense haver de fer cap sol·licitud als proveïdors d&#8217;Internet”. </p>
+
+
+
+<p>Cal tenir en compte que aquests comentaris de l&#8217;FBI s&#8217;emmarquen en la creixent preocupació dels Estats Units envers els productes tecnològics estrangers. De fet, més recentment li ha tocat el rebre a <a href="/2019/11/27/el-video-duna-jove-que-alerta-sobre-els-camps-de-concentracio-de-la-xina-i-esquiva-per-ara-la-censura/">TikTok, una plataforma de compartició de vídeos</a> propietat de la companyia xinesa ByteDance que es creu que té aproximadament mig milió d&#8217;usuaris actius a tot el món. En aquest sentit, <a rel="noreferrer noopener" aria-label="segons diversos mitjans (s'obre en una nova pestanya)" href="https://www.bbc.com/news/business-50639443" target="_blank">segons diversos mitjans com la BBC</a>, Schumer també va demanar a l&#8217;octubre una avaluació de riscos de seguretat nacional per a TikTok i altres plataformes de propietat xinesa. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/12/03/faceapp-amenaca-seguretat-fbi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">497</post-id>	</item>
+	</channel>
+</rss>

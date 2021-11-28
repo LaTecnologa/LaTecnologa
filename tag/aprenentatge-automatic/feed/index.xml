@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Aprenentatge Automàtic &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/aprenentatge-automatic/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:04 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Aprenentatge Automàtic &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Com aprenen les màquines?</title>
+		<link>/2020/09/08/com-aprenen-les-maquines/</link>
+		
+		<dc:creator><![CDATA[Termcat]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2020 11:31:15 +0000</pubDate>
+				<category><![CDATA[Tecnologia en català]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Aprenentatge Automàtic]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Català]]></category>
+		<category><![CDATA[Cercaterm]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Termcat]]></category>
+		<guid isPermaLink="false">/?p=1586</guid>
+
+					<description><![CDATA[Sobre els termes &#8216;intel·ligència artificial&#8217; i &#8216;aprenentatge automàtic&#8217; La intel·ligència artificial és una branca de la informàtica aplicada al desenvolupament de màquines amb capacitat de&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Sobre els termes &#8216;intel·ligència artificial&#8217; i &#8216;aprenentatge automàtic&#8217;</h2>
+
+
+
+<p>La <a rel="noreferrer noopener" href="https://www.termcat.cat/ca/cercaterm/fitxa/Njc0NDky" target="_blank"><strong>intel·ligència artificial</strong></a> és una branca de la informàtica aplicada al desenvolupament de màquines amb capacitat de simular conductes humanes o d’aproximar-s’hi, com ara el raonament, l&#8217;aprenentatge, el processament i la interpretació d&#8217;estímuls sensorials.&nbsp; Així, es dedica al desenvolupament d&#8217;algorismes que permeten a un ordinador percebre el seu entorn lògic i prendre decisions amb la mínima intervenció humana, per maximitzar les seves possibilitats d&#8217;èxit en una o més tasques.</p>
+
+
+
+<p>Tot i remuntar-se a la dècada dels anys 50, la intel·ligència artificial està més d’actualitat que mai per les aplicacions que tècniques com el <a href="/2019/12/13/una-tecnologia-que-avanca-malgrat-els-emperons/">reconeixement de veu i d’imatge</a>, la traducció automàtica o la mateixa predicció de paraules tenen en l’àmbit de la comunicació entre els humans i les màquines.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="hQ7z2qwpjr"><a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">Intel·ligència Artificial: dilemes ètics del 2020</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Intel·ligència Artificial: dilemes ètics del 2020&#8221; &#8212; La Tecnòloga" src="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/embed/#?secret=hQ7z2qwpjr" data-secret="hQ7z2qwpjr" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p>En aquest àmbit, és rellevant&nbsp;el procés de l’<a rel="noreferrer noopener" href="https://www.termcat.cat/ca/cercaterm/fitxa/MzcwMTQyMA%3D%3D" target="_blank"><strong>aprenentatge automàtic</strong></a><strong>&nbsp;</strong>(en anglès,&nbsp;<em>machine learning</em>) dedicat a l&#8217;anàlisi, el disseny i el desenvolupament d&#8217;algorismes i tècniques que permeten que les màquines evolucionin, millorant el seu comportament a partir de l&#8217;estudi d&#8217;observacions o de les experiències pròpies.</p>
+
+
+
+<p>En l’aprenentatge automàtic els dispositius treballen sobre grans volums de dades, hi identifiquen patrons de comportament i, sobre aquesta base, prediuen i suggereixen comportaments futurs. Aquesta possibilitat d’aplicar automàticament càlculs matemàtics complexos a <a rel="noreferrer noopener" href="https://www.termcat.cat/ca/cercaterm/fitxa/MzU0NTMwNw%3D%3D" target="_blank"><strong>dades massives</strong></a> (<em>big data</em>, en anglès) és un assoliment relativament recent que amplia el camp d’intervenció d’aquesta tècnica.&nbsp;</p>
+
+
+
+<p>Per exemple, la indústria financera l’utilitza per detectar oportunitats d’inversió i fer vigilància del frau. Els governs, per explotar les múltiples fonts de dades disponibles. La indústria de la salut ha desplegat dispositius i sensors que avaluen constants d’un pacient en temps real, i porten a la millora de diagnòstics i tractaments. I la indústria del màrqueting i les vendes, per analitzar historials de compra.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="gath1nzlhJ"><a href="/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/">“A CoronaWhy s’obren per a les Dades Massives nous horitzons en la recerca mèdica”</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;“A CoronaWhy s’obren per a les Dades Massives nous horitzons en la recerca mèdica”&#8221; &#8212; La Tecnòloga" src="/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/embed/#?secret=gath1nzlhJ" data-secret="gath1nzlhJ" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p>I anant a un terreny més pràctic, són exemples concrets d’aplicació de l’aprenentatge automàtic la conducció autònoma que anuncia Google, les recomanacions en línia que ens fan Amazon o Netflix, a partir de l’anàlisi dels nostres patrons de comportament, o les alertes per detecció de fraus en ciberseguretat.&nbsp;</p>
+
+
+
+<p>Podeu consultar al <a rel="noreferrer noopener" href="https://www.termcat.cat/ca/cercaterm" target="_blank">Cercaterm</a>, &nbsp;el cercador terminològic del TERMCAT, les fitxes d’aquests termes catalans, i també trobareu al&nbsp; <a rel="noreferrer noopener" href="https://tic.termcat.cat/ca" target="_blank">canal Terminologia de les TIC</a>&nbsp; altres recursos d’aquest àmbit.&nbsp;</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-white-background-color has-white-color is-style-dots"/>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-medium is-resized"><a href="https://www.termcat.cat/en/cercaterm" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="/wp-content/uploads/2020/09/Logo_TERMCAT_Color-300x75.png" alt="Termcat" class="wp-image-1588" width="300" height="75" srcset="/wp-content/uploads/2020/09/Logo_TERMCAT_Color-300x75.png 300w, /wp-content/uploads/2020/09/Logo_TERMCAT_Color.png 620w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1586</post-id>	</item>
+		<item>
+		<title>Deepfakes per riure&#8230; i enganyar</title>
+		<link>/2019/11/13/equipo-e-deepfake-desinformacio/</link>
+					<comments>/2019/11/13/equipo-e-deepfake-desinformacio/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Tue, 12 Nov 2019 23:21:28 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Aprenentatge Automàtic]]></category>
+		<category><![CDATA[Deep Fakes]]></category>
+		<category><![CDATA[Fake News]]></category>
+		<category><![CDATA[Falsificacions]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Notícies Falses]]></category>
+		<guid isPermaLink="false">/?p=349</guid>
+
+					<description><![CDATA[L&#8217;Equip E, amb E d&#8217;Espanya és el títol d&#8217;un vídeo publicat fa 24 hores, però que ja acumula 700.000 reproduccions. Es tracta d&#8217;una paròdia de&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p><em>L&#8217;Equip E, amb E d&#8217;Espanya</em> és el títol d&#8217;un vídeo publicat fa 24 hores, però que ja acumula 700.000 reproduccions. Es tracta d&#8217;una paròdia de 2:35 minuts que, amb la tecnologia dels Deepfakes, connecta la mítica sèrie &#8216;Equipo A&#8217; amb les principals cares de la política espanyola que han competit a les eleccions de l&#8217;11 de novembre. </p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="EL EQUIPO E, con E de España [DeepFake]" width="1160" height="653" src="https://www.youtube.com/embed/dj5M4s-cdAw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>[DeepFake] El Equipo E, con E de España.</figcaption></figure>
+
+
+
+<p>Pablo Casado dona vida al coronel Hannibal, Pablo Iglesias es transforma -amb melena inclosa- en Amanda Allen, Pedro Sánchez encarna el tinent Templeton Peck, Santiago Abascal interpreta a B.A. Baracus, mentre Albert Rivera hi apareix com el capità Murdock.  </p>
+
+
+
+<p>És el dotzè vídeo del <a rel="noreferrer noopener" aria-label="canal de Youtube 'Face to Fake' (s'obre en una nova pestanya)" href="https://www.youtube.com/channel/UCg9FVKnbCqfX-OuIFVgEZgw/videos" target="_blank">canal de Youtube &#8216;Face to Fake&#8217;</a>, que utilitza la Intel·ligència Artificial per a divertir els espectadors, tal com s&#8217;autodefineixen els creadors. I sembla que ho han aconseguit. Els vídeos manipulats no són novetat, tot i que sorprèn el realisme que guanyen dia a dia. Altres canals de Youtube, com <a rel="noreferrer noopener" aria-label="Ctrl Shift Face (s'obre en una nova pestanya)" href="https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g" target="_blank">Ctrl Shift Face</a>, van més enllà i modifiquen la cara dels actors a temps real.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Bill Hader channels Tom Cruise [DeepFake]" width="1160" height="653" src="https://www.youtube.com/embed/VWrhRBb-1Ig?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>[DeepFake] L&#8217;actor Bill Hader es transforma en Tom Cruise.</figcaption></figure>
+
+
+
+<h5>No tot són rialles</h5>
+
+
+
+<p>Més enllà de les sàtires, la mateixa tecnologia dels Deepfakes té usos professionals i Hollywood ja <a rel="noreferrer noopener" aria-label="utilitza la mateixa tecnologia per rejovenir actors (s'obre en una nova pestanya)" href="https://www.lavanguardia.com/tecnologia/20191106/471413348212/cine-series-hbo-inteligencia-artificial-productoras.html" target="_blank">les fa servir per rejovenir actors</a>. Allò cert, però, és que els Deepfakes han emergit de la cara més fosca d&#8217;Internet, on <a rel="noreferrer noopener" aria-label="s'utilitzaven sobretot per a falsificacions pornogràfiques (s'obre en una nova pestanya)" href="https://www.technologyreview.com/f/614485/deepfake-porn-deeptrace-legislation-california-election-disinformation/" target="_blank">s&#8217;utilitzen sobretot per a falsificacions pornogràfiques</a>. A més a més, es fan servir per a falsejar notícies. De fet, els vídeos manipulats han aterrat a les xarxes socials amb més pena que glòria. Facebook i Twitter van bullir quan Obama pronuncià una frase capaç de generar rius de polèmica: &#8220;El president Trump és totalment idiota&#8221;. En realitat, mai ho va dir. </p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="You Won’t Believe What Obama Says In This Video! &#x1f609;" width="1160" height="653" src="https://www.youtube.com/embed/cQ54GDm1eL0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Altres personatges famosos com <a rel="noreferrer noopener" aria-label="Donald Trump (s'obre en una nova pestanya)" href="https://www.youtube.com/watch?v=dJJLqXVpVGY" target="_blank">Donald Trump</a> o <a rel="noreferrer noopener" aria-label="l'actriu Scarlett Johansson (s'obre en una nova pestanya)" href="https://www.youtube.com/watch?v=Eongq2cl8-I" target="_blank">l&#8217;actriu Scarlett Johansson</a> han estat blancs d&#8217;imatges manipulades que han aixecat polseguera i s&#8217;han viralitzat tan bon punt s&#8217;han fet públics. Parlem de vídeos que mostren gestos, expressions i moviments que, pel seu realisme, arriben a confondre l&#8217;espectador. I tenen tots els números de convertir-se en la nova gran font de desinformació.</p>
+
+
+
+<h5>Com es genera un Deepfake?</h5>
+
+
+
+<p>Els Deepfakes es creen mitjançant algoritmes d&#8217;Intel·ligència Artificial que observen i registren patrons de moviment del rostre d&#8217;algú a partir d&#8217;un vídeo real i, després, els recreen utilitzant les faccions de la cara d&#8217;algú altre que han memoritzat prèviament. El terme &#8220;Deep&#8221; fa referència al concepte del &#8220;Deep Learning&#8221; (Aprenentatge Profund, en català), una família d&#8217;algoritmes d&#8217;Aprenentatge Automàtic (Machine Learning, en anglès) que s’inspira en el funcionament del cervell humà. </p>
+
+
+
+<p>Existeix algun sistema fiable per detectar els vídeos manipulats? La investigació es desplega a les millors universitats i als departaments de recerca de les grans empreses tecnològiques però, de moment, els algoritmes de detecció no estan tant perfeccionats com per enxampar-los tot d&#8217;una. De fet, Facebook va admetre el setembre que <a rel="noreferrer noopener" aria-label="no era capaç d'identificar els Deep Fake més sofisticats (s'obre en una nova pestanya)" href="https://ai.facebook.com/blog/deepfake-detection-challenge" target="_blank">no era capaç d&#8217;identificar els Deepfakes més sofisticats</a> perquè la tecnologia que els produeix millora massa ràpid. </p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Taxi Driver starring Al Pacino [DeepFake]" width="1160" height="653" src="https://www.youtube.com/embed/9NkKj0aNB0s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>[DeepFake] Al Pacino substitueix Robert De Niro a Taxi Driver.</figcaption></figure>
+
+
+
+<p>En aquest context, hi ha més preguntes que respostes: Com frenar les mentides, si corren més que les veritats? Fins a quin punt poden arribar a perfeccionar-se els Deepfakes? Què passarà quan es viralitzi la imatge d&#8217;un líder polític cometent un acte deshonest, però no es pugui saber si és real o fals? Quins continguts es viralitzaran quan tothom pugui fer vídeos falsos des de qualsevol ordinador? </p>
+
+
+
+<p>De moment, la legislació no és clara sobre els Deepfakes, tot i que un grapat d&#8217;Estats ja han pres partit. Fa menys d&#8217;una setmana que <a rel="noreferrer noopener" aria-label="Califòrnia ha il·legalitzat la creació i la distribució (s'obre en una nova pestanya)" href="https://www.theguardian.com/us-news/2019/oct/07/california-makes-deepfake-videos-illegal-but-law-may-be-hard-to-enforce" target="_blank">Califòrnia ha il·legalitzat la creació i la distribució</a> de Deepfakes amb l&#8217;argument de protegir els votants de la desinformació.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/13/equipo-e-deepfake-desinformacio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">349</post-id>	</item>
+		<item>
+		<title>Algoritmes esbiaixats: màquines que no fan justícia</title>
+		<link>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/</link>
+					<comments>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/#respond</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2019 12:22:37 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Algorithm]]></category>
+		<category><![CDATA[Algoritme]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Aprenentatge Automàtic]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Salut]]></category>
+		<category><![CDATA[Tinder]]></category>
+		<guid isPermaLink="false">/?p=297</guid>
+
+					<description><![CDATA[Florida, 2014. Una tarda de primavera, Brisha Borden i un amiga, totes dues de 18 anys, roben una bici i un patinet. En plena fugida,&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Florida, 2014. Una tarda de primavera, Brisha Borden i un amiga, totes dues de 18 anys, roben una bici i un patinet. En plena fugida, s’adonen que són massa grans per conduir els vehicles, que pertanyen a un nen de sis anys. La policia les arresta i les acusa de robar uns objectes valorats en 80 dòlars. A l’estiu anterior, Vernon Prater, de 41 anys, és detingut per robar a una botiga diversos articles que sumen 86,35 dòlars. Està en cerca i captura i ja ha passat cinc anys a la presó per robatori armat i dos delictes més. A la presó, un sistema informàtic anomenat COMPAS* puntua la probabilitat de reincidència dels reclusos. A Borden, de pell negra, li atribueix un risc elevat i a Prater, de pell blanca, un risc baix. Dos anys després, es descobreix que l’algoritme predictiu no l’ha encertada: Borden no ha comès cap altra infracció, mentre Prater compleix una pena de vuit anys de presó per un altre robatori.</p>
+
+
+
+<p>Aquest no és un cas aïllat. Dos anys després d’aquests fets, <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">una investigació de Propublica va demostrar</a> que el sistema tendia a assignar riscos molt més elevats a les persones de pell fosca que a les de pell blanca. Era el resultat d’allò que es coneix com a biaix predictiu; en aquest cas, racista.</p>
+
+
+
+<h2>D’on surt aquest biaix?</h2>
+
+
+
+<p>L&#8217;origen s’amaga en els principis més bàsics dels algoritmes predictius, també anomenats d’Aprenentatge Automàtic (Machine Learning, en anglès). Aquests algoritmes, actualment tant habituals, es basen en una anàlisis estadística de dades històriques, a partir de les quals s’extreuen patrons que més endavant serveixen per fer prediccions sobre noves dades. Com a conseqüència, si aquestes dades històriques contenen una representació esbiaixada de la realitat, les prediccions de l’algoritme predictiu reproduiran el mateix biaix.</p>
+
+
+
+<p>Però això no és tot. L’estudi de Propublica va demostrar que la diferència a l’hora d’avaluar persones de colors diferents no s&#8217;explicava només per unes dades històricament esbiaixades, sinó que l&#8217;algoritme tendia a equivocar-se de manera diferent en funció de si examinava persones de pell negra o de pell blanca. Així, COMPAS va atribuir el doble de vegades un risc erròniament alt de reincidència als presos de pell negra; mentre va assignar un risc erròniament baix a molts més reclusos de pell blanca. Per tant, en aquest cas, la Intel·ligència Artificial no ajudava a mitigar les diferències racials inherents a les dades històriques, sinó que encara les potenciava més.</p>
+
+
+
+<p>Per què? Propublica ressaltava que COMPAS no preguntava la raça del pres per formar l’algoritme. No obstant això, les variables que utilitzava per obtenir informació eren 137 preguntes personals sobre el detingut i el seu entorn, com “Els teus amics o familiars formen part de bandes criminals?” o “Has provat l&#8217;heroïna?”. Però el problema és que, als Estats Units, les diferències socials entre els col·lectius racials són prou importants com perquè es vegin reflectides en aquest tipus de respostes. Així, si s&#8217;evités proporcionar a l&#8217;algoritme dades que permeten deduir el color de pell, es quedaria sense informació per a fer prediccions amb precisió.</p>
+
+
+
+<h2>Conseqüències en el treball, en la salut, en l’amor</h2>
+
+
+
+<p>El cas de COMPAS no és una excepció, ja que els biaixos predictius són un fenomen inherent als algoritmes d’Intel·ligència Artificial, que són cada dia més freqüents al nostre entorn. </p>
+
+
+
+<p>El 2014, <a href="https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G?utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz--y-ycxgaCuFg_VJZNKEV72YYe72ryGDwDcZmF4qpvJJsCrmqY2DqHNktpSZD4K2U0Vk-Ri">Amazon va desenvolupar una eina intel·ligent per reclutar els millors treballadors</a>. Un any més tard, la multinacional va adonar-se que als llocs tècnics no hi havia cap dona. La companyia va abandonar l’eina després que una auditoria interna trobés que els candidats homes havien obtingut més puntuació que les dones. Per què? <a href="https://medium.com/think-by-shifta/por-qu%C3%A9-la-inteligencia-artificial-discrimina-a-las-mujeres-18b123ecca4c">Tal com expliquen Karma Peiró i Ricardo Baeza-Yates a Medium</a>, les dades massives que serviren per nodrir l’algoritme de sel·lecció de personal es basaven en currículums rebuts durant l&#8217;última dècada, quan amb prou feines hi havia dones programadores. Quan el sistema automàtic detectava la paraula “dona” o un sinònim, la penalitzava i puntuava més baix.</p>
+
+
+
+<p>En l’àmbit sanitari, als Estats Units s’utilitzen algoritmes per guiar algunes decisions mèdiques. El 25 d’octubre, <a href="https://science.sciencemag.org/content/366/6464/447.full?utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz--y-ycxgaCuFg_VJZNKEV72YYe72ryGDwDcZmF4qpvJJsCrmqY2DqHNktpSZD4K2U0Vk-Ri">la revista Science explicava que els models utilitzats per assignar cures</a> als 100 milions de pacients nordamericans que pateixen malalties cròniques, com atacs de cor o diabetis, prioritzaven els pacients blancs en detriment dels negres, i rebien abans una assistència mèdica urgent.</p>
+
+
+
+<p>Al llibre El Algoritmo del Amor, Judith Duportail explica que <a href="https://www.arabalears.cat/cultura/Tinder-construir-parelles-desiguals_0_2285171474.html">l’algoritme de Tinder classifica els usuaris segons la bellesa, el gènere, els estudis i la classe social</a>. Duportail sosté que els homes amb més ingressos i nivell d’estudis tenen una gratificació i, en canvi, a les dones amb els mateixos atributs se les penalitza. Per això, considera que Tinder vol construir parelles desiguals en què l’home sempre sigui superior: amb més estudis, més ingressos i més edat. Com s&#8217;explica això? Per una banda, l’algoritme és el resultat d’una compilació de dades que ha tingut lloc dins una societat masclista i, per l’altra banda, segons l’autora del llibre, els programadors de l’aplicació han introduït els seus propis biaixos dins el programari. Com trencar aquest cercle viciós?</p>
+
+
+
+<h2>Algunes solucions</h2>
+
+
+
+<p>El <a href="https://fedit.com/2017/09/proyecto-fair-un-algoritmo-para-evitar-discriminaciones-en-la-busqueda-de-trabajo-o-de-pareja/">Centre Tecnològic Eurecat, de la mà de la Universitat Pompeu Fabra (UPF) i la Universitat Tècnica de Berlín</a>, ha creat un algoritme, anomenat FA*IR, per evitar la discriminació per raons de gènere, procedència o aparença física en cercadors de feina o de parella. FA*IR detecta els biaixos i els corregeix incorporant un mecanisme per a reordenar els resultats sense afectar la validesa del rànquing. <a href="https://www.upf.edu/recercaupf/-/asset_publisher/RVNxhLpxnc9g/content/id/226511859/maximized">Des de l’UPF, a més, proposen utilitzar els algoritmes de manera crítica</a> i en col·laboració amb experts de l’àrea que correspongui.</p>
+
+
+
+<p>Rachel Thomas, directora del Centre d’Ètica Aplicada a les Dades de la Universitat de San Francisco, recomana que cada conjunt de dades es presenti amb un document on s’hi descrigui com es va compilar. També aconsella especificar-hi qualsevol preocupació ètica o legal que hagi pogut sorgir durant el procés. Suggereix, tanmateix, que els equips incloguin gent diversa capaç d’advertir els diferents biaixos.</p>
+
+
+
+<p>El 2017, l’<a href="https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf">Associació de Maquinària Informàtica (ACM) publicà un manifest</a> en defensa de la transparència algorítimica i va establir set principis:</p>
+
+
+
+<ol><li>Consciència. Els creadors d’aquests sistemes han de ser conscients de la possibilitat que hi hagi biaixos en el seu disseny, implementació i ús.</li><li>Accés. Els reguladors han d’afavorir l’introducció de mecanismes perquè els individus i grups negativament afectats per decisions algorítmiques puguin qüestionar-les i rectificar-les.</li><li>Passar comptes. Les institucions han de ser responsables de les decisions de l’algoritme, encara que no puguin detallar com s’han pres.</li><li>Explicació. Les institucions que empren sistemes intel·ligents han de promoure la producció d’explicacions sobre els procediments i les decisions específiques que s’hi prenen.</li><li>Procedència de les dades. Les dades emprades per a l’entrenament han d’anar acompanyades d’una descripció del seu origen.</li><li>Auditabilitat. Models, dades i decisions han de quedar registrats perquè puguin auditar-se quan se sospita d’algun error.</li><li>Validació i proves. Les institucions han de fer proves rutinàries per a avaluar i determinar si el model genera discriminació.</li></ol>
+
+
+
+<h2>Encara queda molt per fer</h2>
+
+
+
+<p>Malgrat els esforços, els biaixos algoritmics són entre els grans problemes de la comunitat científica. En alguns casos, les dades sovint reflecteixen diferències no atribuïbles a biaixos, sinó que són resultat d’una descripció objectiva de la realitat i no té sentit corregir-los. A vegades, però, aquests contrastos són producte de certes diferències històriques que cal pal·liar per construir una societat més justa. Tot plegat requereix una feina complexa però necessària per redefinir com conceptualitzem el món i, en conseqüència, com obtenim les dades. Al mateix temps, és urgent introduir l&#8217;Ètica a l&#8217;hora d&#8217;entrenar models intel·ligents que, de ben segur, tindran un gran impacte social.</p>
+
+
+
+<h5>Notes:</h5>
+
+
+
+<p class="has-small-font-size">*COMPAS és l&#8217;acrònim de Correctional Offender Management Profiling for Alternative Sanctions, que en català es tradueix com a Perfilat per la Gestió Correctiva d&#8217;Infractors per Sancions Alternatives.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">297</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Vigilancia Permanente &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/vigilancia-permanente/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 12 Jun 2020 18:40:59 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Vigilancia Permanente &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>10 motius per practicar la &#8216;Resistència Digital&#8217;</title>
+		<link>/2020/02/19/10-motius-resistencia-digital/</link>
+					<comments>/2020/02/19/10-motius-resistencia-digital/#comments</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2020 20:48:33 +0000</pubDate>
+				<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Críptica]]></category>
+		<category><![CDATA[Dades]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Edward Snowden]]></category>
+		<category><![CDATA[Identitat digital]]></category>
+		<category><![CDATA[Mòbil]]></category>
+		<category><![CDATA[Privacitat]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Resistencia Digital]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Seguretat]]></category>
+		<category><![CDATA[Smartphone]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[Vigilància]]></category>
+		<category><![CDATA[Vigilància Massiva]]></category>
+		<category><![CDATA[Vigilancia Permanente]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<guid isPermaLink="false">/?p=787</guid>
+
+					<description><![CDATA[Parlem del llibre Resistencia Digital. Manual de seguridad operacional e instrumental para smartphones, escrit pels membres de l'associació Críptica, que apropa a la gent les eines de protecció de la privadesa]]></description>
+										<content:encoded><![CDATA[
+<p>En general, encara ignorem la feixuga motxilla de dades que traginen els nostres petits <em>smartphones</em>, una extensió dels cossos i el nostre principal intermediari amb el món. Però si com el protagonista de <em>Matrix</em> escollim la píldora roja, hi ha un llibre que ens pot obrir els ulls: <em><strong>Resistencia Digital. Manual de seguridad operacional e instrumental para smartphones</strong></em>. <a rel="noreferrer noopener" aria-label="escrit pels membres de l'associació Críptica (opens in a new tab)" href="https://www.criptica.org/" target="_blank">Escrit pels membres de l&#8217;associació Críptica</a>, ens apropa les eines per protegir la informació que generem. És un manual, sí, perquè ofereix solucions tècniques -assequibles-, però sobretot és un assaig: planteja els problemes des de l&#8217;arrel i el context i, així, ens fa entendre que optar per una aplicació o una altra, o compartir cada detall de la nostra vida a les xarxes socials són -com diu el pròleg- <strong>decisions polítiques</strong>. Hi ha molts motius per practicar la &#8216;resistència digital&#8217;, però aquí teniu deu fragments del llibre, que també són deu raons per submergir-s&#8217;hi.</p>
+
+
+
+<ol><li>&#8220;Els mitjans de comunicació, <em>Wikileaks</em> i les xarxes socials&nbsp;van començar a escampar informació sobre les tècniques d&#8217;<strong>espionatge</strong> dels Estats Units i els seus aliats. Aquell degoteig de filtracions encara dura, fins al punt que gairebé s&#8217;han normalitzat les notícies sobre la <strong>vigilància massiva</strong>. Però ningú ha anat a la presó i l&#8217;espionatge continua.&#8221;</li><li>&#8220;Allò rellevant del <strong>telèfon intel·ligent</strong> no és la seva dimensió tecnològica, sinó el seu ús social: es tracta d&#8217;un aparell que portem a tot arreu amb nosaltres, que sol integrar totes les facetes de la persona (treball,&nbsp;amistats, hàbits de consum, activitat política), que serveix com a arxiu de les seves vivències i que concentra gran part (si no la totalitat) del seu <strong>historial relacional</strong>. A hores d&#8217;ara, qualsevol&nbsp;adversari sap que n&#8217;hi ha prou amb fer-se amb el control del telèfon per a accedir a un riu d&#8217;informació rellevant de manera immediata.&#8221;</li><li>&#8220;Seguint la regla d&#8217;or «no existeix una&nbsp;informació més ben protegida que aquella que no arriba a generar-se», has de desenvolupar l&#8217;art de saber quan no produir cap informació.&#8221;</li><li>&#8220;Atrapats com estem en aquest nou paradigma,&nbsp;irremeiablement&nbsp;hem d&#8217;aprendre a moure&#8217;ns en un mitjà que ens és hostil. Se&#8217;ns ha llançat al <strong>tatami&nbsp;cibernètic</strong>&nbsp;sense rebre cap instrucció prèvia, i això ens fa summament vulnerables davant d&#8217;adversaris que són més poderosos, més perseverants i més experimentats que nosaltres.&#8221;</li><li>L&#8217;<strong>anonimat</strong>, com a necessitat diferent de la seguretat o la privacitat, ha estat un recurs necessari en moltes ocasions històriques, actuant com a mesura de&nbsp;prevenció&nbsp;per limitar la superfície d&#8217;atac de l&#8217;adversari: sabut és que no pots colpejar allò que no pots veure. Ho il·lustren&nbsp;a la perfecció les filtracions d&#8217;<a href="/2019/11/16/edward-snowden-project-tor/">Edward&nbsp;Snowden, que va haver de mantenir la seva identitat real en secret</a> per a establir&nbsp;contacte amb la premsa sense cridar l&#8217;atenció de la&nbsp;NSA&nbsp;americana. (&#8230;) Més que «seguretat», l&#8217;anonimat ofereix una protecció similar a la del <strong>camuflatge</strong>, que serveix per allargar la fase d&#8217;identificació prèvia a l&#8217;atac&#8221;.</li><li><span style="font-family: &quot;Nunito Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 1.125rem;">&#8220;L&#8217;ús d&#8217;un terminal mòbil comporta la&nbsp;monitorizació&nbsp;de la localització física aproximada per part del proveïdor i d&#8217;aquells tercers a qui el proveïdor proporcioni accés</span>. Aquesta circumstància ha d&#8217;avaluar-se també des d&#8217;un <strong>punt de vista col·lectiu</strong>. Es pot deduir que dos o més persones es desplacen juntes si els seus telèfons es van connectant a les mateixes antenes al mateix temps quan es mouen.&#8221;</li><li>&#8220;<span style="font-family: &quot;Nunito Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 1.125rem;">Cada any som testimonis de com diversos proveïdors pateixen <strong>atacs i bretxes de seguretat</strong> en què es veuen&nbsp;compromeses centenars de milers de contrasenyes: <strong>Adobe,&nbsp;LinkedIn, PlayStation</strong>&#8230; No reutilitzar claus et protegeix fins i tot en cas que un atacant arribi a descobrir quina és la teva contrasenya en un servei, de manera que no pugui utilitzar-la per a accedir als teus altres comptes. Si, per contra, tens una mateixa clau que utilitzes per a tot, en cas que algú l&#8217;aconseguís guanyaria un accés integral a la teva </span><strong><span style="font-family: &quot;Nunito Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 1.125rem;">identitat <em>online</em></span>.</strong>&#8220;</li><li>&#8220;Una aplicació pot arribar a accedir a pràcticament tota la informació i sensors del nostre telèfon si té els <strong>permisos adequats</strong>: identitat, contactes, informació del wifi, localització GPS, SMS, trucades i fins i tot micròfon o càmera. La informació que recopila una aplicació és per tant molt major, i com a usuaris hem de decidir amb cura quines aplicacions tenen accés a quines dades en el nostre&nbsp;telèfon.&#8221; </li><li>&#8220;Existeixen diverses eines que relacionen els teus «m&#8217;agrada» o&nbsp;retuits&nbsp;amb moviments socials o ideologies&nbsp;polítiques&nbsp;afines, i això li concedeix un poder més gran al teu adversari. Com més informació generes, més fàcil és situar-te en una <strong>base de dades ideològica</strong> ben detallada, tenint en compte el teu rang d&#8217;edat, ciutat i cercle social. O pitjor encara, també existeixen eines <em>online</em> que es dediquen a classificar tota la informació que hagis generat en els teus perfils perquè amb un sol clic quedi exposada per categories.&#8221;</li><li>En la&nbsp;missatgeria&nbsp;instantània, &#8220;si algú pren la decisió personal de no protegir-se, la seva decisió individual repercuteix <em>ipso facto</em> en la seguretat i&nbsp;privadesa&nbsp;del conjunt de comunitats de les quals forma part. <strong>La seguretat és un esport d&#8217;equip</strong>: intentem que tot el nostre entorn habiliti un codi de desbloqueig i xifri l&#8217;aparell per evitar que terceres persones puguin accedir al seu contingut, que en bona part serà contingut que pot exposar la seva xarxa de contactes.&#8221;</li></ol>
+
+
+
+<p class="has-small-font-size">Nota: La traducció és nostra.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/19/10-motius-resistencia-digital/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">787</post-id>	</item>
+		<item>
+		<title>Snowden: &#8220;Tor [The Onion Router] feia plorar els espies&#8221;</title>
+		<link>/2019/11/16/edward-snowden-project-tor/</link>
+					<comments>/2019/11/16/edward-snowden-project-tor/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 16 Nov 2019 12:09:16 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Dark web]]></category>
+		<category><![CDATA[Deep web]]></category>
+		<category><![CDATA[Edward Snowden]]></category>
+		<category><![CDATA[Permanent Record]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[The Tor Project]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[Vigilància]]></category>
+		<category><![CDATA[Vigilancia Permanente]]></category>
+		<category><![CDATA[Web profund]]></category>
+		<guid isPermaLink="false">/?p=378</guid>
+
+					<description><![CDATA[Edward Snowden explica què és el navegador Tor, que ja té versió en català Tor, el programari de codi obert que ens permet navegar anònimament&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Edward Snowden explica què és el navegador Tor, que ja té versió en català</h2>
+
+
+
+<p>Tor, el programari de codi obert que ens permet navegar anònimament per la xarxa, ja té versió en català. Per això rellegim més avall l&#8217;explicació d&#8217;aquesta eina que plasma el famós exespia nordamericà, <strong>Edward Snowden</strong>, al seu llibre <em><strong>Permanent Record</strong></em> (en castellà, <em>Vigilancia Permanente</em>).</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr">Our website and Tor Browser are now both available in <a href="https://twitter.com/hashtag/Catalan?src=hash&amp;ref_src=twsrc%5Etfw">#Catalan</a>. <br><br>Sabem que és més fàcil utilitzar alguna cosa en el vostre propi idioma. Si mai no heu provat el navegador Tor, avui és el dia.<br><br>Prova-ho ara: <a href="https://t.co/9ML1G7SRqZ">https://t.co/9ML1G7SRqZ</a> <a href="https://t.co/IjJeRk6hUy">pic.twitter.com/IjJeRk6hUy</a></p>&mdash; The Tor Project (@torproject) <a href="https://twitter.com/torproject/status/1195389642922700800?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p><em>Durant la meva temporada a Ginebra, quan un agent de cas em preguntava si hi havia un mode més segur, més ràpid i, en general, més eficient de fer el mateix </em>[navegar a Google de manera anònima]<em>, jo els presentava a Tor.</em></p>
+
+
+
+<p><em>El Tor Project era una creació de l&#8217;Estat que s&#8217;acabà convertint en <strong>un dels pocs escuts eficaços contra la vigilància estatal.</strong> Tor és un software gratuït de codi obert que, si s&#8217;utilitza amb compte, permet als seus usuaris navegar per Internet amb el més semblant a l&#8217;anonimat que es pot assolir a escala pràctica. Els seus protocols els desenvolupà el Laboratori d&#8217;Investigació Naval dels Estats Units al llarg de la dècada de 1990, i el 2003 el posà a disposició del públic, o sigui, de la població civil mundial de la qual depèn la seva funcionalitat. El motiu d&#8217;aquesta afirmació és que <strong>Tor es basa en un model de comunitat cooperativa i depèn de voluntaris experts en tecnologia de tot el món que gestionen els seus propis servidors Tor des dels seus soterranis, golfes i garatges</strong>. Enrutant a internet el tràfic dels seus usuaris per aquests servidors, Tor fa el mateix treball de protecció de l&#8217;origen d&#8217;aquest tràfic que el sistema de &#8220;cerca no atribuïble&#8221; de la CIA, amb la principal diferència que Tor ho fa millor, o com a mínim, de manera més eficient. Jo ja estava convençut d&#8217;això, però convèncer els agents de cas era una altra història.</em></p>
+
+
+
+<p><em>Amb el protocol Tor, el teu tràfic es distribueix i rebota per rutes generalitzades a l&#8217;atzar de servidor Tor en servidor Tor, amb la finalitat de substituir la teva identitat com a font d&#8217;una comunicació amb la de l&#8217;últim servidor Tor en una cadena que canvia constantment. <strong>Gairebé cap dels servidors Tor -anomenats &#8220;capes&#8221;- coneix la identitat de l&#8217;origen del tràfic, ni té cap informació per identificar-lo</strong>. A més, en una autèntica jugada mestra, l&#8217;únic servidor Tor que coneix aquest origen (el primer de la cadena) no sap on es dirigeix el tràfic. Dit d&#8217;una manera més planera: el primer servidor Tor que et connecta amb la xarxa Tor, o porta d&#8217;enllaç, sap que ets tu qui envia una sol·licitud, però com que no té permès llegir aquesta sol·licitud, no té ni idea que cerques mems de mascotes o informació sobre una protesta, i el servidor Tor final pel qual passa la teva sol·licitud, o sortida, sap exactament allò que s&#8217;està buscant, però no en té ni idea de qui ho està buscant. </em></p>
+
+
+
+<p><em>Aquest mètode de capes s&#8217;anomena &#8220;enrutament de ceba&#8221;, i d&#8217;aquí rep Tor el seu nom: les sigles en anglès d&#8217;aquest concepte, <strong>The Onion Router; l&#8217;acudit confidencial era que intentar vigilar la xarxa Tor feia plorar els espies</strong>. I aquí rau la ironia de tot el projecte: una tecnologia desenvolupada per l&#8217;Exèrcit dels Estats Units va fer al mateix temps més fàcil i més difícil la ciberintel·ligència, quan va aplicar coneixements de hacker per a protegir l&#8217;anonimat dels agents de la Intelligence Community, però només a força de garantir el mateix anonimat als adversaris, i als usuaris de tot el món. En aquest sentit, Tor és gairebé més neutral que Suïssa. A mi, personalment, <strong>Tor em canvià la vida, ja que em va tornar l&#8217;Internet de la meva infància, en permetre&#8217;m tastar lleugerament la llibertat de no sentir-me observat</strong>.</em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/16/edward-snowden-project-tor/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">378</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Xarxes Neuronals &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/xarxes-neuronals/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:04:24 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Xarxes Neuronals &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Intel·ligència Artificial per combatre el Covid-19</title>
+		<link>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/</link>
+					<comments>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 20 Mar 2020 21:26:48 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Aprenentatge Profund]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Coronavirus]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[SARS]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Virus]]></category>
+		<category><![CDATA[Xarxes Neuronals]]></category>
+		<guid isPermaLink="false">/?p=847</guid>
+
+					<description><![CDATA[La Intel·ligència Artificial, la ciència de dades i la tecnologia tenen un paper clau per rastrejar i combatre la pandèmia del coronavirus]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">Imatge: <a rel="noreferrer noopener" aria-label="Casos de COVID-19 segons el Centre de Sistemes, Ciència i Enginyeria (CSSE) a la Universitat John Hopkins (JHU) (opens in a new tab)" href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" target="_blank">Casos de COVID-19 segons el Centre de Sistemes, Ciència i Enginyeria (CSSE) de la Universitat John Hopkins (JHU)</a> el dia 20 de març a les 22:30 hores. </p>
+
+
+
+<h2>La Intel·ligència Artificial, la ciència de dades i la tecnologia tenen un paper determinant en rastrejar i combatre la pandèmia del coronavirus</h2>
+
+
+
+<p>El món ha emmalaltit. L&#8217;últim dia d&#8217;hivern tanca amb més de 259.000 casos confirmats per coronavirus i 11.250 morts, i els mitjans de comunicació ens recorden a tothora que no hem tocat sostre. Però enmig de les males notícies, una d’esperançadora. Aquesta setmana, la Xina, on es va originar la pandèmia, ha registrat per primer cop zero contagis locals. I el robust sector tecnològic de la segona potència mundial hi ha tingut un paper determinant. Concretament, la Intel·ligència Artificial (IA), la ciència de dades i la tecnologia per rastrejar i combatre el Covid-19. Per exemple, un sistema de control que utilitza dades massives (<em>Big Data</em>) per identificar i avaluar el risc de cada individu en funció del seu historial de viatges o la possible exposició a persones portadores del virus.</p>
+
+
+
+<p>El gegant asiàtic, però, també ha fet ús del vessant més polèmic de la tecnologia. El sofisticat sistema de vigilància del règim de Xi Jinping <a href="/2019/10/13/els-perills-del-reconeixement-facial/">s’ha servit del reconeixement facial</a> i de programari de detecció de temperatura per identificar persones que tenen febre o més probabilitats de patir el virus. Fins i tot va proporcionar a la policia de la regió de Sichuan cascos intel·ligents per identificar persones amb temperatura elevada. Mentre l’exigència de la privadesa en el tractament de les dades personals guanya pes arreu, és sabut que a la Xina la protecció de la informació personal decau en l’escala de prioritats.&nbsp;</p>
+
+
+
+<h3><strong>IA per predir un brot</strong></h3>
+
+
+
+<p>Tot i així, la Intel·ligència Artificial pot ajudar-nos en aquest gran repte que tenim al davant d’una manera menys problemàtica. Per exemple, l&#8217;IA es fa servir per detectar l’afectació del Covid-19, pot guiar el desenvolupament de fàrmacs o identificar, rastrejar i pronosticar els brots. De fet, abans que es fessin públics els primers casos de coronavirus, la Intel·ligència Artificial ja ho sabia. El 31 de desembre, un algoritme desenvolupat per una empresa canadenca especialitzada en avaluar el risc de malalties infeccioses, BlueDot, ja havia descobert el brot i avisat de la notícia als seus clients, <a href="https://www.wired.com/story/ai-epidemiologist-wuhan-public-health-warnings/">segons Wired</a>, deu dies abans que l’Organització Mundial de la Salut (OMS) donés l’avís.</p>
+
+
+
+<p>D’aquesta manera, <a rel="noreferrer noopener" aria-label="el sistema de BlueDot (opens in a new tab)" href="https://bluedot.global/" target="_blank">el sistema de BlueDot</a> proporciona una vigilància centralitzada de malalties partint de més de 10.000 fonts -documents governamentals, notícies publicades en webs informatius i diaris en més de 65 idiomes diferents-, permet conèixer la probabilitat que arribi una malaltia infecciosa a un indret determinat i envia notificacions personalitzades dels brots, segons l’interès del client. Així, per exemple, un algoritme llegeix notícies publicades en mitjans locals que mencionen casos de grip, morts sense una explicació aparent i símptomes que no s’ubiquen en un diagnòstic concret, tant en humans com en animals, i utilitza aquesta informació per a fer una predicció.</p>
+
+
+
+<p>L’empresa també té accés a dades globals de bitllets d’avió, que poden ajudar a predir cap a on i quan viatgen els residents infectats, i quantes persones volen amb ells. És així com la companyia va predir correctament que el coronavirus saltaria de Wuhan a Bangkok, Seül, Taipei i Tòquio els dies següents a la seva aparició inicial. Una vegada l&#8217;IA ha fet la seva feina, els epidemiòlegs verifiquen si les conclusions tenen sentit des d&#8217;un punt de vista científic, i envien un informe als funcionaris de salut pública. I aquesta no és la primera vegada que BlueDot té èxit: ja va predir el brot de Zika al sud de Florida en <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)00080-5/fulltext">una publicació a la revista mèdica britànica The Lancet</a>.</p>
+
+
+
+<h3><strong>IA per ajudar a detectar l’afectació</strong></h3>
+
+
+
+<p>Però per trobar eines útils no cal anar tan lluny. <a href="https://citibeats.net/">Una startup catalana, Citibeats</a>, crea observatoris per a governs sobre el coronavirus. De moment, ha llançat observatoris ciutadans en 26 països de Llatinoamèrica, <a href="https://cronicaglobal.elespanol.com/creacion/vida-tecky/startup-catalana-capaz-crear-observatorios-datos-gobiernos-durante-coronavirus_329040_102.html">segons explica el director, Ivan Caballero, a Crónica Global</a>. D’acord amb Caballero, ofereixen informació pública, gratuïta i en temps real sobre l’evolució del Covid-19 en diferents àrees territorials. Així, la Intel·ligència Artificial pot detectar en quins barris hi ha més necessitats, així com els canvis d’hàbits i comportaments que es produeixen. Segons el mateix mitjà, la startup es troba actualment en converses amb el Govern espanyol i amb la Generalitat de Catalunya sobre la possibilitat de crear un observatori sobre el coronavirus.</p>
+
+
+
+<p>La <a rel="noreferrer noopener" aria-label="startup valenciana Quibim (opens in a new tab)" href="https://quibim.com/" target="_blank">startup valenciana Quibim</a> ha desenvolupat un sistema d’Aprenentatge Profund (<em>Deep Learning</em>, o sigui, una xarxa neuronal artificial que emula el funcionament d’un cervell biològic per a fer tasques concretes) que determina l’afectació d’un pacient amb Covid-19 a partir d’imatges mèdiques. D’aquesta manera, no diagnostica el virus, però ajuda als metges a prendre la decisió d’hospitalitzar o no als contagiats. De fet, aquesta solució ja s’utilitza en alguns centres per valorar la gravetat d’un pacient amb símptomes i decidir si enviar-lo a casa o ingressar-lo, tal com <a href="https://retina.elpais.com/retina/2020/03/17/innovacion/1584450877_681658.html">explica el director de Quibim a El País Retina</a>.</p>
+
+
+
+<p>Un altre sistema que ajuda a diagnosticar la malatia és aquell que ofereix <a href="https://global.infervision.com/">la multinacional Infervision</a>, que ha llançat un sistema per assistir a metges i infermers per detectar i supervisar el Covid-19. <a href="https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/amp">Segons un altre article de Wired</a>, un algoritme de la companyia s’ha utilitzat en 34 hospitals xinesos per detectar signes visuals de la pneumònia associada al virus SARS-Cov-2 en 32.000 radiografies pulmonars, tot i que el diagnòstic definitiu requereix detectar el virus en els fluids corporals. Tots aquests sistemes permeten alleugerir la immensa càrrega de feina dels professionals sanitaris i millora la velocitat de diagnòstic.&nbsp;</p>
+
+
+
+<h3>Robots que desinfecten amb llum ultraviolada</h3>
+
+
+
+<p>A les màquines no els preocupa contagiar-se, de manera que són els éssers ideals per netejar i esterilitzar espais en temps de confinament. Els <a href="http://www.uvd-robots.com/">robots de Blue Ocean Robotics</a> tenen com a objectiu prevenir i reduir la propagació de virus, bacteris i altres microbis descomposant la seva estructura d’ADN utilitzant llum ultraviolada.</p>
+
+
+
+<p>Per la seva banda, <a href="https://benevolent.ai/">BenevolentAI</a> utilitza Intel·ligència Artificial per crear medicines que puguin combatre les malalties més agressives. Actualment recolza els esforços per tractar el Covid-19. <a href="https://www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/#3b5882345f5f">Segons Forbes</a>, durant les setmanes posteriors al brot va utilitzar les seves capacitats de predicció per examinar l’afinitat de tots els fàrmacs aprovats per identificar aquells que tenen propietats antivíriques i antiinflamatòries, útils per combatre o mitigar els efectes del coronavirus.</p>
+
+
+
+<p>Així doncs, la Intel·ligència Artificial s’ha unit a la lluita contra una pandèmia que ens ha tancat a casa i ha paralitzat el frenètic ritme de vida del planeta. Per ara, però, el principal problema és que aquests sistemes necessiten una sèrie de dades que, o bé encara s&#8217;estan generant, o bé no resulten completament accessibles. Tot i que BlueDot va predir el brot deu dies abans que fos anunciat per l’OMS, empreses com aquesta no solen revelar a qui proporcionen la informació ni com l’utilitzen. A més, també és cert que sovint la publicitat entorn les capacitats de la IA supera la realitat. Confiar-hi massa podria provocar la presa de decisions incorrectes, tenint en compte que els algoritmes <a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">poden contenir biaixos i no ser infalibles</a>. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">847</post-id>	</item>
+	</channel>
+</rss>

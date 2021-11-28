@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Covid-19 &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/covid-19/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Covid-19 &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>La pandèmia dispara l’activitat il·legal al web fosc</title>
+		<link>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/</link>
+					<comments>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2020 16:10:16 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Agència de Ciberseguretat de Catalunya]]></category>
+		<category><![CDATA[Cibercrim]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Dark web]]></category>
+		<category><![CDATA[Edward Snowden]]></category>
+		<category><![CDATA[Silvia Puglisi]]></category>
+		<category><![CDATA[The Tor Project]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[Web fosc]]></category>
+		<guid isPermaLink="false">/?p=1446</guid>
+
+					<description><![CDATA[Vacunes i cures falses, drogues, més material pedòfil i credencials d’accés a entorns corporatius: el coronavirus desplaça la criminalitat al món virtual ]]></description>
+										<content:encoded><![CDATA[
+<h2>Vacunes i cures falses, drogues, més material pedòfil i credencials d’accés a entorns corporatius: el coronavirus desplaça la criminalitat al món virtual </h2>
+
+
+
+<p>La Covid-19 ha omplert Internet d’ofertes de cures, proves de diagnòstic, respiradors i equips de protecció personal a preus desorbitats, productes teòricament miraculosos i vacunes falses. Segons <a rel="noreferrer noopener" href="https://www.anu.edu.au/news/all-news/pandemic-profiting-vaccines-and-ppe-on-the-dark-web" target="_blank">una recerca de l’<em>Australian National University</em></a>, que a l’abril va investigar vint mercats clandestins d’Internet, s’hi ha arribat a vendre un fals vaccí per 24.598 dòlars, distribuït des dels Estats Units, mentre el preu mitjà d’aquest producte no baixa dels 575. D’acord amb l’estudi, es tracta de substàncies “probablement robades o distribuïdes il·legalment des de laboratoris d’assaig amb animals o humans o, fins i tot, amb pacients recuperats del coronavirus”.&nbsp;</p>
+
+
+
+<p>Productes com aquests s’han comercialitzat al llarg del confinament al <a href="https://www.termcat.cat/ca/actualitat/apunts/que-samaga-la-xarxa-web-profund-i-web-fosc">web fosc (en anglès, <em>dark web</em>)</a>, on habitualment hi ha lloc per a la venda il·legal d&#8217;armes, drogues, material pedòfil, targetes de crèdit robades, programari maliciós, documents falsificats i tota mena d’activitats que defugen la llei. Els abismes d’Internet no són accessibles des d’un navegador normal i, per a entrar, cal un programari especial. Un exemple és la xarxa d’anonimat TOR (<em>The Onion Router</em>; o, en català, L’Enrutador Ceba), composta per milers de servidors i estructurada en forma de capes, que fa pràcticament impossible identificar els usuaris. “Allò que et dona el web fosc és un anonimat quasi absolut”, expliquen fonts de l’Agència de Ciberseguretat de Catalunya. Tot això ho converteix en un espai molt atractiu per als cibercriminals.</p>
+
+
+
+<p>Les dades de <em>The Tor Project</em>, que és l’entitat d’administració de la xarxa Tor, evidencien un creixement molt significatiu d’usuaris durant la quarantena. Així, si el dia previ a l’anunci del decret d’alarma, el 12 de març, es van registrar a Espanya 23.703 usuaris, <a rel="noreferrer noopener" href="https://metrics.torproject.org/userstats-relay-country.html?start=2020-01-01&amp;end=2020-06-17&amp;country=es&amp;events=off" target="_blank">el 7 de maig es van assolir els 43.495</a>; o sigui, que el trànsit ha arribat a créixer més d’un 180% durant el confinament. Des d’aleshores, l’activitat ha minvat lleugerament, tot i que a l’últim mes s’han continuat veient xifres elevades: 38.169 usuaris l’11 de juny. Un increment que no té res a veure amb l’any passat, que amb prou feines va arribar als 29.481 usuaris.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="615" height="327" src="/wp-content/uploads/2020/06/image.png" alt="" class="wp-image-1447" srcset="/wp-content/uploads/2020/06/image.png 615w, /wp-content/uploads/2020/06/image-300x160.png 300w" sizes="(max-width: 615px) 100vw, 615px" /><figcaption>The Tor Project.</figcaption></figure>
+
+
+
+<h3>Espanya, el sisè estat més atacat per amenaces relacionades amb la Covid-19</h3>
+
+
+
+<p>El Covid-19 també s’ha popularitzat als fòrums de ciberdelinqüents especialitzats en el robatori de dades. Segons <a rel="noreferrer noopener" href="https://www.bitdefender.es/news/espa%C3%B1a-se-sit%C3%BAa-entre-los-seis-pa%C3%ADses-del-mundo-m%C3%A1s-atacados-por-ciberamenazas-relacionadas-con-el-coronavirus-3839.html" target="_blank">l’empresa de ciberseguretat Bitdefender</a>, Espanya s’ha convertit en el sisè país més atacat per amenaces relacionades amb la Covid-19. Al març, les ciberamenaces vinculades amb la crisi ja s’havien multiplicat per cinc, i a l’abril el creixement va ser encara major. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Una investigació de la consultora Digital Shadows</a> mostra un debat en un xat de la <em>dark web</em> sobre &#8220;Com treure el màxim partit de la quarantena&#8221;.&nbsp;</p>
+
+
+
+<p>Segons l’Agència de Ciberseguretat de Catalunya, l’activitat criminal que més ha crescut és la venda de credencials d’accés a entorns corporatius. Amb la implantació del teletreball a correcuita s’ha ampliat la bretxa de seguretat informàtica als sectors menys acostumats a aquesta modalitat laboral: “Ara els usuaris naveguen molt més i es compten moltes més víctimes de pesca per correu electrònic (<em>phishing</em>) utilitzant d&#8217;esquer la Covid-19”, explica una font de l’agència. “Algunes contrasenyes acaben sent venudes al web fosc i algú altre les compra per demanar rescats mentre altres amenacen la víctima amb filtrar la informació”, hi afegeix.&nbsp;</p>
+
+
+
+<p>La Covid-19 també ha donat un impuls sense precedents a la pederàstia. <a rel="noreferrer noopener" href="https://diariodetransporte.com/2020/04/informe-de-europol-sobre-cibercrimen-y-desinformacion-en-medio-de-la-crisis-sanitaria/" target="_blank">Un estudi de l’Europol sobre cibercrim durant la pandèmia</a> alerta que l’intercanvi de material pedòfil va disparar-se un 25% durant l’estat d’alarma, arribant a les 21.100 descàrregues entre el 17 i el 24 de març. Dues setmanes després, la Guàrdia Civil detectà a Espanya un nou rècord de la circulació de vídeos pedòfils quan l’augment va assolir el 507% durant l’estat d’alarma, <a rel="noreferrer noopener" href="https://elpais.com/sociedad/2020-04-27/el-trafico-de-videos-pedofilos-se-dispara-en-redes-un-507-durante-el-estado-de-alarma.html" target="_blank">segons una investigació de la Unitat Central Operativa (UCO) de la Guàrdia Civil que va fer públic <em>El País</em></a> i tal com ha pogut confirmar <em>La Tecnòloga</em>. L’Europol alerta que els pedòfils han aprofitat la pandèmia per buscar noves víctimes i reprodueix alguns dels seus missatges: “Hola, amb aquesta quarantena creieu que hi haurà més nens a Omegle [un lloc web per a xatejar amb persones anònimes] traient ‘<em>packs</em>’ [de fotografies íntimes]?”, es demana algú en un fòrum d&#8217;Internet, mentre algú altre encara va més enllà: “Imagina estar tancat a casa en tot moment. Aquells que tenen un fill a casa o els que passen més temps amb els seus fills, jajaja, m’agradaria tenir aquesta situació”.&nbsp;</p>
+
+
+
+<p>El confinament també ha provocat un augment de visites al web fosc per comprar droga. Amb la restricció dels moviments, els consumidors l’han anat a buscar al mercat negre d’Internet. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Com ho reflecteix Digital Shadows</a>, un venedor de cànnabis promet un bon servei als seus clients oferint-los “uns cogolls de laboratori densos i ensucrats, enviats a domicili per un venedor dedicat del web fosc”.</p>
+
+
+
+<p>L’increment de la venda de productes relacionats amb la Covid-19 al web fosc s’explica en part per la interrupció de l’activitat habitual dels ciberdelinqüents. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Digital Shadows reprodueix</a> les preocupacions d’alguns usuaris que temen els efectes de la pandèmia sobre els seus models de negoci. En un fòrum del web fosc, algú s’hi anuncia: “Un vell busca feina”. A la mateixa publicació explica que treballava des del 2012 en el frau orientat al turisme, hotels, vols i excursions, i hi afegeix: “(&#8230;) però des que va començar l’estafa del coronavirus m’he quedat indefinidament sense ingressos”.&nbsp;</p>
+
+
+
+<h3>El web fosc i la llibertat d’expressió</h3>
+
+
+
+<p>Perseguir els delinqüents del web fosc és una cursa d’obstacles quan l’anonimat s’interposa entre aquests i la policia, que normalment disposa de pocs recursos si no compta amb l’ajuda d’organismes internacionals com l’Europol o empreses privades de seguretat. Per això, governs de tot el món han intentat prohibir els servidors xifrats; un fet al qual s’hi oposen activistes, alertadors, periodistes o persones que, simplement, volen evitar que les dades de navegació caiguin en mans dels governs o les grans corporacions: &#8220;La privacitat sempre és prioritària. És un dret que ens permet desenvolupar les nostres idees, saber qui som i com volem presentar-nos al món&#8221;, <a href="/2020/06/14/silvia-puglisi-the-tor-project/">remarcava l&#8217;enginyera informàtica Silvia Puglisi, de <em>The Tor Project</em>, en una entrevista recent a <em>La Tecnòloga</em></a>.</p>
+
+
+
+<p>Així, en un país amb llibertats restringides, utilitzar el web fosc permet esquivar la censura, tot i que, segons l’investigador especialitzat en aquest àmbit Eric Jardine, els navegadors anònims també s’han popularitzat a les democràcies liberals arran d’una creixent preocupació per la privacitat. De fet, el pic més alt d’usuaris de Tor va coincidir amb l’inici de les revelacions sobre l&#8217;<a href="/2019/11/16/edward-snowden-project-tor/">espionatge massiu de l&#8217;Agència de Seguretat Nacional (NSA) d’Edward Snowden</a>, passant en tan sols un mes d’<a rel="noreferrer noopener" href="https://metrics.torproject.org/userstats-relay-country.html?start=2013-01-01&amp;end=2014-06-08&amp;country=all&amp;events=off" target="_blank">uns 800 mil usuaris a gairebé sis milions, el 18 de setembre del 2013</a>.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="608" height="325" src="/wp-content/uploads/2020/06/image-1.png" alt="" class="wp-image-1448" srcset="/wp-content/uploads/2020/06/image-1.png 608w, /wp-content/uploads/2020/06/image-1-300x160.png 300w" sizes="(max-width: 608px) 100vw, 608px" /><figcaption>The Tor Project.</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1446</post-id>	</item>
+		<item>
+		<title>Visita virtual a set museus del món</title>
+		<link>/2020/04/17/visita-virtual-a-set-dels-millors-museus-del-mon/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2020 20:13:54 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Art]]></category>
+		<category><![CDATA[Museus virtuals]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Street View]]></category>
+		<guid isPermaLink="false">/?p=982</guid>
+
+					<description><![CDATA[Per què no repassar els vestits de Frida Kahlo des del llit? O submergir-se en la mirada de la Mona Lisa des del sofà? O viatjar a l'Índia a través dels seus vestigis artístics amb un clic?]]></description>
+										<content:encoded><![CDATA[
+<p>Per què no repassar l&#8217;art de Frida Kahlo des del llit? O submergir-se en la mirada de la Mona Lisa des del sofà? O viatjar a l&#8217;Índia a través dels seus vestigis artístics amb un clic? La pandèmia mundial no ha aconseguit tancar els museus que ofereixen <em>tours</em> virtuals, gràcies a eines com Google Arts &amp; Culture i Street View. Aquí teniu set propostes per assaborir centenars d&#8217;obres artístiques del més al nivell sense sortir de casa ni pagar un cèntim.</p>
+
+
+
+<h3>El Museu de Frida Kahlo (La Casa Azul, Ciutat de Mèxic)</h3>
+
+
+
+<p>La Casa Azul és on Frida Kahlo, l&#8217;artista mexicana més popular del món, va viure i exhalar l&#8217;últim alè. Amb Diego Rivera, el seu marit, van omplir l&#8217;edifici de colors i peces d&#8217;art popular. Kahlo va fer de la llar el seu univers creatiu, i entre aquestes parets reposen molts dels seus objectes personals i algunes de les obres més importants de l&#8217;artista, com Viva la Vida (1954), Frida y la cesárea (1931) o Retrato de mi padre Wilhem Kahlo (1952).</p>
+
+
+
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="https://artsandculture.google.com/partner/museo-frida-kahlo" target="_blank">Visita virtual a La Casa Azul</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i0.wp.com/tecnologa.cat/wp-content/uploads/2020/04/frida-ok-1-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1047" srcset="/wp-content/uploads/2020/04/frida-ok-1-scaled.jpg 2560w, /wp-content/uploads/2020/04/frida-ok-1-300x179.jpg 300w, /wp-content/uploads/2020/04/frida-ok-1-1024x610.jpg 1024w, /wp-content/uploads/2020/04/frida-ok-1-768x457.jpg 768w, /wp-content/uploads/2020/04/frida-ok-1-1536x914.jpg 1536w, /wp-content/uploads/2020/04/frida-ok-1-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>La Casa Azul, Museu de Frida Kahlo.</figcaption></figure>
+
+
+
+<h3>Galeria dels Uffizi (Florència)</h3>
+
+
+
+<p>La Galeria Uffizi és un dels temples de la cultura europea que més pateix la massificació, amb sales plenes a vessar i cues infinites a l&#8217;entrada. Però res d&#8217;això incordiarà els visitants virtuals, que poden repassar des de casa les pintures de Botticelli, Leonardo i Caravaggio i un arxiu de més de 4.000 obres catalogades. </p>
+
+
+
+<p class="has-text-align-center"><a href="https://artsandculture.google.com/partner/uffizi-gallery" target="_blank" rel="noreferrer noopener">Visita virtual a la Galeria Uffizi</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i2.wp.com/tecnologa.cat/wp-content/uploads/2020/04/botticelli-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1003" srcset="/wp-content/uploads/2020/04/botticelli-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/botticelli-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/botticelli-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/botticelli-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/botticelli-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/botticelli-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>El naixement de Venus<br>Sandro Boticelli &#8211; 1482-1485</figcaption></figure>
+
+
+
+<h3>Museu Van Gogh (Àmsterdam)</h3>
+
+
+
+<p>Els usuaris poden visualitzar les pinzellades del postimpressionista holandès a cop de clic, endinsar-se en la seva biografia i passejar virtualment per la famosa Habitació d&#8217;Arlès i el gran ventall d&#8217;escenaris que va plasmar sobre tela. Vincent Van Gogh només va aconseguir vendre un sol quadre mentre vivia. Mai va imaginar-se que es convertiria en un dels artistes més influents del segle XX i que el seu museu atrauria cada any milions de visitants.</p>
+
+
+
+<p class="has-text-align-center"><a href="https://artsandculture.google.com/partner/van-gogh-museum?hl=en" target="_blank" rel="noreferrer noopener">Visita virtual al Museu Van Gogh</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/04/vangogh-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1004" srcset="/wp-content/uploads/2020/04/vangogh-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/vangogh-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/vangogh-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/vangogh-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/vangogh-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/vangogh-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Terrassa de cafè de nit<br>Vincent Van Gogh &#8211; 1888</figcaption></figure>
+
+
+
+<h3>Museu Bhau Daji Lad (Bombai, Índia)</h3>
+
+
+
+<p>Mapes, litografies, relíquies arqueològiques i models d&#8217;argila és només una petita porció d&#8217;allò que trobarà l&#8217;espectador al Bhau Daji Lad, un dels museus més antics d&#8217;aquesta regió índia que mostra el seu patrimoni cultural i històric a través d&#8217;una estranya i bella col·lecció d&#8217;arts decoratives que, a més, fan evident que el país va acollir un precoç art modern. </p>
+
+
+
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="https://artsandculture.google.com/partner/dr-bhau-daji-lad-mumbai-city-museum" target="_blank">Visita virtual al Bhau Daji Lad</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i0.wp.com/tecnologa.cat/wp-content/uploads/2020/04/india-ok-1-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1048" srcset="/wp-content/uploads/2020/04/india-ok-1-scaled.jpg 2560w, /wp-content/uploads/2020/04/india-ok-1-300x179.jpg 300w, /wp-content/uploads/2020/04/india-ok-1-1024x610.jpg 1024w, /wp-content/uploads/2020/04/india-ok-1-768x457.jpg 768w, /wp-content/uploads/2020/04/india-ok-1-1536x914.jpg 1536w, /wp-content/uploads/2020/04/india-ok-1-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Una de les sales del museu.</figcaption></figure>
+
+
+
+<h3>Museu Britànic (Londres)</h3>
+
+
+
+<p>La visió de 360 graus d&#8217;aquest <em>tour</em> virtual ens permet assaborir de prop la Pedra Rosetta, les mòmies egípcies i altres meravelles de l&#8217;Antiguitat. Els risc és perdre&#8217;s sota l&#8217;allau de coneixement que regala un museu que aixopluga dos milions d&#8217;anys d&#8217;història i quatre milions d&#8217;objectes que invoquen l&#8217;herència artística de tota la humanitat. </p>
+
+
+
+<p class="has-text-align-center"><a href="https://blog.britishmuseum.org/how-to-explore-the-british-museum-from-home/" target="_blank" rel="noreferrer noopener">Visita virtual al Museu Britànic</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i0.wp.com/tecnologa.cat/wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-990" srcset="/wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-scaled.jpg 2560w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-300x179.jpg 300w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-1024x610.jpg 1024w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-768x457.jpg 768w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-1536x914.jpg 1536w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Mòmia egípcia</figcaption></figure>
+
+
+
+<h3>Museu Dalí (Figueres)</h3>
+
+
+
+<p>El surrealisme a un clic. La Fundació Dalí ofereix un recorregut virtual i interactiu per l&#8217;interior del museu que ens permet submergir-nos en l&#8217;univers oníric d&#8217;aquest artista clau del segle XX. El recorregut tridimensional ens convida a mirar terra i sostre, on s&#8217;hi amaguen algunes sorpreses, i ens permet crear el nostre propi itinerari per recórrer 11 sales d&#8217;un edifici fascinant.</p>
+
+
+
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="https://www.salvador-dali.org/es/museos/teatro-museo-dali-de-figueres/visita-virtual/" target="_blank">Visita virtual al Museu Dalí</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/04/dali-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1006" srcset="/wp-content/uploads/2020/04/dali-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/dali-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/dali-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/dali-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/dali-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/dali-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Nen geopolític vigilant el naixement de l’home nou<br>Salvador Dalí &#8211; 1943</figcaption></figure>
+
+
+
+<h3>Museu del Louvre (París)</h3>
+
+
+
+<p>Referents artístics de l&#8217;impressionisme, les belles arts més estudiades i escultures emblemàtiques descansen dins les parets d&#8217;aquest museu meravellós. El somriure de la Gioconda ha captivat durant segles a visitants dels cinc continents i veure-la al museu sense caps tapant la seva imatge és quasi una missió impossible. El web del Louvre ofereix visites guiades virtuals per disfrutar del museu sense trencar la quarantena.</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.louvre.fr/en/visites-en-ligne#tabs" target="_blank" rel="noreferrer noopener">Visita virtual al Louvre</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/04/monalisa-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1007" srcset="/wp-content/uploads/2020/04/monalisa-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/monalisa-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/monalisa-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/monalisa-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/monalisa-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/monalisa-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Mona Lisa (La Gioconda)<br>Leonardo da Vinci &#8211; 1503-1505</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">982</post-id>	</item>
+		<item>
+		<title>Dol virtual en temps de quarantena</title>
+		<link>/2020/04/04/dol-virtual-en-temps-de-quarantena/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 04 Apr 2020 10:17:49 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Alife]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Bel Ferrer]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[dol virtual]]></category>
+		<category><![CDATA[Jordi Martínez]]></category>
+		<category><![CDATA[Nara Jeevan]]></category>
+		<category><![CDATA[Psicologia]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Societat]]></category>
+		<guid isPermaLink="false">/?p=930</guid>
+
+					<description><![CDATA[Es disparen els usuaris de l’aplicació Alife, que permet vetllar online els difunts &#8220;Per ara, és com si la mare no hagués mort&#8221;, escriu el&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Es disparen els usuaris de l’aplicació <em>Alife</em>, que permet vetllar online els difunts</h2>
+
+
+
+<p>&#8220;Per ara, és com si la mare no hagués mort&#8221;, escriu el filòsof Albert Camús a <em>L&#8217;Estrany</em>, quan li arriba per telegrama la notícia. L&#8217;inici d&#8217;aquesta obra ens evoca als qui, en aquests temps anòmals, perden familiars i amics des de la distància. Aquest divendres s&#8217;han extingit 173 vides a Catalunya, i 12 a les Balears. I molt probablement ho han fet sense el consol del contacte físic. Potser sí virtual. En època de quarentena per la Covid-19, són sovint els professionals sanitaris qui fan costat als malalts terminals i intenten una comunicació telemàtica amb la família. Les xarxes són el mirall d&#8217;aquesta situació insòlita i angoixant. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr">Ahir vaig haver d’aguantar el telèfon a la orella d’un pacient mentre la filla es despedia del seu pare. Dur, molt dur. I està passant. Quedeu-vos a casa siusplau. <a href="https://twitter.com/hashtag/Covid_19?src=hash&amp;ref_src=twsrc%5Etfw">#Covid_19</a></p>&mdash; Violeta Torrent Pinart (@violetatorrent) <a href="https://twitter.com/violetatorrent/status/1241300859612475393?ref_src=twsrc%5Etfw">March 21, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr">Darrera de cada xifra hi ha un nom i una família destrossada. Avui li ha tocat a la meva. El nostre nom és el de Marina. Tothom l’estimava i no era la seva hora. El virus se l’ha emportat en sis dies. Gràcies a la gent de <a href="https://twitter.com/Mutua_Terrassa?ref_src=twsrc%5Etfw">@Mutua_Terrassa</a> per cuidar-la i per acostar-li el telèfon.</p>&mdash; Xavi Coral (@xavicoral) <a href="https://twitter.com/xavicoral/status/1244698345932808197?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>L&#8217;Hospital de Son Espases, a Palma, ha aconseguit tauletes per posar en contacte els pacients per coronavirus i les famílies. El Grup d&#8217;Educadors de Carrer i Treball amb Menors (GREC) hi col·labora &#8220;<a rel="noreferrer noopener" href="https://www.facebook.com/558552354191268/photos/rpp.558552354191268/2935280143185132/?type=3&amp;theater" target="_blank">perquè les persones majors, gent sense recursos ni connexió a Internet</a> o inexperts tecnològics també puguin beneficiar-se del servei&#8221;, amb paraules de l&#8217;educador de l&#8217;entitat Iñaki Vega. A l&#8217;Hospital de Sant Pau, a Barcelona, els infermers també han muntat un <a rel="noreferrer noopener" href="https://www.ccma.cat/324/els-hospitals-estableixen-protocols-per-poder-acomiadar-se-dels-malalts-mes-greus/noticia/2999699/" target="_blank">sistema per fer arribar missatges a una pantalla</a> que poden veure els malalts, i la Societat Catalana de Tecnologia ha <a rel="noreferrer noopener" href="https://www.iec.cat/activitats/noticiasencera.asp?id_noticies=2758" target="_blank">impulsat la donació de dispositius electrònics per connectar famílies i pacients</a> en l&#8217;últim tram de la vida. </p>
+
+
+
+<p>Però amb el distanciament social també s&#8217;han prohibit vetlles i funerals per a tothom (i no només pels afectats del coronavirus). Per això, <a rel="noreferrer noopener" href="https://alife.social/es/" target="_blank">l&#8217;aplicació <em>Alife</em></a>, que permet crear el perfil d&#8217;una persona que ha mort i, d&#8217;aquesta manera, homenatjar-la i facilitar el dol dels qui l&#8217;han estimat, ha multiplicat per nou la seva activitat des del 15 de març, segons Jordi Martínez, el CEO d&#8217;<em>Alife</em>, que compta de mitjana un miler de nous usuaris cada tres dies. </p>
+
+
+
+<p>&#8220;Mai oblidaré cada cop que obries la porta i em deies que havia crescut molt des de l&#8217;última vegada que ens vam veure. T&#8217;estimo i no t&#8217;oblidaré!&#8221;, escriu una usuària d&#8217;<em>Alife</em> per rememorar algú que ja no hi és. Aquest missatge es llegeix a la <a rel="noreferrer noopener" href="https://alife.social/es/" target="_blank">pàgina d&#8217;inici del web de l&#8217;aplicació</a>, però no tot el contingut que s&#8217;hi introdueix és públic. &#8220;Hi ha diversos nivells de privacitat. En un lloc s&#8217;hi comparteix la informació de la cerimònia funerària i, en un altre, que pot ser més reduït, recrea un espai més íntim i respecta al màxim la privacitat&#8221;, explica Martínez. D&#8217;aquesta manera, l&#8217;app permet compartir fotografies, vídeos, escrits, cites i anècdotes amb el cercle social del difunt, i permet fer-ho &#8220;amb un clic, en qualsevol moment, amb el mòbil i des de casa&#8221;, afegeix el director. </p>
+
+
+
+<p>Fins fa unes setmanes, l&#8217;aplicació es comercialitzava a través de les funeràries. Però davant de l&#8217;estat d&#8217;alarma, <em>Alife</em> ha obert la seva aplicació i actualment qualsevol la pot fer servir sense intermediaris. Per a fer-ho, només cal escriure un correu a info@alife.social perquè les famílies puguin recrear un espai virtual de vetlla i dol compartit en cas que els tanatoris no l&#8217;hagin proporcionat. A més, l&#8217;app és totalment gratuïta per als usuaris i l&#8217;únic cost es troba en la creació del perfil del difunt.</p>
+
+
+
+<h3>Bel Ferrer, psicòloga: &#8220;L&#8217;afecte no entén de fronteres físiques&#8221;</h3>
+
+
+
+<p><em>La Tecnòloga</em> ha demanat l&#8217;opinió sobre la vetlla virtual a una psicòloga especialitzada en processos de dol, Bel Ferrer, que valora molt positivament les possibilitats que ofereix aquesta eina. &#8220;Tot allò que serveix per compartir, elaborar i gestionar el dol em sembla fantàstic&#8221;, afirma Ferrer, que recolza l&#8217;opció d&#8217;acomiadar els familiars per telèfon. &#8220;Per nosaltres és important el tacte i la vista, però en aquesta situació, allò més important és l&#8217;afecte, i l&#8217;afecte no entén de fronteres físiques&#8221;, assegura la psicòloga, que encapçala l&#8217;associació <a rel="noreferrer noopener" href="https://www.facebook.com/Nava-Jeevan-acompanyament-emocional-als-processos-de-malaltia-mort-i-dol-1339453789398104/" target="_blank">Nava Jeevan, dedicada a l&#8217;acompanyament emocional als processos de malaltia, mort i dol</a> (s&#8217;hi pot contactar escrivint al correu associacionavajeevan@gmail.com o telefonant al 695 250 240, i aquests dies ofereixen la seva assistència per videoconferència).</p>
+
+
+
+<p>Ferrer recomana decididament comunicar-se amb la persona que és a punt de morir: &#8220;Podem donar les gràcies per tot allò que ha fet, dir-li que l&#8217;estimam i donar significat a la seva vida, que senti que pot tancar el cercle vital&#8221;. Després de la mort, l&#8217;especialista aconsella donar-se permís per viure el dol: &#8220;És bo parlar amb naturalitat de la persona estimada que ha partit, plorar la seva absència, expressar les emocions i compartir-les&#8221;. Afegeix, a més, que &#8220;la ritualització de la pèrdua és important&#8221; independentment de les creences dels qui viuen l&#8217;òbit. I, d&#8217;alguna manera, ara tot això es pot fer <em>online</em>. En la mateixa línia, la Societat Funerària Catalana i el Col·legi Oficial de Psicologia de Catalunya han elaborat un <a rel="noreferrer noopener" href="https://www.copc.cat/adjuntos/adjunto_15309/v/Recomanacions%20per%20afrontar%20la%20mort%20d%E2%80%99una%20persona%20estimada%20durant%20el%20confinament%20per%20l%E2%80%99epid%C3%A8mia%20de%20COVID-19.pdf?tm=1585304549" target="_blank">manual per fer front a la mort d&#8217;una persona estimada durant el confinament</a>. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">930</post-id>	</item>
+		<item>
+		<title>“A CoronaWhy s’obren per a les Dades Massives nous horitzons en la recerca mèdica”</title>
+		<link>/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/</link>
+					<comments>/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 20:05:16 +0000</pubDate>
+				<category><![CDATA[Diàlegs]]></category>
+		<category><![CDATA[Allen Institute for Artificial Intelligence]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Artur Kiulian]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[CoronaWhy]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Kaggle]]></category>
+		<category><![CDATA[Manuel Álvarez]]></category>
+		<category><![CDATA[Recerca]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[SARS]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Slack]]></category>
+		<category><![CDATA[Trello]]></category>
+		<category><![CDATA[Zoom]]></category>
+		<guid isPermaLink="false">/?p=902</guid>
+
+					<description><![CDATA[Manuel Álvarez és voluntari d&#8217;aquesta comunitat virtual que ja ha aconseguit reunir prop de 550 experts per lluitar contra la Covid-19 Aquests dies, la ciència&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Manuel Álvarez és voluntari d&#8217;aquesta comunitat virtual que ja ha aconseguit reunir prop de 550 experts per lluitar contra la Covid-19</h2>
+
+
+
+<p>Aquests dies, la ciència treballa a contrarellotge per frenar una pandèmia que ha colpejat els cinc continents. Però, amb el coronavirus, també es propaguen els estudis científics. L’objectiu és comú: accelerar el lent camí cap a una vacuna i frenar els contagis per evitar més morts. I els esforços no ens queden lluny. A tall d’exemple, per iniciativa d’una professora de la Universitat Politècnica de Catalunya (UPC), Montserrat Alsina, s&#8217;ha impulsat <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://fme.upc.edu/ca/noticies/nova-iniciativa-de-lambit-de-les-matematiques-per-contribuir-en-lanalisi-del-covid-19-crida-a-la-participacio" target="_blank">l’elaboració urgent de models matemàtics predictius</a> d’infeccions i ingressos hospitalaris, així com la proposta de millores logístiques en els serveis d&#8217;urgències. Mentrestant, <a rel="noreferrer noopener" aria-label="la comunitat virtual CoronaWhy (opens in a new tab)" href="https://www.coronawhy.org/" target="_blank">la comunitat virtual CoronaWhy</a>, creada fa menys de dues setmanes, ja ha aconseguit reunir prop de 550 voluntaris provinents de diferents branques del coneixement. Són més de mig miler de persones dedicades a pensar, coordinar i elaborar estratègies per ajudar la comunitat mèdica a respondre els interrogants vitals que planteja la malaltia. <em>La Tecnòloga</em> ha entrevistat un voluntari d’aquesta organització: el científic de dades Manuel Álvarez.</p>
+
+
+
+<p><strong>Primer de tot, què és CoronaWhy?</strong></p>
+
+
+
+<p>CoronaWhy és un esforç comunitari per fer digerible la col·lecció d’articles científics vinculats a la pandèmia més extensa que existeix, l’anomenat <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://pages.semanticscholar.org/coronavirus-research" target="_blank">CORD-19 [Covid-19 Open Research Dataset]</a>, que ja reuneix més de 45.000 publicacions. L’expert en sistemes d’intel·ligència artificial Artur Kiulian va fer una crida a l’acció <a rel="noreferrer noopener" aria-label="utilitzant la plataforma Kaggle (opens in a new tab)" href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks" target="_blank">utilitzant la plataforma Kaggle</a>, on va començar a reunir-se gent amb ganes de fer alguna cosa, fa dues setmanes. I el projecte ha agafat una dimensió exponencial. A més, CoronaWhy va néixer en el si d’una competició. Inicialment, l’<em>Allen Institute for Artificial Intelligence</em> oferia 1.000 dòlars per al guanyador de cada tasca plantejada. Cal tenir en compte que normalment s’hi ofereixen més diners i aquest és, en realitat, un preu simbòlic. Així, aquest cop ha desaparegut l’incentiu del guany personal però, donada la urgència de la situació, hi ha hagut una col·laboració molt bèstia.&nbsp;</p>
+
+
+
+<p><strong>Com s’organitza un grup tan gran i multidisciplinar per treballar i, després, reunificar esforços?&nbsp;</strong></p>
+
+
+
+<p>Aquest problema encara s’està intentant resoldre. La comunitat es veu una mica superada pel seu propi creixement. Per això fem una separació cada cop més acotada de les diferents tasques. Per comunicar-nos internament utilitzem el servei de missatgeria Slack. Fem una videotrucada diària amb Zoom per coordinar-nos i fer una actualització dels diferents equips de treball. I amb <a href="https://trello.com/b/y4odX7yZ/covid-19-global-team" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Trello gestionem les diferents tasques</a>, on el moviment és frenètic i cada grup de feina té el seu propi tauler.</p>
+
+
+
+<p><strong>Quin són els problemes que intenta resoldre CoronaWhy?</strong></p>
+
+
+
+<p>Amb base al conjunt massiu d’articles, els científics de dades filtrem, sintetitzem i estructurem el coneixement. L’objectiu és que els especialistes mèdics puguin tenir accés a <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks">la informació resumida i agrupada al voltant de preguntes</a> com, per exemple, “què en sabem dels factors de risc de la Covid-19?” o “què sabem sobre les vacunes i els fàrmacs?”. Sobre tot això s’ha investigat i escrit moltíssim. Nosaltres recopilem la informació i la processem. A més, elaborem una guia amb l’objectiu de, posem per cas, fer polítiques de prevenció. Cada dia entren nous articles i es plantegen noves preguntes, mentre d’altres es reformulen. Al mateix temps, alguns especialistes mèdics revisen la feina que fem.&nbsp;&nbsp;</p>
+
+
+
+<p><strong>La Intel·ligència Artificial s’ha convertit en una de les especialitats per intentar predir l’avançament de la Covid-19. Com s’està fent servir, en aquest cas?&nbsp;</strong></p>
+
+
+
+<p>La principal tasca de la intel·ligència artificial a CoronaWhy és el processament del llenguatge natural per identificar similituds i confluències entre els articles científics. Això permet als investigadors crear un <em>feed</em> de cerca personalitzat en funció dels seus interessos. D’aquesta manera, estem entrenant uns models capaços de processar i entendre els llenguatge mèdic, amb les seves particularitats, i en qualsevol idioma. Passa el mateix quan fem una cerca a Google, i aquest ens retorna una resposta sintètica a partir dels diferents continguts que ha trobat a la xarxa. O sigui, que a partir de tots els textos, la intel·ligència artificial en resumeix la informació més rellevant. També s’utilitza el processament del llenguatge natural per vectoritzar els textos, de manera que s’identifiquen i es relacionen diferents paraules que són sinònimes i, així, es fa una relació i una classificació d’articles.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="683" src="/wp-content/uploads/2020/04/DSC_0054-1024x683.jpg" alt="" class="wp-image-904" srcset="/wp-content/uploads/2020/04/DSC_0054-1024x683.jpg 1024w, /wp-content/uploads/2020/04/DSC_0054-300x200.jpg 300w, /wp-content/uploads/2020/04/DSC_0054-768x512.jpg 768w, /wp-content/uploads/2020/04/DSC_0054-1536x1024.jpg 1536w, /wp-content/uploads/2020/04/DSC_0054-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Manuel Álvarez és científic de dades i voluntari de CoronaWhy.</figcaption></figure>
+
+
+
+<p><strong>I quina és la teva tasca principal?</strong></p>
+
+
+
+<p>Jo estic a l’equip <em>Task-Geo</em>. Ens dediquem a la recopilació de dades geogràfiques i a l’estudi de la influència dels elements geogràfics, com poden ser la meteorologia o la densitat de població, en la transmissió del virus. Concretament, jo em dedico a recopilar dades empíriques com la temperatura, la humitat, la incidència del tabaquisme o la diabetis, que es troben repartides en mil fonts i formats diferents. La idea és estructurar aquesta informació d’una manera unificada per reentrenar els models matemàtics amb dades actualitzades dia a dia. Així, podrem veure quines hipòtesis es mantenen i quines altres no.&nbsp;</p>
+
+
+
+<p><strong>Qui pot participar a CoronaWhy? Fa falta més gent?</strong></p>
+
+
+
+<p>Qualsevol persona hi pot participar. Paral·lelament als grups de treball dels àmbits científics, se’n formen d’altres de caràcter transversal, dedicats a la comunicació o a la gestió de projectes. Si no es té un perfil tècnic, es pot participar en l&#8217;organització, la coordinació de l’equip, la comunicació interna o la divulgació. Ara tenim moltes mans. Si som capaços de canalitzar tot aquest esforç i el que pugui arribar, podem fer que la feina avanci més ràpid. I això pot ajudar a salvar vides.&nbsp;</p>
+
+
+
+<p><strong>Respostes com la de CoronaWhy poden canviar la manera de fer recerca?&nbsp;</strong></p>
+
+
+
+<p>Aquest esforç no seria possible sense <a href="/2020/01/23/pydata-mallorca-2020-software-lliure-cientific/">el pes de la comunitat del Software Lliure</a> i plataformes com <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks"><em>Kaggle</em></a>, que canalitzen aquesta iniciativa. Desconec si això tindrà una influència en el món acadèmic i canviarà la manera d’investigar, però sí que s’obren per a les Dades Massives (en anglès, <em>Big Data</em>) nous horitzons en la recerca mèdica. És a dir, sobre el coronavirus s’ha fet recerca, i nosaltres fem recerca sobre la recerca. Dit d’una altra manera: busquem quins resultats de la investigació són més o menys influents. Molts equips científics s’han adonat que els mateixos estudis no arriben als mateixos resultats o, directament, són difícils o impossibles de replicar o reproduir. La ciència de dades també pot ajudar a resoldre aquesta mena de problemes que s’han convertit en sistemàtics en el món de la recerca.</p>
+
+
+
+<p><strong>Normalment, els científics de dades treballeu amb problemes més ben definits, i en aquest cas, en canvi, les preguntes no estan del tot plantejades&#8230;</strong></p>
+
+
+
+<p>Sí, habitualment treballem amb problemes molt més acotats. Per exemple, ens demanen que predim el preu d’un pis en funció d’unes variables com els metres quadrats, els anys que té, la il·luminació o la localització. És un problema tancat. A CoronaWhy també tenim clar l’objectiu: aturar l’epidèmia. Però això no és una pregunta, sinó un conjunt de preguntes molt obertes. Per això, la nostra primera feina és intentar acotar al màxim els interrogants. Quina és la millor manera d’evitar noves transmissions és una pregunta molt oberta. En canvi, no ho és tant demanar-nos si els Estats que han mantingut el transport públic han tingut menys èxit que els que l’han tancat. Aquesta darrera pregunta és més fàcil de respondre amb ciència de dades.</p>
+
+
+
+<p><a href="/2020/03/23/el-govern-espanyol-utilitzara-els-nostres-mobils-per-monitoritzar-la-quarentena/"><strong>L’Estat utilitzarà les dades de les teleoperadores per rastrejar els moviments anonimitzats dels ciutadans</strong></a><strong> amb la finalitat de monitoritzar l’avanç de la Covid-19. Què n’opines?&nbsp;</strong></p>
+
+
+
+<p>Fa uns dies vaig llegir en algun lloc que, abans d’una tragèdia, totes les prevencions semblen innecessàries i, després, totes les mesures pal·liatives semblen insuficients. Al gener, ningú podia saber que això explotaria d’aquesta manera. També és cert que l’Estat ha badat i ha flaquejat a l’hora d’implementar determinades mesures. No tenia sentit mantenir el transport públic i la indústria en funcionament mentre es tancaven tots els bars. Opino que la mesura de monitoritzar els moviments de la població arriba tard i és insuficient, perquè ja hi ha hospitals col·lapsats i falta material. Tot i així, com a mesura em sembla vàlida. Una llei que no és capaç de forçar el seu compliment no serveix per a res. Aquesta sembla una mica orwelliana, però té sentit que es controli la quarentena perquè és una situació molt extremada. També espero que quan tot això passi, el control s’aturi. I això sospito que no passarà, perquè lamentablement trobaran nous motius per fer-ho. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">902</post-id>	</item>
+		<item>
+		<title>Intel·ligència Artificial per combatre el Covid-19</title>
+		<link>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/</link>
+					<comments>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 20 Mar 2020 21:26:48 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Aprenentatge Profund]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Coronavirus]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[SARS]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Virus]]></category>
+		<category><![CDATA[Xarxes Neuronals]]></category>
+		<guid isPermaLink="false">/?p=847</guid>
+
+					<description><![CDATA[La Intel·ligència Artificial, la ciència de dades i la tecnologia tenen un paper clau per rastrejar i combatre la pandèmia del coronavirus]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">Imatge: <a rel="noreferrer noopener" aria-label="Casos de COVID-19 segons el Centre de Sistemes, Ciència i Enginyeria (CSSE) a la Universitat John Hopkins (JHU) (opens in a new tab)" href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" target="_blank">Casos de COVID-19 segons el Centre de Sistemes, Ciència i Enginyeria (CSSE) de la Universitat John Hopkins (JHU)</a> el dia 20 de març a les 22:30 hores. </p>
+
+
+
+<h2>La Intel·ligència Artificial, la ciència de dades i la tecnologia tenen un paper determinant en rastrejar i combatre la pandèmia del coronavirus</h2>
+
+
+
+<p>El món ha emmalaltit. L&#8217;últim dia d&#8217;hivern tanca amb més de 259.000 casos confirmats per coronavirus i 11.250 morts, i els mitjans de comunicació ens recorden a tothora que no hem tocat sostre. Però enmig de les males notícies, una d’esperançadora. Aquesta setmana, la Xina, on es va originar la pandèmia, ha registrat per primer cop zero contagis locals. I el robust sector tecnològic de la segona potència mundial hi ha tingut un paper determinant. Concretament, la Intel·ligència Artificial (IA), la ciència de dades i la tecnologia per rastrejar i combatre el Covid-19. Per exemple, un sistema de control que utilitza dades massives (<em>Big Data</em>) per identificar i avaluar el risc de cada individu en funció del seu historial de viatges o la possible exposició a persones portadores del virus.</p>
+
+
+
+<p>El gegant asiàtic, però, també ha fet ús del vessant més polèmic de la tecnologia. El sofisticat sistema de vigilància del règim de Xi Jinping <a href="/2019/10/13/els-perills-del-reconeixement-facial/">s’ha servit del reconeixement facial</a> i de programari de detecció de temperatura per identificar persones que tenen febre o més probabilitats de patir el virus. Fins i tot va proporcionar a la policia de la regió de Sichuan cascos intel·ligents per identificar persones amb temperatura elevada. Mentre l’exigència de la privadesa en el tractament de les dades personals guanya pes arreu, és sabut que a la Xina la protecció de la informació personal decau en l’escala de prioritats.&nbsp;</p>
+
+
+
+<h3><strong>IA per predir un brot</strong></h3>
+
+
+
+<p>Tot i així, la Intel·ligència Artificial pot ajudar-nos en aquest gran repte que tenim al davant d’una manera menys problemàtica. Per exemple, l&#8217;IA es fa servir per detectar l’afectació del Covid-19, pot guiar el desenvolupament de fàrmacs o identificar, rastrejar i pronosticar els brots. De fet, abans que es fessin públics els primers casos de coronavirus, la Intel·ligència Artificial ja ho sabia. El 31 de desembre, un algoritme desenvolupat per una empresa canadenca especialitzada en avaluar el risc de malalties infeccioses, BlueDot, ja havia descobert el brot i avisat de la notícia als seus clients, <a href="https://www.wired.com/story/ai-epidemiologist-wuhan-public-health-warnings/">segons Wired</a>, deu dies abans que l’Organització Mundial de la Salut (OMS) donés l’avís.</p>
+
+
+
+<p>D’aquesta manera, <a rel="noreferrer noopener" aria-label="el sistema de BlueDot (opens in a new tab)" href="https://bluedot.global/" target="_blank">el sistema de BlueDot</a> proporciona una vigilància centralitzada de malalties partint de més de 10.000 fonts -documents governamentals, notícies publicades en webs informatius i diaris en més de 65 idiomes diferents-, permet conèixer la probabilitat que arribi una malaltia infecciosa a un indret determinat i envia notificacions personalitzades dels brots, segons l’interès del client. Així, per exemple, un algoritme llegeix notícies publicades en mitjans locals que mencionen casos de grip, morts sense una explicació aparent i símptomes que no s’ubiquen en un diagnòstic concret, tant en humans com en animals, i utilitza aquesta informació per a fer una predicció.</p>
+
+
+
+<p>L’empresa també té accés a dades globals de bitllets d’avió, que poden ajudar a predir cap a on i quan viatgen els residents infectats, i quantes persones volen amb ells. És així com la companyia va predir correctament que el coronavirus saltaria de Wuhan a Bangkok, Seül, Taipei i Tòquio els dies següents a la seva aparició inicial. Una vegada l&#8217;IA ha fet la seva feina, els epidemiòlegs verifiquen si les conclusions tenen sentit des d&#8217;un punt de vista científic, i envien un informe als funcionaris de salut pública. I aquesta no és la primera vegada que BlueDot té èxit: ja va predir el brot de Zika al sud de Florida en <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)00080-5/fulltext">una publicació a la revista mèdica britànica The Lancet</a>.</p>
+
+
+
+<h3><strong>IA per ajudar a detectar l’afectació</strong></h3>
+
+
+
+<p>Però per trobar eines útils no cal anar tan lluny. <a href="https://citibeats.net/">Una startup catalana, Citibeats</a>, crea observatoris per a governs sobre el coronavirus. De moment, ha llançat observatoris ciutadans en 26 països de Llatinoamèrica, <a href="https://cronicaglobal.elespanol.com/creacion/vida-tecky/startup-catalana-capaz-crear-observatorios-datos-gobiernos-durante-coronavirus_329040_102.html">segons explica el director, Ivan Caballero, a Crónica Global</a>. D’acord amb Caballero, ofereixen informació pública, gratuïta i en temps real sobre l’evolució del Covid-19 en diferents àrees territorials. Així, la Intel·ligència Artificial pot detectar en quins barris hi ha més necessitats, així com els canvis d’hàbits i comportaments que es produeixen. Segons el mateix mitjà, la startup es troba actualment en converses amb el Govern espanyol i amb la Generalitat de Catalunya sobre la possibilitat de crear un observatori sobre el coronavirus.</p>
+
+
+
+<p>La <a rel="noreferrer noopener" aria-label="startup valenciana Quibim (opens in a new tab)" href="https://quibim.com/" target="_blank">startup valenciana Quibim</a> ha desenvolupat un sistema d’Aprenentatge Profund (<em>Deep Learning</em>, o sigui, una xarxa neuronal artificial que emula el funcionament d’un cervell biològic per a fer tasques concretes) que determina l’afectació d’un pacient amb Covid-19 a partir d’imatges mèdiques. D’aquesta manera, no diagnostica el virus, però ajuda als metges a prendre la decisió d’hospitalitzar o no als contagiats. De fet, aquesta solució ja s’utilitza en alguns centres per valorar la gravetat d’un pacient amb símptomes i decidir si enviar-lo a casa o ingressar-lo, tal com <a href="https://retina.elpais.com/retina/2020/03/17/innovacion/1584450877_681658.html">explica el director de Quibim a El País Retina</a>.</p>
+
+
+
+<p>Un altre sistema que ajuda a diagnosticar la malatia és aquell que ofereix <a href="https://global.infervision.com/">la multinacional Infervision</a>, que ha llançat un sistema per assistir a metges i infermers per detectar i supervisar el Covid-19. <a href="https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/amp">Segons un altre article de Wired</a>, un algoritme de la companyia s’ha utilitzat en 34 hospitals xinesos per detectar signes visuals de la pneumònia associada al virus SARS-Cov-2 en 32.000 radiografies pulmonars, tot i que el diagnòstic definitiu requereix detectar el virus en els fluids corporals. Tots aquests sistemes permeten alleugerir la immensa càrrega de feina dels professionals sanitaris i millora la velocitat de diagnòstic.&nbsp;</p>
+
+
+
+<h3>Robots que desinfecten amb llum ultraviolada</h3>
+
+
+
+<p>A les màquines no els preocupa contagiar-se, de manera que són els éssers ideals per netejar i esterilitzar espais en temps de confinament. Els <a href="http://www.uvd-robots.com/">robots de Blue Ocean Robotics</a> tenen com a objectiu prevenir i reduir la propagació de virus, bacteris i altres microbis descomposant la seva estructura d’ADN utilitzant llum ultraviolada.</p>
+
+
+
+<p>Per la seva banda, <a href="https://benevolent.ai/">BenevolentAI</a> utilitza Intel·ligència Artificial per crear medicines que puguin combatre les malalties més agressives. Actualment recolza els esforços per tractar el Covid-19. <a href="https://www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/#3b5882345f5f">Segons Forbes</a>, durant les setmanes posteriors al brot va utilitzar les seves capacitats de predicció per examinar l’afinitat de tots els fàrmacs aprovats per identificar aquells que tenen propietats antivíriques i antiinflamatòries, útils per combatre o mitigar els efectes del coronavirus.</p>
+
+
+
+<p>Així doncs, la Intel·ligència Artificial s’ha unit a la lluita contra una pandèmia que ens ha tancat a casa i ha paralitzat el frenètic ritme de vida del planeta. Per ara, però, el principal problema és que aquests sistemes necessiten una sèrie de dades que, o bé encara s&#8217;estan generant, o bé no resulten completament accessibles. Tot i que BlueDot va predir el brot deu dies abans que fos anunciat per l’OMS, empreses com aquesta no solen revelar a qui proporcionen la informació ni com l’utilitzen. A més, també és cert que sovint la publicitat entorn les capacitats de la IA supera la realitat. Confiar-hi massa podria provocar la presa de decisions incorrectes, tenint en compte que els algoritmes <a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">poden contenir biaixos i no ser infalibles</a>. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">847</post-id>	</item>
+	</channel>
+</rss>

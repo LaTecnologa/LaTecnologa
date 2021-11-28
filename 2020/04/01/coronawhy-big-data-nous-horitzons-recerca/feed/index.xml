@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: “A CoronaWhy s’obren per a les Dades Massives nous horitzons en la recerca mèdica”	</title>
+	<atom:link href="/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/feed/" rel="self" type="application/rss+xml" />
+	<link>/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Tue, 08 Sep 2020 11:36:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Per: Com aprenen les màquines? &#8211; La Tecnòloga		</title>
+		<link>/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/#comment-215</link>
+
+		<dc:creator><![CDATA[Com aprenen les màquines? &#8211; La Tecnòloga]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2020 11:36:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=902#comment-215</guid>
+
+					<description><![CDATA[[&#8230;] “A CoronaWhy s’obren per al Big Data nous horitzons en la recerca mèdica” [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] “A CoronaWhy s’obren per al Big Data nous horitzons en la recerca mèdica” [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

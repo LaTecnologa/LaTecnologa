@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Llibres &#8211; La Tecnòloga</title>
+	<atom:link href="/category/llibres/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Llibres &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Apunts per a una ètica de la tecnologia</title>
+		<link>/2020/07/17/apunts-etica-de-la-tecnologia-luis-montero/</link>
+					<comments>/2020/07/17/apunts-etica-de-la-tecnologia-luis-montero/#comments</comments>
+		
+		<dc:creator><![CDATA[Luis Montero]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2020 16:41:47 +0000</pubDate>
+				<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Disseny]]></category>
+		<category><![CDATA[El Diseño de nosotros mismos]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Tecnologia]]></category>
+		<guid isPermaLink="false">/?p=1481</guid>
+
+					<description><![CDATA[El canal de Filosofia i Disseny de Telegram va néixer com un quadern de notes on apuntar les nocions bàsiques sobre les quals havia de girar el curs d’introducció a la filosofia del disseny, El disseny de nosaltres mateixos, la primera edició del qual s’anava a impartir l’octubre del 2019. Però se’m en va anar de les mans.]]></description>
+										<content:encoded><![CDATA[
+<p style="font-size:14px" class="has-text-color has-medium-gray-color">Peu de foto: La &#8216;màquina humana&#8217;, de la pel·lícula <em>Metropolis</em> (1927), va ser el primer robot representat al cinema, dut a la &#8216;vida&#8217; per l&#8217;actriu Brigitte Helm.&nbsp;</p>
+
+
+
+<p>El canal de <a rel="noreferrer noopener" href="https://t.me/filosofiaydiseno" target="_blank">Filosofia i Disseny de Telegram</a> va néixer com un quadern de notes on apuntar les nocions bàsiques sobre les quals havia de girar el curs d&#8217;introducció a la filosofia del disseny, <em>El disseny de nosaltres mateixos</em>, la primera edició del qual s&#8217;anava a impartir l&#8217;octubre del 2019. Però se&#8217;m en va anar de les mans. Les meres notes van convertir-se en llavors d&#8217;on van florir arguments filosòfics al voltant del disseny. I aquests arguments van empeltar-se els uns amb als altres fins a unir-se en un mateix tronc: allò que va començar en forma de meres anotacions a rajaploma havia acabat constituint l&#8217;eix central d&#8217;una lectura filosòfica del disseny. Havia nascut el llibre homònim <em>El diseño de nosotros mismos. Una lectura filosòfica del disseny </em>(Experimenta Libros). Un tractat que intenta traçar ponts entre dues disciplines que tradicionalment s&#8217;han donat l&#8217;esquena, quan no s&#8217;han menyspreat. Una escletxa que calia superar. Que era urgent superar. Perquè la filosofia compta amb una llarga tradició d&#8217;eines analítiques que ens permeten un millor enteniment del disseny, la seva pràctica i el seu resultat. I perquè el disseny trenca amb molts postulats filosòfics previs que es consideraven inamovibles i, si alguna cosa il·lumina la filosofia, és el qüestionament.</p>
+
+
+
+<p>Aquestes notes són el record d&#8217;un viatge d&#8217;anar i tornar. Un viatge que parteix de la tecnologia i el seu ús per acabar en la tecnologia i la seva expressió, el disseny. I tornar una altra vegada. I una altra vegada. I una altra… Aquestes notes que aquí apareixen publicades s&#8217;obren també a la crítica de la tecnologia, atès que el disseny és inintel·ligible sense ella. De manera que s&#8217;ajusten millor a l&#8217;audiència de <em>La&nbsp;Tecnòloga</em>, a qui m&#8217;agradaria agrair els seus esforços i ànims incansables per a la seva publicació. De fet, al canal de Telegram s&#8217;entén el disseny com l&#8217;expressió de la tecnologia, entre altres coses. I és que el disseny sense tecnologia deixa de ser-ho per ser una altra cosa, un mal record de l&#8217;artesania. Així que allí es parla ara molt sobre tecnologia. És el viatge de tornada…</p>
+
+
+
+<p>Un viatge de tornada també a una antiga passió meva, l&#8217;ètica. Perquè en aquesta selecció que es presenta ara apareixen algunes anotacions sobre els avanços de la&nbsp;intel·ligència artificial (IA), la biotecnologia, el reconeixement facial… i com aquestes tecnologies estan començant a despertar fantasmes ètics que crèiem superats. I, el més interessant, és que es proposa una solució.</p>
+
+
+
+<p>Una altra cosa és que ningú en faci cas.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-accent-background-color has-accent-color is-style-dots"/>
+
+
+
+<p class="has-small-font-size">Sobre l&#8217;autor:</p>
+
+
+
+<p class="has-small-font-size">Luis Montero va néixer el 65. Va estudiar Filosofia a la UNED i Publicitat a la Complutense. Ha estat guia turístic, creatiu publicitari i consultor estratègic. Ha viscut a Madrid, Nova York, Londres, Frankfurt, Marràqueix, Benarés i ara a Palma. Ha escrit les novel·les de ciència-ficció <em>Artrópodos</em>, <em>Feliz Año Nuevo</em> i <em>Clon</em> i els assajos sobre ontotecnologia <em>Mundo-hecho</em> i <a href="/2020/05/23/una-antropologia-del-futur/"><em>Dejad que las máquinas vengan a mí</em></a>. D&#8217;aquí a dues setmanes apareix <em>El diseño de nosotros mismos</em>. Una lectura filosòfica del disseny. Llibre que complementa i aprofundeix en algunes de les notes aquí publicades. A més ha publicat en diversos mitjans, <em>La Tecnòloga</em> entre ells, on va aparèixer el diàleg <a href="/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/">D&#8217;humans, màquines i altres éssers que senten</a>. Últimament procura gaudir de la vida i anar amb bicicleta.</p>
+
+
+
+<p class="has-text-align-center">Podeu llegir aquest <a href="/apuntes-etica-de-la-tecnologia-luis-montero/">article en versió original (castellà) en aquest enllaç</a>.</p>
+
+
+
+<div class="wp-block-group has-accent-color has-text-color"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator is-style-dots"/>
+</div></div>
+
+
+
+<p class="has-text-align-center has-large-font-size"><strong>Notes sobre tecnologia (sel·lecció de l&#8217;autor)</strong></p>
+
+
+
+<p>1.- La discussió sobre l&#8217;ètica de les IAs està fatal enfocada. Tot déu tem que ens matin quan el que havíem de témer és que no ens matin. Com a espècie històricament hem demostrat molt baixa tolerància als exterminis massius però altíssima a les formes de tirania que mantenen la vida, per dolentes que siguin les seves condicions.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>2.- Hi ha un fons polític efecte de la producció tecnològica de la realitat sobre el qual es demanen respostes ètiques.</p>
+
+
+
+<p>2.1.- Es pretén buscar una bona vida en un entorn polític que ignora –quan no impossibilita– aquesta bona vida (al contrari del que succeïa en, per exemple, Aristòtil, l&#8217;ètica del qual també està alçada sobre un fons polític que la sustentava i feia possible; però, potser al contrari del que passa ara, aquella política sustentava l&#8217;ètica dels qui vivien les condicions polítiques d&#8217;Aristòtil –l&#8217;home propietari i, per tant, lliure– i no de la majoria. Aquella ètica estava igual de segrestada, però l&#8217;hem&nbsp;romantitzat. Per què l&#8217;hem&nbsp;romantitzat?&nbsp;A part de l&#8217;argument d&#8217;autoritat -ei, que és Aristòtil!-, hi ha la contradicció entre aquella ètica i la política que la feia possible i la relació entre la nostra política i la impossibilitat de l&#8217;ètica). L&#8217;ètica pateix un segrest, el segrest de la política, que la redueix a la redempció personal dels actes i les seves conseqüències. La vida es redueix a cadascun dels actes, a la seva suma potser, però una suma que no té un resultat final o el resultat final del qual es limita a l&#8217;enumeració dels actes, com aquesta passada de diapositives mítica que en diuen avantsala de la mort. És una vida estreta, algebraica. De l&#8217;ètica reduïda a les conseqüències dels actes no resulta una vida bona. Una vida es compon d&#8217;actes, sí, però no només. I ni tan sols els actes han de ser el component fonamental: en aquest cas algú impedit a realitzar algun acte sigui per discapacitat o per tancament no podria qualificar-se com a capaç de viure una vida plena. Aquí el tot és major que la suma de les parts. Gairebé fins i tot es podria dir que d&#8217;aquesta reducció o segrest ni tan sols resulta una vida.</p>
+
+
+
+<p>La teleologia utilitarista és&nbsp;<em>peanuts</em>&nbsp;davant la teleologia aristotèlica. L&#8217;ètica d&#8217;aquest no tractava d&#8217;avaluar un acte concret sinó aixecar una vida.</p>
+
+
+
+<p>2.2.- Per això el problema del disseny és més polític que ètic. O dit d&#8217;una altra manera: la producció tecnològica de la realitat és una estructura política i una ètica no pot ser més que un sistema. I un sistema no pot anar a contracorrent de l&#8217;estructura que el suporta. El sistema no pot negar l&#8217;estructura que el sosté.</p>
+
+
+
+<p>2.3.- I, no obstant això, la generalitat –que no abstracció– de l&#8217;imperatiu kantià allunya tantíssim allò moral de les nostres vides, de qualsevol vida, que és impracticable per inaplicable. Si el conseqüencialisme es dissol en la immediatesa fins a perdre de vista aquest horitzó que és la vida, el kantianisme funciona si, al contrari, la vida se subjuga i dissol en aquest sistema reglat. I amb aquesta dissolució es perd la vida. També.</p>
+
+
+
+<p>De fet, i com apunto a <em>Dejad que las máquinas vengan a mí</em>, la tecnologia –i per tant el procés de producció industrial de la realitat– parteix del que allí anomeno «error metafísic» perquè tota màquina –i més les IA– és kantiana per definició: porta incrustada en si la definició del món en el qual opera, l&#8217;ontologia. Així doncs sobre aquest fons kantià es pretén pensar una ètica que possibiliti una vida bona i al mateix temps estigui subjecta a aquest teixit legiforme kantià de la tecnologia.</p>
+
+
+
+<p>2.4.- En aquest sentit de l&#8217;acceptació del polític com a substrat sobre el qual floreix –l&#8217;avui tan de moda <em>flourish</em> saxó– per ètic s&#8217;entén el ressorgir de l&#8217;anomenada ètica de les virtuts. L&#8217;ètic resideix en el caràcter del subjecte que viu privilegiat pel polític. Tal com succeïa amb Aristòtil, qui podia atribuir al caràcter –i per tant al subjecte– les virtuts morals, virtuts morals que partien d&#8217;un i revertien en un, entre altres coses perquè l&#8217;altre que també disposava de caràcter era igual que l&#8217;u, això és, estava en la mateixa situació política. Però aleshores com ara aquesta situació no sempre és compartida per tots. De fet, gairebé mai. Si bé aquestes ètiques de la virtut prenen constància dels diferents caràcters de cadascun de nosaltres suposen que tots partim d&#8217;una mateixa situació política des de la qual la distància i dificultats per a arribar a l&#8217;acte moral és el mateix.</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="31cXVZ5e1Z"><a href="/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/">Luis Montero: &#8220;Les màquines reflecteixen la nostra lògica occidental, masculina i de domini del món&#8221;</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Luis Montero: &#8220;Les màquines reflecteixen la nostra lògica occidental, masculina i de domini del món&#8221;&#8221; &#8212; La Tecnòloga" src="/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/embed/#?secret=31cXVZ5e1Z" data-secret="31cXVZ5e1Z" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p>3.- Davant les crítiques estereotipades dels perfils més conservadors al canvi en l&#8217;espai públic, abans solia dir mig de broma mig de debò que no és que ara estiguem pitjor educats, és que tenim més oportunitats de molestar. I moltes d&#8217;aquestes oportunitats són causades per objectes de disseny (altaveus sense fils, envasos portàtils, vehicles elèctrics omnipresents, etc.). Molts dels problemes que genera el disseny no són tant existencials –que requereixen solucions ètiques– com de convivència –que requereixen una reformulació d&#8217;allò que significa viure en comunitat–. L&#8217;educació en la seva accepció disciplinària, no pedagògica, se&#8217;ns ha fet gran. Cosa que no està malament i per la qual hem sospirat en innúmeres ocasions per la cosa hipòcrita que hi havia darrere de la salutació desapegada, però que ara ens enfronta a uns <em>mores</em> (sí, l&#8217;avantsala d&#8217;allò moral) que no sabem redefinir sense recaure en una moralitat de nou&nbsp;castradora. De sobte el xaval que escolta&nbsp;trap&nbsp;a tot volum a la plaça ens ha retratat a tots.</p>
+
+
+
+<p>I no ens agrada com sortim a la foto.</p>
+
+
+
+<p>3.1.- La convivència no es basava tant en el costum com en l&#8217;acceptació d&#8217;aquest costum. El disseny, gran productor d&#8217;objectes que fan fallida i inhibeixen aquesta convivència o, almenys, la qüestionen, podria produir el benèfic efecte insospitat d&#8217;obligar les comunitats a haver de negociar les pautes de convivència amb cada nou objecte que la desequilibra. Però aquí s&#8217;anticipen dos problemes: d&#8217;una banda la incapacitat de la comunitat d&#8217;articular aquestes negociacions –incapacitat que explica l&#8217;acceptació submisa al costum– i per una altra la curtíssima&nbsp;<em>shell&nbsp;life</em>&nbsp;que imposa el mercat a la producció de la realitat. Encara que el primer problema no es donés i la societat fos capaç de negociar al mateix temps que apareixen nous objectes&nbsp;desavinents&nbsp;–que amenacen la convivència–, la creixent velocitat d&#8217;aparició d&#8217;aquests objectes, que no és d&#8217;estranyar que es veiés impulsada per aquesta capacitat d&#8217;acceptació, ja que l&#8217;objecte de disseny ha de xocar per a no ser fons, aquesta creixent velocitat empenyeria a la societat cap a dos extrems, tots dos extenuants però per diferents raons. O bé la comunitat es convertiria únicament en l&#8217;espai de la negociació, una negociació eterna i accelerada donada l&#8217;aparició eterna i accelerada d&#8217;objectes que, al seu torn, es veiés impedida a acceptar aquests objectes per falta de temps, tot aquest dedicat a una esgotadora negociació. O, a l&#8217;extrem oposat, que enviés a pastar fang l&#8217;educació i, amb aquesta, la convivència.</p>
+
+
+
+<p>Que és on sembla que estem. O cap a on ens dirigim.</p>
+
+
+
+<p>3.2.- Però amb una diferència. Aquesta negació de la negociació –i per tant del canvi: no oblidem que la història de la humanitat és la història de la negociació per a l&#8217;acceptació del canvi, un canvi que ha comportat 25 segles a occident perquè acabem aquí– no part d&#8217;una decisió voluntària dels membres de la comunitat –que és l&#8217;òptim buscat quan des de la tradició es critica el costum: aquell denunciar l&#8217;educació com un sistema de control i coerció– sinó que és una condició exògena a la comunitat a la qual no sap reaccionar. A la qual no pot reaccionar. Perquè, ja se sap, sense negociació no hi ha acceptació.</p>
+
+
+
+<p>3.3.- Si Thatcher va dir «No existeix la societat, existeix l&#8217;individu», avui podríem afirmar «No existeixen societat ni individu, existeix l&#8217;objecte».</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>4.- Abunden –o comencen a abundar– els llibres de tecnòlegs i dissenyadors proposant solucions ètiques per a la tecnologia i el disseny. I a mi sempre em xoquen. I no sols perquè em sembla que la solució ètica no pot venir de la part que genera el problema, ningú té aquesta equanimitat –ni tan sols Moore quan afirmava que en tot acte hi ha un punt de vista objectiu, que és el de l&#8217;altre afectat… que és cert que n&#8217;hi ha, però pretendre que el patró moral sigui aquest és pretendre que siguem sants: no sempre puc actuar amb la mirada de l&#8217;altre, entre altres coses perquè desconec la seva mirada, és impenetrable–, sinó perquè aquests llibres de tecnòlegs i dissenyadors escrivint ètiques de tecnologia i disseny em sonen a <span class="has-inline-color has-accent-color">exercici de&nbsp;capellanets</span>. Són llibres en certa manera redemptors. Un «va, ànim, nois, que no som tan dolents, que podem fer-ho bé», potser necessari, però que té molt poc a veure amb l&#8217;ètica, té a veure amb el consol –un consol injust, perquè el tecnòleg i el dissenyador estan en un espai de poder, i no sols polític–.</p>
+
+
+
+<p>4.1.- Però no em xoquen per això, em xoquen per alguna cosa més densa. El disseny és un exercici de creació. I els discursos redemptors ho són precisament perquè tot exercici de creació és fallit. I vaig amb un exemple més gran. No&nbsp;hi ha&nbsp;creador més gran que déu, que en la seva teoria ho ha fet tot. Bé, acceptem-la per un segon i com a experiment mental. Si ho ha fet tot, per què ens ha d&#8217;enviar un redemptor (que sempre ens imposa una moral, per cert)? Perquè la creació és imperfecta i hem d&#8217;ajustar-nos a aquest patró moral per a salvar-nos. Hi ha salvació condicionada, i només condicionada. La salvació és un condicional fort, si i només si. Però per als qui no tenim moltes ganes de salvar-nos, perquè tampoc pensem que calgui salvar-nos de res, és a dir, per als qui no pertanyem al marc, aquesta salvació coercitiva en realitat no manifesta una altra cosa que la imperfecció ontològica d&#8217;allò creat i, per tant, del creador. El tecnòleg o el dissenyador ficat a la pell de l&#8217;ètic ocupa per mi aquest espai. En comptes de mirar el problema primer, el problema fonamental del disseny, intenta excusar-lo amb una ètica. Com les religions, que per salvar la creació condemnen a mitja humanitat (d&#8217;aquí el magnífic problema de les teodicees, que com a exercici són precioses, però insalvables), el tecnòleg/dissenyador-ètic, per a salvar la disciplina condemna l&#8217;honestedat intel·lectual.</p>
+
+
+
+<p>4.2.- Convé desconfiar sempre dels tractats ètics escrits a favor del P&amp;L [&#8216;<em>profit and loss</em>&#8216;; en català, pèrdues i guanys] de qui els escriu. Ja sigui de capellans explicant que bona és la catequesi per la moral o de tecnòlegs i dissenyadors explicant que bones són les pràctiques per a la consecució de l&#8217;objectiu que li demana el client.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>5.- Si la moral tingués una base biològica que depengués de la morfologia cerebral, com sí que succeeix amb la cognició (d&#8217;entrada només percebem aquells estímuls que el nostre aparell cognitiu percep com a fenòmens, que no són més que una mostra ínfima del total de possibles estímuls que produeix el món), llavors, deia, podríem disposar d&#8217;alguna cosa així com una moralitat augmentada. I no em refereixo a comptar amb una base de dades de casos resolts o no, no amb programes per a desenvolupar la lògica inherent a un arbre de decisions, per exemple, sinó a ampliar les fonts dels nostres sentiments morals més enllà de les nostres fisiologies-cossos. Poder, per exemple, participar dels sentiments morals d&#8217;un altre. Un dispositiu que te l&#8217;enganxes a l&#8217;orella, alguna cosa així com un audiòfon, que t&#8217;oferís la visió moral d&#8217;una tercera persona en una determinada situació. Alguna cosa així com aquell imperatiu d&#8217;objectivitat –davant tota decisió moral sempre hem de tenir en compte la perspectiva objectiva, exterior a nosaltres, que dictaminava Moore–, però generat per un dispositiu.</p>
+
+
+
+<p>Cosa que em fa pensar que aquest dispositiu ja existeix, és la plaça del poble. On una comunitat vivia els seus <em>mores</em> compartits.</p>
+
+
+
+<p>No feia falta tecnologia, sinó convivència.</p>
+
+
+
+<p>Però potser aquesta última sigui una sortida massa fàcil. És que la plaça pública no és una forma de tecnologia? Més enllà que sigui tecnologia o no, que és una disquisició que ara no és necessària, el que sí que és és el lloc que propicia la convivència. Arribats en aquest punt apareix la pregunta: podríem crear altres dispositius que ampliessin el registre-sentiment moral, ja fos mitjançant l&#8217;ampliació de la convivència, la seva simulació o representació, o qualsevol altra manera d&#8217;obrir-nos, de treure&#8217;ns del nostre punt de vista moral subjectiu?</p>
+
+
+
+<p>Ho acceptaríem?</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>6.- La inundació de notícies que anuncien capacitats tecnològiques miraculoses deixen poc espai per a la&nbsp;<em>scifi</em>&nbsp;especulativa més enllà de la política. I és tan aclaparador que gairebé l&#8217;única lectura possible és la distopia.</p>
+
+
+
+<p>I la distopia, la falta de relats de cels oberts i una certa esperança, ens està matant. I no, no parlo d&#8217;aquests relats prefabricats per la indústria de producció del tot, com el disseny de futurs,&nbsp;Hollywood&nbsp;o els casos d&#8217;èxit de les consultores estratègiques –que en el fons són tres formes del mateix– sinó de les possibilitats de llegir-nos a nosaltres mateixos de formes alternatives, oberturistes, esplendoroses.</p>
+
+
+
+<p>Una inundació que ens arriba en el pitjor moment –totes les crisis sempre arriben en el pitjor moment–, quan a més sembla que a força de narrar-ho tot hem esgotat el diccionari i no fem sinó parlotejar.</p>
+
+
+
+<p>Potser, i aquí ho uneixo amb tecnologia i disseny, té a veure amb la pèrdua de pes&nbsp;il·locutiu&nbsp;del llenguatge enfront de la capacitat&nbsp;realitzativa&nbsp;del disseny i la tecnologia. M&#8217;explico, una mica. Se suposava des d&#8217;Austin que hi havia enunciats que tenien un impacte directe en la realitat, que eren com els manaments d&#8217;un déu: es complien. «Queda inaugurat aquest pantà!» significava que efectivament aquest pantà havia estat inaugurat –òbviament la referència franquista és a posta, el feixisme és extremadament&nbsp;il·locutiu–. Aquest efecte era allò perlocutiu de l&#8217;acte&nbsp;il·locutiu. El perlocutiu és el que succeïa en el món quan s&#8217;emetia un enunciat&nbsp;il·locutiu. Bé, perquè el disseny i la tecnologia poden entendre&#8217;s com a actes perlocutius que no necessiten actes&nbsp;il·locutius. I si l&#8217;economia regeix els usos del llenguatge, aquesta no-necessitat d&#8217;enunciats és un estalvi magnífic que semblaria fer l&#8217;acte lingüístic superflu.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>7.- Una prova, o potser un mer delator, de la rebolcada causal provocada per la tecnologia i esperonada pel disseny –on els efectes són les causes– és que el procés de denominació d&#8217;un nou aparell, artefacte, disciplina o eina moltes vegades ve derivat d&#8217;un efecte. El&nbsp;GUI&nbsp;es diu així pel que produeix: la interacció amb objectes és més immediata que la línia de comandos.&nbsp;Chromecast&nbsp;es diu així pel que produeix: emetre a la pantalla de la tele allò reproduït a Chrome.&nbsp;UX&nbsp;s&#8217;acronomitza&nbsp;així pel que produeix: una vivència en l&#8217;usuari. Els exemples són moltíssims, i és una tendència que ve de lluny: el telèfon o el rentavaixella ja duien impresa aquesta manera d&#8217;atribució –atribució que potser també respon a l&#8217;entorn domèstic on es despleguen aquests objectes; almenys al principi, ja que ara són sobretot d&#8217;ús professional (encara que aquesta diferència ja gairebé manca de sentit)–. En aquest sentit el disseny és una excepció, quasi res del que esmentem és anomenat per l&#8217;efecte que produeix. La relació entre el nom i la cosa anomenada poques vegades era identificable. Fins i tot tirant d&#8217;etimologies, encara que retrocedim al llatí o al grec, arriba un punt que aquesta relació nom-cosa anomenada apareix com a aleatòria. Indesxifrable. No així en el disseny. És aquell remetre de&nbsp;Heidegger&nbsp;a <em>Ésser i temps</em> propi de tota eina tecnològica.</p>
+
+
+
+<p>7.1.- En certa manera l&#8217;efecte és el sentit (l&#8217;efecte que hauria de ser contingent passa així a universal).</p>
+
+
+
+<p>7.2.- Aquest universal impedeix la resignació del dissenyat, acció política proposada moltes vegades com a forma de&nbsp;reapropiació. Exemples d&#8217;aquestes propostes n&#8217;hi ha molts.</p>
+
+
+
+<p>7.3.- No obstant això, qualsevol&nbsp;reapropiació&nbsp;és impossible quan no hi ha cap distància en la relació entre significant i significat i quan aquest, a més, s&#8217;ha convertit en universal, sempre el mateix.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>8.- La intel·ligència respon a la vida i no al contrari. El mateix hauria de succeir amb la&nbsp;IA, si no volem que es giri contra la vida. Ara bé, per a això la&nbsp;IA&nbsp;hauria d&#8217;estar viva. I això és poc probable –i no només perquè estem més lluny encara d&#8217;emular la vida que d&#8217;emular la intel·ligència–.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>9.- L&#8217;impacte de la quarantena en la&nbsp;interintimitat. Avui pensava que, si la quarantena té alguna virtut, és que ens permet centrar-nos a cuidar als qui són a prop, als qui estem més pròxims. Els qui a <em>Dejad que las máquinas vengan a mí</em> vaig definir com l&#8217;altre-jo, aquells que estan en aquest costat del pal del&nbsp;<em>selfie</em>. L&#8217;excepcionalitat de la situació ens ha fet conscients de la importància de les cures d&#8217;aquests altre-jo. Però aquesta proximitat amb l&#8217;altre-jo, sobre la qual es construeix aquesta&nbsp;interintimitat&nbsp;que s&#8217;expressa en&nbsp;<em>selfie</em>&nbsp;comuna –el&nbsp;self&nbsp;compartit com a expressió visual de l&#8217;altre-jo–, no és la proximitat física de la distància. El confinament de cadascun s&#8217;amplia en l&#8217;allunyament i distribució d&#8217;aquests altre-jo. És la presència absent que ens permeten les tecnologies, que per alguna cosa totes es denominen amb el prefix tele:&nbsp;telèfon, televisió, teleconferència… Tecnologies que ens permeten ser sense estar. És la presència absent. I avui, confinats, estem més presents-absents que mai. Quan truquem per videoconferència grupal als nostres quatre éssers més estimats. Quan ens posem d&#8217;acord en un grup de Telegram que prestarem especial atenció a algú que no està al grup perquè està en una situació delicada, sigui laboral o de salut o del que sigui. Aquesta intimitat estesa que és la&nbsp;interintimitat&nbsp;amb l&#8217;altre-jo potser també pot ser anomenada la tele-intimitat. La intimitat del fet de compartir des de la presència absent.</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="ZmfQy5y3la"><a href="/2020/05/23/una-antropologia-del-futur/">Una antropologia del futur</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Una antropologia del futur&#8221; &#8212; La Tecnòloga" src="/2020/05/23/una-antropologia-del-futur/embed/#?secret=ZmfQy5y3la" data-secret="ZmfQy5y3la" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p>10.- El disseny –i la tecnologia amb aquest– parteixen d&#8217;una premissa equivocada: que un només pot habitar un món. És a dir, que la vivència està limitada al món en què es dóna aquesta vivència. El que bé pot ser cert dit de cada vivència. Però no ho és quan les vivències s&#8217;entenen com un continu no determinista. No hi ha –o no hi ha raó perquè hi sigui més enllà de la imposició d&#8217;un món produït pel disseny– per a pensar que la meva següent vivència sigui dependent del món en el qual es dóna aquesta. No hi ha un&nbsp;historicisme&nbsp;de la vivència. El confinament és una prova d&#8217;això. Qui ens hauria dit que ens passaríem sis setmanes a casa? I qui hauria dit que ens semblaria malament? No obstant això aquesta relació unívoca món-vivència que fonamenta el disseny –com a procés de producció d&#8217;aquest món i la seva vivència donat el seu caràcter fenomènic– comença a esquerdar-se.</p>
+
+
+
+<p>10.1.- És tasca del disseny, si vol sobreviure a la pandèmia, en la qual s&#8217;ha demostrat com a superflu, atès que el món que proposava ha esdevingut inhabitable, a explotar aquestes noves esquerdes en si mateix per a permetre l&#8217;aparició de noves realitats. De nous mons. Trencar aquesta equació és el nou imperatiu del disseny.</p>
+
+
+
+<p>10.2.- El disseny, últimament centrat en els fonaments d&#8217;aquest món previ, s&#8217;ha entossudit a bussejar en els P&amp;L dels seus clients (els casos d&#8217;èxit sempre s&#8217;expliquen com a èxits de negoci) i morirà arrossegat per aquests mateixos P&amp;L que ja estan morint. El disseny ha d&#8217;aprendre que el seu futur no és aquí sinó en altres llocs. A la vida. M&#8217;explico. Com altres indústries culturals, el disseny ha de buscar la seva inspiració en la resta de fenòmens culturals que l&#8217;acompanyen. Així com la música pop sempre es renova gràcies als experiments musicals de minories&nbsp;racialitzades&nbsp;o els videojocs a la reinterpretació de clàssics de la literatura, el disseny té trobar altres fonts alienes a ell mateix però que l&#8217;enriqueixin. Ha de sortir dels despatxos i els&nbsp;<em>Indesigns</em>&nbsp;de torn i sortir al carrer. Ha de baixar al barri si és que vol sobreviure. Hi ha, per exemple, més futur del disseny en el&nbsp;<em>bombing</em>&nbsp;grafiter que en els estudis de disseny estratègic, que ja fan olor de formol.</p>
+
+
+
+<p>10.3.- I el mateix és aplicable a tecnologies creadores de mons com la&nbsp;IA, la&nbsp;RV&nbsp;[Realitat Virtual] o els videojocs.</p>
+
+
+
+<p>10.4.- Però una de les raons en la diferència de cos és que la tasca del dissenyador i de l&#8217;ideo-CEO&nbsp;és la creació del món, però no el seu manteniment (déu, com a aclariment, és aquell que és perquè és capaç de crear el món/univers, sí, però també de mantenir-lo. En el model producció industrial de la realitat, que inclouria aquestes dues tasques: creació i manteniment, totes dues tasques apareixen com deslligades). El manteniment d&#8217;això creat encara continua estant estretament lligat al cos –d&#8217;aquí ve que els processos d&#8217;automatització i&nbsp;robotització&nbsp;estiguin centrats fonamentalment en els sectors de producció industrial del que ja hi ha: cadenes de muntatge,&nbsp;ERPs, etc.</p>
+
+
+
+<p>10.5.- Reflexió que em porta a una altra, relacionada amb l&#8217;absència present del cos –en aquest cas el cervell– en les&nbsp;IAs. La tasca de la&nbsp;IA&nbsp;és la creació o el manteniment del que hi ha? De moment jo diria que és la del manteniment, entre altres coses <a rel="noreferrer noopener" href="https://t.me/filosofiaydiseno/725" target="_blank">per la no permissibilitat de fal·libilitat de la qual parlava</a>. Però, i aquesta és una tesi que trobo interessant, perquè és fàcil&nbsp;preveure&nbsp;que si la&nbsp;IA&nbsp;intervingués en la creació de nosaltres, com a humans, no entendríem moltes vegades aquest acte com un acte creador i ho entendríem, en canvi, com un acte aleatori, resultat de l&#8217;atzar (o de la bogeria de la màquina, que és una altra forma d&#8217;atzar).</p>
+
+
+
+<p>Així, per exemple, va succeir amb el famós moviment 37 de la segona partida d&#8217;AlphaGo, que tots els experts van interpretar com a aleatori, per inexplicable, però que com que es va donar dins d&#8217;un món ja creat (aquí la&nbsp;IA&nbsp;no feia altra cosa que mantenir el món que és el joc de&nbsp;Go), va acabar per revelar-se com a intel·ligent i, per tant, intel·ligible.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>11.- Amb relació a la disjuntiva instrumentalisme&nbsp;vs.&nbsp;substancialisme&nbsp;d&#8217;allò tecnològic (i del disseny) nascuda a partir del que es va anomenar l&#8217;<em>empirical&nbsp;turn</em>&nbsp;dels&nbsp;70s&nbsp;–quan la filosofia de la tecnologia va començar a acceptar d&#8217;una manera menys crítica la tecnologia, acceptant que era aquí per a quedar-se–, potser convindria recordar a Plató i el seu&nbsp;<em>Fedre</em>, on rebutjava l&#8217;escriptura al·legant que acabaria amb la memòria. Però l&#8217;atac no era un atac oral, era un atac escrit. Escrivia per a atacar a l&#8217;escriptura. Una vegada que Plató va decidir començar a escriure ja mai va poder deixar de fer-ho –perquè allò no tecnològic, precisament perquè deixa una petjada efímera, es perd en i per a la memòria: per això no sabem què va dir a la seva Acadèmia–. I nosaltres amb ell. Per això, en continuar escrivint definia una manera d&#8217;humà, un humà la memòria del qual potser no es veia substituïda per l&#8217;escriptura, però sí que es veuria augmentada. Un humà la memòria del qual quedaria per sempre intervinguda per l&#8217;escriptura. Que avui encara llegim a Plató ho demostra.</p>
+
+
+
+<p>Les interpretacions&nbsp;instrumentalista&nbsp;vs.&nbsp;substancialista&nbsp;s&#8217;han llegit fins ara com a contraposades, com dues maneres d&#8217;entendre allò tecnològic (i el disseny), contradictoris, però en realitat conformen un mateix discurs, una dialèctica, que a força de negar-se amplien l&#8217;àmbit d&#8217;allò definit per aquest discurs, que és el tot. Aquesta és la dialèctica que descansa en la dialèctica de la filosofia de la tecnologia, que en cada nou pensar es consolida el&nbsp;tecnograma&nbsp;a&nbsp;la&nbsp;Latour&nbsp;i&nbsp;Borgmann&nbsp;com a continuació interessada de les seves cadenes cosmològiques (que és com denomina&nbsp;Latour&nbsp;a les tres maneres d&#8217;estar en el món que&nbsp;Borgmann&nbsp;denominaria Naturalesa, Cultura i Tecnologia):</p>
+
+
+
+<p class="has-text-align-center">Cosmograma&nbsp;-&gt;&nbsp;Cultugrama&nbsp;-&gt;&nbsp;Tecnograma</p>
+
+
+
+<p>sobre el qual es construeix un món&nbsp;tecnologitzat&nbsp;al qual ja no pot renunciar, en un procés semblant al sistema que s&#8217;expandeix a força de negar-se&nbsp;recursivament, això que&nbsp;Hofstadter&nbsp;va anomenar&nbsp;gödelització. Per això quan se supera un&nbsp;estadi, una manera d&#8217;estar en el món, quan, per exemple, se supera el&nbsp;cosmograma&nbsp;per a endinsar-se en el&nbsp;culturgrama, el&nbsp;cosmograma&nbsp;pot advertir-se, però no es pot tornar a ocupar. Queda com a record, però com els records és inaprehensible. I en aquest tot estem nosaltres. El&nbsp;tecnograma&nbsp;apareix cada vegada més com més afermat i el&nbsp;culturgrama&nbsp;se&#8217;ns apareix tènue i cada cop més desvalgut. Del&nbsp;cosmogama&nbsp;no tenim ja ni notícies. Aquest tot que transformem no pot ser-ho sense la nostra pròpia transformació.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>12.- Un dels atributs que distingeixen a la intel·ligència és que no comptem amb la seva infal·libilitat. De fet, tot el contrari, entenem allò intel·ligent com alguna cosa que pot o bé fallar o bé produir solucions (és cert que definir el producte de la intel·ligència com a «solucions» ja denota un biaix que rebaixa el possible intel·ligent, però perquè ens entenguem), solucions, deia, inesperades. I cap de les dues resultants ho desqualifiquen com a intel·ligent. Exemple de resultes intel·ligents fallides? Posaré un que té relació amb el disseny. Les places dures de Madrid. Aquestes places que es van dissenyar no per a la convivència, que és per al que es van dissenyar, però que sol ser estàtica, conviure requereix temps, sinó que es van dissenyar per al trànsit. Així són places sense arbres, ombres o bancs. És més, no són places, són esplanades. Solars. Terra erma. «Terra erma», com el poema de T. S. Eliot&nbsp;(<a rel="noreferrer noopener" href="https://www.poetryfoundation.org/poems/47311/the-waste-land" target="_blank">per a qui no el conegui, és aquí</a>). Més semblants a patis de presó, un altre espai «obert» en el qual no es conviu sinó que s&#8217;erra, com en una plaça de poble. Una solució arquitectònica intel·ligent quan allò que pretens és transformar les ciutats en espais Centres Comercials oberts, com el projecte de Gallardón per al centre de Madrid. Una solució perfecta, a més, per a l&#8217;explotació comercial d&#8217;aquestes esplanades: en totes hi cap un&nbsp;quiosc&nbsp;de Nokia, una terrassa de cafeteria o un estand de Movistar.</p>
+
+
+
+<p>Però la solució va deixar de ser intel·ligent el 15M. De sobte aquella solució de plaça dura va resultar increïblement fàcil d&#8217;ocupar. Allò que estava dissenyat per al trànsit va resultar perfecte per a la immobilització. I d&#8217;aquí el doble impacte d&#8217;aquesta ocupació, perquè no sols redefinia l&#8217;espai sinó també el seu ús. Però aquest&nbsp;sub-ús, diguem-ne, no vol dir que la proposta de disseny no fos intel·ligent per al model de ciutat que es pretenia. És només que la ciutat en algun moment no ho va entendre així.</p>
+
+
+
+<p>Això com a exemple de resulta intel·ligent fallida; perquè exemples de resultes intel·ligents que generen respostes alternatives n&#8217;hi ha moltes i són fàcils de trobar.</p>
+
+
+
+<p>No obstant això, amb la&nbsp;IA&nbsp;esperem infal·libilitat. Si falla ja no és intel·ligència. I si genera solucions divergents (més enllà de la divergència pautada dins d&#8217;allò ontològic-possible&nbsp;d&#8217;aquesta&nbsp;IA)&nbsp;tampoc. Fet que obre dos problemes, un epistemològic a l&#8217;hora de definir què és&nbsp;IA; un altre ètic, a l&#8217;hora de definir com ens relacionem amb les&nbsp;IA.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>13.- No parem de culpar a la&nbsp;IA&nbsp;de biaixos que no són sinó nostres. De miopies ontològiques que no són sinó nostres. De decisions pernicioses que no són sinó les que fa 2.500 anys que prenem. De fet la&nbsp;IA&nbsp;està a punt de convertir-se en el boc expiatori moral per a les decisions que no volem prendre. Complint així el paper de boc expiatori positiu. Es menja la culpa per a redimir-nos. Fins i tot aquesta denúncia es desploma davant d&#8217;aquest argument: en denunciar el desplaçament de la culpa no fa una altra cosa que reforçar aquest desplaçament. La nostra relació amb la&nbsp;IA&nbsp;és absolutament cristiana.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>14.- «Deixeu de fer» potser és l&#8217;únic mantra ètic vàlid avui per al disseny i la tecnologia. Potser l&#8217;únic treball moralment justificat de dissenyadors i tecnòlegs sigui deixar de fer i, sobretot, convèncer als seus clients perquè no facin.</p>
+
+
+
+<p>Em costa molt trobar un argument contra aquesta proposta mínimament ben fonamentada. S&#8217;admeten contribucions.</p>
+
+
+
+<p>Exemple, no perfecte, però exemple: </p>
+
+
+
+<p><a href="https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/">https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/</a></p>
+
+
+
+<p>Un altre exemple del «Deixeu de fer», però aquesta vegada des d&#8217;un lloc problemàtic:&nbsp;Amazon. No obstant això, és simptomàtic que les companyies de tecnologia s&#8217;autoregulin –en allò que no és altra cosa que una expressió de la seva por a les regulacions governamentals que vindran– mentre els dissenyadors continuen empenyent a fer: </p>
+
+
+
+<p><a href="https://venturebeat.com/2020/06/10/amazon-imposes-one-year-moratorium-on-police-use-of-its-facial-recognition-technology/amp/">https://venturebeat.com/2020/06/10/amazon-imposes-one-year-moratorium-on-police-use-of-its-facial-recognition-technology/amp/</a></p>
+
+
+
+<p>En els anys 70,&nbsp;Putnam&nbsp;(el lògic matemàtic-filòsof) va proposar alguna cosa així com un axioma ètic, el punt mínim moral des del qual decidir actuar. Deia «Always&nbsp;stick&nbsp;to&nbsp;the&nbsp;loser», estigues sempre amb el perdedor. I encara que no sempre és fàcil saber qui és el perdedor–a&nbsp;<em>Dejad que las máquinas vengan a mí</em> explico el cas d&#8217;una persona les profundes creences catòliques de la qual feien que confongués el perdedor en el cas d&#8217;una noia violada fecundada– l&#8217;axioma encara continua ressonant dins el meu cap. Primer perquè té això d&#8217;analític formal de base kantiana, que no obliga a alguna cosa concreta sinó que és&nbsp;<em>context-irrelevant</em>. Aspira així a una certa universalitat que ho fa estrictament atractiu. Segon, i derivat d&#8217;això analític, perquè encara que no proposa solucions, aquest «<em>stick</em>» no és actuar, tampoc és una forma d&#8217;inacció, que sempre és una forma de suport a l&#8217;agressor. Res és tan poc equidistant com l&#8217;equidistància, que diria Benjamin dels alemanys «neutrals» davant l&#8217;ascens nazi.</p>
+
+
+
+<p>Avui aquest «Deixeu de fer» reprèn aquestes virtuts de l&#8217;axioma&nbsp;putmanià&nbsp;i fa de la inacció acció. I ho fa mitjançant una inacció no equidistant. Ho fa amb la consciència clara dels perills polítics de l&#8217;objecte de disseny i tecnològic. No fer és un reforçar allò bo que encara ens queda i, al mateix temps, estar-nos amb els perdedors d&#8217;això&nbsp;tecnosocial&nbsp;que estem produïnt dissenyadors i tecnòlegs, nosaltres. Tots. Tots nosaltres.</p>
+
+
+
+<p>A més, i per si no fos prou, ataca aquest dogma neoliberal que no fa reforçar privilegis de l&#8217;aprenentatge a través de l&#8217;error –recordem que només els rics poden permetre&#8217;s fallar perquè compten amb una xarxa de suport teixida amb la plusvàlua expropiada als seus treballadors (si això ha sonat marxista no us estranyi, ho és); els&nbsp;pobres&nbsp;no poden provar, perquè no té l&#8217;oportunitat de tornar-se a aixecar: com s&#8217;aixecaran una segona vegada si no poden aixecar-se una primera?–, una tesi, la de l&#8217;error com a catapulta cap a l&#8217;èxit final, derivada d&#8217;aquesta altra proposta moral de rics, el pragmatisme&nbsp;a&nbsp;la&nbsp;Dewey, que és extremadament nociva perquè determina que tot fer redunda en el poder establert. I ara que el poder establert està desbocat dotat d&#8217;un fer quasi-miraculós, el fer ha de parar. Ja no podem permetre&#8217;ns eslògans –tots&nbsp;deweyans, per cert– tipus «aprendre fent» o «narrar a través d&#8217;actes» (<em>storydoing</em>)&nbsp;perquè tot fer ens converteix en perdedors. A base de tant fer hem perdut el sentit, i el fer sense sentit és prerrogativa del tirà, com deia el nazi de&nbsp;Schmitt.</p>
+
+
+
+<p>14.1.- Per què «Deixeu de fer»?</p>
+
+
+
+<p>Al començament del segle passat la filosofia es va partir per la meitat, i no em refereixo a la segregació analítica&nbsp;vs.&nbsp;continental, que en el fons parlaven del mateix però en diferents termes, el llenguatge i allò que pot ser enunciat amb propietat, sinó al fet que la interpretació del món s&#8217;obria en dos: o llenguatge o acció. I mentre tots dos corrents van optar pel llenguatge el món, cada vegada més produït per la indústria, va optar per l&#8217;acció.</p>
+
+
+
+<p>I l&#8217;acció, gràcies a la incorporació dels avanços lingüístics de l&#8217;analítica, va acabar per devorar al llenguatge. La programació ha fet saltar per l&#8217;aire tot allò pensat sobre el llenguatge perquè l&#8217;ha convertit en performatiu. Tot llenguatge de programació és performatiu. Per&nbsp;tèlic.</p>
+
+
+
+<p>Fa 120 anys que pensem allò que no és. Allò que no tocava.</p>
+
+
+
+<p>Per això avui toca «Deixar de fer» i començar a pensar això que fem.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/07/17/apunts-etica-de-la-tecnologia-luis-montero/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1481</post-id>	</item>
+		<item>
+		<title>Una antropologia del futur</title>
+		<link>/2020/05/23/una-antropologia-del-futur/</link>
+					<comments>/2020/05/23/una-antropologia-del-futur/#comments</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Fri, 22 May 2020 22:53:13 +0000</pubDate>
+				<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Dejad que las máquinas vengan a mí]]></category>
+		<category><![CDATA[Editorial Enclave]]></category>
+		<category><![CDATA[Luis Montero]]></category>
+		<guid isPermaLink="false">/?p=1250</guid>
+
+					<description><![CDATA[A Dejad que las máquinas vengan a mí, de l'Editorial Enclave, el filòsof Luis Montero es capbussa en l'imaginari simbòlic de la ciència ficció per intentar respondre què és l'ésser humà un cop les màquines ja han penetrat en tots els àmbits de la nostra existència. I per a fer-ho, se serveix del nucli dur de la Filosofia com Descartes, Leibniz, Kant, Hegel o Nietzsche. ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>A <em>Dejad que las máquinas vengan a mí</em>, de l&#8217;Editorial Enclave, el filòsof Luis Montero, <a rel="noreferrer noopener" href="/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/" target="_blank">a qui recentment hem entrevistat</a>, es capbussa en la ciència ficció per intentar respondre què és l&#8217;ésser humà un cop les màquines ja han ancorat a tots els racons de la nostra existència. I, pel camí, se serveix del nucli dur de la Filosofia com Descartes, Leibniz, Kant, Hegel o Nietzsche. </strong></p>
+
+
+
+<p><strong>Montero, a més d&#8217;escriptor, ha estat guia turístic, creatiu publicitari i consultor estratègic. Ha viscut a Madrid, Nova York, Londres, Frankfurt, Marràqueix i Benarés. Ara resideix a Palma. Ha escrit les novel·les de ciència-ficció <em>Artrópodos</em>, <em>Feliz Año Nuevo</em> i <em>Clon</em>, i els assajos d&#8217;ontotecnologia <em>Mundo-hecho</em> i <em><a href="https://www.enclavedelibros.com/libro/dejad-que-las-maquinas-vengan-a-mi_29502" target="_blank" rel="noreferrer noopener">Dejad que las máquinas vengan a mí</a></em>. Per cortesia de l&#8217;Editorial Enclave, us oferim el principi d&#8217;aquest últim llibre.</strong></p>
+
+
+
+<p class="has-text-align-center">En <a rel="noreferrer noopener" href="/una-antropologia-del-futuro/" target="_blank">AQUEST ENLLAÇ</a> el trobareu en castellà, versió original.</p>
+
+
+
+<p></p>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<h3 class="has-text-align-center">PREFACI</h3>
+
+
+
+<p>Fa uns anys van presentar-me com un escriptor de filosofia ficció. Alguna cosa com un autor de ciència-ficció amb vel·leïtats filosòfiques. O com un filòsof prou mandrós com per a centrar-se en la ficció, entesa com el lloc de l&#8217;especulació sense argumentació. I tothom sap que allò complicat de la teoria no és tenir bones idees, aquestes estan pertot arreu, en qualsevol cantonada, en qualsevol text, en qualsevol comentari fugaç sentit pel carrer; no, el complicat de la teoria és compartir les raons que t&#8217;han conduït a una idea. Eludir l&#8217;instintiu que té el coneixement per a traduir-ho en una argumentació que pugui ser compartida. Per què? Perquè a les conclusions&nbsp;de l&#8217;instint d&#8217;un altre és impossible arribar. Però tornant a l&#8217;origen d&#8217;aquest llibre, si haig de justificar-lo per la confluència entre la meva afecció per la ficció científica o per la&nbsp;mandra&nbsp;que justifica prou atreviment com per a construir sobre el treball d&#8217;altres, només puc dir que potser totes dues raons són certes. I, a més, que les dues raons són la mateixa. Un no escriu&nbsp;ficcions&nbsp;en el buit, de la mateixa manera que no té idees especulatives en el buit. I potser per això vaig decidir aprofitar les ficcions que havien escrit uns altres, aquest cop en format pel·lícula, per a introduir les meves idees i els meus arguments. A vegades millors que les mateixes pel·lícules, a vegades no tant.</p>
+
+
+
+<p>Per què el cine? Perquè el cine és una tecnologia intermèdia entre la literatura i la Realitat Virtual (RV). Però, a diferència de la&nbsp;RV, el cine és una tecnologia madura, mentre que l&#8217;altre no va més enllà de promeses inacabades. De fet, aquest aforisme que obre aquest paràgraf no feia referència a l&#8217;origen a la RV sinó als videojocs: el cine, aleshores, era una tecnologia&nbsp;intermèdia entre la literatura i els videojocs. El cine és una tecnologia intermèdia entre la literatura i tot allò que projecti imatges i sigui immersiu, ja siguin aquests els videojocs, les projeccions en 360° o la&nbsp;RV -o&nbsp;allò que vingui després&#8230; El cine és el pont entre avui i el futur i, tot i que mai assolirà aquest futur, sempre l&#8217;atrapa i el sobreviu amb una solvència sorprenent. Avui molta més gent consumeix cine que&nbsp;videojocs, projeccions de 360° o Realitat Virtual. Però no només hi ha un motiu quantitatiu, també n&#8217;hi ha un de qualitatiu. De fet, és la versió a la pantalla gran allò que acredita l&#8217;èxit dels&nbsp;diferents&nbsp;formats: és la superproducció de Hollywood, ben saturada d&#8217;efectes digitals i bandes sonores&nbsp;bombàstiques, la qual cosa confirma el videojoc, la projecció en 3D o la&nbsp;RV&nbsp;com a productes culturals de referència. I és que, com es veurà més endavant, els cadàvers d&#8217;aquest segle&nbsp;XXI gaudeixen d&#8217;una salut excel·lent.</p>
+
+
+
+<p>Per què ciència-ficció? Aquesta pregunta és fàcil de respondre. Perquè la ciència-ficció és un magnífic planter d&#8217;experiments mentals. Molts dels personatges, situacions i mons descrits al cine de ciència-ficció obren infinites possibilitats especulatives que no són altra cosa que experiments mentals. I, des de sempre, aquests escenaris hipotètics que són els&nbsp;experiments&nbsp;mentals han tingut un pes fonamental en la història de la filosofia, i no sols en l&#8217;occidental. Un pes que no ha fet altra cosa que augmentar amb l&#8217;auge de la filosofia analítica. Avui, quasi pot afirmar-se, l&#8217;experiment mental és la forma primera d&#8217;argumentació.</p>
+
+
+
+<p>Per què cinema de ciència-ficció? Perquè, i aquesta és la base&nbsp;fonamental&nbsp;que explica aquest llibre, quan parlem de màquines estem parlant ineludiblement de nosaltres, els humans. I quan ho fem a través del cine, més que parlar, cridem. Tot argument que apareix en format cinematogràfic, que ja ve avalat per una certa popularitat, assoleix una&nbsp;audiència&nbsp;molt major que les novel·les o els videojocs, per exemple. I així, una altra vegada la mandra, els experiments mentals ja han estat explicats a audiències immenses prèviament. Així, molts dels temes i tesis d&#8217;aquest llibre ja han estat discutits abans per moltes persones, la qual cosa sens dubte simplifica l&#8217;esforç&nbsp;argumentatiu&nbsp;a l&#8217;hora de plantejar les meves idees. Sí, sóc mandrós.</p>
+
+
+
+<p>De tot això pot entendre&#8217;s que aquest no és un llibre de crítica cultural. No, és un <em>cultural&nbsp;study</em>. Amb tots els meus respectes cap a aquesta disciplina, que compta amb magnífics autors extremadament&nbsp;rellevants, les seves tesis sempre em resulten una mica arbitràries, perquè podrien donar-se o no independentment del producte&nbsp;cultural&nbsp;analitzat; no, aquest és un llibre d&#8217;allò que podria denominar-se&nbsp;<em>ontologia&nbsp;cultural</em>, l&#8217;intent de respondre a la pregunta «Què sóc?» a través de productes culturals. I no, no és un invent meu. Aquest intent d&#8217;explicar allò que som a través de productes&nbsp;culturals&nbsp;és una cosa que sempre ha fet la metafísica, però passa que aquells productes culturals solien ser altres llibres de metafísica. Perquè sí, aquest és un llibre de metafísica.</p>
+
+
+
+<p>I és que, i aquesta és la tesi que suporta tot el llibre, les màquines són la millor forma d&#8217;autoexploració&nbsp;que ha creat l&#8217;humà. Molt millor que la filosofia. Són un exercici, sovint extremadament candorós, d&#8217;autoconeixement. De fet, incomptables teories de la ment han sorgit a partir d&#8217;arquitectures de <em>hardware</em> i <em>software</em>, especialment durant el segle&nbsp;XX. El llistat d&#8217;influències recíproques entre un i un altre camp, la ciència-ficció i la teoria de la ment, és immens. Les màquines són l&#8217;encarnació d&#8217;aquest experiment mental que som per a nosaltres mateixos. Però no només això. Són una idea de nosaltres mateixos amb capacitat per a transformar-nos a nosaltres mateixos i el món que habitem. Estem en aquest moment en què l&#8217;experiment mental, això que nosaltres creiem sobre nosaltres mateixos, està deixant de ser <em>mental</em> per a convertir-se en <em>real</em>. Són temps interessants aquests.</p>
+
+
+
+<p>És allò que jo he anomenat <em>Mundo-hecho</em> en un altre lloc.</p>
+
+
+
+<p>I, finalment, un breu comentari sobre la selecció de les pel·lícules de ciència-ficció tractades. Tot i que potser la ciència-ficció és el gènere cinematogràfic l&#8217;inici del qual és més fàcil d&#8217;assenyalar, aquell pioner&nbsp;<em>Le&nbsp;Voyage&nbsp;dans&nbsp;la&nbsp;Lune</em>&nbsp;(1902) de&nbsp;Méliès, aquí s&#8217;ha optat per un altre criteri, encara que l&#8217;obra&nbsp;mestra&nbsp;francesa és un magnífic exemple de cine polític. Atès que es tracta de parlar de les màquines com un <em>altre-nosaltres</em>, un tema que no es tracta en l&#8217;obra francesa, la selecció no podia sinó començar amb la també pionera&nbsp;<em>Metropolis</em>&nbsp;(1927) de&nbsp;Lang&nbsp;i acabar amb&nbsp;<em>Blade&nbsp;Runner</em>&nbsp;(2017) de&nbsp;Villeneuve, i no perquè aquesta última és especialment pionera, sinó (1) perquè en introduir la natalitat dins de l&#8217;univers robot sembla que tanca un cercle relatiu a la fusió entre humà i màquina i (2), més pragmàtic, perquè en algun lloc havia d&#8217;acabar la selecció i aquesta fallida continuació del primer&nbsp;<em>Blade&nbsp;Runner</em>&nbsp;(1982) de Scott semblava un punt culminant en la història del gènere. En general he intentat mantenir-me dins de les fronteres del gènere, però a vegades he acabat acostant-me a altres obres que si bé no són directament atribuïbles a la ciència-ficció no estan tan lluny, almenys com a plantejament d&#8217;experiments mentals. Així, al llarg del text apareixeran autors com&nbsp;Buñuel&nbsp;o Lynch. Però, excepte aquestes comptades excepcions, he intentat mantenir-me dins dels límits reconeixibles del gènere. Això sí, les pel·lícules són utilitzades moltes vegades no tant pel que expliquen sinó pel que projecten. Més que pel·lícules vistes, són pel·lícules llegides, si és que això és possible, per a connectar-les amb alguns dels principals problemes metafísics que ens aguaiten des de l&#8217;aparició de les màquines a la nostra vida. Problemes que, d&#8217;altra banda,&nbsp;tampoc han canviat tant.</p>
+
+
+
+<p>Per això <em>Dejad que las máquinas vengan a mi</em> no tracta tant de màquines com de nosaltres. S&#8217;utilitza a les màquines com a mirall d&#8217;allò que som molt més que per a parlar de les màquines en si. I de com les màquines i la transformació del món que provoquen obren un espai especular on veure&#8217;ns reflectits. Poden les màquines promoure aquesta reflexió ontològica? Jo crec que sí. I no només perquè les màquines defineixen un món i a nosaltres, els seus habitants. També perquè les màquines, la seva&nbsp;constitució&nbsp;i fonament, són una projecció del que pensem, són la nostra constitució i fonament. Les màquines, que primer eren una projecció nostra, ara ens reflecteixen. I aquesta imatge és la que es vol analitzar en aquest llibre. Una anàlisi que també és una obligació, les màquines comencen a estar tan prop de nosaltres que ens trobem davant la disjuntiva de rendir-nos al seu assalt contra la idea d&#8217;allò humà o bé de redefinir-nos. El primer capítol investiga aquest assalt en allò que he anomenat el <em>desplaçament ontològic</em> i explora els diferents escenaris en què es pot plantejar aquesta redefinició. El segon analitza les bases per a aquesta nova definició d&#8217;allò que som a partir del <em>Principi de raó suficient</em>, això -sigui el que sigui, i al llarg del llibre es proposen i destil·len diferents alternatives- que ens constitueix com a humans i ens fa diferents de les màquines. El tercer capítol descriu el <em>gir metafísic</em> al qual ens obliga el món&nbsp;maquinitzat, o com les estratègies de definició d&#8217;allò humà, sobretot el llenguatge i els afectes, han estat desmantellades a causa de l&#8217;avanç de la metafísica, fonamentalment des de la meitat del segle passat. El quart explora l&#8217;impacte ontològic de la màquina, a través del qual es redefineixen dos vells debats però no connectats, la relació <em>jo-alteritat</em>&nbsp;d&#8217;una banda i la diatriba entre realisme i&nbsp;antirealisme&nbsp;per una altra, els plantejaments tradicionals del qual&nbsp;han estat superats per la formalització del món a la qual ens ha obligat la màquina, ja que aquesta només pot operar en un món altament formalitzat -allò que a un altre lloc he anomenat <em>món-fet</em>, davant del món donat on fins avui s&#8217;ha mogut tant el món com la metafísica. El cinquè narra l&#8217;assalt de la màquina a l&#8217;últim bastió de l&#8217;humà, la vida i les seves vivències; i com aquest assalt ha estat provocat pel mateix&nbsp;humà en generar allò que he anomenat l&#8217;<em>estrenyiment ontològic</em> d&#8217;això que hi ha, motor inicial de la formalització del món i principal responsable de l&#8217;aparèixer del món avui. I, en l&#8217;últim, esbosso alguna cosa que podria considerar-se un contra-Test de&nbsp;Turing, és a dir, la prova d&#8217;humanitat, una vegada vençuts tots els bastions que ens feien humans i per tant diferents de la resta d&#8217;allò donat, recau en les màquines. Ja no és la nostra feina decidir si una màquina és humana o no sinó que és la màquina la que ha de decidir si som humans o no.</p>
+
+
+
+<p>És cert que molts dels escenaris que es discuteixen al llarg de les pàgines de&nbsp;<em>Dejad&nbsp;que las máquinas vengan a mí</em> estan succeint ara mateix, per la qual cosa la seva definició conceptual moltes vegades és nebulosa. Per aquest motiu, aquest és un assaig que parla d&#8217;allò que som però que no es nega a arriscar-se i parlar d&#8217;allò que podríem ser una vegada ens trobem cara a cara amb una màquina tan capaç com un humà. És per això que és una antropologia del futur, un avançament d&#8217;allò que potser ens espera com a espècie. Una antropologia que busca pensar el demà per a repensar l&#8217;avui, si és que aquestes categories temporals segueixen conservant algun sentit. <em>Dejad&nbsp;que las máquinas vengan a mí</em> és un viatge en el temps, a vegades milers d&#8217;anys cap endarrere i a vegades uns quants cap endavant, per a arribar fins avui. Dit això, m&#8217;agradaria passar als agraïments. En primer lloc, voldria agrair el suport tant afectiu com logístic que m&#8217;ha ofert Laura Durán per a la confecció d&#8217;aquest llibre.</p>
+
+
+
+<p>A més, no puc oblidar-me de les meves filles, amb les qui he vist moltes de les pel·lícules aquí esmentades i els comentaris de les quals moltes vegades m&#8217;han obert els ulls a noves interpretacions i&nbsp;arguments. Sense la seva ajuda moltes de les tesis d&#8217;aquest llibre haurien estat unes altres. I, segurament, pitjors.</p>
+
+
+
+<p>També haig d&#8217;agrair a Albano Cruz la seva participació en les nostres sessions de&nbsp;<em>Tamagotchi</em>, un cicle de conferències que donàvem al voltant del concepte d&#8217;allò humà i les seves modificacions&nbsp;a través de la tecnologia. Moltes de les idees que es plantegen aquí estan estretament vinculades amb allò que vam explicar en aquells&nbsp;CSR&nbsp;de Madrid, Valladolid, Burgos, Vigo&#8230; així com en la mateixa Llibreria Enclave i al Medialab. De fet, aquest llibre és la meva versió d&#8217;aquelles xerrades. O, més ben dit, part d&#8217;aquest llibre és la meva versió d&#8217;aquelles xerrades. D&#8217;allò que vaig aprendre en aquelles xerrades. Des d&#8217;aquí el meu agraïment a tots els qui van suportar les 18 hores de discurs, les tres sessions de 6 hores cadascuna durant les quals Albano i jo tractàvem la fusió de l&#8217;home amb la tecnologia des d&#8217;un prisma lògic, ontològic i ètic; i no sols això: malgrat la nostra retòrica encara tenien ànims per a&nbsp;preguntar, qüestionar i refutar el nostre discurs. Aquest llibre és, en bona mesura, un homenatge a tots aquells assistents. Estic segur que tard o d&#8217;hora Albano escriurà el seu.</p>
+
+
+
+<p>I, per a acabar, vull agrair la perseverança i la fe en mi mateix, moltes vegades superior a les meves pròpies, dels meus editors, María i Pino, cor i pulmó, cervell i sang de l&#8217;Editorial Enclave. Sense ells aquest llibre mai hauria assolit el format llibre i mai ho hauria fet d&#8217;aquesta manera.</p>
+
+
+
+<p>I, per a acabar, gràcies al lector. Perquè, a partir d&#8217;aquest moment, tot el que llegeixi aquí li pertany, ho vulgui o no.</p>
+
+
+
+<p style="font-size:14px">Nota: La traducció és nostra.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/05/23/una-antropologia-del-futur/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1250</post-id>	</item>
+		<item>
+		<title>10 motius per practicar la &#8216;Resistència Digital&#8217;</title>
+		<link>/2020/02/19/10-motius-resistencia-digital/</link>
+					<comments>/2020/02/19/10-motius-resistencia-digital/#comments</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2020 20:48:33 +0000</pubDate>
+				<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Críptica]]></category>
+		<category><![CDATA[Dades]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Edward Snowden]]></category>
+		<category><![CDATA[Identitat digital]]></category>
+		<category><![CDATA[Mòbil]]></category>
+		<category><![CDATA[Privacitat]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Resistencia Digital]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Seguretat]]></category>
+		<category><![CDATA[Smartphone]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[Vigilància]]></category>
+		<category><![CDATA[Vigilància Massiva]]></category>
+		<category><![CDATA[Vigilancia Permanente]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<guid isPermaLink="false">/?p=787</guid>
+
+					<description><![CDATA[Parlem del llibre Resistencia Digital. Manual de seguridad operacional e instrumental para smartphones, escrit pels membres de l'associació Críptica, que apropa a la gent les eines de protecció de la privadesa]]></description>
+										<content:encoded><![CDATA[
+<p>En general, encara ignorem la feixuga motxilla de dades que traginen els nostres petits <em>smartphones</em>, una extensió dels cossos i el nostre principal intermediari amb el món. Però si com el protagonista de <em>Matrix</em> escollim la píldora roja, hi ha un llibre que ens pot obrir els ulls: <em><strong>Resistencia Digital. Manual de seguridad operacional e instrumental para smartphones</strong></em>. <a rel="noreferrer noopener" aria-label="escrit pels membres de l'associació Críptica (opens in a new tab)" href="https://www.criptica.org/" target="_blank">Escrit pels membres de l&#8217;associació Críptica</a>, ens apropa les eines per protegir la informació que generem. És un manual, sí, perquè ofereix solucions tècniques -assequibles-, però sobretot és un assaig: planteja els problemes des de l&#8217;arrel i el context i, així, ens fa entendre que optar per una aplicació o una altra, o compartir cada detall de la nostra vida a les xarxes socials són -com diu el pròleg- <strong>decisions polítiques</strong>. Hi ha molts motius per practicar la &#8216;resistència digital&#8217;, però aquí teniu deu fragments del llibre, que també són deu raons per submergir-s&#8217;hi.</p>
+
+
+
+<ol><li>&#8220;Els mitjans de comunicació, <em>Wikileaks</em> i les xarxes socials&nbsp;van començar a escampar informació sobre les tècniques d&#8217;<strong>espionatge</strong> dels Estats Units i els seus aliats. Aquell degoteig de filtracions encara dura, fins al punt que gairebé s&#8217;han normalitzat les notícies sobre la <strong>vigilància massiva</strong>. Però ningú ha anat a la presó i l&#8217;espionatge continua.&#8221;</li><li>&#8220;Allò rellevant del <strong>telèfon intel·ligent</strong> no és la seva dimensió tecnològica, sinó el seu ús social: es tracta d&#8217;un aparell que portem a tot arreu amb nosaltres, que sol integrar totes les facetes de la persona (treball,&nbsp;amistats, hàbits de consum, activitat política), que serveix com a arxiu de les seves vivències i que concentra gran part (si no la totalitat) del seu <strong>historial relacional</strong>. A hores d&#8217;ara, qualsevol&nbsp;adversari sap que n&#8217;hi ha prou amb fer-se amb el control del telèfon per a accedir a un riu d&#8217;informació rellevant de manera immediata.&#8221;</li><li>&#8220;Seguint la regla d&#8217;or «no existeix una&nbsp;informació més ben protegida que aquella que no arriba a generar-se», has de desenvolupar l&#8217;art de saber quan no produir cap informació.&#8221;</li><li>&#8220;Atrapats com estem en aquest nou paradigma,&nbsp;irremeiablement&nbsp;hem d&#8217;aprendre a moure&#8217;ns en un mitjà que ens és hostil. Se&#8217;ns ha llançat al <strong>tatami&nbsp;cibernètic</strong>&nbsp;sense rebre cap instrucció prèvia, i això ens fa summament vulnerables davant d&#8217;adversaris que són més poderosos, més perseverants i més experimentats que nosaltres.&#8221;</li><li>L&#8217;<strong>anonimat</strong>, com a necessitat diferent de la seguretat o la privacitat, ha estat un recurs necessari en moltes ocasions històriques, actuant com a mesura de&nbsp;prevenció&nbsp;per limitar la superfície d&#8217;atac de l&#8217;adversari: sabut és que no pots colpejar allò que no pots veure. Ho il·lustren&nbsp;a la perfecció les filtracions d&#8217;<a href="/2019/11/16/edward-snowden-project-tor/">Edward&nbsp;Snowden, que va haver de mantenir la seva identitat real en secret</a> per a establir&nbsp;contacte amb la premsa sense cridar l&#8217;atenció de la&nbsp;NSA&nbsp;americana. (&#8230;) Més que «seguretat», l&#8217;anonimat ofereix una protecció similar a la del <strong>camuflatge</strong>, que serveix per allargar la fase d&#8217;identificació prèvia a l&#8217;atac&#8221;.</li><li><span style="font-family: &quot;Nunito Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 1.125rem;">&#8220;L&#8217;ús d&#8217;un terminal mòbil comporta la&nbsp;monitorizació&nbsp;de la localització física aproximada per part del proveïdor i d&#8217;aquells tercers a qui el proveïdor proporcioni accés</span>. Aquesta circumstància ha d&#8217;avaluar-se també des d&#8217;un <strong>punt de vista col·lectiu</strong>. Es pot deduir que dos o més persones es desplacen juntes si els seus telèfons es van connectant a les mateixes antenes al mateix temps quan es mouen.&#8221;</li><li>&#8220;<span style="font-family: &quot;Nunito Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 1.125rem;">Cada any som testimonis de com diversos proveïdors pateixen <strong>atacs i bretxes de seguretat</strong> en què es veuen&nbsp;compromeses centenars de milers de contrasenyes: <strong>Adobe,&nbsp;LinkedIn, PlayStation</strong>&#8230; No reutilitzar claus et protegeix fins i tot en cas que un atacant arribi a descobrir quina és la teva contrasenya en un servei, de manera que no pugui utilitzar-la per a accedir als teus altres comptes. Si, per contra, tens una mateixa clau que utilitzes per a tot, en cas que algú l&#8217;aconseguís guanyaria un accés integral a la teva </span><strong><span style="font-family: &quot;Nunito Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 1.125rem;">identitat <em>online</em></span>.</strong>&#8220;</li><li>&#8220;Una aplicació pot arribar a accedir a pràcticament tota la informació i sensors del nostre telèfon si té els <strong>permisos adequats</strong>: identitat, contactes, informació del wifi, localització GPS, SMS, trucades i fins i tot micròfon o càmera. La informació que recopila una aplicació és per tant molt major, i com a usuaris hem de decidir amb cura quines aplicacions tenen accés a quines dades en el nostre&nbsp;telèfon.&#8221; </li><li>&#8220;Existeixen diverses eines que relacionen els teus «m&#8217;agrada» o&nbsp;retuits&nbsp;amb moviments socials o ideologies&nbsp;polítiques&nbsp;afines, i això li concedeix un poder més gran al teu adversari. Com més informació generes, més fàcil és situar-te en una <strong>base de dades ideològica</strong> ben detallada, tenint en compte el teu rang d&#8217;edat, ciutat i cercle social. O pitjor encara, també existeixen eines <em>online</em> que es dediquen a classificar tota la informació que hagis generat en els teus perfils perquè amb un sol clic quedi exposada per categories.&#8221;</li><li>En la&nbsp;missatgeria&nbsp;instantània, &#8220;si algú pren la decisió personal de no protegir-se, la seva decisió individual repercuteix <em>ipso facto</em> en la seguretat i&nbsp;privadesa&nbsp;del conjunt de comunitats de les quals forma part. <strong>La seguretat és un esport d&#8217;equip</strong>: intentem que tot el nostre entorn habiliti un codi de desbloqueig i xifri l&#8217;aparell per evitar que terceres persones puguin accedir al seu contingut, que en bona part serà contingut que pot exposar la seva xarxa de contactes.&#8221;</li></ol>
+
+
+
+<p class="has-small-font-size">Nota: La traducció és nostra.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/19/10-motius-resistencia-digital/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">787</post-id>	</item>
+	</channel>
+</rss>

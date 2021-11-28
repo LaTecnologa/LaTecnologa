@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: OpenAI allibera un generador intel·ligent de text que considerava massa perillós	</title>
+	<atom:link href="/2019/11/12/openai-allibera-un-generador-intelligent-de-text-que-considerava-massa-perillos/feed/" rel="self" type="application/rss+xml" />
+	<link>/2019/11/12/openai-allibera-un-generador-intelligent-de-text-que-considerava-massa-perillos/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 23 May 2020 11:28:52 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Per: Intel·ligència Artificial: dilemes ètics del 2020 &#8211; La Tecnòloga		</title>
+		<link>/2019/11/12/openai-allibera-un-generador-intelligent-de-text-que-considerava-massa-perillos/#comment-48</link>
+
+		<dc:creator><![CDATA[Intel·ligència Artificial: dilemes ètics del 2020 &#8211; La Tecnòloga]]></dc:creator>
+		<pubDate>Sat, 23 May 2020 11:28:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=312#comment-48</guid>
+
+					<description><![CDATA[[&#8230;] enllà de les imatges, els generadors de textos intel·ligents també penetren al mercat. El nivell de sofisticació d&#8217;alguns sistemes és tan gran que ja hi ha hagut polèmica per [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] enllà de les imatges, els generadors de textos intel·ligents també penetren al mercat. El nivell de sofisticació d&#8217;alguns sistemes és tan gran que ja hi ha hagut polèmica per [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Google &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/google/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Google &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Xnet denuncia que Educació esquiva l&#8217;acord contra la &#8216;googleització&#8217; de les aules catalanes</title>
+		<link>/2020/07/29/xnet-denuncia-que-educacio-esquiva-lacord-contra-la-googleitzacio-de-les-aules-catalanes/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2020 17:48:40 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Suite]]></category>
+		<category><![CDATA[Xnet]]></category>
+		<guid isPermaLink="false">/?p=1537</guid>
+
+					<description><![CDATA[L&#8217;acord per buscar una alternativa al paquet d&#8217;aplicacions de Google Suite a les aules que va signar el juny el Departament d&#8217;Educació de la Generalitat&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>L&#8217;acord per buscar una alternativa al paquet d&#8217;aplicacions de Google Suite a les aules que va signar el juny el Departament d&#8217;Educació de la Generalitat amb la plataforma d&#8217;activistes Xnet pot haver quedat en paper mullat. Així ho ha denunciat aquest dimecres el col·lectiu defensor dels drets digitals <a rel="noreferrer noopener" href="https://xnet-x.net/digitalizacion-democratica-centros-educativos-cataluna/" target="_blank">en un comunicat</a>: segons Xnet, el nou pla de digitalització no inclou el compromís de revisar el programari i els servidors dels centres educatius catalans i no mostra cap intenció de buscar una alternativa al gegant Google, que al febrer va ser acusat per la Fiscalia de Nou Mèxic (EEUU) de recopilar dades dels alumnes de manera il·legal.  La preocupació és si la multinacional estaria accedint a un mercat de dades personals -com les capacitats intel·lectuals o els fracassos escolars de cada alumne, per posar-ne alguns exemples- dels menors. </p>
+
+
+
+<p>El &#8216;<a rel="noreferrer noopener" href="https://xnet-x.net/privacidad-datos-digitalizacion-democratica-educacion-sin-google/" target="_blank">Pla per a la digitalització democràtica dels centres educatius</a>&#8216; és, d&#8217;acord amb Xnet, el resultat d&#8217;un any de converses amb el Departament d&#8217;Educació amb l&#8217;objectiu d&#8217;impulsar una digitalització democràtica de les escoles. La proposta reclama que la comunitat educativa tingui el control de les pròpies dades, que la privacitat quedi garantida, que s&#8217;impulsi la capacitació digital puntera i l&#8217;ús de programari lliure. A diferència de les eines de Microsoft i Google, el programari lliure, a més de ser gratuït, permet a la comunitat de programadors accedir al codi font per tal d&#8217;auditar quines dades s&#8217;emmagatzemen, l&#8217;ús que se&#8217;n fa d&#8217;aquestes i si existeixen riscos de privacitat o seguretat per als estudiants.</p>
+
+
+
+<p>&#8220;Hem de denunciar una submissió innecessària a les pressions corporatives tant dels qui volen afavorir el monocultiu de multinacionals com Google i el seu <em>G Suite for Education</em>, com dels qui tenen interessos clientelars amb els diversos Departaments i volen impedir la diversitat i una digitalització que permeti florir més innovació a Catalunya i més llocs de feina que no depenguin del seu control&#8221;, diu Xnet al comunicat, on expliquen que compten amb el suport de la <a rel="noreferrer noopener" href="https://fapac.cat/" target="_blank">FaPaC</a>&nbsp;(Federació d’Associacions de Mares i Pares d’Alumnes de Catalunya),  l&#8217;<a rel="noreferrer noopener" href="https://www.sindicat.net/" target="_blank">USTEC</a>&nbsp;(Sindicat de treballadores i treballadors de l’ensenyament de Catalunya) i el <a rel="noreferrer noopener" href="https://www.sepc.cat/" target="_blank">SEPC</a>&nbsp;(Sindicat d’Estudiants dels Països Catalans).</p>
+
+
+
+<p>Xnet i<a rel="noreferrer noopener" href="https://maadix.net/es" target="_blank"> Maadix</a> -companyia especialitzada en solucions de codi obert, la privacitat de les comunicacions i la seguretat de les dades per a persones sense coneixements tècnics- van plantejar una sèrie d&#8217;aplicacions adaptades a les necessitats de la comunitat educativa auditables i de codi lliure i obert. La idea del col·lectiu és &#8220;<a rel="noreferrer noopener" href="https://xnet-x.net/privacidad-datos-digitalizacion-democratica-educacion-sin-google/" target="_blank">crear un cercle virtuós</a>&#8221; actualitzant i adaptant aquestes eines, algunes de les quals poc àgils i insuficients, per tal d&#8217;afavorir eines més ètiques i transparents que G Suite. Així mateix, el Pla, que segons Xnet, només l&#8217;1% del pressupost anunciat per Educació per a la digitalització, proposa capacitar les empreses catalanes per donar resposta a les necessitats educatives sense haver de recórrer a multinacionals poc respectuoses amb la privacitat. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1537</post-id>	</item>
+		<item>
+		<title>Visita virtual a set museus del món</title>
+		<link>/2020/04/17/visita-virtual-a-set-dels-millors-museus-del-mon/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2020 20:13:54 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Art]]></category>
+		<category><![CDATA[Museus virtuals]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Street View]]></category>
+		<guid isPermaLink="false">/?p=982</guid>
+
+					<description><![CDATA[Per què no repassar els vestits de Frida Kahlo des del llit? O submergir-se en la mirada de la Mona Lisa des del sofà? O viatjar a l'Índia a través dels seus vestigis artístics amb un clic?]]></description>
+										<content:encoded><![CDATA[
+<p>Per què no repassar l&#8217;art de Frida Kahlo des del llit? O submergir-se en la mirada de la Mona Lisa des del sofà? O viatjar a l&#8217;Índia a través dels seus vestigis artístics amb un clic? La pandèmia mundial no ha aconseguit tancar els museus que ofereixen <em>tours</em> virtuals, gràcies a eines com Google Arts &amp; Culture i Street View. Aquí teniu set propostes per assaborir centenars d&#8217;obres artístiques del més al nivell sense sortir de casa ni pagar un cèntim.</p>
+
+
+
+<h3>El Museu de Frida Kahlo (La Casa Azul, Ciutat de Mèxic)</h3>
+
+
+
+<p>La Casa Azul és on Frida Kahlo, l&#8217;artista mexicana més popular del món, va viure i exhalar l&#8217;últim alè. Amb Diego Rivera, el seu marit, van omplir l&#8217;edifici de colors i peces d&#8217;art popular. Kahlo va fer de la llar el seu univers creatiu, i entre aquestes parets reposen molts dels seus objectes personals i algunes de les obres més importants de l&#8217;artista, com Viva la Vida (1954), Frida y la cesárea (1931) o Retrato de mi padre Wilhem Kahlo (1952).</p>
+
+
+
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="https://artsandculture.google.com/partner/museo-frida-kahlo" target="_blank">Visita virtual a La Casa Azul</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i0.wp.com/tecnologa.cat/wp-content/uploads/2020/04/frida-ok-1-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1047" srcset="/wp-content/uploads/2020/04/frida-ok-1-scaled.jpg 2560w, /wp-content/uploads/2020/04/frida-ok-1-300x179.jpg 300w, /wp-content/uploads/2020/04/frida-ok-1-1024x610.jpg 1024w, /wp-content/uploads/2020/04/frida-ok-1-768x457.jpg 768w, /wp-content/uploads/2020/04/frida-ok-1-1536x914.jpg 1536w, /wp-content/uploads/2020/04/frida-ok-1-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>La Casa Azul, Museu de Frida Kahlo.</figcaption></figure>
+
+
+
+<h3>Galeria dels Uffizi (Florència)</h3>
+
+
+
+<p>La Galeria Uffizi és un dels temples de la cultura europea que més pateix la massificació, amb sales plenes a vessar i cues infinites a l&#8217;entrada. Però res d&#8217;això incordiarà els visitants virtuals, que poden repassar des de casa les pintures de Botticelli, Leonardo i Caravaggio i un arxiu de més de 4.000 obres catalogades. </p>
+
+
+
+<p class="has-text-align-center"><a href="https://artsandculture.google.com/partner/uffizi-gallery" target="_blank" rel="noreferrer noopener">Visita virtual a la Galeria Uffizi</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i2.wp.com/tecnologa.cat/wp-content/uploads/2020/04/botticelli-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1003" srcset="/wp-content/uploads/2020/04/botticelli-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/botticelli-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/botticelli-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/botticelli-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/botticelli-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/botticelli-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>El naixement de Venus<br>Sandro Boticelli &#8211; 1482-1485</figcaption></figure>
+
+
+
+<h3>Museu Van Gogh (Àmsterdam)</h3>
+
+
+
+<p>Els usuaris poden visualitzar les pinzellades del postimpressionista holandès a cop de clic, endinsar-se en la seva biografia i passejar virtualment per la famosa Habitació d&#8217;Arlès i el gran ventall d&#8217;escenaris que va plasmar sobre tela. Vincent Van Gogh només va aconseguir vendre un sol quadre mentre vivia. Mai va imaginar-se que es convertiria en un dels artistes més influents del segle XX i que el seu museu atrauria cada any milions de visitants.</p>
+
+
+
+<p class="has-text-align-center"><a href="https://artsandculture.google.com/partner/van-gogh-museum?hl=en" target="_blank" rel="noreferrer noopener">Visita virtual al Museu Van Gogh</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/04/vangogh-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1004" srcset="/wp-content/uploads/2020/04/vangogh-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/vangogh-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/vangogh-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/vangogh-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/vangogh-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/vangogh-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Terrassa de cafè de nit<br>Vincent Van Gogh &#8211; 1888</figcaption></figure>
+
+
+
+<h3>Museu Bhau Daji Lad (Bombai, Índia)</h3>
+
+
+
+<p>Mapes, litografies, relíquies arqueològiques i models d&#8217;argila és només una petita porció d&#8217;allò que trobarà l&#8217;espectador al Bhau Daji Lad, un dels museus més antics d&#8217;aquesta regió índia que mostra el seu patrimoni cultural i històric a través d&#8217;una estranya i bella col·lecció d&#8217;arts decoratives que, a més, fan evident que el país va acollir un precoç art modern. </p>
+
+
+
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="https://artsandculture.google.com/partner/dr-bhau-daji-lad-mumbai-city-museum" target="_blank">Visita virtual al Bhau Daji Lad</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i0.wp.com/tecnologa.cat/wp-content/uploads/2020/04/india-ok-1-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1048" srcset="/wp-content/uploads/2020/04/india-ok-1-scaled.jpg 2560w, /wp-content/uploads/2020/04/india-ok-1-300x179.jpg 300w, /wp-content/uploads/2020/04/india-ok-1-1024x610.jpg 1024w, /wp-content/uploads/2020/04/india-ok-1-768x457.jpg 768w, /wp-content/uploads/2020/04/india-ok-1-1536x914.jpg 1536w, /wp-content/uploads/2020/04/india-ok-1-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Una de les sales del museu.</figcaption></figure>
+
+
+
+<h3>Museu Britànic (Londres)</h3>
+
+
+
+<p>La visió de 360 graus d&#8217;aquest <em>tour</em> virtual ens permet assaborir de prop la Pedra Rosetta, les mòmies egípcies i altres meravelles de l&#8217;Antiguitat. Els risc és perdre&#8217;s sota l&#8217;allau de coneixement que regala un museu que aixopluga dos milions d&#8217;anys d&#8217;història i quatre milions d&#8217;objectes que invoquen l&#8217;herència artística de tota la humanitat. </p>
+
+
+
+<p class="has-text-align-center"><a href="https://blog.britishmuseum.org/how-to-explore-the-british-museum-from-home/" target="_blank" rel="noreferrer noopener">Visita virtual al Museu Britànic</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i0.wp.com/tecnologa.cat/wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-990" srcset="/wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-scaled.jpg 2560w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-300x179.jpg 300w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-1024x610.jpg 1024w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-768x457.jpg 768w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-1536x914.jpg 1536w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Mòmia egípcia</figcaption></figure>
+
+
+
+<h3>Museu Dalí (Figueres)</h3>
+
+
+
+<p>El surrealisme a un clic. La Fundació Dalí ofereix un recorregut virtual i interactiu per l&#8217;interior del museu que ens permet submergir-nos en l&#8217;univers oníric d&#8217;aquest artista clau del segle XX. El recorregut tridimensional ens convida a mirar terra i sostre, on s&#8217;hi amaguen algunes sorpreses, i ens permet crear el nostre propi itinerari per recórrer 11 sales d&#8217;un edifici fascinant.</p>
+
+
+
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="https://www.salvador-dali.org/es/museos/teatro-museo-dali-de-figueres/visita-virtual/" target="_blank">Visita virtual al Museu Dalí</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/04/dali-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1006" srcset="/wp-content/uploads/2020/04/dali-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/dali-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/dali-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/dali-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/dali-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/dali-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Nen geopolític vigilant el naixement de l’home nou<br>Salvador Dalí &#8211; 1943</figcaption></figure>
+
+
+
+<h3>Museu del Louvre (París)</h3>
+
+
+
+<p>Referents artístics de l&#8217;impressionisme, les belles arts més estudiades i escultures emblemàtiques descansen dins les parets d&#8217;aquest museu meravellós. El somriure de la Gioconda ha captivat durant segles a visitants dels cinc continents i veure-la al museu sense caps tapant la seva imatge és quasi una missió impossible. El web del Louvre ofereix visites guiades virtuals per disfrutar del museu sense trencar la quarantena.</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.louvre.fr/en/visites-en-ligne#tabs" target="_blank" rel="noreferrer noopener">Visita virtual al Louvre</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/04/monalisa-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1007" srcset="/wp-content/uploads/2020/04/monalisa-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/monalisa-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/monalisa-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/monalisa-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/monalisa-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/monalisa-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Mona Lisa (La Gioconda)<br>Leonardo da Vinci &#8211; 1503-1505</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">982</post-id>	</item>
+		<item>
+		<title>Google posa fi a les &#8216;cookies&#8217;, l&#8217;eina que rastreja els usuaris</title>
+		<link>/2020/01/15/google-elimina-chrome-cookies-privadesa/</link>
+					<comments>/2020/01/15/google-elimina-chrome-cookies-privadesa/#respond</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 15 Jan 2020 21:14:20 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Cookies]]></category>
+		<category><![CDATA[Galetes]]></category>
+		<category><![CDATA[GDPR]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Chrome]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Publicitat]]></category>
+		<guid isPermaLink="false">/?p=654</guid>
+
+					<description><![CDATA[Google elimina les cookies, l'eina que rastreja els usuaris, però crearà eines alternatives que poden convertir-la en un intermediari encara més poderós]]></description>
+										<content:encoded><![CDATA[
+<h2>La companyia crearà eines alternatives que poden convertir-la en un intermediari de la publicitat digital encara més poderós</h2>
+
+
+
+<p>Google Chrome eliminarà les ‘cookies’ o galetes publicitàries -que segueixen els usuaris d&#8217;una web a una altra i rastregen els seus hàbits de navegació-, tal com ja han fet Microsoft, Mozilla Firefox i Safari d&#8217;Apple. Ho ha anunciat Justin Schuh, el director d&#8217;enginyeria del navegador, en una entrada al blog titulada &#8216;<a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://blog.chromium.org/2020/01/building-more-private-web-path-towards.html" target="_blank">Construir una web més privada; un camí perquè les galetes de tercers quedin obsoletes</a>&#8216;. I ja ha fixat data: el 2022.</p>
+
+
+
+<p>Les <em>cookies</em> de tercers són importantíssimes per la indústria publicitària i editorial des de fa 25 anys. Són petits arxius de text que donen informació als venedors de les pàgines web que un usuari visita i, d’aquesta manera, els permet personalitzar els anuncis en línia. </p>
+
+
+
+<h3>Google en sortirà reforçat</h3>
+
+
+
+<p>El principal negoci de Google és la publicitat, i les <em>cookies</em> són un pilar d&#8217;aquest negoci. Però com moltes de les reformes favorables a la privacitat que s’estan introduïnt a Europa i als Estats Units, aquesta mesura pot reforçar encara més Google, que ja ha acumulat grans quantitats de dades internes dels seus usuaris. I la informació és poder.</p>
+
+
+
+<p>El propi enginyer de Chrome explica que desenvoluparan eines alternatives per mantenir webs amb publicitat. Unes alternatives que poden convertir Chrome en un intermediari encara més important per a la publicitat, <a rel="noreferrer noopener" aria-label="segons el Financial Times (opens in a new tab)" href="https://www.ft.com/content/1f56591e-36e1-11ea-a6d3-9a26f8c3cba4" target="_blank">segons el Financial Times</a>, en mantenir la informació sobre els usuaris, i podent compartir-la selectivament amb altres empreses. </p>
+
+
+
+<p>David Tomàs, CEO de Cyberclick, explica <a rel="noreferrer noopener" aria-label="al Popap que Google vol un sistema centralitzat (opens in a new tab)" href="https://www.ccma.cat/catradio/alacarta/popap/google-anuncia-que-eliminara-les-cookies-de-la-publicitat-digital/audio/1060533/" target="_blank">al Popap que Google vol un sistema centralitzat</a>, on tota la informació quedi sota el seu control i evitar sistemes que titlla d'&#8221;opacs&#8221; com els d&#8217;empremta digital de navegador (<em>fingerprinting</em>), que registren les característiques del navegador web de l&#8217;usuari -com el tamany de la pantalla- sense que ho sàpiga.</p>
+
+
+
+<h3>Un gegant sota la lupa</h3>
+
+
+
+<p>La mesura s&#8217;anuncia quan l&#8217;autoritat de protecció de dades d&#8217;Irlanda investiga el negoci de publicitat en línia de Google i la pràctica de les ofertes en temps real a petició de Brave, <a href="https://www.ara.cat/media/Brave-navegador-web-valent_0_2352964838.html">un nou navegador que inclou de sèrie funcions avançades de privadesa i bloqueig de publicitat</a>.</p>
+
+
+
+<p>Tot i així, Chrome <em>ven</em> la mesura<a href="https://blog.chromium.org/2020/01/building-more-private-web-path-towards.html"> com una resposta lògica als clams dels usuaris per una privacitat més sòlida a la xarxa</a>: &#8220;Els usuaris exigeixen una major privadesa (inclosa la transparència, decisió i control sobre com s&#8217;utilitzen les seves dades) i està clar que l&#8217;ecosistema web ha d&#8217;evolucionar per satisfer aquestes demandes creixents&#8221;, escriu Schuh.</p>
+
+
+
+<h3><strong>Una il·legalitat generalitzada</strong></h3>
+
+
+
+<p>Investigadors de l&#8217;Institut Tecnològic de Massachusetts (MIT) i altres universitats punteres <a rel="noreferrer noopener" aria-label="han publicat un estudi conjunt sobre l'ús de les cookies (opens in a new tab)" href="https://www.bbc.com/news/technology-51106526" target="_blank">han publicat un estudi conjunt sobre l&#8217;ús de les <em>cookies</em></a>, que no en surten ben parades. Les lleis de privadesa de la Unió Europea estableixen que el consentiment de seguiment de l&#8217;usuari ha de ser informat i donat lliurement. Tot i així, l&#8217;estudi suggereix que només un 11,8% dels llocs compleixen els requisits mínims del Reglament General de Protecció de Dades (GDPR).</p>
+
+
+
+<p>A més, els investigadors es van trobar amb tota mena d&#8217;estratègies per confondre l&#8217;usuari a l&#8217;hora de demanar el consentiment a l&#8217;ús de les galetes. Per exemple, van topar amb opcions d&#8217;acceptació premarcades, botons de denegació del consentiment amagats o que requerien molts clics per marcar-los o, directament, pàgines que feien seguiment abans de demanar el consetiment o, fins i tot, un cop denegat. </p>
+
+
+
+<p>En total, més de la meitat dels llocs analitzats no tenien l&#8217;opció de rebutjar el seguiment. I dels que la tenien, només un 12,6% permetien rebutjar-lo amb igual o inferior nombre de clics necessaris per acceptar-les.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/01/15/google-elimina-chrome-cookies-privadesa/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">654</post-id>	</item>
+		<item>
+		<title>La majoria de nord-americans se senten constantment vigilats</title>
+		<link>/2019/11/20/estats-units-vigilancia-ine-espanya/</link>
+					<comments>/2019/11/20/estats-units-vigilancia-ine-espanya/#respond</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2019 11:08:48 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Cambridge Analytica]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[INE]]></category>
+		<category><![CDATA[Pew Research]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Simona Levi]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[Vigilància]]></category>
+		<guid isPermaLink="false">/?p=391</guid>
+
+					<description><![CDATA[L’estudi de mobilitat de l’Institut Nacional d’Estadística ha fet saltar l’alarma a l’Estat espanyol]]></description>
+										<content:encoded><![CDATA[
+<h2>L&#8217;estudi de mobilitat de l&#8217;Institut Nacional d&#8217;Estadística ha fet saltar l&#8217;alarma a l&#8217;Estat espanyol</h2>
+
+
+
+<p>Arrenca el tercer dia en què l&#8217;Institut Nacional d&#8217;Estadística (INE) pren nota de la localització dels mòbils de Vodafone, Movistar i Orange per estudiar els moviments habituals a les zones més concorregudes. L&#8217;INE diu que no obté dades personals dels mòbils i que no sap ni el número, ni el nom dels propietaris. Alguns científics, com Núria Oliver, que també és assessora de Vodafone i membre de la Comissió Europea sobre Compartició de Dades entre Govern i Empresa, han defensat la necessitat d&#8217;aquesta iniciativa. Oliver considera que la recopilació de dades <a rel="noreferrer noopener" aria-label="han defensat la necessitat d'aquesta iniciativa per &quot;generar valor&quot; (s'obre en una nova pestanya)" href="https://elpais.com/tecnologia/2019/11/18/actualidad/1574070599_681970.html?prod=REGCRART&amp;o=cerrado&amp;event=okregistro&amp;event_log=oklogin" target="_blank">&#8220;genera valor&#8221; i sosté que s&#8217;ha creat un &#8220;alarmisme innecessari&#8221;</a>. Però això no ha tranquil·litzat a molts ciutadans, ni els activistes de drets digitals, ni les associacions de consumidors, que denuncien que, en la pràctica, se sotmetrà la gent a una vigilància massiva.</p>
+
+
+
+<p>A l&#8217;altre costat de l&#8217;Atlàntic, la sensació de viure sota una vigilància permanent està avalada per les xifres d&#8217;<a rel="noreferrer noopener" href="https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/" target="_blank">un estudi recent del Pew Research Center</a>, segons el qual més del 60% dels nord-americans creuen que no és possible viure al marge del seguiment de les empreses o el govern. D&#8217;acord amb la recerca, la majoria d&#8217;enquestats pensen que les seves activitats en línia i fora de línia són rastrejades i controlades amb certa regularitat. </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="324" height="446" src="/wp-content/uploads/2019/11/image-4.png" alt="" class="wp-image-417" srcset="/wp-content/uploads/2019/11/image-4.png 324w, /wp-content/uploads/2019/11/image-4-218x300.png 218w" sizes="(max-width: 324px) 100vw, 324px" /></figure>
+
+
+
+<p><strong>Sense control</strong></p>
+
+
+
+<p>Per altre costat, el 80% dels nord-americans considera que tenen poc o cap control sobre la gestió de la seva informació personal per part de les empreses. De fet, no només pensen, encertadament, que certes companyies recol·lecten les seves dades. No els agrada. Els productes i serveis basats en dades es comercialitzen sovint amb l&#8217;argument d&#8217;estalviar temps i diners als usuaris. Tot i així, gran part dels adults dels Estats Units no creuen que se&#8217;n beneficiaran: al voltant d&#8217;un 81% afirmen que els riscos superen els avantatges i un 66% diu el mateix sobre el govern. </p>
+
+
+
+<p>A més a més, el 79% dels participants en l&#8217;estudi pensen que les empreses no admetran errors ni es faran responsables d&#8217;un mal ús de la informació personal, mentre que el 69% afirma que té aquesta mateixa manca de confiança pel que fa al govern.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="436" height="463" src="/wp-content/uploads/2019/11/image-5.png" alt="" class="wp-image-418" srcset="/wp-content/uploads/2019/11/image-5.png 436w, /wp-content/uploads/2019/11/image-5-283x300.png 283w" sizes="(max-width: 436px) 100vw, 436px" /></figure>
+
+
+
+<p>La recerca de Pew Research també plasma el sentiment col·lectiu que la seguretat de les dades es veu més compromesa ara que en el passat.&nbsp;Quan es pregunta als enquestats si pensen que la seva informació personal és més o menys segura que fa cinc anys, el 70% dels adults es decanten per la segona opció, i només el 6% per la primera.</p>
+
+
+
+<p><strong>L&#8217;origen de la desconfiança</strong></p>
+
+
+
+<p>Als Estats Units, les alarmes van saltar amb l&#8217;escàndol de <a rel="noreferrer noopener" aria-label="Cambridge Analytica, que va accedir a les dades de milions d’usuaris de Facebook (s'obre en una nova pestanya)" href="https://www.netflix.com/es-en/title/80117542" target="_blank">Cambridge Analytica, que va accedir a les dades de milions d’usuaris de Facebook</a> i les va utilitzar per crear continguts a mida per manipular els votants. La setmana passada, <a rel="noreferrer noopener" href="https://www.ccma.cat/catradio/alacarta/popap/google-te-acces-a-les-dades-mediques-de-milions-de-nord-americans/audio/1054666/" target="_blank">Google va accedir a les dades mèdiques de milions de nord-americans</a>. Però aquí també passa. Les nostres aplicacions coneixen la nostra ubicació i no la mantenen en secret. Recullen dades sobre el pes, <a aria-label="els cicles menstruals i l'estat de l'embaràs i comparteixen informació sensible (s'obre en una nova pestanya)" rel="noreferrer noopener" href="https://www.eldiario.es/tecnologia/Hola-app-menstruacion-vendiendo_0_940706659.html" target="_blank">els cicles menstruals i l&#8217;estat de l&#8217;embaràs i comparteixen informació sensible</a> a empreses. La tecnologia del reconeixement facial ja ha entrat als <a aria-label="Google va accedir a les dades mèdiques de milions de nord-americans (s'obre en una nova pestanya)" href="/2019/10/07/reconeixement-facial/">aeroports de tot el món i a les escoles catalanes</a>. I aquests són només alguns exemples.  </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="419" height="403" src="/wp-content/uploads/2019/11/image-6.png" alt="" class="wp-image-420" srcset="/wp-content/uploads/2019/11/image-6.png 419w, /wp-content/uploads/2019/11/image-6-300x289.png 300w" sizes="(max-width: 419px) 100vw, 419px" /></figure>
+
+
+
+<p>Malgrat la desconfiança s&#8217;ha instal·lat al cor dels ciutadans, s&#8217;han fet alguns moviments per protegir la privacitat. La recopilació d&#8217;informació sanitària de Google <a rel="noreferrer noopener" aria-label="ha disparat una investigació federal (s'obre en una nova pestanya)" href="https://www.wsj.com/articles/behind-googles-project-nightingale-a-health-data-gold-mine-of-50-million-patients-11573571867" target="_blank">ha disparat una investigació federal</a>. El fiscal general de Califòrnia ha estat <a rel="noreferrer noopener" aria-label="investigant Facebook per infraccions de privacitat (s'obre en una nova pestanya)" href="https://www.cnbc.com/2019/11/06/california-ag-says-facebook-failed-to-comply-with-privacy-investigation.html" target="_blank">investigant Facebook per infraccions de privacitat</a>. </p>
+
+
+
+<p>Més a prop, activistes com Simona Levi, fundadora d&#8217;Xnet, treballen per <a rel="noreferrer noopener" aria-label="evitar que s'utilitzi a la gent com a conillets d'Índies (s'obre en una nova pestanya)" href="https://www.vilaweb.cat/noticies/moviments-rastrejats-opinio-simona-levi/" target="_blank">evitar que s&#8217;utilitzi a la gent &#8220;com a conillets d&#8217;Índies</a>&#8221; en allò que consideren experiments de vigilància massiva. La privadesa de les nostres dades és més que mai sobre la taula. Tot i així, és cert que el consumidor mitjà no pot actuar sobre la recollida d&#8217;informació personal i tot fa pensar que passarà un temps abans que això no canviï. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/20/estats-units-vigilancia-ine-espanya/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">391</post-id>	</item>
+	</channel>
+</rss>

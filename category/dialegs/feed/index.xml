@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Diàlegs &#8211; La Tecnòloga</title>
+	<atom:link href="/category/dialegs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Diàlegs &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Teresa López-Pellisa, enderrocant el masclisme des de la cibercultura</title>
+		<link>/2020/09/18/teresa-lopez-pellisa-enderrocant-masclisme-cibercultura/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2020 17:39:52 +0000</pubDate>
+				<category><![CDATA[Diàlegs]]></category>
+		<category><![CDATA[Ciberfeminisme]]></category>
+		<category><![CDATA[Ciència ficció]]></category>
+		<category><![CDATA[Destacat]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[ginoides]]></category>
+		<category><![CDATA[Las Otras. Antología de mujeres artificiales]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[Science Fiction]]></category>
+		<category><![CDATA[Teresa López-Pellisa]]></category>
+		<guid isPermaLink="false">/?p=1601</guid>
+
+					<description><![CDATA[Entrevista a Teresa López-Pellisa, professora de Literatura a la Universitat de les Illes Balears (UIB), membre del Grup d’Estudis sobre el Fantàstic de la Universitat Autònoma de Barcelona (UAB) i és coneguda pel seu treball vinculat a la cibercultura, la ciència-ficció i el feminisme. Ha editat, entre altres títols, Las Otras: Antología de mujeres artificiales (2018), Distópicas i Poshumanas (2018) i Ciberfeminismo. De VNS Matrix a Laboria Cuboniks (2019). També és autora d’Insólitas: Narradoras de lo fantástico en Latinoamérica y España (2019), Historia de la ciencia ficción en la cultura española (2018)]]></description>
+										<content:encoded><![CDATA[
+<h3>López-Pellisa és professora de Literatura a la Universitat de les Illes Balears (UIB), membre del Grup d’Estudis sobre el Fantàstic de la Universitat Autònoma de Barcelona (UAB) i és coneguda pel seu treball vinculat a la cibercultura, la ciència-ficció i el feminisme. Ha editat, entre altres títols, <em>Las Otras: Antología de mujeres artificiales</em> (2018), <em>Distópicas </em>i<em> Poshumanas</em> (2018) i <em>Ciberfeminismo. De VNS Matrix a Laboria Cuboniks</em> (2019). També és autora d’<em>Insólitas: Narradoras de lo fantástico en Latinoamérica y España</em> (2019), <em>Historia de la ciencia ficción en la cultura española</em> (2018)</h3>
+
+
+
+<p>El cíborg ha burlat els límits de la ciència-ficció per convertir-se en la nova definició de l’ésser humà: com a espècie, hem creat artificialment el món que habitem i, alhora, hem modificat la naturalesa per adaptar-la al nostre mode de vida. I, en aquest context, la tecnologia també pot servir a causes emancipadores. Aquesta idea teixeix els escrits reunits per Teresa López-Pellisa i Remedios Zafra a l’antologia <a rel="noreferrer noopener" href="https://edicionesholobionte.com/ciberfeminismo-remedios-zafra-y-teresa-lopez-pellisa-eds/" target="_blank"><em>Ciberfeminismo. De VNS Matrix a Laboria Cuboniks </em>(Ediciones Holobionte)</a>, que recullen el pensament de més de vint creadores i pensadores ciberfeministes, o sigui, els feminismes orientats a la tecnologia. El mateix principi vertebra els relats de <a href="https://www.eolasediciones.es/catalogo/coleccion-las-puertas-de-lo-posible/las-otras-antologia-de-mujeres-artificiales/" target="_blank" rel="noreferrer noopener"><em>Las Otras: Antología</em> <em>de mujeres artificiales</em> (Eolas Ediciones)</a>, editat per López-Pellisa i que aplega contes de vint-i-sis autores i autors catalans, espanyols i llatinoamericans sobre ginoides, nines o dones virtuals i biotecnològiques de silici, plàstic i dígits binaris. L’obra defuig els clixés i, aquest cop, molts autors s’atreveixen a anar més enllà de la concepció tradicional de la dona artificial com a fetitxe, prostituta o companya sentimental en el marc de les relacions heteronormatives i dibuixen la imatge de l’autòmat femení des de postures dissidents.&nbsp;</p>
+
+
+
+<p><strong>Potser se’n parla poc, de ciberfeminisme, tot i que el feminisme i la seva relació amb la tecnologia és un tema d’absoluta actualitat?</strong></p>
+
+
+
+<p>L’etiqueta de ciberfeminisme ja no està d’actualitat, tot i que continua existint. De fet, moltes ciberfeministes han anat canviant de posicionaments, tal com es pot comprovar en el procés del llibre [<em>Ciberfeminismo. De VNS Matrix a Laboria Cuboniks</em>] que, primer cop, tradueix i reuneix textos clau del ciberfeminisme. El concepte de ciberfeminisme s’encunya als anys noranta. Neix sobretot en el context de l’art feminista i el <a rel="noreferrer noopener" href="https://es.wikipedia.org/wiki/Net.art" target="_blank"><em>Net.art</em></a>, quan es reflexiona sobre la <em>cibercultura</em> en uns termes que avui ens resulten inversemblants i ingenus. Cal tenir en compte que als noranta no tothom tenia un ordinador personal. Tal com escriu Remedios Zafra al pròleg, el llibre també reivindica la necessitat de publicar aquests textos en la llengua cíborg, meridional i mestissa que és el castellà per evidenciar les relacions entre Espanya i Llatinoamèrica amb una cultura digital que semblava que pertanyia exclusivament al món anglosaxó, i recull des dels primers manifestos dels noranta fins al <a rel="noreferrer noopener" href="https://www.nuvol.com/llibres/rosi-braidotti-posthuma-es-una-paraula-molt-molesta-31471" target="_blank">posthumanisme</a> i el <a rel="noreferrer noopener" href="http://lab.cccb.org/ca/helen-hester-la-biologia-no-determina-el-desti-es-pot-modificar-tecnologicament/" target="_blank">xenofeminisme</a>, que és cap a allò al qual ha tendit el ciberfeminisme. El problema és que el ciberfeminisme dels noranta reclamava un espai per a la cultura digital que per a les dones no ha existit. Es pensava en una relació postgènere a l’espai virtual que finalment no ha sigut real perquè el patriarcat l’ha col·lonitzat.&nbsp;</p>
+
+
+
+<p><strong>Com es podria caracteritzar el ciberfeminisme avui?</strong></p>
+
+
+
+<p>Trobem el ciberfeminisme en <em>Las Otras</em> o en pel·lícules com <em>Her</em>, <em>Ex-Machina</em>, <em>Ghost in the Shell</em>, o en sèries com <em>Black Mirror</em>; productes culturals que reflexionen sobre l’imaginari científic i tecnològic de la feminitat i la projecció d’aquest futur especulatiu a través de la ciència-ficció. Cada cop que tractem l’imaginari femení tecnològic parlem de ciberfeminisme. Els ciberfeminismes plantegen que allò personal és hiperpolític -i no només polític, com deien els feminismes de la segona onada- entenent la hiperpolítica com una ampliació d&#8217;allò polític a través de la seva extensió al món virtual. Totes les lluites feministes que es duen a terme a través de la xarxa tenen a veure amb el ciberfeminisme o allò que s’ha denominat tecnofeminisme. El llibre va de Venus Matrix, un grup d’artistes australianes sorgit als noranta, fins als textos xenofeministes del 2019. Algunes treballen des del ciberactivisme i les xarxes de dones del ciberespai, mentre altres treballen des de la idea de la representació de la dona en l’imaginari científic i tecnològic cultural i els estereotips que s’hi repeteixen i que reforcen la desigualtat de gènere.</p>
+
+
+
+<p><strong>Estem veient la quasi monopolització dels codis estètics per part de lògiques mercantilistes i algunes grans empreses, i, per tant, ni els videojocs, ni les xarxes socials, ni altres espais virtuals són, generalment, feministes avui en dia.</strong></p>
+
+
+
+<p>Els estereotips no només es perpetuen en la ficció: la ficció crea la realitat. Allò que consumim és allò que naturalitzem com a normatiu i com a real. Per això és important analitzar la representació femenina al cinema i la literatura del passat: per a entendre com s&#8217;ha construït una realitat que es continua perpetuant. El que passa és que interioritzem aquests rols i discursos en la mesura que els veiem. Al món virtual de&nbsp;<em>Second&nbsp;Life</em>, tots els avatars tenen uns cossos impressionants. Allà tothom pot tenir el físic que sempre ha volgut. Però el gust i l&#8217;estètica deriven de la cultura, i si&nbsp;continuem educant-nos en els mateixos models, res canviarà. Si no plantegem alternatives, no podem imaginar-nos altres possibilitats. I és en la imaginació poètica i l&#8217;espai simbòlic on es plantegen aquestes altres opcions. Per això la&nbsp;ciència-ficció&nbsp;és tan interessant: perquè ens pot mostrar altres societats viables. I perquè la ficció crea o reforça la realitat. Però, compte, que també pot ser conservadora.</p>
+
+
+
+<p><strong>Sovint les distopies ens transmeten recel&nbsp;cap&nbsp;a allò que en realitat és crític o vol qüestionar el present.</strong>..</p>
+
+
+
+<p>Sí, és un dels gèneres de moda del segle XXI. Trobem una gran quantitat de distopies al teatre, a la narrativa i al cinema. I habitualment són súper conservadores. Ens diuen que el futur és pitjor, que val més quedar-nos així i conformar-nos amb allò que tenim. A través de la por, se&#8217;ns condueix cap a la immobilitat. Però també hi ha distopies interessants, aquelles que ens inciten a canviar les causes del nostre malestar. És preferible sortir de l&#8217;habitual discurs distòpic per plantejar-nos alternatives socials, solidàries, de gènere, de sexualitat&#8230; I, això, avui, l&#8217;única narrativa que ho fa possible és la&nbsp;ciència-ficció.</p>
+
+
+
+<p><strong>Ha de ser aquesta una de les missions de la ciència-ficció? A <em>Ciberfeminismo</em> es planteja que l’art té més potència deconstructiva que la teoria perquè aquesta última està més afectada pels codis i estructures científic-tecnològiques.</strong></p>
+
+
+
+<p>Quasi totes les filòsofes i els filòsofs contemporanis utilitzen la&nbsp;ciència-ficció&nbsp;en els seus textos.&nbsp;Braidotti,&nbsp;Haraway,&nbsp;Zizek o&nbsp;Sloterdijk, que s&#8217;adonen que no es tracta d&#8217;un gènere marginal perquè planteja qüestions, metàfores i imaginacions de la poètica de la resistència amb un contingut social i polític molt interessant. A través de la&nbsp;ciència-ficció&nbsp;es pot plantejar un món fora del patriarcat i del gènere binari i normatiu. Unes altres regles són possibles en la ficció i en el ciberespai, que era allò que plantejaven algunes&nbsp;ciberfeministes&nbsp;dels noranta. Ara bé, cal després que puguem treure aquestes qüestions al món real, ja que al final la ficció és el reflex del món i viceversa.</p>
+
+
+
+<p><strong>La tecnologia diria que és ambivalent. Per una banda, ha esdevingut un lloc on ha quallat la societat patriarcal mentre, alhora, pot tenir un paper important per a les lluites feministes. Com podem utilitzar la tecnologia per aconseguir una justícia social i de gènere, segons els últims corrents ciberfeministes?&nbsp;</strong></p>
+
+
+
+<p>La reproducció i la biotecnologia són temes que actualment treballen els col·lectius <a rel="noreferrer noopener" href="https://es.wikipedia.org/wiki/SubRosa" target="_blank">SubRosa</a> o <a rel="noreferrer noopener" href="https://laboriacuboniks.net/" target="_blank">Laboria Cuboniks</a>, i tenen molt a veure amb el posthumanisme tecnomaterialista (tot són paraulotes meravelloses!). En plena segona onada del feminisme, <a rel="noreferrer noopener" href="https://ca.wikipedia.org/wiki/Shulamith_Firestone" target="_blank">Shulamith Firestone</a> escriu la <em>Dialèctica del Sexe,</em> on parla de l’alliberament del rol reproductiu de les dones a través dels anticonceptius. Aquest fet suposa una revolució perquè de sobte les dones guanyen la capacitat de decidir si volen reproduir-se o no. Més enllà dels anticonceptius, també es posa sobre la taula la possibilitat de l’ectogènesi, que és la gestació fora de l’úter. Hi ha una antologia de ciència-ficció escrita per dones espanyoles i llatinoamericanes, <em>Proyectogénesis</em>, on només hi apareixen relats que plantegen mons on això succeeix. I, en alguns casos, no són gens encoratjadors. És clar, el problema d’aquesta tecnologia -com el de qualsevol altra- és a quins interessos respon, qui hi accedirà o quin preu tindrà. Per això els ciberfeminismes han reclamat que aquestes eines siguin sense ànim de lucre. En el marc del capitalisme monopolista, els beneficis d’una tecnologia perverteixen el seu sentit. Què passaria si l’Estat necessita més soldats o pagadors d’impostos perquè mantinguin el sistema i la reproducció humana ja no depèn de la dona? A l’Estat li interessa tenir un control sobre els úters i els cossos femenins, i per això es legisla. </p>
+
+
+
+<p><strong>Tot això ja s’ho van plantejar les primeres ciberfeministes?</strong></p>
+
+
+
+<p>Quan&nbsp;<a rel="noreferrer noopener" href="https://ca.wikipedia.org/wiki/Donna_Haraway" target="_blank">Donna&nbsp;Haraway [considerada la primera&nbsp;ciberfeminista] escriu el Manifest Cíborg</a>, l&#8217;humà entès com a cíborg, com un organisme biològic modificat per la tecnologia, esdevé un ésser <em>queer</em>. Tot i que el concepte <em>queer</em> no apareix fins més tard,&nbsp;Haraway&nbsp;l&#8217;utilitza més enllà del significat literal i el transforma en una metàfora del subjecte postmodern. Alhora, ens diu que els límits entre biologia i cultura o entre natural i artificial són borrosos. Ens diu que la biologia és un discurs científic que respon a uns certs interessos històrics de gènere, per exemple.&nbsp;Haraway&nbsp;obre un món per a l&#8217;ésser humà que interactua amb els entorns digitals i evidencia que les nostres identitats estan absolutament&nbsp;intervingudes&nbsp;per les noves tecnologies. D&#8217;alguna manera, tots som cíborgs, al marge de les pròtesis que cadascú duu al cos -vacunes, ulleres, etc. Els ciberfeminismes i el&nbsp;posthumanisme&nbsp;crític feminista sostenen que cal desplaçar l&#8217;humà com a mesura de totes les coses perquè aquesta idea és absolutament androcèntrica, antropocèntrica, patriarcal i racista, i no inclou les dones, ni els cossos amb disfuncionalitat, ni els d&#8217;altres colors de pell, ni els altres éssers vius amb els quals convivim&#8230;&nbsp;Aquest pensament té molt a veure amb la quarta onada feminista que vivim, on l&#8217;ecocrítica&nbsp;és fonamental. Cal veure com la tecnologia i la biotecnologia han vist beneficis en l&#8217;explotació de la terra i els cossos. Això preocupa molt des de l&#8217;ectogènesi, la clonació o la intervenció en la línia germinal, que consisteix&nbsp;a&nbsp;dissenyar els éssers que naixeran utilitzant la reproducció en els cossos femenins. En aquest sentit, es parla d&#8217;eugenèsia terapèutica. Però les tecnologies poden servir tant per al control com per a l&#8217;alliberament. Ara ens toca debatre quin ús donarem a la biotecnologia un cop descoberta la recepta de l&#8217;ADN que ens permet intervenir-lo i modificar-lo.</p>
+
+
+
+<p><strong>Cal veure com utilitzarem el <a rel="noreferrer noopener" href="https://www.ccma.cat/tv3/alacarta/no-pot-ser/gen-etica/video/6035499/" target="_blank">mètode d’edició genètica CRISPR</a>…</strong></p>
+
+
+
+<p>Exacte, l&#8217;edició de l&#8217;ADN suposa un canvi de paradigma. De fet, John&nbsp;Haldan, un biòleg de principis del segle XX -qui, per cert, coneixia&nbsp;Aldous&nbsp;Huxley, l&#8217;autor de la novel·la distòpica genètica Un món feliç (1932)- va treballar en les possibilitats de la biologia reproductiva&nbsp;durant els anys vint i somiava amb la possibilitat que, en un futur, l&#8217;espècie es reproduiria per ectogènesi. Sostenia que&nbsp;el 2044&nbsp;el 75-80% de la població naixeria a través d&#8217;aquest mètode i que, a més, només veurien la llum aquells éssers desitjables. Parlava d&#8217;eugenèsia, un tema que les teories darwinianes del segle XIX van posar molt de moda. Fins als&nbsp;anys seixanta, el Japó esterilitzava les persones amb Síndrome de&nbsp;Down&nbsp;o alguna deficiència sense el seu consentiment. Es tracta d&#8217;una pràctica eugenèsica que executa l&#8217;Estat sense el consentiment de les persones afectades. Avui en dia es duen a terme diverses pràctiques eugenèsiques.</p>
+
+
+
+<p><strong>A&nbsp;<em>Las&nbsp;Otras&nbsp;</em>escrius que &#8220;en els relats d&#8217;aquesta antologia no només ens trobem amb&nbsp;Galatees&nbsp;sinó també amb Pandores, un mite que m&#8217;interessa reivindicar com a metàfora per a&nbsp;analizar&nbsp;aquells textos&nbsp;en què&nbsp;es creen dones des d&#8217;una perspectiva&nbsp;patrilinial&nbsp;per a l&#8217;ús, el goig i el gaudi del plaer masculí&#8221;.</strong></p>
+
+
+
+<p>El relat de <em>Las Otras</em> de José María Merino, membre de la Reial Acadèmia Espanyola (RAE) i un dels autors de la literatura fantàstica de ciència-ficció més importants d’Espanya que ha publicat diversos textos protagonitzats per dones artificials, parla de prostíbuls i d’una societat on les fèmines virtuals estan molt sol·licitades, mentre manquen homes artificials perquè no hi ha demanda. Però va ser molt interessant veure com alguns autors dels contes de l’antologia<em> </em>defugen l’imaginari grecollatí i estereotipat de Galatees i Pandores i plantegen alternatives com fan Alberto Chimal, Naief Yehya o Lola Robles. Segons el mite, Pigmalió, el rei de Xipre, esculpeix Galatea perquè s’ha de casar i tenir descendència, però no li interessa cap dona de l’illa que regna. Perquè les considera a totes malvades i malignes. Perquè té por de l’altre, d’allò desconegut, allò que no és ell mateix. Per tant, decideix crear-se la seva pròpia muller i, tal com relata Ovidi a <em>Metamorfosis</em>, la fa a imatge seva. Aleshores, la deessa Venus infon vida a l’escultura. Galatea és la projecció del desig masculí, és la seva imatge, tal com passa amb la majoria d’actrius de Hollywood: dones que responen a la sexualitat heteronormativa per al gaudi i el plaer de l’ull masculí. Al final, Galatea és com una dona inflable que, a més, viu feliç com a esposa submisa i mare fins al final dels seus dies.</p>
+
+
+
+<p>Pandora també és una dona artificial que neix per encàrrec de Zeus amb l’objectiu de castigar <a href="https://ca.wikipedia.org/wiki/Prometeu_(mitologia)" target="_blank" rel="noreferrer noopener">Prometeu</a> per haver ajudat els homes. Per això, Zeus ordena a Hefest la creació d’alguna cosa desastrosa per a l’home. Cada déu de l’Olimp li confereix un do, mentre Hermes li infon la curiositat i la mentida. Al mateix temps, els déus omplen una capsa amb els mals de la humanitat i, Pandora, presa de la curiositat, l’obre i fugen tots els mals que corren avui per la terra, provocant també la seva mort. A mi m’interessa Pandora perquè quan parlem de dones artificials sempre es fa al·lusió a Galatea i, en canvi, mai es menciona a Pandora. En la majoria de textos com aquest, la dona -ja sigui de fang, metàl·lica, virtual o electrònica- acaba sent assassinada o destruïda, carregant-se també l’home que l’ha creada, que sovint és el pare o l’amant de l’artefacte. Ho veiem, per exemple, a <em>El hombre de arena</em> de Hoffmann. En el fons, crec que en aquests textos es penalitza la relació de l’home amb una dona artificial perquè amb ella no es pot reproduir. En la majoria d’aquests textos es parla de dones incompletes, que no tenen la regla ni poden engendrar fills. Són una joguina, un mer entreteniment.</p>
+
+
+
+<p><strong>És un enfocament que hauríem de canviar?</strong></p>
+
+
+
+<p>El posthumanisme crític es planteja una relació diferent amb la tecnologia i els éssers no humans. Desaprova l’antropolatria, la superioritat de l’ésser humà, tal com va fer Haraway al <em>Manifest de les espècies de companyia</em>. Dins el sistema capitalista, tractem malament els objectes perquè els comprem, ens els apropiem, els tirem i, després, ens en comprem uns altres. Això només fomenta el consumisme, l’esgotament dels recursos i la sobreproducció. En la ciència-ficció, la majoria d’éssers artificials són autoconscients, però se’ls tracta malament. Per això serveixen com una metàfora de l’altre i la diversitat. I, al final, el que es penalitza és això: la relació amb algú que no és igual.&nbsp;</p>
+
+
+
+<p><strong>Per què hi ha encara tan poques tecnòlogues dones amb relació als homes? </strong><a href="/2020/02/11/mhan-arribat-a-dir-que-som-massa-guapa-per-ser-informatica/"><strong>A la UIB, les dones no arriben al 8,5% del total de matriculats a Enginyeria Informàtica a la Universitat de les Illes Balears i representen com a màxim el 18% dels treballadors amb perfil tècnic del sector digital</strong></a><strong>. Què cal fer per empènyer les dones a intervenir-hi, tenint en compte que la tecnologia tindrà un pes tan gran en la fabricació del futur?</strong></p>
+
+
+
+<p>És una qüestió de cultura i educació. Jo, que sóc professora de lletres, pràcticament només tinc dones. I a la carrera de Magisteri potser hi ha dos homes. Per això hem de construir imaginaris on les dones facin ciència i tecnologia, i amb això la ficció té un paper fonamental. Quantes pel·lícules has vist protagonitzades per una dona <em>hacker</em>? Si de petita ja et relaciones de manera natural amb la tecnologia, de gran escolliràs la carrera que vulguis. Però mentre els missatges que arriben a les nenes siguin que han d’estar boniques, dedicar-se a la criança i ser mestres… Per a generar nous discursos s’ha de fer resistència… però clar, quina resistència pot fer una adolescent de disset anys, si tot just comença a formar-se la seva consciència política? Quantes pensadores has llegit durant la carrera de Filosofia?</p>
+
+
+
+<p><strong>Doncs molt poques, la veritat.&nbsp;Hannah&nbsp;Arendt i poques més. Cap de les que ha esmentat aquí. D&#8217;homes, un munt.</strong></p>
+
+
+
+<p>Pràcticament, tots. Tenim un problema, i és com s’ensenya la Història. Porten tota la vida dient-me que no hi ha autores de ciència-ficció i és mentida. La primera novel·la del gènere és <em>Frankenstein</em> (1818) de Mary Shelley. De fet, la primera ginotopia [utopia on només apareixen personatges femenins] l’escriu <a rel="noreferrer noopener" href="https://ca.wikipedia.org/wiki/Llibre_de_la_ciutat_de_les_dames" target="_blank">Christine de Pisan el 1405</a> que, considerada la primera escriptora professional de la història d’Occident, imagina un món poblat només per dones que poden educar-se, escriure i cultivar-se. Allò cert és que li va costar molt viure en un món d’homes i no van parar de dir-li que mancava de capacitat intel·lectual. Quan estudiem Història de la literatura sembla que al segle XVIII no hi havia escriptores. Hi eren, però s’han invisibilitzat. Del ciberfeminisme he après que cal recompondre la Història de la ciència i la tecnologia tenint en compte la participació de les dones. No sabem què feien les dones del passat? Doncs investiguem-ho. Tothom coneix <em>Utopia</em> (1516) de Thomas More o <em>La ciutat del sol</em> (1602) de Campanella; però pocs coneixen <em>The Blazing World</em> (1666), una utopia fascinant de l’anglesa Margaret Cavendish on, a més, hi apareix una perspectiva ecocrítica molt interessant. </p>
+
+
+
+<p><strong>A la&nbsp;ciència-ficció&nbsp;també veiem allò que&nbsp;Barbara&nbsp;Creed&nbsp;defineix com&nbsp;la síndrome&nbsp;del femení monstruós. Per exemple, tal com comenta Rosi&nbsp;Braidotti, a la pel·lícula <em>Alien</em> l&#8217;ordinador principal que controla la nau es diu Mare i és molt malvada amb la protagonista.&nbsp;<em>Las&nbsp;Otras</em>&nbsp;vol combatre també aquesta idea?</strong></p>
+
+
+
+<p>La teòrica&nbsp;Rosi&nbsp;Braidotti amb la seva filosofia del&nbsp;posthumanisme&nbsp;crític feminista es presenta com&nbsp;a antihumanista. La seva posició vol fer-nos veure que hi ha alternatives a l&#8217;humanisme occidental imperialista, capitalista, blanc, occidental i heteronormatiu, per la qual cosa el&nbsp;posthumanisme&nbsp;ens ofereix altres maneres de relacionar-nos entre els éssers humans, amb el planeta que habitem i amb altres éssers vius i&nbsp;tecnològics. No és que&nbsp;Braidotti&nbsp;no cregui en la humanitat, sinó que aposta per una altra idea de l&#8217;humà més igualitària, justa i sostenible.<br>A l&#8217;antologia de <em>Las Otras</em> hi ha relats que defensen la subjectivitat&nbsp;posthumana, però també hi ha monstruositats femenines que simbolitzen i reforcen el patriarcat al costat d&#8217;unes altres que el subverteixen. La tradició literària i cinematogràfica està plagada d&#8217;aquesta mena de monstres femenins. Sense anar més lluny, l&#8217;exemple d&#8217;<em>Alien</em> també pot llegir-se com una crítica&nbsp;a la&nbsp;maternitat&nbsp;obligatòria. Si&nbsp;tens&nbsp;la&nbsp;bestiola&nbsp;al&nbsp;ventre, has de parir&nbsp;vulguis&nbsp;o no.  Cal tenir en compte que la pel·lícula s&#8217;estrena als anys setanta, durant la segona onada feminista, quan precisament es comença a reivindicar el dret a l&#8217;avortament.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1601</post-id>	</item>
+		<item>
+		<title>Silvia Puglisi, de The Tor Project: “El principal paper de Tor és ajudar a persones en risc de censura per fer alguna cosa tan simple com llegir el diari”</title>
+		<link>/2020/06/14/silvia-puglisi-the-tor-project/</link>
+					<comments>/2020/06/14/silvia-puglisi-the-tor-project/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 13 Jun 2020 23:37:49 +0000</pubDate>
+				<category><![CDATA[Diàlegs]]></category>
+		<category><![CDATA[Destacat]]></category>
+		<category><![CDATA[No Con Name]]></category>
+		<category><![CDATA[Silvia Puglisi]]></category>
+		<category><![CDATA[The Tor Project]]></category>
+		<category><![CDATA[Tor]]></category>
+		<guid isPermaLink="false">/?p=1422</guid>
+
+					<description><![CDATA[Fotografia: Puglisi impartint una conferència al congrés de ciberseguretat No Con Name. / No Con Name Silvia Puglisi (Itàlia, 1983) és enginyera informàtica i va&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">Fotografia: Puglisi impartint una conferència al congrés de ciberseguretat No Con Name. / <em>No Con Name</em></p>
+
+
+
+<p>Silvia Puglisi (Itàlia, 1983) és enginyera informàtica i va estrenar-se a Google (Dublín), on va treballar cinc anys. Però si el punt de partida va ser el gegant tecnològic que ho sap quasi tot, ha acabat formant part d&#8217;una organització clau per a la defensa de la privacitat a Internet, <em>The Tor Project</em>, on treballa des de fa quatre anys. I, entremig, ha fet feina al <em>Fab Lab Barcelona</em> -una xarxa col·laborativa global per a la recerca- i s’ha doctorat a la Universitat Politècnica de Catalunya (UPC). </p>
+
+
+
+<p><em>The</em> <em>Tor Project</em> és l’entitat sense ànim de lucre que gestiona Tor, acrònim de <em>The Onion Router</em> (en català, l&#8217;Enrutador Ceba), que és el programari de codi obert que permet navegar anònimament per la Xarxa. Tal com explica Edward Snowden al llibre <em>Permanent Record</em>, Tor és una creació del govern dels Estats Units que es va acabar convertint en un dels pocs escuts eficaços contra la vigilància estatal, basat en un model de comunitat cooperativa que depèn de voluntaris experts en tecnologia de tot el món que gestionen els seus propis servidors des dels seus soterranis, golfes i garatges: “Gairebé cap dels servidors Tor -anomenats &#8216;capes&#8217;- coneix la identitat de l&#8217;origen del tràfic, ni té cap informació per identificar-lo. A més, en una autèntica jugada mestra, l&#8217;únic servidor Tor que coneix aquest origen (el primer de la cadena) no sap on es dirigeix el tràfic”. </p>
+
+
+
+<p>Però la xarxa d’anonimització més utilitzada del món no ha evitat els danys col·laterals de la pandèmia i, recentment, ha patit una dràstica reducció de la plantilla per la caiguda de les donacions i la congelació de les subvencions. A més, Puglisi i altres companys seus es troben en ERTO fins el desembre.</p>
+
+
+
+<p><strong>A què es dedica The Tor Project?</strong></p>
+
+
+
+<p>El Projecte Tor és una entitat d’administració de la xarxa Tor. No intervé en allò que passa a la xarxa en si, perquè aquesta no és controlada. El projecte s’ocupa, sobretot, de desenvolupar un protocol, o sigui, allò que defineix la manera de navegar per Internet. El resultat és el navegador Tor.&nbsp;</p>
+
+
+
+<p><strong>Quines implicacions té per a la nostra societat l&#8217;existència d&#8217;una xarxa com Tor? Què significa l’eslògan del Projecte Tor ‘Take back the Internet’?</strong></p>
+
+
+
+<p>El principal paper de Tor és ajudar a persones en situació de censura o risc de censura a l’hora de fer alguna cosa tan simple com llegir el diari o buscar informació. Per exemple, en alguns països, buscar a Internet sobre com avortar pot ser molt perillós. Per altra banda, res justifica que, quan llegeixes un diari, cinquanta empreses mirin com es mou el teu ratolí a la pantalla.&nbsp;</p>
+
+
+
+<p><strong>Quina rellevància té l&#8217;activitat del Projecte Tor per a la supervivència de la xarxa Tor: podria existir una sense l’altra, només amb el suport i treball de voluntaris?</strong></p>
+
+
+
+<p>L’objectiu del Projecte Tor és el desenvolupament del protocol, la resolució dels problemes del codi i el manteniment d’aquest codi. Però la xarxa és mantinguda sobretot per voluntaris. Jo mateixa tinc un node i la gent l’utilitza per accedir a la xarxa. La xarxa en si és, d’alguna manera, autònoma del projecte. De fet, hi ha molts projectes de codi lliure que es desenvolupen íntegrament per voluntaris. És el cas de Debian, una distribució de Linux. En altres casos, hi ha empreses o organitzacions al darrere.</p>
+
+
+
+<p><strong>Com pot una xarxa que depèn directament del treball d&#8217;una organització tenir garanties de ser una xarxa lliure i independent?</strong></p>
+
+
+
+<p>Per començar, no controlem la xarxa. Qualsevol persona pot posar un node a la xarxa. En segon lloc, el codi del programari és obert i molta gent el llegeix. Quan tu utilitzes el navegador Tor o afegeixes un node a la xarxa, pots confiar que molta gent accedeix i revisa aquest codi, tal com funciona una distribució Linux de codi lliure.&nbsp;</p>
+
+
+
+<p><strong>Actualment, el Projecte Tor tenia fins a 35 persones treballant en el nucli del seu servei, però l&#8217;alerta sanitària del coronavirus </strong><a rel="noreferrer noopener" href="https://www.adslzone.net/noticias/redes/despido-plantilla-tor-project-coronavirus/" target="_blank"><strong>ha forçat l&#8217;organització a acomiadar a 13 persones, que és un terç de la plantilla</strong></a><strong>, per a poder continuar endavant. Com afectarà això a Tor? Quines conseqüències per a la privacitat pot tenir?</strong></p>
+
+
+
+<p>Seguim treballant com abans i el protocol es manté igual. Tot i això, ara som menys gent i la resolució d’alguns problemes pot ser més lenta. Per sort, tenim una comunitat molt activa de persones que no treballen directament al Projecte Tor, però que investiguen sobre el protocol, o bé simplement fan traduccions, o bé fan desenvolupaments durant el seu temps lliure. Són molts els voluntaris que sostenen el projecte. El Projecte Tor funciona d’una manera similar a organitzacions com <a href="https://ca.wikipedia.org/wiki/Indymedia" target="_blank" rel="noreferrer noopener">Indymedia</a>, que a finals dels anys 90 va impulsar un mitjà de comunicació més independent i autosostenible. Molts dels qui en formaven part ara són a Tor.&nbsp;</p>
+
+
+
+<p><strong>Esdeveniments com la primavera àrab o les revelacions de Snowden, el 2013, van disparar l&#8217;èxit de Tor. El pic més alt d&#8217;usuaris va coincidir amb l&#8217;inici de les revelacions sobre l&#8217;espionatge massiu de la NSA, passant de menys de 800 mil usuaris a gairebé 6 milions en tan sols un mes&#8230;</strong></p>
+
+
+
+<p>Sovint s’ha parlat de la utopia de la tecnologia. Hi ha dos moments que trenquen amb aquesta creença. El primer coincideix amb les filtracions de Snowden, i el segon amb el cas de <em>Cambridge Analytica</em>, l’empresa que va tenir un paper decisiu en les victòries de Donald Trump i el Brexit utilitzant dades personals per a influir en decisions polítiques. Amb les revelacions de Snowden, es va trencar la confiança amb el govern, i amb l’escàndol de <em>Cambridge Analytica</em> es va trencar la confiança amb les grans corporacions. Crec que d’aquí a un temps ens passarà el mateix amb aplicacions com Facebook, Whatsapp o Instagram.</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="oW2fvqmDJi"><a href="/2019/11/16/edward-snowden-project-tor/">Snowden: &#8220;Tor [The Onion Router] feia plorar els espies&#8221;</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Snowden: &#8220;Tor [The Onion Router] feia plorar els espies&#8221;&#8221; &#8212; La Tecnòloga" src="/2019/11/16/edward-snowden-project-tor/embed/#?secret=oW2fvqmDJi" data-secret="oW2fvqmDJi" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p><strong>Com de ràpid hem de fugir d’aquestes xarxes socials?</strong></p>
+
+
+
+<p>És normal que la gent vulgui tenir-hi un compte, però com menys dades hi comparteixis, millor. L’ideal seria, per exemple, que no utilitzis el mateix navegador per accedir al compte bancari i per connectar-te a Facebook. Si una cosa la fas amb Chrome, l’altra la pots fer amb Firefox, o al revés. També és convenient evitar l’ús d’aplicacions mòbils que acaben enviant dades a grans corporacions com Google o Facebook. És preferible fer servir Facebook o Instagram des d’un navegador.&nbsp;</p>
+
+
+
+<p><strong>La Covid-19 ha implicat prioritzar la recol·lecta de dades personals per sobre de la privacitat. Hi haurà un abans i un després en matèria de llibertats?</strong></p>
+
+
+
+<p>A escala europea, els protocols per analitzar els contagis són força segurs. De fet, un dels protocols més descentralitzats han estat desenvolupats en bona part per l’espanyola <a rel="noreferrer noopener" href="https://es.wikipedia.org/wiki/Carmela_Troncoso" target="_blank">Carmela Troncoso</a> i el seu equip, que treballen a Ginebra. La majoria de les aplicacions dels governs s’han desenvolupat amb aquesta idea: que les anàlisis de dades personals es fan al telèfon de la persona i no es comparteixen ni amb el govern ni amb les empreses. Tot i això, els governs regionals ja tenen les dades dels contagis perquè les han obtingut a través dels hospitals i els diferents sistemes de salut. Malgrat tot, altres governs han actuat amb més picardia i han arribat a un acord amb empreses poc fiables. Per exemple, arran de la pandèmia, el govern d’Anglaterra ha començat a col·laborar amb Palantir, una empresa que ven dades de persones migrants o sospitoses d’alguna il·legalitat a la policia.</p>
+
+
+
+<p><strong>La privacitat ha de prioritzar-se per davant de la seguretat?</strong></p>
+
+
+
+<p>La privacitat sempre és prioritària. La privacitat és un dret que ens permet desenvolupar les nostres idees, saber qui som i com volem presentar-nos al món. A vegades penso que és com la roba. Tu esculls com et vesteixes, o si et vesteixes una mica més o una mica menys. No sóc de les persones que considera que la privacitat ha mort i que, si no tens res a amagar, no cal amoïnar-se. De fet, la privacitat està en moltes constitucions i és un dels drets fonamentals. Ara bé, l’anonimat no és el mateix que la privacitat. L’anonimat és quan tu has fet alguna cosa i ningú ho sap. A vegades l’anonimat provoca una certa por. A <em>La República</em>, Plató parla de Giges, un pastor que troba un anell que li dona el poder de la invisibilitat que utilitza per matar el rei. El conte ens ve a dir que el do d’ocultar-se serveix per a fer el mal. Això no és cert i, a més, actualment existeixen tots els mecanismes per descobrir si algú ha comès un crim independentment de si llegeix <em>El País</em>, <em>La Vanguardia</em> o si prefereix un altre diari.</p>
+
+
+
+<p><strong>Realment hi ha els mecanismes per a perseguir la pederàstia, la venda il·legal d’armes o el narcotràfic al web fosc (<em>dark web</em>)?</strong></p>
+
+
+
+<p>Sí, hi ha mecanismes. Sempre que la gent utilitza un servidor es produeixen errors. La gent que comet un delicte també deixa un rastre fora del web fosc. A vegades el web fosc provoca una certa por perquè no hi ha una empresa al darrere. Però, en molts casos, el material il·legal també es comparteix per Whatsapp, com passa amb molts vídeos de ciberassetjament. També hi ha molt material que es comparteix a Dropbox o <a rel="noreferrer noopener" href="https://www.cloudflare.com/es-es/" target="_blank">Cloudflare</a>, un servei que et proporciona cert anonimat perquè no revela on es troba el servidor.</p>
+
+
+
+<p><strong>El web fosc és un terme criminalitzat. Hauríem de canviar l&#8217;enfocament?</strong></p>
+
+
+
+<p>Crec que sovint els mitjans no troben una bona història quan parlen d’arxius compartits a Dropbox. En canvi, si parles del web fosc, hi ha tota una narrativa al darrere que desperta més interès i que va desenvolupar-se amb el sorgiment de <a href="https://es.wikipedia.org/wiki/Silk_Road" target="_blank" rel="noreferrer noopener">Silk Road</a>, un popular mercat negre de droga desmantellat el 2013, i que evocava històries de pirates.</p>
+
+
+
+<p><strong>Com es planteja a Tor el dilema entre privacitat i seguretat?</strong></p>
+
+
+
+<p>Nosaltres escollim sempre la privacitat perquè l’usuari és la baula més dèbil de la cadena; especialment si viu en un país amb llibertats limitades. Cal tenir en compte que a Internet també hi ha contingut il·legal i que cada país té la seva manera de detectar qui comparteix aquests continguts.&nbsp;</p>
+
+
+
+<p><strong>En un país on les llibertats estan limitades, el web fosc és un mitjà d&#8217;expressió i accés a informacions que en altres espais estarien vetats o suposaria un risc inassumible. Però Tor també és popular en les democràcies liberals. Per què és necessari Tor en un Estat com l’espanyol?</strong></p>
+
+
+
+<p>Tu has de tenir el dret de comprar alguna cosa i no haver de pagar un preu alterat pel fet d’haver buscat el mateix producte tres setmanes abans, com passa amb el cost d’un vol, per exemple. El dret a la privacitat és també això: no ser vist mentre busques qualsevol cosa.&nbsp;</p>
+
+
+
+<p><strong>Hi ha alguna mesura implementada per <em>The Tor Project</em> o alguna altra organització que intenti mitigar l&#8217;ús de la xarxa per a cometre crims?</strong></p>
+
+
+
+<p>El protocol <em>onion</em> et permet publicar un web sense que ningú identifiqui l’autor ni el visitant. Es protegeixen les dues parts. Per altra banda, si ve algú i ens diu que una pàgina és il·legal, nosaltres no tenim manera de conèixer el servidor d’origen. Tot i això, nosaltres no volem que aquest tipus de contingut sigui al web fosc i sovint pensem mecanismes per evitar que n’hi hagi. Però són continguts que també existeixen a Internet.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="JukvFXNqFg"><a href="/2020/02/19/10-motius-resistencia-digital/">10 motius per practicar la &#8216;Resistència Digital&#8217;</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;10 motius per practicar la &#8216;Resistència Digital&#8217;&#8221; &#8212; La Tecnòloga" src="/2020/02/19/10-motius-resistencia-digital/embed/#?secret=JukvFXNqFg" data-secret="JukvFXNqFg" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/06/14/silvia-puglisi-the-tor-project/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1422</post-id>	</item>
+		<item>
+		<title>Luis Montero: &#8220;Les màquines reflecteixen la nostra lògica occidental, masculina i de domini del món&#8221;</title>
+		<link>/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/</link>
+					<comments>/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2020 15:43:13 +0000</pubDate>
+				<category><![CDATA[Diàlegs]]></category>
+		<category><![CDATA[Antropologia del futur]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Dejad que las máquinas vengan a mí]]></category>
+		<category><![CDATA[Filosofia]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Luis Montero]]></category>
+		<category><![CDATA[Màquines]]></category>
+		<category><![CDATA[Societat]]></category>
+		<guid isPermaLink="false">/?p=1011</guid>
+
+					<description><![CDATA[El filòsof Luis Montero desxifra la humanitat del futur. Al seu últim assaig introdueix les màquines al debat metafísic. I és que les màquines no són només un producte nostre: també són allò que volem ser. I són un reflex de nosaltres mateixos amb la capacitat de transformar-nos. Aleshores, qui és el producte de qui?]]></description>
+										<content:encoded><![CDATA[
+<p>El filòsof Luis Montero desxifra la humanitat del futur. Al seu darrer assaig, <em>Dejad que las máquinas vengan a mí</em> (Editorial Enclave), introdueix la tecnologia al debat metafísic. És una bona manera d’autoexplorar-nos, perquè les màquines no són només un producte nostre: també són allò que volem ser. I són un reflex de nosaltres mateixos amb la capacitat de transformar-nos. Aleshores, qui és el producte de qui? Montero parla del somni humà de voler dominar el món i de com l’home acaba dominat per aquest. Parla d&#8217;éssers humans cada cop menys humans que fabriquen màquines cada cop més humanes. Què en quedarà, doncs, de nosaltres? Amb tot, les màquines poden reduir la nostra estructura categorial ja raquítica. Però potser també poden fer tot el contrari.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="De humanos, máquinas y otros seres sentientes. Conversaciones pandémicas #3." width="1160" height="653" src="https://www.youtube.com/embed/AxJTBdztc3g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>Vídeo de l&#8217;entrevista sencera: <em>D&#8217;humans, màquines i altres éssers que senten. Converses pandèmiques número 3</em>. </figcaption></figure>
+
+
+
+<p><strong>A&nbsp;<em>Dejad&nbsp;que las máquinas vengan a mí, </em>dius que estem en procés de deshumanització a causa de la irrupció de les màquines. En quin sentit és així? El llibre és un cant a la tecnologització de la vida?</strong></p>
+
+
+
+<p>El títol és un joc de paraules. “Deixeu que els nens vinguin a mi”, diu Jesús a la Bíblia. Però aquesta no és una frase neutra. Els nens són el futur de l&#8217;església. Són els qui cal convertir. Llavors, “deixeu que les màquines vinguin a mi” significa que cal convertir a les màquines. D&#8217;altra banda, pot dir-se que Jesús era un marrec amb&nbsp;superpoders. Segons els evangelis apòcrifs, que conten la infància de Jesús, un nen l&#8217;empeny i ell respon “Tant de bo caiguis mort”. I el nen cau mort immediatament. És a dir, de sobte, el llenguatge de Jesús adopta una fórmula&nbsp;tèlica. Els verbs&nbsp;tèlics&nbsp;inclouen el seu final, tal com passa amb “acabar”. I, en certa manera, els algorismes també ho són. Això sempre ha impregnat la imatge de déu: un ésser que pot fer complir allò que anuncia. Però nosaltres, amb les màquines, també donem ordres que s&#8217;executen. Ordenem tota l&#8217;estona com ens comportem respecte als altres i respecte al món. El que passa és que a força de dibuixar-nos a través de les màquines, ens hem dibuixat com a màquines. I cada vegada ens hi assemblem més.</p>
+
+
+
+<p><strong>La veritat és que a mesura que les màquines adquireixen atributs humans, com la intel·ligència o la creativitat, cada vegada és més difícil separar allò humà d&#8217;allò artificial. Introduint les màquines a l&#8217;equació, què queda de nosaltres i què ens defineix com a humans?</strong></p>
+
+
+
+<p>Jo parlo del Principi d&#8217;Humanitat Suficient, fent un altre joc de paraules amb el Principi de Raó Suficient de&nbsp;Leibniz. En realitat no ens estem deshumanitzant perquè mai no hem tingut clar què és ser humà. Sempre ens hem aferrat a l&#8217;excepció: som allò que els altres éssers no són. El problema -o potser la virtut- és que, amb les màquines, tot allò que ens feia excepcionals s&#8217;ha anat erosionant. Quan&nbsp;Leibniz&nbsp;va fabricar una calculadora, les màquines van saber sumar. Fins llavors, podríem haver pensat que el càlcul numèric era allò que ens feia humans. Però, al final, això de la humanitat s&#8217;ha convertit en una mena de carxofa i anem perdent fulles. I què en queda, de nosaltres? En realitat és igual l&#8217;atribut, perquè l&#8217;important és que ens preguntem què som. Aquesta pregunta no té cap sentit per a una màquina. El que passa és que la tecnologia ha contribuït a fer petit el món. El problema són les lògiques que hi ha darrere de les màquines, que beuen de la tradició aristotèlica i passen per Ramon Llull,&nbsp;Leibniz, &#8230; Però les màquines també podrien ajudar-nos a ampliar els punts de vista i les maneres d&#8217;estar en el món. Per a això caldria repensar la tecnologia des de zero. I caldria utilitzar altres aparells lògics subjacents que poden obrir camps estadístics més complexos.</p>
+
+
+
+<p><strong>Deixar de perseguir el Principi d&#8217;Humanitat Suficient seria una forma de llibertat?</strong></p>
+
+
+
+<p>Clar, és un llast. Trenquem les categories que ens impedeixen pensar-nos d&#8217;altres maneres. Les màquines reflecteixen la nostra lògica occidental, masculina i, en termes d&#8217;Adorno, de domini de la realitat, d&#8217;administració de la realitat i de la vida, que en realitat és l&#8217;exclusió de la vida. La vida és molt difícil de formalitzar i, no obstant això, totes les estructures estan&nbsp;super&nbsp;formalitzades. Comencem a trencar aquestes lògiques binàries que divideixen el món entre el jo i l&#8217;altre, entre home i dona, entre animal humà i animal no humà, entre persona capacitada i no capacitada, etcètera. Trenquem aquestes dicotomies que tanquen el món en capsetes que, al seu torn, ens tanquen a nosaltres. Perquè així és com perdem maneres de viure i d&#8217;experimentar una realitat que és més rica que nosaltres. Sobretot perquè, en general, a la realitat no li importem gaire.</p>
+
+
+
+<p><strong>Barrejant filosofia i etnografia, has traçat mapes del futur per a empreses com Ikea; mentre que <em>Dejad que las máquinas vengan a mí</em> es diu que és una antropologia del futur. Cap a on anem?</strong></p>
+
+
+
+<p>Els treballs per a empreses solen ser més banals, perquè aquestes quantifiquen la realitat amb els diners. Els escenaris més o menys especulatius que els presento són relativament fàcils de dibuixar. Però en les antropologies, afortunadament, no tot és quantificable i hi ha molta part d&#8217;inferència. Quan parlem de la condició humana, tot és més complicat perquè és molt més obert. Jo no tinc massa clar cap a on anem, però si continuem escoltant als homes blancs occidentals, en els quals m&#8217;incloc, tal com ho hem fet durant els últims 2.500 anys, continuarem retallant una gran quantitat de mirades possibles a nosaltres mateixos i al món. Per tant, els homes blancs occidentals hem de fer un pas enrere i deixar que altres entitats parlin. I això passa per escoltar les dones, com a gènere i com a institució política, i no opinar. Passa per eliminar aquesta construcció de domini sobre la dona, sobre els animals, sobre el planeta i sobre nostre estar en el món.</p>
+
+
+
+<p>D&#8217;altra banda, sempre havíem pensat que la intel·ligència ens feia superherois i, de sobte, amb les màquines, ha quedat en no-res. Però en aquest no-res hi ha moltíssimes virtuts. En el&nbsp;<em>Zarathustra</em>, Nietzsche diu que al nostre cos hi ha molta més intel·ligència que en cap de les idees que generi mai el nostre cervell. I té raó. Diem intel·ligents a les màquines quan en realitat la intel·ligència és un resultat de la vida i no de quantificacions o formalitzacions alienes a ella. Intel·ligència és acceptar-nos com a entitats vives, tenint en compte que nosaltres no vivim la vida, sinó que la interpretem. El llenguatge ens separa de la vida i ens fa interpretar el que som&nbsp;contínuament.</p>
+
+
+
+<p><strong>Els dibuixos del futur que hem plasmat en la ciència-ficció -com&nbsp;<em>Blade&nbsp;Runner</em>, <em>District 9</em> o&nbsp;<em>Matrix</em>&#8211;&nbsp;són quasi sempre distòpics. Hi ha lloc per a l&#8217;esperança?</strong></p>
+
+
+
+<p>Sí que n&#8217;hi ha. Ens hem vist en pitjors situacions. Sempre ens hem sentit excepcionals i per això hem imaginat per a nosaltres un final de l&#8217;hòstia: l&#8217;apocalipsi, la destrucció del planeta, &#8230; Però, com deia Gramsci, les narratives d&#8217;allò nou estan una mica esgotades. Allò nou no acaba de sorgir i ens fa por. Però no perdem la perspectiva històrica.&nbsp;Locke, el pare de moltes de les nostres idees polítiques actuals, va haver de fer front a una realitat molt més fotuda, la de les monarquies absolutistes. I per a això va caldre matar a Déu. I, de la mateixa manera, segurament nosaltres hem de matar els diners, que li donen valor i sentit a la realitat. Ara fem coses que per als nostres avis era impensable, com llogar les nostres tasses del vàter a Airbnb. Ho hem ficat tot al mercat. Però hi ha espais on els diners no poden entrar. El gran fracàs de la pandèmia no és només el sistema liberal anglosaxó, sinó també la idea que les multinacionals anaven a substituir l&#8217;estat-nació. Però allò que ens guarirà és una vacuna subministrada per un Estat.</p>
+
+
+
+<p>A més, amb la pandèmia s&#8217;ha produït una reducció del món inesperada. Ens hem cenyit als mínims possibles de producció i consum. De sobte, han desaparegut la indústria cultural, el disseny i un munt d&#8217;indústries col·laterals que abans eren importants i ara sembla que no serveixen per a res. Perquè no van a favor de la vida. Perquè formen part d&#8217;aquesta capa ideològica que ens havíem&nbsp;construït, on els diners eren molt valuosos. Però no necessitem els diners per a explicar la realitat. Potser ara crearem nous espais aliens al mercat, perquè hem vist que el mercat&nbsp;peta. Que la realitat governada pel mercat no existeix; era una ficció. Hem de començar a pensar-nos més enllà de la transacció, més enllà del valor econòmic i d&#8217;un&nbsp;<em>business&nbsp;plan</em>.</p>
+
+
+
+<p><strong>La situació actual és una mica distòpica. A més, amb el distanciament social ha passat una cosa curiosa. Com dius als </strong><em><strong>Tres apuntes morales sobre la pandemia</strong></em><strong>, nosaltres ens hem convertit en amenaça per als altres i viceversa i, a més, construïm comunitat allunyant-nos els uns dels altres.</strong></p>
+
+
+
+<p>Sí, és com una mena d&#8217;antinòmia. Però em sembla molt bonica. Sartre deia que l&#8217;infern són els altres. Que els ulls dels altres poden veure&#8217;ns cometent una falta. Que els altres poden denunciar-nos. I, de sobte, amb la pandèmia, l&#8217;infern som nosaltres. El vector de transmissió som nosaltres. De cop i volta, ens reconeixem com a lesius. Però l&#8217;home blanc occidental mai s&#8217;ha sentit amenaça, i quan s&#8217;ha sentit amenaça en realitat és perquè l&#8217;ha executat. Això erosiona la seva posició de poder perquè ha de desplaçar-se cap a un territori que mai ha ocupat: el de l&#8217;altre. I això trenca una mica les lectures tradicionals del jo, la masculinitat, els masclismes. Vindrà una crisi econòmica brutal i el sistema en sortirà&nbsp;malferit, però em sembla que ens pot fer pensar-nos de maneres diferents.</p>
+
+
+
+<p><strong>Continuant amb les distopies,&nbsp;<em>Matrix</em>&nbsp;introdueix la gestació en úters artificials -allò que es coneix com&nbsp;a <em>ectogènesi</em>&#8211;&nbsp;mentre la nova de&nbsp;<em>Blade&nbsp;Runner</em>&nbsp;(2017) introdueix la natalitat dins de l&#8217;univers robot. Si això acaba succeint, quines conseqüències tindrà per a les dones? Les podria alliberar o tot just al contrari?</strong></p>
+
+
+
+<p>Una de les idees dels projectes feministes que han quallat més enllà del feminisme és que la biologia no és destí. És a dir, que no tenim per què fer cas als dictats dels nostres cossos. Crec que qualsevol cosa que permeti superar el destí, perquè possibilita ampliar les maneres d&#8217;ocupar la realitat, és bo. Aleshores, si l&#8217;ectogènesi&nbsp;allibera la dona de ser l&#8217;esclava de tenir fills -i dic esclava perquè de moment és l&#8217;única que pot fer-ho-, em sembla perfecte. Que després hi haurà dones que decidiran tenir fills&nbsp;per via intrauterina? Doncs fantàstic. Després podríem plantejar-nos si l&#8217;ectogènesi dins d&#8217;un aparell capitalista beneficiaria o no a les dones, però estaríem qüestionant més l&#8217;aparell capitalista i no tant la tecnologia <em>per se</em>. Encara que també és cert que no hi ha tecnologies neutres, però això és un altre debat.</p>
+
+
+
+<p>I, per altra banda, hi ha la qüestió de la maternitat a&nbsp;<em>Blade&nbsp;Runner</em>. De sobte, si els robots poden tenir fills, sorgeix la pregunta de què passa si la capacitat d&#8217;engendrar vida tampoc ens defineix com a humans. Encara que jo no sóc més humà per ser fill intrauterí de la meva mare. La dependència de la carn és una estupidesa. Allò perillós és que la filla robot sigui digital i no analògica. I el nostre cos -aquesta intel·ligència de la qual parlava Nietzsche- és&nbsp;super&nbsp;analògic. Perquè és la nostra integració amb el món, una continuació del món. I algunes tecnologies són una mena d&#8217;exclusió de la vida. Estem inventant un tercer estat entre la vida i la mort, que és allò que jo anomeno&nbsp;infravida.&nbsp;Infravida&nbsp;també és l&#8217;estat de les gallines amuntegades en els inferns de les granges avícoles. És una culminació del domini de la vida. És l&#8217;epítom de la lògica que va d&#8217;Aristòtil a l&#8217;algorísmia dels ordinadors, i no un reconeixement a la vida com allò inesperat, diferent, obert.</p>
+
+
+
+<p><strong>Entre altres coses ets assessor ètic d&#8217;empreses. Com evitar que el teu treball es quedi en el blanqueig ètic d&#8217;un&nbsp;<em>business&nbsp;plan</em>?</strong></p>
+
+
+
+<p>Jo intento definir els marcs ètics en què operen les companyies i, clar, sempre intento que no quedi en un blanqueig ètic. Un marc ètic és un conjunt de pràctiques que l&#8217;empresa pot fer abans de generar danys a tercers. I això no ha de confondre&#8217;s amb una forma de consol. En primer lloc, l&#8217;ètica no pot venir donada des de fora. Són les mateixes companyies les que han de descobrir quin és el seu marc ètic. No m&#8217;interessa tant fer-los un decàleg com plantejar-los com poden fer bé allò que fan. Després, cal definir el “bé”, i molts solen anomenar-lo “impacte positiu”. Perquè aquest impacte positiu sigui real, cal veure a qui afecta i de qui depèn. I per a això cal analitzar tota la cadena d&#8217;involucrats, on sempre s&#8217;amaguen sectors o poblacions més desfavorides, més mal pagades, menys qualificades, … Hi ha una llei que, en aquest moment polític actual, pot ajudar-nos amb això: “Sempre del costat del perdedor”. És a dir, tenir en compte que sempre hi ha un perjudicat. Intentar definir qui és el perjudicat en la cadena de valor per a perjudicar-lo el mínim o, si és possible, empoderar-lo. I, a partir d&#8217;aquí, ampliar aquest cercle virtuós als treballadors, a les persones, a la comunitat on treballes, etcètera. La idea és evitar que només quedi en un&nbsp;<em>business&nbsp;plan</em> i, perquè això passi, han de donar-se dues condicions: la primera és que les persones facin seu aquest marc ètic i, la segona, i la més important, és construir polítiques que obliguin a executar-lo. No hi ha res pitjor que tenir una visió moral d&#8217;allò que fas i no ho compleixis.</p>
+
+
+
+<p><strong>El món està molt fragmentat i tenim un camp de visió molt estret. En el terreny empresarial, hi ha manera d&#8217;evitar ser esclau del sistema i no convertir-te en un engranatge més?</strong></p>
+
+
+
+<p>Sobre això s&#8217;ha escrit molt. La construcció seriada de la realitat parcel·la la nostra capacitat d&#8217;actuació i la nostra responsabilitat moral. Imaginem que hi ha un milió de torturadors amb un milió de dispositius que només emeten un volt. Cap d&#8217;ells, aïlladament, electrocuta el torturat. Allò que mata és la suma dels volts. Què és allò que els faria moralment responsables d&#8217;aquesta mort? El fet de saber que, si tots apreten el botó al mateix temps, provoquen una mort. Potser cal tornar a perseguir la majoria d&#8217;edat kantiana, i assimilar que si seguim comprant segons quina roba estem fotent a algú. Però d&#8217;allò que no ens podem alienar responsablement és de no mirar. No podem dir que no ho sabíem, perquè tots sabem quina és la realitat. Quan&nbsp;Amancio&nbsp;Ortega regala milions d&#8217;euros en material sanitari està comprant l&#8217;aprovació moral de la societat. Però en realitat el seu problema moral és no haver respectat als perjudicats de la cadena de valor de les seves empreses.</p>
+
+
+
+<p>Llavors, com fer que aquest marc ètic no quedi en pur blanqueig? Cal posar límits a les nostres accions, perquè potser els nostres guanys no compensen el mal que fem. És un pensament una mica&nbsp;antiutilitarista. La idea que el benefici de les majories val més que el perjudici de les minories és mentida. Si el benefici es crea matant a algú, mai podrà compensar-se el mal. Per això, com ha passat amb la pandèmia, la clau és prendre consciència que som amenaça.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1011</post-id>	</item>
+		<item>
+		<title>“A CoronaWhy s’obren per a les Dades Massives nous horitzons en la recerca mèdica”</title>
+		<link>/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/</link>
+					<comments>/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 20:05:16 +0000</pubDate>
+				<category><![CDATA[Diàlegs]]></category>
+		<category><![CDATA[Allen Institute for Artificial Intelligence]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Artur Kiulian]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[CoronaWhy]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Kaggle]]></category>
+		<category><![CDATA[Manuel Álvarez]]></category>
+		<category><![CDATA[Recerca]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[SARS]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Slack]]></category>
+		<category><![CDATA[Trello]]></category>
+		<category><![CDATA[Zoom]]></category>
+		<guid isPermaLink="false">/?p=902</guid>
+
+					<description><![CDATA[Manuel Álvarez és voluntari d&#8217;aquesta comunitat virtual que ja ha aconseguit reunir prop de 550 experts per lluitar contra la Covid-19 Aquests dies, la ciència&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Manuel Álvarez és voluntari d&#8217;aquesta comunitat virtual que ja ha aconseguit reunir prop de 550 experts per lluitar contra la Covid-19</h2>
+
+
+
+<p>Aquests dies, la ciència treballa a contrarellotge per frenar una pandèmia que ha colpejat els cinc continents. Però, amb el coronavirus, també es propaguen els estudis científics. L’objectiu és comú: accelerar el lent camí cap a una vacuna i frenar els contagis per evitar més morts. I els esforços no ens queden lluny. A tall d’exemple, per iniciativa d’una professora de la Universitat Politècnica de Catalunya (UPC), Montserrat Alsina, s&#8217;ha impulsat <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://fme.upc.edu/ca/noticies/nova-iniciativa-de-lambit-de-les-matematiques-per-contribuir-en-lanalisi-del-covid-19-crida-a-la-participacio" target="_blank">l’elaboració urgent de models matemàtics predictius</a> d’infeccions i ingressos hospitalaris, així com la proposta de millores logístiques en els serveis d&#8217;urgències. Mentrestant, <a rel="noreferrer noopener" aria-label="la comunitat virtual CoronaWhy (opens in a new tab)" href="https://www.coronawhy.org/" target="_blank">la comunitat virtual CoronaWhy</a>, creada fa menys de dues setmanes, ja ha aconseguit reunir prop de 550 voluntaris provinents de diferents branques del coneixement. Són més de mig miler de persones dedicades a pensar, coordinar i elaborar estratègies per ajudar la comunitat mèdica a respondre els interrogants vitals que planteja la malaltia. <em>La Tecnòloga</em> ha entrevistat un voluntari d’aquesta organització: el científic de dades Manuel Álvarez.</p>
+
+
+
+<p><strong>Primer de tot, què és CoronaWhy?</strong></p>
+
+
+
+<p>CoronaWhy és un esforç comunitari per fer digerible la col·lecció d’articles científics vinculats a la pandèmia més extensa que existeix, l’anomenat <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://pages.semanticscholar.org/coronavirus-research" target="_blank">CORD-19 [Covid-19 Open Research Dataset]</a>, que ja reuneix més de 45.000 publicacions. L’expert en sistemes d’intel·ligència artificial Artur Kiulian va fer una crida a l’acció <a rel="noreferrer noopener" aria-label="utilitzant la plataforma Kaggle (opens in a new tab)" href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks" target="_blank">utilitzant la plataforma Kaggle</a>, on va començar a reunir-se gent amb ganes de fer alguna cosa, fa dues setmanes. I el projecte ha agafat una dimensió exponencial. A més, CoronaWhy va néixer en el si d’una competició. Inicialment, l’<em>Allen Institute for Artificial Intelligence</em> oferia 1.000 dòlars per al guanyador de cada tasca plantejada. Cal tenir en compte que normalment s’hi ofereixen més diners i aquest és, en realitat, un preu simbòlic. Així, aquest cop ha desaparegut l’incentiu del guany personal però, donada la urgència de la situació, hi ha hagut una col·laboració molt bèstia.&nbsp;</p>
+
+
+
+<p><strong>Com s’organitza un grup tan gran i multidisciplinar per treballar i, després, reunificar esforços?&nbsp;</strong></p>
+
+
+
+<p>Aquest problema encara s’està intentant resoldre. La comunitat es veu una mica superada pel seu propi creixement. Per això fem una separació cada cop més acotada de les diferents tasques. Per comunicar-nos internament utilitzem el servei de missatgeria Slack. Fem una videotrucada diària amb Zoom per coordinar-nos i fer una actualització dels diferents equips de treball. I amb <a href="https://trello.com/b/y4odX7yZ/covid-19-global-team" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Trello gestionem les diferents tasques</a>, on el moviment és frenètic i cada grup de feina té el seu propi tauler.</p>
+
+
+
+<p><strong>Quin són els problemes que intenta resoldre CoronaWhy?</strong></p>
+
+
+
+<p>Amb base al conjunt massiu d’articles, els científics de dades filtrem, sintetitzem i estructurem el coneixement. L’objectiu és que els especialistes mèdics puguin tenir accés a <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks">la informació resumida i agrupada al voltant de preguntes</a> com, per exemple, “què en sabem dels factors de risc de la Covid-19?” o “què sabem sobre les vacunes i els fàrmacs?”. Sobre tot això s’ha investigat i escrit moltíssim. Nosaltres recopilem la informació i la processem. A més, elaborem una guia amb l’objectiu de, posem per cas, fer polítiques de prevenció. Cada dia entren nous articles i es plantegen noves preguntes, mentre d’altres es reformulen. Al mateix temps, alguns especialistes mèdics revisen la feina que fem.&nbsp;&nbsp;</p>
+
+
+
+<p><strong>La Intel·ligència Artificial s’ha convertit en una de les especialitats per intentar predir l’avançament de la Covid-19. Com s’està fent servir, en aquest cas?&nbsp;</strong></p>
+
+
+
+<p>La principal tasca de la intel·ligència artificial a CoronaWhy és el processament del llenguatge natural per identificar similituds i confluències entre els articles científics. Això permet als investigadors crear un <em>feed</em> de cerca personalitzat en funció dels seus interessos. D’aquesta manera, estem entrenant uns models capaços de processar i entendre els llenguatge mèdic, amb les seves particularitats, i en qualsevol idioma. Passa el mateix quan fem una cerca a Google, i aquest ens retorna una resposta sintètica a partir dels diferents continguts que ha trobat a la xarxa. O sigui, que a partir de tots els textos, la intel·ligència artificial en resumeix la informació més rellevant. També s’utilitza el processament del llenguatge natural per vectoritzar els textos, de manera que s’identifiquen i es relacionen diferents paraules que són sinònimes i, així, es fa una relació i una classificació d’articles.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="683" src="/wp-content/uploads/2020/04/DSC_0054-1024x683.jpg" alt="" class="wp-image-904" srcset="/wp-content/uploads/2020/04/DSC_0054-1024x683.jpg 1024w, /wp-content/uploads/2020/04/DSC_0054-300x200.jpg 300w, /wp-content/uploads/2020/04/DSC_0054-768x512.jpg 768w, /wp-content/uploads/2020/04/DSC_0054-1536x1024.jpg 1536w, /wp-content/uploads/2020/04/DSC_0054-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Manuel Álvarez és científic de dades i voluntari de CoronaWhy.</figcaption></figure>
+
+
+
+<p><strong>I quina és la teva tasca principal?</strong></p>
+
+
+
+<p>Jo estic a l’equip <em>Task-Geo</em>. Ens dediquem a la recopilació de dades geogràfiques i a l’estudi de la influència dels elements geogràfics, com poden ser la meteorologia o la densitat de població, en la transmissió del virus. Concretament, jo em dedico a recopilar dades empíriques com la temperatura, la humitat, la incidència del tabaquisme o la diabetis, que es troben repartides en mil fonts i formats diferents. La idea és estructurar aquesta informació d’una manera unificada per reentrenar els models matemàtics amb dades actualitzades dia a dia. Així, podrem veure quines hipòtesis es mantenen i quines altres no.&nbsp;</p>
+
+
+
+<p><strong>Qui pot participar a CoronaWhy? Fa falta més gent?</strong></p>
+
+
+
+<p>Qualsevol persona hi pot participar. Paral·lelament als grups de treball dels àmbits científics, se’n formen d’altres de caràcter transversal, dedicats a la comunicació o a la gestió de projectes. Si no es té un perfil tècnic, es pot participar en l&#8217;organització, la coordinació de l’equip, la comunicació interna o la divulgació. Ara tenim moltes mans. Si som capaços de canalitzar tot aquest esforç i el que pugui arribar, podem fer que la feina avanci més ràpid. I això pot ajudar a salvar vides.&nbsp;</p>
+
+
+
+<p><strong>Respostes com la de CoronaWhy poden canviar la manera de fer recerca?&nbsp;</strong></p>
+
+
+
+<p>Aquest esforç no seria possible sense <a href="/2020/01/23/pydata-mallorca-2020-software-lliure-cientific/">el pes de la comunitat del Software Lliure</a> i plataformes com <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks"><em>Kaggle</em></a>, que canalitzen aquesta iniciativa. Desconec si això tindrà una influència en el món acadèmic i canviarà la manera d’investigar, però sí que s’obren per a les Dades Massives (en anglès, <em>Big Data</em>) nous horitzons en la recerca mèdica. És a dir, sobre el coronavirus s’ha fet recerca, i nosaltres fem recerca sobre la recerca. Dit d’una altra manera: busquem quins resultats de la investigació són més o menys influents. Molts equips científics s’han adonat que els mateixos estudis no arriben als mateixos resultats o, directament, són difícils o impossibles de replicar o reproduir. La ciència de dades també pot ajudar a resoldre aquesta mena de problemes que s’han convertit en sistemàtics en el món de la recerca.</p>
+
+
+
+<p><strong>Normalment, els científics de dades treballeu amb problemes més ben definits, i en aquest cas, en canvi, les preguntes no estan del tot plantejades&#8230;</strong></p>
+
+
+
+<p>Sí, habitualment treballem amb problemes molt més acotats. Per exemple, ens demanen que predim el preu d’un pis en funció d’unes variables com els metres quadrats, els anys que té, la il·luminació o la localització. És un problema tancat. A CoronaWhy també tenim clar l’objectiu: aturar l’epidèmia. Però això no és una pregunta, sinó un conjunt de preguntes molt obertes. Per això, la nostra primera feina és intentar acotar al màxim els interrogants. Quina és la millor manera d’evitar noves transmissions és una pregunta molt oberta. En canvi, no ho és tant demanar-nos si els Estats que han mantingut el transport públic han tingut menys èxit que els que l’han tancat. Aquesta darrera pregunta és més fàcil de respondre amb ciència de dades.</p>
+
+
+
+<p><a href="/2020/03/23/el-govern-espanyol-utilitzara-els-nostres-mobils-per-monitoritzar-la-quarentena/"><strong>L’Estat utilitzarà les dades de les teleoperadores per rastrejar els moviments anonimitzats dels ciutadans</strong></a><strong> amb la finalitat de monitoritzar l’avanç de la Covid-19. Què n’opines?&nbsp;</strong></p>
+
+
+
+<p>Fa uns dies vaig llegir en algun lloc que, abans d’una tragèdia, totes les prevencions semblen innecessàries i, després, totes les mesures pal·liatives semblen insuficients. Al gener, ningú podia saber que això explotaria d’aquesta manera. També és cert que l’Estat ha badat i ha flaquejat a l’hora d’implementar determinades mesures. No tenia sentit mantenir el transport públic i la indústria en funcionament mentre es tancaven tots els bars. Opino que la mesura de monitoritzar els moviments de la població arriba tard i és insuficient, perquè ja hi ha hospitals col·lapsats i falta material. Tot i així, com a mesura em sembla vàlida. Una llei que no és capaç de forçar el seu compliment no serveix per a res. Aquesta sembla una mica orwelliana, però té sentit que es controli la quarentena perquè és una situació molt extremada. També espero que quan tot això passi, el control s’aturi. I això sospito que no passarà, perquè lamentablement trobaran nous motius per fer-ho. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">902</post-id>	</item>
+	</channel>
+</rss>

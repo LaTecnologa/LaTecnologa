@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: Els algoritmes invisibles de Catalunya	</title>
+	<atom:link href="/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/feed/" rel="self" type="application/rss+xml" />
+	<link>/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Mon, 29 Jun 2020 16:44:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Per: Neix l’observatori d’Ètica en Intel·ligència Artificial de Catalunya &#8211; La Tecnòloga		</title>
+		<link>/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/#comment-100</link>
+
+		<dc:creator><![CDATA[Neix l’observatori d’Ètica en Intel·ligència Artificial de Catalunya &#8211; La Tecnòloga]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2020 16:44:45 +0000</pubDate>
+		<guid isPermaLink="false">/?p=738#comment-100</guid>
+
+					<description><![CDATA[[&#8230;] de cinquanta exemples d’usos d’algorismes de decisió automatitzada (ADA) a Catalunya i que, en molts casos, han passat desapercebuts per a la majoria de la població tot i intervenir en decisi&#8230;: per exemple, extradir migrants, concedir ajuts socials, predir el risc de reincidència d’un [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] de cinquanta exemples d’usos d’algorismes de decisió automatitzada (ADA) a Catalunya i que, en molts casos, han passat desapercebuts per a la majoria de la població tot i intervenir en decisi&#8230;: per exemple, extradir migrants, concedir ajuts socials, predir el risc de reincidència d’un [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

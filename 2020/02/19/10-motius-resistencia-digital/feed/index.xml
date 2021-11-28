@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: 10 motius per practicar la &#8216;Resistència Digital&#8217;	</title>
+	<atom:link href="/2020/02/19/10-motius-resistencia-digital/feed/" rel="self" type="application/rss+xml" />
+	<link>/2020/02/19/10-motius-resistencia-digital/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sun, 14 Jun 2020 00:00:28 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Per: Silvia Puglisi, de The TOR Project: “La privacitat és un dret que ens permet desenvolupar les nostres idees i saber qui som” &#8211; La Tecnòloga		</title>
+		<link>/2020/02/19/10-motius-resistencia-digital/#comment-55</link>
+
+		<dc:creator><![CDATA[Silvia Puglisi, de The TOR Project: “La privacitat és un dret que ens permet desenvolupar les nostres idees i saber qui som” &#8211; La Tecnòloga]]></dc:creator>
+		<pubDate>Sun, 14 Jun 2020 00:00:28 +0000</pubDate>
+		<guid isPermaLink="false">/?p=787#comment-55</guid>
+
+					<description><![CDATA[[&#8230;] 10 motius per practicar la &#8216;Resistència Digital&#8217; [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] 10 motius per practicar la &#8216;Resistència Digital&#8217; [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

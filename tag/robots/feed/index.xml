@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Robots &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/robots/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Robots &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Teresa López-Pellisa, enderrocant el masclisme des de la cibercultura</title>
+		<link>/2020/09/18/teresa-lopez-pellisa-enderrocant-masclisme-cibercultura/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2020 17:39:52 +0000</pubDate>
+				<category><![CDATA[Diàlegs]]></category>
+		<category><![CDATA[Ciberfeminisme]]></category>
+		<category><![CDATA[Ciència ficció]]></category>
+		<category><![CDATA[Destacat]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[ginoides]]></category>
+		<category><![CDATA[Las Otras. Antología de mujeres artificiales]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[Science Fiction]]></category>
+		<category><![CDATA[Teresa López-Pellisa]]></category>
+		<guid isPermaLink="false">/?p=1601</guid>
+
+					<description><![CDATA[Entrevista a Teresa López-Pellisa, professora de Literatura a la Universitat de les Illes Balears (UIB), membre del Grup d’Estudis sobre el Fantàstic de la Universitat Autònoma de Barcelona (UAB) i és coneguda pel seu treball vinculat a la cibercultura, la ciència-ficció i el feminisme. Ha editat, entre altres títols, Las Otras: Antología de mujeres artificiales (2018), Distópicas i Poshumanas (2018) i Ciberfeminismo. De VNS Matrix a Laboria Cuboniks (2019). També és autora d’Insólitas: Narradoras de lo fantástico en Latinoamérica y España (2019), Historia de la ciencia ficción en la cultura española (2018)]]></description>
+										<content:encoded><![CDATA[
+<h3>López-Pellisa és professora de Literatura a la Universitat de les Illes Balears (UIB), membre del Grup d’Estudis sobre el Fantàstic de la Universitat Autònoma de Barcelona (UAB) i és coneguda pel seu treball vinculat a la cibercultura, la ciència-ficció i el feminisme. Ha editat, entre altres títols, <em>Las Otras: Antología de mujeres artificiales</em> (2018), <em>Distópicas </em>i<em> Poshumanas</em> (2018) i <em>Ciberfeminismo. De VNS Matrix a Laboria Cuboniks</em> (2019). També és autora d’<em>Insólitas: Narradoras de lo fantástico en Latinoamérica y España</em> (2019), <em>Historia de la ciencia ficción en la cultura española</em> (2018)</h3>
+
+
+
+<p>El cíborg ha burlat els límits de la ciència-ficció per convertir-se en la nova definició de l’ésser humà: com a espècie, hem creat artificialment el món que habitem i, alhora, hem modificat la naturalesa per adaptar-la al nostre mode de vida. I, en aquest context, la tecnologia també pot servir a causes emancipadores. Aquesta idea teixeix els escrits reunits per Teresa López-Pellisa i Remedios Zafra a l’antologia <a rel="noreferrer noopener" href="https://edicionesholobionte.com/ciberfeminismo-remedios-zafra-y-teresa-lopez-pellisa-eds/" target="_blank"><em>Ciberfeminismo. De VNS Matrix a Laboria Cuboniks </em>(Ediciones Holobionte)</a>, que recullen el pensament de més de vint creadores i pensadores ciberfeministes, o sigui, els feminismes orientats a la tecnologia. El mateix principi vertebra els relats de <a href="https://www.eolasediciones.es/catalogo/coleccion-las-puertas-de-lo-posible/las-otras-antologia-de-mujeres-artificiales/" target="_blank" rel="noreferrer noopener"><em>Las Otras: Antología</em> <em>de mujeres artificiales</em> (Eolas Ediciones)</a>, editat per López-Pellisa i que aplega contes de vint-i-sis autores i autors catalans, espanyols i llatinoamericans sobre ginoides, nines o dones virtuals i biotecnològiques de silici, plàstic i dígits binaris. L’obra defuig els clixés i, aquest cop, molts autors s’atreveixen a anar més enllà de la concepció tradicional de la dona artificial com a fetitxe, prostituta o companya sentimental en el marc de les relacions heteronormatives i dibuixen la imatge de l’autòmat femení des de postures dissidents.&nbsp;</p>
+
+
+
+<p><strong>Potser se’n parla poc, de ciberfeminisme, tot i que el feminisme i la seva relació amb la tecnologia és un tema d’absoluta actualitat?</strong></p>
+
+
+
+<p>L’etiqueta de ciberfeminisme ja no està d’actualitat, tot i que continua existint. De fet, moltes ciberfeministes han anat canviant de posicionaments, tal com es pot comprovar en el procés del llibre [<em>Ciberfeminismo. De VNS Matrix a Laboria Cuboniks</em>] que, primer cop, tradueix i reuneix textos clau del ciberfeminisme. El concepte de ciberfeminisme s’encunya als anys noranta. Neix sobretot en el context de l’art feminista i el <a rel="noreferrer noopener" href="https://es.wikipedia.org/wiki/Net.art" target="_blank"><em>Net.art</em></a>, quan es reflexiona sobre la <em>cibercultura</em> en uns termes que avui ens resulten inversemblants i ingenus. Cal tenir en compte que als noranta no tothom tenia un ordinador personal. Tal com escriu Remedios Zafra al pròleg, el llibre també reivindica la necessitat de publicar aquests textos en la llengua cíborg, meridional i mestissa que és el castellà per evidenciar les relacions entre Espanya i Llatinoamèrica amb una cultura digital que semblava que pertanyia exclusivament al món anglosaxó, i recull des dels primers manifestos dels noranta fins al <a rel="noreferrer noopener" href="https://www.nuvol.com/llibres/rosi-braidotti-posthuma-es-una-paraula-molt-molesta-31471" target="_blank">posthumanisme</a> i el <a rel="noreferrer noopener" href="http://lab.cccb.org/ca/helen-hester-la-biologia-no-determina-el-desti-es-pot-modificar-tecnologicament/" target="_blank">xenofeminisme</a>, que és cap a allò al qual ha tendit el ciberfeminisme. El problema és que el ciberfeminisme dels noranta reclamava un espai per a la cultura digital que per a les dones no ha existit. Es pensava en una relació postgènere a l’espai virtual que finalment no ha sigut real perquè el patriarcat l’ha col·lonitzat.&nbsp;</p>
+
+
+
+<p><strong>Com es podria caracteritzar el ciberfeminisme avui?</strong></p>
+
+
+
+<p>Trobem el ciberfeminisme en <em>Las Otras</em> o en pel·lícules com <em>Her</em>, <em>Ex-Machina</em>, <em>Ghost in the Shell</em>, o en sèries com <em>Black Mirror</em>; productes culturals que reflexionen sobre l’imaginari científic i tecnològic de la feminitat i la projecció d’aquest futur especulatiu a través de la ciència-ficció. Cada cop que tractem l’imaginari femení tecnològic parlem de ciberfeminisme. Els ciberfeminismes plantegen que allò personal és hiperpolític -i no només polític, com deien els feminismes de la segona onada- entenent la hiperpolítica com una ampliació d&#8217;allò polític a través de la seva extensió al món virtual. Totes les lluites feministes que es duen a terme a través de la xarxa tenen a veure amb el ciberfeminisme o allò que s’ha denominat tecnofeminisme. El llibre va de Venus Matrix, un grup d’artistes australianes sorgit als noranta, fins als textos xenofeministes del 2019. Algunes treballen des del ciberactivisme i les xarxes de dones del ciberespai, mentre altres treballen des de la idea de la representació de la dona en l’imaginari científic i tecnològic cultural i els estereotips que s’hi repeteixen i que reforcen la desigualtat de gènere.</p>
+
+
+
+<p><strong>Estem veient la quasi monopolització dels codis estètics per part de lògiques mercantilistes i algunes grans empreses, i, per tant, ni els videojocs, ni les xarxes socials, ni altres espais virtuals són, generalment, feministes avui en dia.</strong></p>
+
+
+
+<p>Els estereotips no només es perpetuen en la ficció: la ficció crea la realitat. Allò que consumim és allò que naturalitzem com a normatiu i com a real. Per això és important analitzar la representació femenina al cinema i la literatura del passat: per a entendre com s&#8217;ha construït una realitat que es continua perpetuant. El que passa és que interioritzem aquests rols i discursos en la mesura que els veiem. Al món virtual de&nbsp;<em>Second&nbsp;Life</em>, tots els avatars tenen uns cossos impressionants. Allà tothom pot tenir el físic que sempre ha volgut. Però el gust i l&#8217;estètica deriven de la cultura, i si&nbsp;continuem educant-nos en els mateixos models, res canviarà. Si no plantegem alternatives, no podem imaginar-nos altres possibilitats. I és en la imaginació poètica i l&#8217;espai simbòlic on es plantegen aquestes altres opcions. Per això la&nbsp;ciència-ficció&nbsp;és tan interessant: perquè ens pot mostrar altres societats viables. I perquè la ficció crea o reforça la realitat. Però, compte, que també pot ser conservadora.</p>
+
+
+
+<p><strong>Sovint les distopies ens transmeten recel&nbsp;cap&nbsp;a allò que en realitat és crític o vol qüestionar el present.</strong>..</p>
+
+
+
+<p>Sí, és un dels gèneres de moda del segle XXI. Trobem una gran quantitat de distopies al teatre, a la narrativa i al cinema. I habitualment són súper conservadores. Ens diuen que el futur és pitjor, que val més quedar-nos així i conformar-nos amb allò que tenim. A través de la por, se&#8217;ns condueix cap a la immobilitat. Però també hi ha distopies interessants, aquelles que ens inciten a canviar les causes del nostre malestar. És preferible sortir de l&#8217;habitual discurs distòpic per plantejar-nos alternatives socials, solidàries, de gènere, de sexualitat&#8230; I, això, avui, l&#8217;única narrativa que ho fa possible és la&nbsp;ciència-ficció.</p>
+
+
+
+<p><strong>Ha de ser aquesta una de les missions de la ciència-ficció? A <em>Ciberfeminismo</em> es planteja que l’art té més potència deconstructiva que la teoria perquè aquesta última està més afectada pels codis i estructures científic-tecnològiques.</strong></p>
+
+
+
+<p>Quasi totes les filòsofes i els filòsofs contemporanis utilitzen la&nbsp;ciència-ficció&nbsp;en els seus textos.&nbsp;Braidotti,&nbsp;Haraway,&nbsp;Zizek o&nbsp;Sloterdijk, que s&#8217;adonen que no es tracta d&#8217;un gènere marginal perquè planteja qüestions, metàfores i imaginacions de la poètica de la resistència amb un contingut social i polític molt interessant. A través de la&nbsp;ciència-ficció&nbsp;es pot plantejar un món fora del patriarcat i del gènere binari i normatiu. Unes altres regles són possibles en la ficció i en el ciberespai, que era allò que plantejaven algunes&nbsp;ciberfeministes&nbsp;dels noranta. Ara bé, cal després que puguem treure aquestes qüestions al món real, ja que al final la ficció és el reflex del món i viceversa.</p>
+
+
+
+<p><strong>La tecnologia diria que és ambivalent. Per una banda, ha esdevingut un lloc on ha quallat la societat patriarcal mentre, alhora, pot tenir un paper important per a les lluites feministes. Com podem utilitzar la tecnologia per aconseguir una justícia social i de gènere, segons els últims corrents ciberfeministes?&nbsp;</strong></p>
+
+
+
+<p>La reproducció i la biotecnologia són temes que actualment treballen els col·lectius <a rel="noreferrer noopener" href="https://es.wikipedia.org/wiki/SubRosa" target="_blank">SubRosa</a> o <a rel="noreferrer noopener" href="https://laboriacuboniks.net/" target="_blank">Laboria Cuboniks</a>, i tenen molt a veure amb el posthumanisme tecnomaterialista (tot són paraulotes meravelloses!). En plena segona onada del feminisme, <a rel="noreferrer noopener" href="https://ca.wikipedia.org/wiki/Shulamith_Firestone" target="_blank">Shulamith Firestone</a> escriu la <em>Dialèctica del Sexe,</em> on parla de l’alliberament del rol reproductiu de les dones a través dels anticonceptius. Aquest fet suposa una revolució perquè de sobte les dones guanyen la capacitat de decidir si volen reproduir-se o no. Més enllà dels anticonceptius, també es posa sobre la taula la possibilitat de l’ectogènesi, que és la gestació fora de l’úter. Hi ha una antologia de ciència-ficció escrita per dones espanyoles i llatinoamericanes, <em>Proyectogénesis</em>, on només hi apareixen relats que plantegen mons on això succeeix. I, en alguns casos, no són gens encoratjadors. És clar, el problema d’aquesta tecnologia -com el de qualsevol altra- és a quins interessos respon, qui hi accedirà o quin preu tindrà. Per això els ciberfeminismes han reclamat que aquestes eines siguin sense ànim de lucre. En el marc del capitalisme monopolista, els beneficis d’una tecnologia perverteixen el seu sentit. Què passaria si l’Estat necessita més soldats o pagadors d’impostos perquè mantinguin el sistema i la reproducció humana ja no depèn de la dona? A l’Estat li interessa tenir un control sobre els úters i els cossos femenins, i per això es legisla. </p>
+
+
+
+<p><strong>Tot això ja s’ho van plantejar les primeres ciberfeministes?</strong></p>
+
+
+
+<p>Quan&nbsp;<a rel="noreferrer noopener" href="https://ca.wikipedia.org/wiki/Donna_Haraway" target="_blank">Donna&nbsp;Haraway [considerada la primera&nbsp;ciberfeminista] escriu el Manifest Cíborg</a>, l&#8217;humà entès com a cíborg, com un organisme biològic modificat per la tecnologia, esdevé un ésser <em>queer</em>. Tot i que el concepte <em>queer</em> no apareix fins més tard,&nbsp;Haraway&nbsp;l&#8217;utilitza més enllà del significat literal i el transforma en una metàfora del subjecte postmodern. Alhora, ens diu que els límits entre biologia i cultura o entre natural i artificial són borrosos. Ens diu que la biologia és un discurs científic que respon a uns certs interessos històrics de gènere, per exemple.&nbsp;Haraway&nbsp;obre un món per a l&#8217;ésser humà que interactua amb els entorns digitals i evidencia que les nostres identitats estan absolutament&nbsp;intervingudes&nbsp;per les noves tecnologies. D&#8217;alguna manera, tots som cíborgs, al marge de les pròtesis que cadascú duu al cos -vacunes, ulleres, etc. Els ciberfeminismes i el&nbsp;posthumanisme&nbsp;crític feminista sostenen que cal desplaçar l&#8217;humà com a mesura de totes les coses perquè aquesta idea és absolutament androcèntrica, antropocèntrica, patriarcal i racista, i no inclou les dones, ni els cossos amb disfuncionalitat, ni els d&#8217;altres colors de pell, ni els altres éssers vius amb els quals convivim&#8230;&nbsp;Aquest pensament té molt a veure amb la quarta onada feminista que vivim, on l&#8217;ecocrítica&nbsp;és fonamental. Cal veure com la tecnologia i la biotecnologia han vist beneficis en l&#8217;explotació de la terra i els cossos. Això preocupa molt des de l&#8217;ectogènesi, la clonació o la intervenció en la línia germinal, que consisteix&nbsp;a&nbsp;dissenyar els éssers que naixeran utilitzant la reproducció en els cossos femenins. En aquest sentit, es parla d&#8217;eugenèsia terapèutica. Però les tecnologies poden servir tant per al control com per a l&#8217;alliberament. Ara ens toca debatre quin ús donarem a la biotecnologia un cop descoberta la recepta de l&#8217;ADN que ens permet intervenir-lo i modificar-lo.</p>
+
+
+
+<p><strong>Cal veure com utilitzarem el <a rel="noreferrer noopener" href="https://www.ccma.cat/tv3/alacarta/no-pot-ser/gen-etica/video/6035499/" target="_blank">mètode d’edició genètica CRISPR</a>…</strong></p>
+
+
+
+<p>Exacte, l&#8217;edició de l&#8217;ADN suposa un canvi de paradigma. De fet, John&nbsp;Haldan, un biòleg de principis del segle XX -qui, per cert, coneixia&nbsp;Aldous&nbsp;Huxley, l&#8217;autor de la novel·la distòpica genètica Un món feliç (1932)- va treballar en les possibilitats de la biologia reproductiva&nbsp;durant els anys vint i somiava amb la possibilitat que, en un futur, l&#8217;espècie es reproduiria per ectogènesi. Sostenia que&nbsp;el 2044&nbsp;el 75-80% de la població naixeria a través d&#8217;aquest mètode i que, a més, només veurien la llum aquells éssers desitjables. Parlava d&#8217;eugenèsia, un tema que les teories darwinianes del segle XIX van posar molt de moda. Fins als&nbsp;anys seixanta, el Japó esterilitzava les persones amb Síndrome de&nbsp;Down&nbsp;o alguna deficiència sense el seu consentiment. Es tracta d&#8217;una pràctica eugenèsica que executa l&#8217;Estat sense el consentiment de les persones afectades. Avui en dia es duen a terme diverses pràctiques eugenèsiques.</p>
+
+
+
+<p><strong>A&nbsp;<em>Las&nbsp;Otras&nbsp;</em>escrius que &#8220;en els relats d&#8217;aquesta antologia no només ens trobem amb&nbsp;Galatees&nbsp;sinó també amb Pandores, un mite que m&#8217;interessa reivindicar com a metàfora per a&nbsp;analizar&nbsp;aquells textos&nbsp;en què&nbsp;es creen dones des d&#8217;una perspectiva&nbsp;patrilinial&nbsp;per a l&#8217;ús, el goig i el gaudi del plaer masculí&#8221;.</strong></p>
+
+
+
+<p>El relat de <em>Las Otras</em> de José María Merino, membre de la Reial Acadèmia Espanyola (RAE) i un dels autors de la literatura fantàstica de ciència-ficció més importants d’Espanya que ha publicat diversos textos protagonitzats per dones artificials, parla de prostíbuls i d’una societat on les fèmines virtuals estan molt sol·licitades, mentre manquen homes artificials perquè no hi ha demanda. Però va ser molt interessant veure com alguns autors dels contes de l’antologia<em> </em>defugen l’imaginari grecollatí i estereotipat de Galatees i Pandores i plantegen alternatives com fan Alberto Chimal, Naief Yehya o Lola Robles. Segons el mite, Pigmalió, el rei de Xipre, esculpeix Galatea perquè s’ha de casar i tenir descendència, però no li interessa cap dona de l’illa que regna. Perquè les considera a totes malvades i malignes. Perquè té por de l’altre, d’allò desconegut, allò que no és ell mateix. Per tant, decideix crear-se la seva pròpia muller i, tal com relata Ovidi a <em>Metamorfosis</em>, la fa a imatge seva. Aleshores, la deessa Venus infon vida a l’escultura. Galatea és la projecció del desig masculí, és la seva imatge, tal com passa amb la majoria d’actrius de Hollywood: dones que responen a la sexualitat heteronormativa per al gaudi i el plaer de l’ull masculí. Al final, Galatea és com una dona inflable que, a més, viu feliç com a esposa submisa i mare fins al final dels seus dies.</p>
+
+
+
+<p>Pandora també és una dona artificial que neix per encàrrec de Zeus amb l’objectiu de castigar <a href="https://ca.wikipedia.org/wiki/Prometeu_(mitologia)" target="_blank" rel="noreferrer noopener">Prometeu</a> per haver ajudat els homes. Per això, Zeus ordena a Hefest la creació d’alguna cosa desastrosa per a l’home. Cada déu de l’Olimp li confereix un do, mentre Hermes li infon la curiositat i la mentida. Al mateix temps, els déus omplen una capsa amb els mals de la humanitat i, Pandora, presa de la curiositat, l’obre i fugen tots els mals que corren avui per la terra, provocant també la seva mort. A mi m’interessa Pandora perquè quan parlem de dones artificials sempre es fa al·lusió a Galatea i, en canvi, mai es menciona a Pandora. En la majoria de textos com aquest, la dona -ja sigui de fang, metàl·lica, virtual o electrònica- acaba sent assassinada o destruïda, carregant-se també l’home que l’ha creada, que sovint és el pare o l’amant de l’artefacte. Ho veiem, per exemple, a <em>El hombre de arena</em> de Hoffmann. En el fons, crec que en aquests textos es penalitza la relació de l’home amb una dona artificial perquè amb ella no es pot reproduir. En la majoria d’aquests textos es parla de dones incompletes, que no tenen la regla ni poden engendrar fills. Són una joguina, un mer entreteniment.</p>
+
+
+
+<p><strong>És un enfocament que hauríem de canviar?</strong></p>
+
+
+
+<p>El posthumanisme crític es planteja una relació diferent amb la tecnologia i els éssers no humans. Desaprova l’antropolatria, la superioritat de l’ésser humà, tal com va fer Haraway al <em>Manifest de les espècies de companyia</em>. Dins el sistema capitalista, tractem malament els objectes perquè els comprem, ens els apropiem, els tirem i, després, ens en comprem uns altres. Això només fomenta el consumisme, l’esgotament dels recursos i la sobreproducció. En la ciència-ficció, la majoria d’éssers artificials són autoconscients, però se’ls tracta malament. Per això serveixen com una metàfora de l’altre i la diversitat. I, al final, el que es penalitza és això: la relació amb algú que no és igual.&nbsp;</p>
+
+
+
+<p><strong>Per què hi ha encara tan poques tecnòlogues dones amb relació als homes? </strong><a href="/2020/02/11/mhan-arribat-a-dir-que-som-massa-guapa-per-ser-informatica/"><strong>A la UIB, les dones no arriben al 8,5% del total de matriculats a Enginyeria Informàtica a la Universitat de les Illes Balears i representen com a màxim el 18% dels treballadors amb perfil tècnic del sector digital</strong></a><strong>. Què cal fer per empènyer les dones a intervenir-hi, tenint en compte que la tecnologia tindrà un pes tan gran en la fabricació del futur?</strong></p>
+
+
+
+<p>És una qüestió de cultura i educació. Jo, que sóc professora de lletres, pràcticament només tinc dones. I a la carrera de Magisteri potser hi ha dos homes. Per això hem de construir imaginaris on les dones facin ciència i tecnologia, i amb això la ficció té un paper fonamental. Quantes pel·lícules has vist protagonitzades per una dona <em>hacker</em>? Si de petita ja et relaciones de manera natural amb la tecnologia, de gran escolliràs la carrera que vulguis. Però mentre els missatges que arriben a les nenes siguin que han d’estar boniques, dedicar-se a la criança i ser mestres… Per a generar nous discursos s’ha de fer resistència… però clar, quina resistència pot fer una adolescent de disset anys, si tot just comença a formar-se la seva consciència política? Quantes pensadores has llegit durant la carrera de Filosofia?</p>
+
+
+
+<p><strong>Doncs molt poques, la veritat.&nbsp;Hannah&nbsp;Arendt i poques més. Cap de les que ha esmentat aquí. D&#8217;homes, un munt.</strong></p>
+
+
+
+<p>Pràcticament, tots. Tenim un problema, i és com s’ensenya la Història. Porten tota la vida dient-me que no hi ha autores de ciència-ficció i és mentida. La primera novel·la del gènere és <em>Frankenstein</em> (1818) de Mary Shelley. De fet, la primera ginotopia [utopia on només apareixen personatges femenins] l’escriu <a rel="noreferrer noopener" href="https://ca.wikipedia.org/wiki/Llibre_de_la_ciutat_de_les_dames" target="_blank">Christine de Pisan el 1405</a> que, considerada la primera escriptora professional de la història d’Occident, imagina un món poblat només per dones que poden educar-se, escriure i cultivar-se. Allò cert és que li va costar molt viure en un món d’homes i no van parar de dir-li que mancava de capacitat intel·lectual. Quan estudiem Història de la literatura sembla que al segle XVIII no hi havia escriptores. Hi eren, però s’han invisibilitzat. Del ciberfeminisme he après que cal recompondre la Història de la ciència i la tecnologia tenint en compte la participació de les dones. No sabem què feien les dones del passat? Doncs investiguem-ho. Tothom coneix <em>Utopia</em> (1516) de Thomas More o <em>La ciutat del sol</em> (1602) de Campanella; però pocs coneixen <em>The Blazing World</em> (1666), una utopia fascinant de l’anglesa Margaret Cavendish on, a més, hi apareix una perspectiva ecocrítica molt interessant. </p>
+
+
+
+<p><strong>A la&nbsp;ciència-ficció&nbsp;també veiem allò que&nbsp;Barbara&nbsp;Creed&nbsp;defineix com&nbsp;la síndrome&nbsp;del femení monstruós. Per exemple, tal com comenta Rosi&nbsp;Braidotti, a la pel·lícula <em>Alien</em> l&#8217;ordinador principal que controla la nau es diu Mare i és molt malvada amb la protagonista.&nbsp;<em>Las&nbsp;Otras</em>&nbsp;vol combatre també aquesta idea?</strong></p>
+
+
+
+<p>La teòrica&nbsp;Rosi&nbsp;Braidotti amb la seva filosofia del&nbsp;posthumanisme&nbsp;crític feminista es presenta com&nbsp;a antihumanista. La seva posició vol fer-nos veure que hi ha alternatives a l&#8217;humanisme occidental imperialista, capitalista, blanc, occidental i heteronormatiu, per la qual cosa el&nbsp;posthumanisme&nbsp;ens ofereix altres maneres de relacionar-nos entre els éssers humans, amb el planeta que habitem i amb altres éssers vius i&nbsp;tecnològics. No és que&nbsp;Braidotti&nbsp;no cregui en la humanitat, sinó que aposta per una altra idea de l&#8217;humà més igualitària, justa i sostenible.<br>A l&#8217;antologia de <em>Las Otras</em> hi ha relats que defensen la subjectivitat&nbsp;posthumana, però també hi ha monstruositats femenines que simbolitzen i reforcen el patriarcat al costat d&#8217;unes altres que el subverteixen. La tradició literària i cinematogràfica està plagada d&#8217;aquesta mena de monstres femenins. Sense anar més lluny, l&#8217;exemple d&#8217;<em>Alien</em> també pot llegir-se com una crítica&nbsp;a la&nbsp;maternitat&nbsp;obligatòria. Si&nbsp;tens&nbsp;la&nbsp;bestiola&nbsp;al&nbsp;ventre, has de parir&nbsp;vulguis&nbsp;o no.  Cal tenir en compte que la pel·lícula s&#8217;estrena als anys setanta, durant la segona onada feminista, quan precisament es comença a reivindicar el dret a l&#8217;avortament.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1601</post-id>	</item>
+		<item>
+		<title>Art i robots</title>
+		<link>/2020/08/10/art-i-robots/</link>
+		
+		<dc:creator><![CDATA[Peter Suechting]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2020 16:26:09 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Art]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Deepfakes]]></category>
+		<category><![CDATA[Destacat]]></category>
+		<category><![CDATA[Falsificacions]]></category>
+		<category><![CDATA[GAN]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[Xarxes Generatives Antagòniques]]></category>
+		<guid isPermaLink="false">/?p=1554</guid>
+
+					<description><![CDATA[Durant els darrers dos anys, investigadors del Laboratori de Dades per a la Intel·ligència Artificial (Data-to-AI Lab) de l’Institut Tecnològic de Massachusetts (MIT) ha estat experimentant amb GANs per resoldre un grapat de problemes socialment rellevants, que van des de transmetre -i detectar- missatges secrets i protegir vídeos amb una marca d’aigua fins a identificar anomalies i preservar la privacitat. Al DAI Lab li complau compartir alguns dels seus projectes més engrescadors amb les comunitats de l’aprenentatge automàtic i la ciència de dades amb l’esperança de generar debat i col·laboració. ]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">Foto: Retrat de Belamy. Imatge cortesia de <a href="https://art.art/blog/christies-first-ai-artwork">Christie’s</a>.</p>
+
+
+
+<p><em>Nota dels editors:</em> <em>Aquest article és el primer d&#8217;una sèrie que ha impulsat el Laboratori de Dades per a la Intel·ligència Artificial (Data-to-AI Lab) de l’Institut Tecnològic de Massachusetts (MIT), amb qui La Tecnòloga col·labora, i que vol generar debat i cooperació en les comunitats de l’aprenentatge automàtic (machine learning) i la ciència de dades.</em> <em>Podeu llegir l&#8217;article original en <a rel="noreferrer noopener" href="https://medium.com/mit-data-to-ai-lab/art-robots-661b7ad86411" target="_blank">aquest enllaç</a>.</em> <em>Traducció d&#8217;Anna Schnabel.</em></p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<h2>Sobre les Xarxes Generatives Antagòniques i el seu potencial creatiu</h2>
+
+
+
+<p>Les estimacions inicials del valor del retrat <a rel="noreferrer noopener" href="https://www.christies.com/Lotfinder/lot_details.aspx?hdnSaleID=27814&amp;LN=363&amp;intsaleid=27814&amp;sid=41bfe836-b0c1-4afa-9298-09cc909345ee" target="_blank">Edmond de Belamy</a> van situar el seu preu entre els 7.000 i els 10.000 dòlars. En realitat, la pintura en si no és res de l’altre món. Pinzellades barroeres de color marró, negre, blanc i gris esbossen un home més aviat desdibuixat mirant lúgubrement i confusa fora del quadre. Però el 25 d’octubre de 2018, quan va tornar la calma a la casa de subhastes Christie’s, a Nova York, <a rel="noreferrer noopener" href="https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans" target="_blank">el retrat s’havia venut per 432.500 dòlars</a>.&nbsp;</p>
+
+
+
+<h3><strong>L’art d’artificial&nbsp;</strong></h3>
+
+
+
+<p>Què va provocar el frenesí per apostar per part dels participants presents aquella tarda a la sala de subhastes? El fet que la tela havia estat ‘pintada’ per una màquina. La <a rel="noreferrer noopener" href="https://obvious-art.com/gallery-obvious/" target="_blank">sèrie de retrats de Belamy</a> és obra d’<a rel="noreferrer noopener" href="http://obvious-art.com/" target="_blank"><em>Obvious</em></a>, un grup de tres artistes i programadors francesos que produïren la peça utilitzant <a rel="noreferrer noopener" href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/" target="_blank">Xarxes Generatives Antagòniques</a>, o GANs, a partir d’un conjunt de dades de 15.000 retrats europeus¹. El resultat? Onze obres úniques, incloent-hi el retrat Edmond de Belamy, amb trets característics de les obres que van nodrir i entrenar el model.</p>
+
+
+
+<p>El projecte atribueix potencialment a l&#8217;art produït per intel·ligència artificial (AI) el mateix mèrit que a l&#8217;art fruit de la mà humana. Al cap i a la fi, el que els d&#8217;<em>Obvious</em> van fer és imprimir el resultat de l&#8217;algorisme que els va agradar més amb una impressora d’injecció i, posteriorment, van posar-hi un marc daurat i van signar l&#8217;obra amb un fragment del codi de l’algorisme. Res té d’especial l’objecte en si mateix; es podria imprimir i emmarcar un miler de vegades més. Així doncs, la guerra d&#8217;ofertes per aconseguir el retrat de Belamy sembla respondre més aviat a la voluntat de fer-se amb una peça clau de la història contemporània: el moment en què les màquines esdevenen artistes.</p>
+
+
+
+<p>Les màquines creen, però poden ser creatives? Aquesta és la pregunta que fa sorgir l’aparició dels GANs. Per a programadors com els d’<em>Obvious</em>, els GANs poden convertir-se en una eina molt poderosa a l&#8217;hora de prendre part en el debat sobre l’autenticitat. Com a tal, el projecte de Belamy és només un fragment d’un debat molt més ampli al voltant de la definició de la creativitat i sobre si els humans poden encara considerar-se els seus practicants exclusius.</p>
+
+
+
+<h3><strong>Fallar és generatiu</strong></h3>
+
+
+
+<p>Des de la seva concepció dins de la ment d’Ian Goodfellow, els GANs s’han aplicat a una gran varietat de tasques ‘creatives’. D’acord amb <a href="https://arxiv.org/pdf/1406.2661.pdf">l&#8217;article de Goodfellow et. al. del 2014</a>, les Xarxes Generatives Antagòniques entrenen dos models -un generador i un discriminador- al mateix temps. Un conjunt de dades original (imatges, text, etc.) es presenta als dos algorismes, cadascun dels quals separa les dades i avalua com es relacionen els seus components entre ells. Aquesta és una aplicació típica d’una xarxa neuronal. Però el que ve a continuació és la clau del procés. La mitologia del moment dibuixa a Goodfellow plantejant-se una pregunta: &#8220;què passaria si les xarxes neuronals poguessin competir entre elles?&#8221;</p>
+
+
+
+<p>Dins dels GANs, el concepte de les xarxes antagòniques està vinculat a una operació anomenada &#8216;retropropagació&#8217;, que és un component crític del procés d’aprenentatge. Així, la wiki de Skymind.AI compara:</p>
+
+
+
+<p><em>“&#8230; una xarxa neuronal amb una gran peça d’artilleria que intenta colpejar un objecte llunyà amb un projectil. Quan la xarxa neuronal fa una suposició sobre un punt de les dades, dispara, un núvol de pols emergeix a l’horitzó, i el tirador intenta esbrinar on impacta el projectil i la distància que la separa de l’objectiu. I aquesta distància és la mesura de l’error. La mesura de l’error és aleshores aplicada a l’angle i la direcció de l’arma, abans que dispari de nou. La retropropagació pren l’error associat amb una suposició incorrecta d’una xarxa neuronal, i utilitza aquest error per ajustar els paràmetres de la xarxa neuronal en la direcció en què es redueix l&#8217;error”.&nbsp;</em></p>
+
+
+
+<p>En aquest sentit, la retropropagació és similar a la cognició humana. Un operador d’artilleria, disparant uns quants projectils per provar i refinar la seva punteria abans de fer diana, aprèn què funciona i què necessita ajustar i automàticament fa aquests canvis cada cop que dispara. Però així com l’operador ha de confiar en els propis ulls per comprovar el seu grau d’èxit o fracàs, els GANs tenen un algorisme discriminador que indica si el simulacre és discerniblement fals o no. A més a més, una màquina pot disparar milers de trets en el mateix temps en què un humà dispara un sol cop. La potència iterativa de càlcul de la màquina permet, doncs, que ambdues xarxes coevolucionin ràpidament.</p>
+
+
+
+<p>En resum, la retropropagació crea un entorn en el qual un algorisme generador s’entrena de manera ràpida i eficaç competint contra un algorisme discriminador. L’algorisme generador no té límits pel que fa a les habilitats que pot assolir amb relació al discriminador. A través d’aquest procés, la falsificació s’acosta asimptòticament a la realitat fins al punt que distingir entre els dos deixa de ser possible, fins i tot per a les màquines. Així, després de l’entrenament apropiat, l’algorisme generador esdevé capaç de produir simulacres que poden enganyar l’ull digital del discriminador i, conseqüentment, l’ull humà observant el resultat.</p>
+
+
+
+<h3><strong>Remesclant la realitat</strong></h3>
+
+
+
+<p>Hi ha nombrosos exemples d’eines basades en GANs en els últims anys, que van des de les populars i depredadores aplicacions per a crear <a href="https://www.bbc.com/news/technology-42912529">deepfakes</a> fins a d’altres més il·lustrades com el <a href="https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html">DeepDream</a>, eines basades en GANs per generar inquietants imatges al·lucinògenes a partir de fotografies reals. <a href="https://magenta.tensorflow.org/">Project Magenta</a>, un grup d’investigadors afiliats a Google, desenvolupen i acullen una llibreria d’eines basades en GANs per augmentar la producció de música digital, proporcionant una altra aplicació fascinant per a la manipulació i la millora del so. (Podeu escoltar els resultats de la col·laboració entre Magenta i el grup musical de Los Angeles YACHT a l’àlbum que llançaren el setembre del 2019 <a href="https://magenta.tensorflow.org/chain-tripping">aquí</a>. I a sota hi trobareu un exemple d’interpolació de vídeo utilitzant eines basades en GANs per a projectar cossos en moviment, <a href="https://arxiv.org/pdf/1808.07371.pdf">presentat en un article recent de Caroline Chan</a>.)</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Everybody Dance Now" width="1160" height="653" src="https://www.youtube.com/embed/mSaIrz8lM1U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Però no creguem que els investigadors en IA inverteixen el seu temps en deixar sense feina a artistes ja famolencs, perquè aquestes aplicacions artístiques encara no estan preparades per competir amb els grans mestres. Continuen sent eines per ser emprades pels humans en àmbits molt diversos i en diferents graus d’utilitat. Això sí, a banda d’aplicacions artístiques, les eines basades en GANs estan fent ruta cap a altres reialmes, un tema que s’explorarà en una altra publicació.&nbsp;</p>
+
+
+
+<p><em>Durant els darrers dos anys, investigadors del Laboratori de Dades per a la Intel·ligència Artificial (Data-to-AI Lab) de l’Institut Tecnològic de Massachusetts (MIT) ha estat experimentant amb GANs per resoldre un grapat de problemes socialment rellevants, que van des de transmetre -i detectar- missatges secrets i protegir vídeos amb una marca d’aigua fins a identificar anomalies i preservar la privacitat. Al DAI Lab li complau compartir alguns dels seus projectes més engrescadors amb les comunitats de l’aprenentatge automàtic i la ciència de dades amb l’esperança de generar debat i col·laboració. Amb aquesta intenció, aquest article és el primer d’una sèrie de publicacions sobre els projectes de xarxes generatives antagòniques del laboratori per a incloure mostres de la nostra feina, tutorials, comentaris i llibreries de codi obert. Planegem publicar aquests articles cada dues setmanes, alternant-los amb una sèrie de tutorials dedicats a varis dels nostres últims projectes relacionats amb GANs. Torneu aviat a la nostra pàgina de Medium i seguiu-nos a Twitter.</em></p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">A commentary on GANs by Peter Suechting. With this article, we are launching a multipart bi-weekly series on the lab’s GAN-related projects, to include demonstrations of our work, tutorials, commentary essays, and open-source libraries.  <a href="https://t.co/sLICz5FA3a">https://t.co/sLICz5FA3a</a></p>&mdash; MIT &#8211; Data to AI Lab (@lab_dai) <a href="https://twitter.com/lab_dai/status/1291043188052918278?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>[1]: El debat persisteix sobre l’origen del codi que <em>Obvious</em> va utilitzar per produir el retrat de Belamy. El programador Robbie Barat, artista d&#8217;IA no afiliat a <em>Obvious</em>, és responsable, segons algunes fonts, del 90% del codi utilitzat en el projecte, tot i que originalment havia publicat el codi sota la llicència <a href="https://creativecommons.org/">creative commons</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1554</post-id>	</item>
+		<item>
+		<title>Distopies tecnològiques per jutjar el demà</title>
+		<link>/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/</link>
+					<comments>/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 29 May 2020 16:39:13 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Robots]]></category>
+		<guid isPermaLink="false">/?p=1337</guid>
+
+					<description><![CDATA[La ciència-ficció ha contribuït a crear debat i consciència crítica sobre la tecnologia i la Intel·ligència Artificial “Maleït creador! Per què no vaig perdre en&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>La ciència-ficció ha contribuït a crear debat i consciència crítica sobre la tecnologia i la Intel·ligència Artificial</h2>
+
+
+
+<p>“Maleït creador! Per què no vaig perdre en aquell moment la flama de l’existència que tan imprudentment vares encendre?” brama, amb set de venjança, la solitària criatura de Víctor Frankenstein a l’obra mestra de Mary Shelley. Sense màquines al relat, <em>Frankenstein</em> ha contribuït a crear un imaginari simbòlic de la Intel·ligència Artificial (IA) més a prop del recel que de l&#8217;encís: les nostres creacions poden rebel·lar-se i posar la humanitat contra les cordes. Són un mirall d&#8217;aquesta por irracional les novel·les <em>1984</em>, <em>Jo, robot</em>, <em>Un Món feliç</em>; les pel·lícules <em>Blade Runner</em>, <em>Matrix</em>, <em>Ex-Machina</em>; les sèries <em>Black Mirror</em>, <em>Westworld</em>… La llista és inacabable.</p>
+
+
+
+<p>Segons l&#8217;estudi <em>El Factor Frankenstein: anatomia de la por a la Intel·ligència Artificial</em>, elaborat per SogetiLabs el 2017, més d’un terç dels ciutadans de la Unió Europea creu que l’IA serà una amenaça per a la supervivència de l&#8217;home a llarg termini. Mentrestant, un 46% no veu cap benefici en la idea de desenvolupar robots humanoides. &#8220;Hi ha quelcom d&#8217;atàvic en la por que els humans sentim cap al progrés i la tecnologia. Cap a un futur que ens parla de suplantació&#8221;, escriu el director de <a rel="noreferrer noopener" href="https://www.youtube.com/watch?v=p2xad7Rm4DI" target="_blank">la pel·lícula <em>Eva</em></a>, el barceloní Kike Maíllo, a <a rel="noreferrer noopener" href="https://revistaidees.cat/es/la-maquina-aparentemente-desobediente/" target="_blank"><em>La Màquina Aparentment Desobedient</em>, publicat a la Revista Idees</a> del Centre d&#8217;Estudis de Temes Contemporanis (CETC), que dimecres va oferir un diàleg en línia sobre l&#8217;imaginari simbòlic de l&#8217;IA entre dos investigadors de primer nivell: Ramon López de Mántaras i Carme Torras. </p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Diàleg online | L’imaginari simbòlic de la IA" width="1160" height="653" src="https://www.youtube.com/embed/4VlbfWFlNbs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>El cert és que la ciència-ficció ha apel·lat molt més a la distopia que a la utopia. I quan la tecnologia entra en escena, ja podem presagiar un final apocalíptic. Tot i això, la ciència-ficció no només ha servit per sembrar el terror: també ha contribuït a &#8220;crear debat i consciència crítica sobre la tecnologia i la Intel·ligència Artificial&#8221;, va advertir Carme Torras. </p>
+
+
+
+<p>De fet, Torras, que és investigadora a l&#8217;Institut de Robòtica i Informàtica Industrial de la Universitat Politècnica de Catalunya (UPC), doctora en Informàtica i novel·lista, ho ha posat en pràctica a <em>La mutació sentimental</em> (Editorial Pagès Editors), on es planteja si el fet de ser criat per mainaderes artificials i educat per mestres robòtics afectaria els nostres hàbits intel·lectuals, emocionals i socials. Al mateix temps, posa sobre la taula una sèrie de qüestions que són utilitzades actualment a diverses universitats del món per impartir formació ètica en algunes carreres tecnològiques. Així, Orwell, Huxley o Shelley han entrat a l&#8217;acadèmia per polemitzar el dilema seguretat versus llibertat, el totalitarisme tecnològic, els substituts emocionals, les rèpliques humanes i un prolongat etcètera. Els interrogants morals també perseguiran el lector d&#8217;<em>Enxarxats</em>, obra de la mateixa autora &#8211;<a rel="noreferrer noopener" href="https://www.fundaciobit.org/es/carme-torras-enxarxats/" target="_blank">i a la qual la Fundació Bit va dedicar aquesta ressenya</a>. Aquesta setmana, la Fundació Mallorca Literària ha entrevistat a Torras sobre aquesta novel·la i ha reflexionat amb ella sobre els múltiples dilemes que plantegen les xarxes socials a la societat. </p>
+
+
+
+<figure class="wp-block-embed-facebook wp-block-embed is-type-video is-provider-facebook"><div class="wp-block-embed__wrapper">
+<div class="fb-video" data-allowfullscreen="true" data-href="https://www.facebook.com/mallorcaliteraria/videos/669074210336191/"></div>
+</div></figure>
+
+
+
+<h3>La màquina es rebel·la</h3>
+
+
+
+<p>Predir el futur mai ha estat fàcil. Tot i això, durant l&#8217;acte del CETC, Ramón López de Mántaras, enginyer físic i investigador del Consell Superior d&#8217;Investigacions Científiques (CSIC), ens recordà la gran quantitat de projectes de recerca en IA dels darrers 50 anys que van ser anticipats per <em>2001: una Odissea a l’Espai</em> (1968). Per exemple, <a rel="noreferrer noopener" href="/2019/12/13/una-tecnologia-que-avanca-malgrat-els-emperons/" target="_blank">el reconeixement facial</a> -“fins i tot quan la cara només hi està dibuixada”, precisa l&#8217;investigador-, el diagnòstic predictiu d’avaries, la lectura de llavis, la capacitat de jugar a escacs a molt alt nivell o el domini absolut del llenguatge natural. López de Mántaras afegeix que el supercomputador Hal, encarregat de controlar les funcions de la nau espacial, no simula tenir estats mentals sinó que realment els experimenta, així com la por de ser desconnectat. Per això Hal &#8220;mata en defensa pròpia&#8221;, diu. De nou, la màquina es rebel·la.&nbsp;</p>
+
+
+
+<p>No obstant això, el dilema del robot entre acatar i sotmetre&#8217;s va aparèixer per primer cop a l&#8217;obra d&#8217;Isaac Asimov. El visionari autor, que enguany hauria complit 100 anys, despuntà com a escriptor enmig de l’horror d’Hiroshima i Nagasaki i una allau d’avenços tecnològics que amenaçaren com mai abans la humanitat. Asimov, científic de professió, va recórrer a la literatura per plantejar els dubtes i les pors que li generava la ciència: al seu llibre <em>Jo, Robot</em> va establir <a href="https://ca.wikipedia.org/wiki/Lleis_de_la_rob%C3%B2tica">les famoses lleis fonamentals de la convivència entre humans i robots</a>, que han estat assimilades per la comunitat que investiga en IA.</p>
+
+
+
+<p>La fragmentació del coneixement en compartiments estancs mai no ha afavorit el progrés. Per això, la multidisciplinarietat és necessària si volem evitar el desastre. <a rel="noreferrer noopener" href="https://revistaidees.cat/la-ciencia-ficcio-i-el-debat-entre-etica-i-intelligencia-artificial/" target="_blank">Com escriu Torras a la Revista Idees</a>, el món de la recerca de la IA ha vist &#8220;la necessitat de treballar conjuntament amb científics socials, psicòlegs, advocats, filòsofs i antropòlegs per tal d’analitzar les implicacions socials i ètiques de les tecnologies que s’estan desenvolupant i la forma com s’estan desplegant&#8221;. I en aquesta tasca, la literatura, el setè art i els diferents engranatges que alimenten el nostre imaginari simbòlic hi tenen molt a dir. Com va dir Neal Stephenson, la ciència-ficció pot donar idees per a innovacions tècniques i, sobretot, &#8220;pot oferir una imatge coherent d’aquestes innovacions integrades en una societat, en l’economia i en la vida de les persones”. </p>
+
+
+
+<p>Així, Kike Maíllo aconsegueix a la seva pel·lícula <em>Eva</em> que el gran públic es plantegi: Les màquines de companyia podran ser bones amigues nostres? Serem capaços d&#8217;establir lligams d&#8217;afecte amb artefactes que es limiten a obeir el seu propietari? I si els conferim consciència i lliure albir per a igualar-nos-hi, quina relació de poder hi establirem amb les màquines, una vegada hagin adquirit una intel·ligència immensament superior a la nostra?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1337</post-id>	</item>
+		<item>
+		<title>Intel·ligència Artificial per combatre el Covid-19</title>
+		<link>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/</link>
+					<comments>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 20 Mar 2020 21:26:48 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Aprenentatge Profund]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Coronavirus]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[SARS]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Virus]]></category>
+		<category><![CDATA[Xarxes Neuronals]]></category>
+		<guid isPermaLink="false">/?p=847</guid>
+
+					<description><![CDATA[La Intel·ligència Artificial, la ciència de dades i la tecnologia tenen un paper clau per rastrejar i combatre la pandèmia del coronavirus]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">Imatge: <a rel="noreferrer noopener" aria-label="Casos de COVID-19 segons el Centre de Sistemes, Ciència i Enginyeria (CSSE) a la Universitat John Hopkins (JHU) (opens in a new tab)" href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" target="_blank">Casos de COVID-19 segons el Centre de Sistemes, Ciència i Enginyeria (CSSE) de la Universitat John Hopkins (JHU)</a> el dia 20 de març a les 22:30 hores. </p>
+
+
+
+<h2>La Intel·ligència Artificial, la ciència de dades i la tecnologia tenen un paper determinant en rastrejar i combatre la pandèmia del coronavirus</h2>
+
+
+
+<p>El món ha emmalaltit. L&#8217;últim dia d&#8217;hivern tanca amb més de 259.000 casos confirmats per coronavirus i 11.250 morts, i els mitjans de comunicació ens recorden a tothora que no hem tocat sostre. Però enmig de les males notícies, una d’esperançadora. Aquesta setmana, la Xina, on es va originar la pandèmia, ha registrat per primer cop zero contagis locals. I el robust sector tecnològic de la segona potència mundial hi ha tingut un paper determinant. Concretament, la Intel·ligència Artificial (IA), la ciència de dades i la tecnologia per rastrejar i combatre el Covid-19. Per exemple, un sistema de control que utilitza dades massives (<em>Big Data</em>) per identificar i avaluar el risc de cada individu en funció del seu historial de viatges o la possible exposició a persones portadores del virus.</p>
+
+
+
+<p>El gegant asiàtic, però, també ha fet ús del vessant més polèmic de la tecnologia. El sofisticat sistema de vigilància del règim de Xi Jinping <a href="/2019/10/13/els-perills-del-reconeixement-facial/">s’ha servit del reconeixement facial</a> i de programari de detecció de temperatura per identificar persones que tenen febre o més probabilitats de patir el virus. Fins i tot va proporcionar a la policia de la regió de Sichuan cascos intel·ligents per identificar persones amb temperatura elevada. Mentre l’exigència de la privadesa en el tractament de les dades personals guanya pes arreu, és sabut que a la Xina la protecció de la informació personal decau en l’escala de prioritats.&nbsp;</p>
+
+
+
+<h3><strong>IA per predir un brot</strong></h3>
+
+
+
+<p>Tot i així, la Intel·ligència Artificial pot ajudar-nos en aquest gran repte que tenim al davant d’una manera menys problemàtica. Per exemple, l&#8217;IA es fa servir per detectar l’afectació del Covid-19, pot guiar el desenvolupament de fàrmacs o identificar, rastrejar i pronosticar els brots. De fet, abans que es fessin públics els primers casos de coronavirus, la Intel·ligència Artificial ja ho sabia. El 31 de desembre, un algoritme desenvolupat per una empresa canadenca especialitzada en avaluar el risc de malalties infeccioses, BlueDot, ja havia descobert el brot i avisat de la notícia als seus clients, <a href="https://www.wired.com/story/ai-epidemiologist-wuhan-public-health-warnings/">segons Wired</a>, deu dies abans que l’Organització Mundial de la Salut (OMS) donés l’avís.</p>
+
+
+
+<p>D’aquesta manera, <a rel="noreferrer noopener" aria-label="el sistema de BlueDot (opens in a new tab)" href="https://bluedot.global/" target="_blank">el sistema de BlueDot</a> proporciona una vigilància centralitzada de malalties partint de més de 10.000 fonts -documents governamentals, notícies publicades en webs informatius i diaris en més de 65 idiomes diferents-, permet conèixer la probabilitat que arribi una malaltia infecciosa a un indret determinat i envia notificacions personalitzades dels brots, segons l’interès del client. Així, per exemple, un algoritme llegeix notícies publicades en mitjans locals que mencionen casos de grip, morts sense una explicació aparent i símptomes que no s’ubiquen en un diagnòstic concret, tant en humans com en animals, i utilitza aquesta informació per a fer una predicció.</p>
+
+
+
+<p>L’empresa també té accés a dades globals de bitllets d’avió, que poden ajudar a predir cap a on i quan viatgen els residents infectats, i quantes persones volen amb ells. És així com la companyia va predir correctament que el coronavirus saltaria de Wuhan a Bangkok, Seül, Taipei i Tòquio els dies següents a la seva aparició inicial. Una vegada l&#8217;IA ha fet la seva feina, els epidemiòlegs verifiquen si les conclusions tenen sentit des d&#8217;un punt de vista científic, i envien un informe als funcionaris de salut pública. I aquesta no és la primera vegada que BlueDot té èxit: ja va predir el brot de Zika al sud de Florida en <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)00080-5/fulltext">una publicació a la revista mèdica britànica The Lancet</a>.</p>
+
+
+
+<h3><strong>IA per ajudar a detectar l’afectació</strong></h3>
+
+
+
+<p>Però per trobar eines útils no cal anar tan lluny. <a href="https://citibeats.net/">Una startup catalana, Citibeats</a>, crea observatoris per a governs sobre el coronavirus. De moment, ha llançat observatoris ciutadans en 26 països de Llatinoamèrica, <a href="https://cronicaglobal.elespanol.com/creacion/vida-tecky/startup-catalana-capaz-crear-observatorios-datos-gobiernos-durante-coronavirus_329040_102.html">segons explica el director, Ivan Caballero, a Crónica Global</a>. D’acord amb Caballero, ofereixen informació pública, gratuïta i en temps real sobre l’evolució del Covid-19 en diferents àrees territorials. Així, la Intel·ligència Artificial pot detectar en quins barris hi ha més necessitats, així com els canvis d’hàbits i comportaments que es produeixen. Segons el mateix mitjà, la startup es troba actualment en converses amb el Govern espanyol i amb la Generalitat de Catalunya sobre la possibilitat de crear un observatori sobre el coronavirus.</p>
+
+
+
+<p>La <a rel="noreferrer noopener" aria-label="startup valenciana Quibim (opens in a new tab)" href="https://quibim.com/" target="_blank">startup valenciana Quibim</a> ha desenvolupat un sistema d’Aprenentatge Profund (<em>Deep Learning</em>, o sigui, una xarxa neuronal artificial que emula el funcionament d’un cervell biològic per a fer tasques concretes) que determina l’afectació d’un pacient amb Covid-19 a partir d’imatges mèdiques. D’aquesta manera, no diagnostica el virus, però ajuda als metges a prendre la decisió d’hospitalitzar o no als contagiats. De fet, aquesta solució ja s’utilitza en alguns centres per valorar la gravetat d’un pacient amb símptomes i decidir si enviar-lo a casa o ingressar-lo, tal com <a href="https://retina.elpais.com/retina/2020/03/17/innovacion/1584450877_681658.html">explica el director de Quibim a El País Retina</a>.</p>
+
+
+
+<p>Un altre sistema que ajuda a diagnosticar la malatia és aquell que ofereix <a href="https://global.infervision.com/">la multinacional Infervision</a>, que ha llançat un sistema per assistir a metges i infermers per detectar i supervisar el Covid-19. <a href="https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/amp">Segons un altre article de Wired</a>, un algoritme de la companyia s’ha utilitzat en 34 hospitals xinesos per detectar signes visuals de la pneumònia associada al virus SARS-Cov-2 en 32.000 radiografies pulmonars, tot i que el diagnòstic definitiu requereix detectar el virus en els fluids corporals. Tots aquests sistemes permeten alleugerir la immensa càrrega de feina dels professionals sanitaris i millora la velocitat de diagnòstic.&nbsp;</p>
+
+
+
+<h3>Robots que desinfecten amb llum ultraviolada</h3>
+
+
+
+<p>A les màquines no els preocupa contagiar-se, de manera que són els éssers ideals per netejar i esterilitzar espais en temps de confinament. Els <a href="http://www.uvd-robots.com/">robots de Blue Ocean Robotics</a> tenen com a objectiu prevenir i reduir la propagació de virus, bacteris i altres microbis descomposant la seva estructura d’ADN utilitzant llum ultraviolada.</p>
+
+
+
+<p>Per la seva banda, <a href="https://benevolent.ai/">BenevolentAI</a> utilitza Intel·ligència Artificial per crear medicines que puguin combatre les malalties més agressives. Actualment recolza els esforços per tractar el Covid-19. <a href="https://www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/#3b5882345f5f">Segons Forbes</a>, durant les setmanes posteriors al brot va utilitzar les seves capacitats de predicció per examinar l’afinitat de tots els fàrmacs aprovats per identificar aquells que tenen propietats antivíriques i antiinflamatòries, útils per combatre o mitigar els efectes del coronavirus.</p>
+
+
+
+<p>Així doncs, la Intel·ligència Artificial s’ha unit a la lluita contra una pandèmia que ens ha tancat a casa i ha paralitzat el frenètic ritme de vida del planeta. Per ara, però, el principal problema és que aquests sistemes necessiten una sèrie de dades que, o bé encara s&#8217;estan generant, o bé no resulten completament accessibles. Tot i que BlueDot va predir el brot deu dies abans que fos anunciat per l’OMS, empreses com aquesta no solen revelar a qui proporcionen la informació ni com l’utilitzen. A més, també és cert que sovint la publicitat entorn les capacitats de la IA supera la realitat. Confiar-hi massa podria provocar la presa de decisions incorrectes, tenint en compte que els algoritmes <a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">poden contenir biaixos i no ser infalibles</a>. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">847</post-id>	</item>
+		<item>
+		<title>Seducció en línia: Internet ha canviat les regles del joc?</title>
+		<link>/2020/02/27/seduccio-online-adeu-als-jocs-de-mirades/</link>
+					<comments>/2020/02/27/seduccio-online-adeu-als-jocs-de-mirades/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2020 22:02:29 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Amor digital]]></category>
+		<category><![CDATA[Digital Love]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Filosofia]]></category>
+		<category><![CDATA[influencers]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[Selfie]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Tinder]]></category>
+		<category><![CDATA[Xarxes Socials]]></category>
+		<guid isPermaLink="false">/?p=824</guid>
+
+					<description><![CDATA[Lligant a través de Tinder, Facebook o Instagram, la representació dels usuaris -sovint manipulada- guanya el rol protagonista i la veritat queda relegada al segon pla. ]]></description>
+										<content:encoded><![CDATA[
+<h2>Molts usuaris s’han obsessionat amb la performance sexual, experimentant cada cop més ansietat davant el temor de no complir les expectatives durant la unió, segons un estudi</h2>
+
+
+
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center">
+<blockquote class="wp-block-quote"><p>«I sens dubte els nostres temps prefereixen la imatge abans que la cosa, la còpia abans que l’original, la representació abans que la realitat, l’aparença abans que el ser. Ara, allò ‘sagrat’ és la il·lusió, mentre allò profà és la veritat.» </p><p>Ludwig Feuerbach</p></blockquote>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center"></div>
+</div>
+
+
+
+<p>Qui no ha tingut mai un amor platònic? Potser ens hem enamorat de qui coneixíem ben poc, de qui no ens feia cas o de qui, directament, no sabia que existíem. És un amor unilateral, no correspost. Mancat de reciprocitat. És més el desig d’una idea que no pas d’algú real. L’enamorament nascut a Internet també és idealista en el sentit platònic. Lligant a través de Tinder, Facebook o Instagram, la representació dels usuaris -sovint manipulada- guanya el rol protagonista i la veritat queda relegada al segon pla. A la xarxa, l’enginy per semblar interessant i desitjable és el catalitzador d’un públic <em>voyeur</em> i infinit que busca sense descans contactar amb els altres en un espai sense olfacte, ni paraules en viu, ni jocs de mirades.&nbsp;</p>
+
+
+
+<h2>El jo</h2>
+
+
+
+<p>Internet va néixer amb la promesa de fer públic el coneixement. I en part, el somni s’ha fet realitat. Ara tenim més informació al nostre abast i, allò que és més important: podem compartir-la. Però ho podem fer en la mesura que hi estem registrats en pàgines i perfils socials centrats en la identitat individual: l’element bàsic que basteix tota l’estructura. “Com si ens haguessin donat uns prismàtics que convertissin tot el que veiem en un reflex de nosaltres mateixos”, escriu <a rel="noreferrer noopener" aria-label="Jia Tolentino a ‘Falso Espejo’ (opens in a new tab)" href="http://lab.cccb.org/ca/el-jo-a-internet/" target="_blank">Jia Tolentino a ‘Falso Espejo’</a>. I de l’anhel d’un Internet alliberador, hem quedat atrapats pel propi jo online -continua Tolentino-, mentre les plataformes que havien de connectar-nos, han passat a induir l’alienació a una escala massiva.</p>
+
+
+
+<p>Algú sol fent petons a una pantalla ens pot fer riure, però també ens recorda que la xarxa és la finestra cap a un públic invisible i sense fons. La pressió és enorme. No podem dir-ho tot perquè el preu pot ser massa elevat (una possible condemna social). I, de la mateixa manera, no podem quedar malament a les fotos (quants futurs amants podem perdre?). I així, <a rel="noreferrer noopener" aria-label="al despotisme dels cànons estètics s’hi suma l’encadenament a la pròpia representació (opens in a new tab)" href="http://lab.cccb.org/ca/rellegir-debord/" target="_blank">al despotisme dels cànons estètics s’hi suma l’encadenament a la pròpia representació, adverteix Ingrid Guardiola en aquest article</a>. “El filtre <em>Facetune</em> és com fer-te cirurgia plàstica amb el mòbil”, conta una usuària que vol operar-se per ser com les seves selfies. &nbsp;</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="I Got Surgery to Look Like My Snapchat and Facetune Selfies" width="1160" height="653" src="https://www.youtube.com/embed/5ZOpLpSNW6c?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Però&#8230; quin és el jo autèntic? Si més no, a la xarxa hi mostrem un jo polièdric: una identitat presumiblement coherent que ha de poder de ser vista per diferents persones amb una opinió imprevisible. Una imatge que servirà de mediació per a diverses relacions socials. Una representació a través de la qual plantegem preguntes com ‘us agrado?’ o ‘us agrado fent això?’. Però tot això ja ho trobàrem reflectit a l’art d’Andy Warhol, on l’obra perd importància i guanya rellevància l’autor. També Warhol va popularitzar la voluntat d’exhibir-se com un fenomen universal. Cert o no, ara en tenim les eines.</p>
+
+
+
+<h2>L’altre</h2>
+
+
+
+<p>És mala època per als qui volen lligar a la xarxa i no són fotogènics o no tenen gràcia per escriure punyents peus de foto. No tenir el do pot restar punts, i molts. En canvi, els més enginyosos seran els més presents als <em>timelines</em> -ajudats pels algoritmes-, els aspirants a <em>influencer</em>, els qui entren als somnis i autoprojeccions dels altres perquè, d’alguna manera, quasi sempre hi són presents: cada cop que obren l’Instagram.&nbsp;</p>
+
+
+
+<p>Cada cop més connectats i, tot i així, més sols, separats, alienats. I no és casualitat. Tal com revela Judith Duportail al seu estudi sobre Tinder, que plasma a <em>El algoritmo del amor</em>, el que pretén l’aplicació és que ens hi enamorem, sí, però que sempre hi acabem tornant. “És important recordar a tots els que utilitzen o han utilitzat aquest tipus d’aplicacions de <em>dating</em> que la soledat és una part important del seu bussiness plan”, <a rel="noreferrer noopener" aria-label="va dir l’autora en una entrevista a l’Ara (opens in a new tab)" href="https://www.ara.cat/cultura/Tinder-construir-parelles-desiguals_0_2285171474.html" target="_blank">va dir l’autora en una entrevista a l’Ara</a>.&nbsp;</p>
+
+
+
+<p>La comunitat de fans de les estrelles porno de dibuixos animats com <em>Projekt Melody</em>, que s’ha convertit en tot un fenomen, podria entendre’s com la màxima expressió d’un cert platonisme. Entre els seguidors més fervents de Melody hi ha els anomenats ‘digisexuals’, que expressen la seva identitat sexual a través de la tecnologia. I, segons els fans, aquest és només el començament. Alguns sostenen que les dones virtuals són el futur, o sigui, una versió millorada de les de carn i ossos. <a rel="noreferrer noopener" aria-label="“Bots not thots” (”Els robots no són promiscus”), escriuen alguns a les comunitats virtuals (opens in a new tab)" href="https://www.wired.com/story/projekt-melody-anime-porn-stars/" target="_blank">“<em>Bots not thots</em>” (”Els robots no són promiscus”), escriuen alguns a les comunitats virtuals</a>. I això cal llegir-ho com una clara mostra de misogínia. No és estrany que molts seguidors de Melody coincideixin als espais més foscos i masclistes d’Internet: les comunitats d’<a href="https://elpais.com/tecnologia/2020/02/03/actualidad/1580691442_090373.html">incels -una abreviació en anglès de ‘cèlibes involuntaris’</a>.&nbsp;</p>
+
+
+
+<p>Mentrestant, la cantant hologramàtica Hatsune Miku omplia al gener el Sant Jordi Club a Barcelona. La influencer virtual Lil Miquela, que té quasi 2 milions de seguidors a Instagram, és l’esquer de campanyes publicitàries i marques de luxe internacionals. El petó virtual que es va fer amb la model Bella Hadid per a la marca Calvin Klein va donar la volta al món -sense estalviar-se la polèmica.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Miquela and Bella Hadid Get Surreal | CALVIN KLEIN" width="1160" height="653" src="https://www.youtube.com/embed/JuTowFf6B9I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Més enllà dels enamoraments <em>online</em>, el documental <em>Meeting you</em>, emès per la cadena MBC, mostra com una mare utilitza realitat virtual per acomiadar-se de la seva filla de 7 anys, morta quatre anys abans. La mare, amb les ulleres posades, parla amb la nena i li acaricia els cabells. Al final, la petita ofereix un ram de flors a la mare i s’estira al llit dient que està cansada i que l’estima. Tot seguit, es queda adormida, es transforma en una papallona blanca i se’n va volant amb delicadesa. </p>
+
+
+
+<p>La mare va assegurar que la recreació de la filla -que va costar vuit mesos de feina- la va ajudar a superar el dol, tot i que a l’altra banda dels seus plors no hi havia ningú. Una mostra d’amor unilateral, sense receptor, sense retorn. Una experiència que recorda l’idealisme més extrem: el solipsisme de Berkeley, segons el qual la realitat es deriva de l’activitat de la pròpia ment i no hi ha res més enllà d’un mateix. El reportatge va desfermar el debat sobre les implicacions morals i psicològiques de retrobar-se amb éssers estimats que ja no hi són.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Virtual reality &quot;reunites&quot; mother with dead daughter in South Korean doc" width="1160" height="653" src="https://www.youtube.com/embed/0p8HZVCZSkc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<h2>La unió</h2>
+
+
+
+<p>Una <em>app</em> per lligar pot ajudar a socialitzar-se a qui ha perdut la xarxa social -la de debò. Potser les relacions de parella no han canviat tant, però amb Internet s’ha obert un món de possibilitats i hi ha més terreny per explorar. Coses bones, també n’hi ha. Tot i així, Judith Duportail conta que Tinder disposa d’un registre de 800 pàgines de cada usuari i que, al mateix temps, et classifica segons la bellesa, el gènere, els estudis i la condició sense que ho sàpigues.&nbsp;</p>
+
+
+
+<p>A més, la disponibilitat de tantes potencials parelles fa que les persones siguin menys receptives a continuar sortint amb algú amb qui no es van entusiasmar. Les cites s’han tornat més complicades per la gran quantitat de participants en el joc. El flirteig ha esdevingut un fi en si mateix. <a rel="noreferrer noopener" aria-label="Segons un informe de Havas (opens in a new tab)" href="https://download.havas.com/prosumer-reports/love-in-the-digital-age/" target="_blank">Segons un informe del Havas Group</a>, més d&#8217;un terç de la població admet que està més interessada en rebre l’aprovació de la comunitat que a trobar un company sexual. I el 39% dels participants en la recerca -quasi 17.500 persones majors de 13 anys de 37 països diferents- admeten que, estant dins d’una relació, continuen oberts a trobar algú millor.</p>
+
+
+
+<p>Si al món <em>offline</em> el físic, les feromones o els jocs de mirades juguen un paper clau, al món <em>online</em>, segons l’informe, molts usuaris s’han obsessionat amb la performance sexual, experimentant cada cop més ansietat davant el temor de no complir les expectatives durant l’encontre. En conseqüència, el sexe s’ha convertit en un esdeveniment atlètic que demana entrenament. Més d’un 40% dels participants en la recerca es van mostrar disposats a monitoritzar la seva activitat sexual per millorar-la.</p>
+
+
+
+<p>Així, l’amor <em>online</em> s’ha objectivitzat i racionalitzat a mesura que la gent està cada cop més disposada a lliurar els desitjos a les dades i la tecnologia. Les aplicacions, els algoritmes i la intel·ligència artificial es consideren una bona manera d’optimitzar la cerca d’un amant.</p>
+
+
+
+<h2>El romanticisme no ha mort&nbsp;</h2>
+
+
+
+<p>Tot i així, vuit de cada deu persones continuen convençudes que l’amor pot durar per sempre. I la majoria -dos terços dels homes i més de la meitat de les dones- creuen que sense una parella romàntica falta a la vida quelcom d&#8217;essencial. De fet, la noció d’amor etern és encara tan present que més d’un 40% prefereix romandre en una relació que no és del tot satisfactòria, que no pas estar sol. Però, igual que la tecnologia ha fet aparèixer noves formes de començar una relació, també ha propiciat noves maneres d’acabar-les. Segons el mateix informe, quasi el 60% de la gent creu que és més fàcil tallar a través d’un missatge o les xarxes socials que no pas en persona. Simplement esvaïnt-se.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/27/seduccio-online-adeu-als-jocs-de-mirades/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">824</post-id>	</item>
+	</channel>
+</rss>

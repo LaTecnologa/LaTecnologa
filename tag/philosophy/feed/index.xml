@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Philosophy &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/philosophy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:10:22 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Philosophy &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Ètica per blanquejar la Intel·ligència Artificial</title>
+		<link>/2020/02/15/etica-inteligencia-artificial-maquillatge/</link>
+					<comments>/2020/02/15/etica-inteligencia-artificial-maquillatge/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 15 Feb 2020 00:31:19 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Filosofia]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Philosophy]]></category>
+		<guid isPermaLink="false">/?p=747</guid>
+
+					<description><![CDATA[La Unió Europea ultima una nova llei per regular l&#8217;IA: podrà esquivar la pressió dels lobbies tecnològics? Queden poc més de vint dies perquè la&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h3>La Unió Europea ultima una nova llei per regular l&#8217;IA: podrà esquivar la pressió dels <em>lobbies</em> tecnològics?</h3>
+
+
+
+<p>Queden poc més de vint dies perquè la nova presidenta de la Comissió Europea (CE), Ursula von der Leyen, compleixi una de les grans promeses: una regulació més dura per a l&#8217;ús de la Intel·ligència Artificial (IA) abans dels cent primers dies de mandat. <a rel="noreferrer noopener" aria-label="Segons Bloomberg, que va tenir accés a l'esborrany de la normativa (opens in a new tab)" href="https://www.bloomberg.com/news/articles/2020-01-16/europe-mulls-new-tougher-rules-for-artificial-intelligence" target="_blank">Segons Bloomberg, que va tenir accés a un esborrany de la normativa</a>, el braç executiu de la Unió Europea (UE) estudia noves obligacions per a les autoritats públiques amb relació a l&#8217;IA i, entre altres mesures, es planteja <a href="/2019/10/13/els-perills-del-reconeixement-facial/">la prohibició del reconeixement facial</a> durant cinc anys amb la finalitat de buscar solucions que rebaixin els riscos que comporta aquesta tecnologia.</p>
+
+
+
+<p>Segons Bloomberg, un portaveu de la CE va dir que la UE vol definir ara un projecte legislatiu propi, amb &#8220;perspectiva europea&#8221; i &#8220;humana&#8221;. O sigui, allunyada del camí que han seguit els Estats Units, la Xina o el Japó; els seus grans competidors en la cursa de les superpotències per liderar el camp de la Intel·ligència Artificial. Una regulació on l&#8217;ètica, la confiança i la seguretat dels ciutadans siguin al centre de l&#8217;estratègia.</p>
+
+
+
+<p>Però aquesta proposta normativa no és el primer que veurà la llum. A l&#8217;octubre del 2018, es va aprovar la Declaració sobre Ètica i Protecció de Dades en Intel·ligència Artificial, i a l&#8217;abril del 2019, un grup d’experts d’alt nivell de la Comissió Europea va fer públiques les seves Directrius Ètiques per a una IA Confiable (<em>Ethics Guidelines for Trustworthy AI</em>). Aquest projecte, però, no va convèncer a tothom. Ni tan sols a tots els experts que van firmar el document. </p>
+
+
+
+<h5>Veus crítiques</h5>
+
+
+
+<p>El 8 d&#8217;abril del 2019, un dels 52 membres de la comissió d&#8217;experts <a rel="noreferrer noopener" aria-label="va denunciar en un article allò que considerava un &quot;blanquejament ètic&quot; de les directrius (opens in a new tab)" href="https://www.tagesspiegel.de/politik/eu-guidelines-ethics-washing-made-in-europe/24195496.html" target="_blank">va denunciar en un article allò que considerava un &#8220;blanquejament ètic&#8221; de les directrius</a> que, en un principi, havien d&#8217;establir unes línies roges per a la Intel·ligència Artificial al vell continent. Així, Thomas Metzinger, professor de filosofia de la Universitat de Mainz, Alemanya, assegura a <em>Der Tagesspiegel</em> que &#8220;la història de la Intel·ligència Artificial confiable és una narrativa publicitària inventada per la indústria, un conte per anar a dormir per als clients del futur&#8221;.</p>
+
+
+
+<p>&#8220;El relat de la Intel·ligència Artificial de confiança pretén eixamplar els mercats futurs i utilitzar els debats sobre Ètica com un bell decorat públic per a una estratègia d’inversió a gran escala&#8221;, prosegueix Metzinger. Explica, a més, que la seva tasca a la comissió passava per desenvolupar els principis ètics no negociables sobre els usos de la IA a Europa -per exemple, l&#8217;<a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">ús d’armes automàtiques letals</a> o la puntuació social de ciutadans per part de l’Estat-, fins que l&#8217;expresident de Nokia i també membre del grup d&#8217;experts, Pekka Ala-Pietilä, li va demanar educadament que retirés l&#8217;expressió &#8220;no negociable&#8221; del document. Més tard, altres membres de la comissió i representants de la indústria, van insistir amb vehemència que s&#8217;eliminés del text el concepte de &#8220;línies roges&#8221; i que, com a molt, es parlés de &#8220;preocupacions crítiques&#8221;. I així s&#8217;hi va reflectir. </p>
+
+
+
+<p>&#8220;La indústria organitza i conrea debats ètics per adquirir temps, distreure el públic i evitar o endarrerir la regulació&#8221;, conclou Metzinger. Afegeix, en aquest sentit, que als polítics també solen constituir comitès d’ètica perquè &#8220;els dona un curs d’acció quan, en realitat, no saben què fer&#8221;. De la mateixa manera, el professor assenyala que Facebook va finançar un institut per formar ètics de l&#8217;IA, mentre Google va intentar constituir un marc ètic contractant els filòsofs Joanna Bryson i Luciano Floridi, essent aquest darrer membre del grup d&#8217;experts. Un fet que hauria pogut donar a Google la possibilitat de conèixer de primera mà les restriccions per a l&#8217;IA que es gestaven a la comissió.</p>
+
+
+
+<p>Tanmateix, la de Metzinger no va ser l&#8217;única veu que es va alçar. El desembre de l&#8217;any passat, <a rel="noreferrer noopener" aria-label="un exinvestigador del Massachusetts Institute of Technology (MIT) denunciava a The Intercept (opens in a new tab)" href="https://theintercept.com/2019/12/20/mit-ethical-ai-artificial-intelligence/?utm_source=The+Intercept+Newsletter&amp;utm_campaign=0277d72712-EMAIL_CAMPAIGN_2019_12_21&amp;utm_medium=email&amp;utm_term=0_e00a5122d3-0277d72712-129874945" target="_blank">un exinvestigador del Massachusetts Institute of Technology (MIT), Rodrigo Ochigame, denunciava a The Intercept</a> que Silicon Valley pagava estudis sobre ètica de la Intel·ligència Artificial per impedir la seva regulació i que, per tant, la recerca esdevenia una &#8220;tapadora&#8221; destinada a &#8220;blanquejar&#8221; aquesta tecnologia. </p>
+
+
+
+<h5>La intrusió dels gegants</h5>
+
+
+
+<p>Ochigame assegura que la majoria dels treballs finançats al voltant de la recerca en Intel·ligència Artificial Ètica &#8220;està aliniada estratègicament amb el <em>lobby</em> tecnològic que busca evitar restriccions per al desplegament de tecnologies controvertides&#8221;. En aquest sentit, l&#8217;exinvestigador esmenta les grans empreses que han abanderat uns principis ètics basats en estudis desenvolupats i finançats pel MIT i altres universitats punteres que van rebre diners de la indústria de la tecnologia per treballar en aquest camp.</p>
+
+
+
+<p>L&#8217;exestudiant també revela els vincles entre les grans tecnològiques i els instituts de recerca en l&#8217;àmbit de l&#8217;Ètica. Així, per exemple, Ochigame escriu que &#8220;el <em>Data &amp; Society Research Institute</em> està dirigit per un investigador de Microsoft i finançat inicialment per una subvenció Microsoft; l&#8217;<em>AI Institute</em> de la Universitat de Nova York va ser cofundat per un altre investigador de Microsoft i parcialment finançat per Microsoft, Google i DeepMind; l&#8217;<em>Stanford Institute for Human-Centered AI</em> està codirigit per un exvicepresident de Google; a la Universitat de Califòrnia, la divisió de Ciències de les Dades de Berkeley està encapçalada per un veterà de Microsoft; i el <em>MIT Schwarzman College of Computing</em> està dirigit per un membre del consell d&#8217;Amazon&#8221;. </p>
+
+
+
+<p>Ochigame hi afegeix que el camp de l&#8217;Ètica també s&#8217;ha fet important per a l&#8217;exèrcit nord-americà, no només pel que fa a les <a rel="noreferrer noopener" aria-label="preocupacions sobre armes autònomes letals (opens in a new tab)" href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/" target="_blank">preocupacions sobre les polèmiques armes autònomes letals</a>, sinó també pel que fa a les <a href="/2019/10/30/microsoft-pren-a-amazon-els-secrets-de-lexercit-nordamerica/">disputes entre empreses de Silicon Valley sobre certs contractes militars altament lucratius</a>. L&#8217;1 de novembre, el Consell d&#8217;Innovació del Departament de Defensa va publicar les seves recomanacions sobre Principis Ètics de l&#8217;IA. L&#8217;exinvestigador assenyala que el consell està dirigit per Eric Schmidt, que era el president executiu d&#8217;Alphabet, la matriu de Google.</p>
+
+
+
+<h5>Preguntes sense resposta</h5>
+
+
+
+<p>Qui decideix quan s’ha d’utilitzar IA, amb quines finalitats, i qui i com la desenvolupa? Aquestes són les preguntes que han de marcar una via ètica independent, segons <a rel="noreferrer noopener" href="https://algorithmwatch.org/wp-content/uploads/2019/01/Automating_Society_Report_2019.pdf" target="_blank">l&#8217;informe <em>Automating Society</em> d&#8217;Algorithm Watch</a>, i que el Parlament Europeu va recolzar quan subratllava la importància d&#8217;una mirada social, moral i responsable en el desplegament de la Intel·ligència Artificial. I aquesta és la línia pròpia que la Comissió Europea s&#8217;ha plantejat empènyer. Però&#8230; es prendrà l&#8217;ètica seriosament, Europa? O caldrà esperar més per a això (quan potser sigui massa tard)?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/15/etica-inteligencia-artificial-maquillatge/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">747</post-id>	</item>
+	</channel>
+</rss>

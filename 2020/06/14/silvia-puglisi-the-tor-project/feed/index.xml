@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: Silvia Puglisi, de The Tor Project: “El principal paper de Tor és ajudar a persones en risc de censura per fer alguna cosa tan simple com llegir el diari”	</title>
+	<atom:link href="/2020/06/14/silvia-puglisi-the-tor-project/feed/" rel="self" type="application/rss+xml" />
+	<link>/2020/06/14/silvia-puglisi-the-tor-project/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Per: La pandèmia dispara l’activitat il·legal al web fosc &#8211; La Tecnòloga		</title>
+		<link>/2020/06/14/silvia-puglisi-the-tor-project/#comment-80</link>
+
+		<dc:creator><![CDATA[La pandèmia dispara l’activitat il·legal al web fosc &#8211; La Tecnòloga]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2020 16:10:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1422#comment-80</guid>
+
+					<description><![CDATA[[&#8230;] Perseguir els delinqüents del web fosc és una cursa d’obstacles quan l’anonimat s’interposa entre aquests i la policia, que normalment disposa de pocs recursos si no compta amb l’ajuda d’organismes internacionals com l’Europol o empreses privades de seguretat. Per això, governs de tot el món han intentat prohibir els servidors xifrats; un fet al qual s’hi oposen activistes, alertadors, periodistes o persones que, simplement, volen evitar que les dades de navegació caiguin en mans dels governs o les grans corporacions: &#8220;La privacitat sempre és prioritària. La privacitat és un dret que ens permet desenvolupar les nostres idees, saber qui som i com volem presentar-nos al món&#8221;, va remarcar l&#8217;enginyera informàtica Silvia Puglisi, de The Tor Project, en una entrevista rec&#8230;. [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Perseguir els delinqüents del web fosc és una cursa d’obstacles quan l’anonimat s’interposa entre aquests i la policia, que normalment disposa de pocs recursos si no compta amb l’ajuda d’organismes internacionals com l’Europol o empreses privades de seguretat. Per això, governs de tot el món han intentat prohibir els servidors xifrats; un fet al qual s’hi oposen activistes, alertadors, periodistes o persones que, simplement, volen evitar que les dades de navegació caiguin en mans dels governs o les grans corporacions: &#8220;La privacitat sempre és prioritària. La privacitat és un dret que ens permet desenvolupar les nostres idees, saber qui som i com volem presentar-nos al món&#8221;, va remarcar l&#8217;enginyera informàtica Silvia Puglisi, de The Tor Project, en una entrevista rec&#8230;. [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Per: Essentialist raised 1.2M€, Fundació Bit has exonerated more than 180K€ to companies,…		</title>
+		<link>/2020/06/14/silvia-puglisi-the-tor-project/#comment-58</link>
+
+		<dc:creator><![CDATA[Essentialist raised 1.2M€, Fundació Bit has exonerated more than 180K€ to companies,…]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2020 18:14:48 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1422#comment-58</guid>
+
+					<description><![CDATA[[&#8230;] ▸ “La privacitat és un dret que ens permet desenvolupar les nostres idees i saber qui som”, Silv&#8230; (latecnologa.cat) [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] ▸ “La privacitat és un dret que ens permet desenvolupar les nostres idees i saber qui som”, Silv&#8230; (latecnologa.cat) [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Aplicacions &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/aplicacions/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Aplicacions &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>El voluntariat digital triomfa en la competició catalana d&#8217;apps per al confinament</title>
+		<link>/2020/04/16/el-voluntariat-digital-triomfa-en-la-competicio-catalana-dapps-per-al-confinament/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2020 16:33:11 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Ajudem.cat]]></category>
+		<category><![CDATA[Alex Párraga]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Coronatíquets]]></category>
+		<category><![CDATA[Departament de Polítiques Digitals]]></category>
+		<category><![CDATA[Digital Future Society]]></category>
+		<category><![CDATA[Edukiapp]]></category>
+		<category><![CDATA[Fundació i2CAT]]></category>
+		<category><![CDATA[Hackató]]></category>
+		<category><![CDATA[Hacker]]></category>
+		<category><![CDATA[Hackovid]]></category>
+		<category><![CDATA[Humbert Blanco]]></category>
+		<category><![CDATA[Jordi Puigneró]]></category>
+		<category><![CDATA[Juan Irache]]></category>
+		<category><![CDATA[Lucía Román]]></category>
+		<category><![CDATA[Marc Aymerich]]></category>
+		<category><![CDATA[Marc Celeiro]]></category>
+		<category><![CDATA[Mobile World Capital Barcelona]]></category>
+		<category><![CDATA[Nebots]]></category>
+		<category><![CDATA[Pau Riba]]></category>
+		<category><![CDATA[Regalocal]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Toti Moragas]]></category>
+		<category><![CDATA[Trick-troc]]></category>
+		<category><![CDATA[UPCoders]]></category>
+		<category><![CDATA[Voluntariat digital]]></category>
+		<guid isPermaLink="false">/?p=961</guid>
+
+					<description><![CDATA[La &#8216;Hackovid&#8217; dona un impuls a la tecnologia ètica per a la quarentena &#8220;Tot granet de sorra compta&#8221; a l&#8217;hora d&#8217;encarar els reptes socials que&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>La &#8216;Hackovid&#8217; dona un impuls a la tecnologia ètica per a la quarentena</h2>
+
+
+
+<p>&#8220;Tot granet de sorra compta&#8221; a l&#8217;hora d&#8217;encarar els reptes socials que planteja la pandèmia. Així ho pensa l&#8217;Humbert Blanco que, al costat del Marc Celeiro i el Pau Riba -d&#8217;entre 17 i 21 anys- aquest dimecres han recollit virtualment el primer guardó de la &#8216;<a rel="noreferrer noopener" href="https://hackovid.cat/solutions" target="_blank">Hackovid</a>&#8216;, un concurs d&#8217;aplicacions innovadores per trobar solucions als entrebancs del confinament i el post-confinament. </p>
+
+
+
+<p>La proposta de Blanco, Celeiro i Riba és la plataforma <a rel="noreferrer noopener" href="https://ajudem.cat/" target="_blank">Ajudem.cat</a>, que facilita el voluntariat entre veïns. Així, la pàgina és un punt de trobada entre els qui volen ajudar i els qui necessiten un cop de mà, tenint en compte la proximitat geogràfica. I no només això. També ofereix informació i consells sobre la Covid-19 i compta amb una plataforma de videotrucades de programari lliure i de codi obert. &#8220;Hem utilitzat la infraestructura que tenim, de manera que els servidors són nostres i no suposa cap risc per a la privacitat”, subratlla Blanco a La Tecnòloga. I tot això ha estat desenvolupat en només 12 dies. &#8220;Hem treballat moltíssim i hem dormit poc&#8221;, admet. Però al final l&#8217;esforç ha valgut la pena i ara, gràcies al premi, el projecte compta amb 7.000 euros de pressupost.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2049.png" alt="⁉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Què és i com funciona <a href="https://t.co/PiKxBhLiQ1">https://t.co/PiKxBhLiQ1</a>? T&#39;ho expliquem en aquest vídeo! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4f9.png" alt="📹" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/SomAix%C3%AD?src=hash&amp;ref_src=twsrc%5Etfw">#SomAixí</a> <a href="https://t.co/frhBfujfDY">pic.twitter.com/frhBfujfDY</a></p>&mdash; Ajudem.cat (@ajudem_cat) <a href="https://twitter.com/ajudem_cat/status/1249283199282425861?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div><figcaption>Ajudem.cat facilita el voluntariat entre veïns.</figcaption></figure>
+
+
+
+<p>La &#8216;Hackovid&#8217;, impulsada pel Departament de Polítiques Digitals i la <a rel="noreferrer noopener" href="https://www.i2cat.net/about-us/" target="_blank">Fundació i2CAT</a>, amb el suport de la Mobile World Capital Barcelona, ha aconseguit reunir en aquesta primera &#8216;hackató&#8217; -o sigui, una marató de persones vinculades a la informàtica- més de 300 participants i més de 50 mentors per fer realitat una seixantena de solucions tecnològiques per a fer més digerible la quarantena. </p>
+
+
+
+<p>&#8220;S&#8217;han plantejat propostes genials i demostren que el sector tecnològic aporta un gran valor a la societat; ara més que mai&#8221;, afirma Blanco. Un valor que també ha subratllat el conseller de Polítiques Digitals i Administracions Públiques, Jordi Puigneró, durant la cerimònia virtual: &#8220;La crisi de la Covid-19 ha evidenciat fins a quin punt les tecnologies poden ser unes grans aliades no només per sortir de la crisi sanitària, sinó també per construir un futur amb més progrés i oportunitats&#8221;.</p>
+
+
+
+<h3>Tecnologia per a tothom</h3>
+
+
+
+<p>Enmig dels aplaudiments virtuals, també han rebut el premi de la Digital Future Society, dotat amb 5.000 euros, <a rel="noreferrer noopener" href="https://nebots.cat/" target="_blank">pel servei web i telefònic d&#8217;assistència tècnica voluntària &#8216;Nebots&#8217;</a>, desenvolupat per Juan Irache i Lucía Román, que són programador i metgessa. La pàgina pretén posar en contacte gent gran amb dificultats per entendre temes tècnics d’informàtica amb voluntaris entesos aquests àmbits -els anomenats &#8216;nebots&#8217;-. </p>
+
+
+
+<p>Irache explica a La Tecnòloga que la hackató ha servit per materialitzar una idea que ja existia abans d&#8217;arrencar la competició. &#8220;Tenim una piràmide poblacional cada cop més invertida i, per tant, no hi ha una persona jove que pugui ajudar a cada persona gran&#8221;, comenta. &#8220;La clau de Nebots -continua el programador- és que es basa en noves tecnologies però no requereix que els seus usuaris les utilitzin ja que poden, simplement, marcar un número de telèfon&#8221;.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="nebots — assistència tècnica humana" width="1160" height="653" src="https://www.youtube.com/embed/aiAxYJSkrPM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>Nebots és un servei web i telefònic d&#8217;assistència tècnica voluntària. NEBOTS</figcaption></figure>
+
+
+
+<p>Una empenta a la reactivació del comerç local va ser una de les necessitats més votades per la ciutadania, durant la fase inicial, i també és allò que ha donat forma als projectes dels qui s&#8217;han fet amb el segon, el tercer i el quart premi de la Hackovid. </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://upcoders.eebe.upc.edu/" target="_blank">Coronatíquets</a>, que s&#8217;ha endut 4.000 euros de pressupost, és un servei de tíquets per demanar hora per anar a les botigues i, d&#8217;aquesta manera, evitar que hi coincideixin més persones amb l&#8217;objectiu d&#8217;eludir aglomeracions i contagis. &#8220;Creiem que l&#8217;aplicació pot ser&nbsp;útil&nbsp;per estalviar patiment a molts petits comerços durant la desacceleració econòmica&#8221;, explica Tomàs Gea, que és enginyer electrònic. Ell i els seus companys d&#8217;equip -Toti Moragas, Marc Aymerich i Alex Párraga- formen part dels <a rel="noreferrer noopener" href="https://www.instagram.com/upcoders/" target="_blank">UPCoders</a>, una associació de programadors de la UPC. &#8220;Amb l&#8217;ajuda de la nostra app, els petits comerços que s&#8217;han vist forçats a tancar podran tornar a obrir les botigues de forma moderada, reduint així els impactes econòmics que puguin patir&#8221;, afegeix Gea.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Anunci Coronatiquets Hackovid" width="1160" height="653" src="https://www.youtube.com/embed/rAhCFlJ26Xo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>Coronatíquets és un servei de tíquets per demanar hora per anar a les botigues. CORONATÍQUETS</figcaption></figure>
+
+
+
+<p>Per la seva banda, <a rel="noreferrer noopener" href="https://www.regalocal.com/" target="_blank">Regalocal</a> ha obtingut 3.000 euros per desenvolupar un servei web gratuït&nbsp;que permet comprar cupons de regal en comerços locals per poder bescanviar un cop aquests tornin a obrir. </p>
+
+
+
+<p>Mentrestant, <a rel="noreferrer noopener" href="https://www.tricktroc.cat/home" target="_blank">Trick-troc</a> ha fet realitat una plataforma de comerç electrònic per promoure i millorar l’accessibilitat de la venda online i la distribució de productes de comerç local amb una finalitat social gràcies a una moneda virtual, el Troc, amb què es poden obtenir descomptes en comerços locals o fer donatius a entitats benèfiques de productes de comerços locals. Els ha valgut un premi de 2.000 euros. </p>
+
+
+
+<p>El cinquè premi de la Hackovid ha estat per als creadors de <a rel="noreferrer noopener" href="https://apps.apple.com/us/app/edukiapp/id1507658309?l=ca&amp;ls=1" target="_blank">l&#8217;Edukiapp</a>, una aplicació d&#8217;educació a distància per a professors i alumnes d&#8217;Infantil i Primària. </p>
+
+
+
+<h3>La solidaritat es propaga</h3>
+
+
+
+<p>Tot va començar el 3 d&#8217;abril, amb una fase de participació ciutadana. <a rel="noreferrer noopener" href="https://hackovid.cat/solutions" target="_blank">Les 60 solucions que s&#8217;hi han plantejat</a> donen resposta a alguns dels reptes més votats per la ciutadania d’entre les 175 necessitats socials identificades com aprendre des de casa, l&#8217;aprovisionament d’aliments, l&#8217;atenció especial a col·lectius de risc, tornar al mercat laboral, la solidaritat entre veïns o teletreballar.</p>
+
+
+
+<p>Però la Hackovid és només una gota de la pluja d&#8217;esforços col·laboratius que s&#8217;han propagat amb la pandèmia. Alguns d&#8217;aquests projectes han agafat una dimensió exponencial des de la seva creació, com és el cas de <a rel="noreferrer noopener" href="/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/" target="_blank">Coronawhy, una organització de tecnòlegs voluntaris</a> que treballen per fer digerible amb Intel·ligència Artificial la col·lecció d’articles científics vinculats a l&#8217;epidèmia per facilitar la recerca mèdica. D&#8217;altra banda, la setmana que ve la Comissió Europea acull una hackató per connectar la societat civil i tecnòlegs i inversors de tot el continent per desenvolupar solucions innovadores per combatre el virus que ha posat en pausa el món.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">We will host on 24-26 April a pan-European Hackathon to connect civil society, innovators, partners and buyers across Europe to develop innovative solutions to <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a>.<br><br>Register now and be part of the solution! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/27a1.png" alt="➡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/yUexZYLB55">https://t.co/yUexZYLB55</a> <a href="https://twitter.com/hashtag/EUvsVirus?src=hash&amp;ref_src=twsrc%5Etfw">#EUvsVirus</a> <a href="https://t.co/I5qbDJnTl3">pic.twitter.com/I5qbDJnTl3</a></p>&mdash; European Commission <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ea-1f1fa.png" alt="🇪🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@EU_Commission) <a href="https://twitter.com/EU_Commission/status/1250095573908312067?ref_src=twsrc%5Etfw">April 14, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">961</post-id>	</item>
+		<item>
+		<title>Dol virtual en temps de quarantena</title>
+		<link>/2020/04/04/dol-virtual-en-temps-de-quarantena/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 04 Apr 2020 10:17:49 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Alife]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Bel Ferrer]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[dol virtual]]></category>
+		<category><![CDATA[Jordi Martínez]]></category>
+		<category><![CDATA[Nara Jeevan]]></category>
+		<category><![CDATA[Psicologia]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Societat]]></category>
+		<guid isPermaLink="false">/?p=930</guid>
+
+					<description><![CDATA[Es disparen els usuaris de l’aplicació Alife, que permet vetllar online els difunts &#8220;Per ara, és com si la mare no hagués mort&#8221;, escriu el&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Es disparen els usuaris de l’aplicació <em>Alife</em>, que permet vetllar online els difunts</h2>
+
+
+
+<p>&#8220;Per ara, és com si la mare no hagués mort&#8221;, escriu el filòsof Albert Camús a <em>L&#8217;Estrany</em>, quan li arriba per telegrama la notícia. L&#8217;inici d&#8217;aquesta obra ens evoca als qui, en aquests temps anòmals, perden familiars i amics des de la distància. Aquest divendres s&#8217;han extingit 173 vides a Catalunya, i 12 a les Balears. I molt probablement ho han fet sense el consol del contacte físic. Potser sí virtual. En època de quarentena per la Covid-19, són sovint els professionals sanitaris qui fan costat als malalts terminals i intenten una comunicació telemàtica amb la família. Les xarxes són el mirall d&#8217;aquesta situació insòlita i angoixant. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr">Ahir vaig haver d’aguantar el telèfon a la orella d’un pacient mentre la filla es despedia del seu pare. Dur, molt dur. I està passant. Quedeu-vos a casa siusplau. <a href="https://twitter.com/hashtag/Covid_19?src=hash&amp;ref_src=twsrc%5Etfw">#Covid_19</a></p>&mdash; Violeta Torrent Pinart (@violetatorrent) <a href="https://twitter.com/violetatorrent/status/1241300859612475393?ref_src=twsrc%5Etfw">March 21, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr">Darrera de cada xifra hi ha un nom i una família destrossada. Avui li ha tocat a la meva. El nostre nom és el de Marina. Tothom l’estimava i no era la seva hora. El virus se l’ha emportat en sis dies. Gràcies a la gent de <a href="https://twitter.com/Mutua_Terrassa?ref_src=twsrc%5Etfw">@Mutua_Terrassa</a> per cuidar-la i per acostar-li el telèfon.</p>&mdash; Xavi Coral (@xavicoral) <a href="https://twitter.com/xavicoral/status/1244698345932808197?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>L&#8217;Hospital de Son Espases, a Palma, ha aconseguit tauletes per posar en contacte els pacients per coronavirus i les famílies. El Grup d&#8217;Educadors de Carrer i Treball amb Menors (GREC) hi col·labora &#8220;<a rel="noreferrer noopener" href="https://www.facebook.com/558552354191268/photos/rpp.558552354191268/2935280143185132/?type=3&amp;theater" target="_blank">perquè les persones majors, gent sense recursos ni connexió a Internet</a> o inexperts tecnològics també puguin beneficiar-se del servei&#8221;, amb paraules de l&#8217;educador de l&#8217;entitat Iñaki Vega. A l&#8217;Hospital de Sant Pau, a Barcelona, els infermers també han muntat un <a rel="noreferrer noopener" href="https://www.ccma.cat/324/els-hospitals-estableixen-protocols-per-poder-acomiadar-se-dels-malalts-mes-greus/noticia/2999699/" target="_blank">sistema per fer arribar missatges a una pantalla</a> que poden veure els malalts, i la Societat Catalana de Tecnologia ha <a rel="noreferrer noopener" href="https://www.iec.cat/activitats/noticiasencera.asp?id_noticies=2758" target="_blank">impulsat la donació de dispositius electrònics per connectar famílies i pacients</a> en l&#8217;últim tram de la vida. </p>
+
+
+
+<p>Però amb el distanciament social també s&#8217;han prohibit vetlles i funerals per a tothom (i no només pels afectats del coronavirus). Per això, <a rel="noreferrer noopener" href="https://alife.social/es/" target="_blank">l&#8217;aplicació <em>Alife</em></a>, que permet crear el perfil d&#8217;una persona que ha mort i, d&#8217;aquesta manera, homenatjar-la i facilitar el dol dels qui l&#8217;han estimat, ha multiplicat per nou la seva activitat des del 15 de març, segons Jordi Martínez, el CEO d&#8217;<em>Alife</em>, que compta de mitjana un miler de nous usuaris cada tres dies. </p>
+
+
+
+<p>&#8220;Mai oblidaré cada cop que obries la porta i em deies que havia crescut molt des de l&#8217;última vegada que ens vam veure. T&#8217;estimo i no t&#8217;oblidaré!&#8221;, escriu una usuària d&#8217;<em>Alife</em> per rememorar algú que ja no hi és. Aquest missatge es llegeix a la <a rel="noreferrer noopener" href="https://alife.social/es/" target="_blank">pàgina d&#8217;inici del web de l&#8217;aplicació</a>, però no tot el contingut que s&#8217;hi introdueix és públic. &#8220;Hi ha diversos nivells de privacitat. En un lloc s&#8217;hi comparteix la informació de la cerimònia funerària i, en un altre, que pot ser més reduït, recrea un espai més íntim i respecta al màxim la privacitat&#8221;, explica Martínez. D&#8217;aquesta manera, l&#8217;app permet compartir fotografies, vídeos, escrits, cites i anècdotes amb el cercle social del difunt, i permet fer-ho &#8220;amb un clic, en qualsevol moment, amb el mòbil i des de casa&#8221;, afegeix el director. </p>
+
+
+
+<p>Fins fa unes setmanes, l&#8217;aplicació es comercialitzava a través de les funeràries. Però davant de l&#8217;estat d&#8217;alarma, <em>Alife</em> ha obert la seva aplicació i actualment qualsevol la pot fer servir sense intermediaris. Per a fer-ho, només cal escriure un correu a info@alife.social perquè les famílies puguin recrear un espai virtual de vetlla i dol compartit en cas que els tanatoris no l&#8217;hagin proporcionat. A més, l&#8217;app és totalment gratuïta per als usuaris i l&#8217;únic cost es troba en la creació del perfil del difunt.</p>
+
+
+
+<h3>Bel Ferrer, psicòloga: &#8220;L&#8217;afecte no entén de fronteres físiques&#8221;</h3>
+
+
+
+<p><em>La Tecnòloga</em> ha demanat l&#8217;opinió sobre la vetlla virtual a una psicòloga especialitzada en processos de dol, Bel Ferrer, que valora molt positivament les possibilitats que ofereix aquesta eina. &#8220;Tot allò que serveix per compartir, elaborar i gestionar el dol em sembla fantàstic&#8221;, afirma Ferrer, que recolza l&#8217;opció d&#8217;acomiadar els familiars per telèfon. &#8220;Per nosaltres és important el tacte i la vista, però en aquesta situació, allò més important és l&#8217;afecte, i l&#8217;afecte no entén de fronteres físiques&#8221;, assegura la psicòloga, que encapçala l&#8217;associació <a rel="noreferrer noopener" href="https://www.facebook.com/Nava-Jeevan-acompanyament-emocional-als-processos-de-malaltia-mort-i-dol-1339453789398104/" target="_blank">Nava Jeevan, dedicada a l&#8217;acompanyament emocional als processos de malaltia, mort i dol</a> (s&#8217;hi pot contactar escrivint al correu associacionavajeevan@gmail.com o telefonant al 695 250 240, i aquests dies ofereixen la seva assistència per videoconferència).</p>
+
+
+
+<p>Ferrer recomana decididament comunicar-se amb la persona que és a punt de morir: &#8220;Podem donar les gràcies per tot allò que ha fet, dir-li que l&#8217;estimam i donar significat a la seva vida, que senti que pot tancar el cercle vital&#8221;. Després de la mort, l&#8217;especialista aconsella donar-se permís per viure el dol: &#8220;És bo parlar amb naturalitat de la persona estimada que ha partit, plorar la seva absència, expressar les emocions i compartir-les&#8221;. Afegeix, a més, que &#8220;la ritualització de la pèrdua és important&#8221; independentment de les creences dels qui viuen l&#8217;òbit. I, d&#8217;alguna manera, ara tot això es pot fer <em>online</em>. En la mateixa línia, la Societat Funerària Catalana i el Col·legi Oficial de Psicologia de Catalunya han elaborat un <a rel="noreferrer noopener" href="https://www.copc.cat/adjuntos/adjunto_15309/v/Recomanacions%20per%20afrontar%20la%20mort%20d%E2%80%99una%20persona%20estimada%20durant%20el%20confinament%20per%20l%E2%80%99epid%C3%A8mia%20de%20COVID-19.pdf?tm=1585304549" target="_blank">manual per fer front a la mort d&#8217;una persona estimada durant el confinament</a>. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">930</post-id>	</item>
+		<item>
+		<title>10 motius per practicar la &#8216;Resistència Digital&#8217;</title>
+		<link>/2020/02/19/10-motius-resistencia-digital/</link>
+					<comments>/2020/02/19/10-motius-resistencia-digital/#comments</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 19 Feb 2020 20:48:33 +0000</pubDate>
+				<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Críptica]]></category>
+		<category><![CDATA[Dades]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Data]]></category>
+		<category><![CDATA[Edward Snowden]]></category>
+		<category><![CDATA[Identitat digital]]></category>
+		<category><![CDATA[Mòbil]]></category>
+		<category><![CDATA[Privacitat]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Resistencia Digital]]></category>
+		<category><![CDATA[Security]]></category>
+		<category><![CDATA[Seguretat]]></category>
+		<category><![CDATA[Smartphone]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[Vigilància]]></category>
+		<category><![CDATA[Vigilància Massiva]]></category>
+		<category><![CDATA[Vigilancia Permanente]]></category>
+		<category><![CDATA[Wikileaks]]></category>
+		<guid isPermaLink="false">/?p=787</guid>
+
+					<description><![CDATA[Parlem del llibre Resistencia Digital. Manual de seguridad operacional e instrumental para smartphones, escrit pels membres de l'associació Críptica, que apropa a la gent les eines de protecció de la privadesa]]></description>
+										<content:encoded><![CDATA[
+<p>En general, encara ignorem la feixuga motxilla de dades que traginen els nostres petits <em>smartphones</em>, una extensió dels cossos i el nostre principal intermediari amb el món. Però si com el protagonista de <em>Matrix</em> escollim la píldora roja, hi ha un llibre que ens pot obrir els ulls: <em><strong>Resistencia Digital. Manual de seguridad operacional e instrumental para smartphones</strong></em>. <a rel="noreferrer noopener" aria-label="escrit pels membres de l'associació Críptica (opens in a new tab)" href="https://www.criptica.org/" target="_blank">Escrit pels membres de l&#8217;associació Críptica</a>, ens apropa les eines per protegir la informació que generem. És un manual, sí, perquè ofereix solucions tècniques -assequibles-, però sobretot és un assaig: planteja els problemes des de l&#8217;arrel i el context i, així, ens fa entendre que optar per una aplicació o una altra, o compartir cada detall de la nostra vida a les xarxes socials són -com diu el pròleg- <strong>decisions polítiques</strong>. Hi ha molts motius per practicar la &#8216;resistència digital&#8217;, però aquí teniu deu fragments del llibre, que també són deu raons per submergir-s&#8217;hi.</p>
+
+
+
+<ol><li>&#8220;Els mitjans de comunicació, <em>Wikileaks</em> i les xarxes socials&nbsp;van començar a escampar informació sobre les tècniques d&#8217;<strong>espionatge</strong> dels Estats Units i els seus aliats. Aquell degoteig de filtracions encara dura, fins al punt que gairebé s&#8217;han normalitzat les notícies sobre la <strong>vigilància massiva</strong>. Però ningú ha anat a la presó i l&#8217;espionatge continua.&#8221;</li><li>&#8220;Allò rellevant del <strong>telèfon intel·ligent</strong> no és la seva dimensió tecnològica, sinó el seu ús social: es tracta d&#8217;un aparell que portem a tot arreu amb nosaltres, que sol integrar totes les facetes de la persona (treball,&nbsp;amistats, hàbits de consum, activitat política), que serveix com a arxiu de les seves vivències i que concentra gran part (si no la totalitat) del seu <strong>historial relacional</strong>. A hores d&#8217;ara, qualsevol&nbsp;adversari sap que n&#8217;hi ha prou amb fer-se amb el control del telèfon per a accedir a un riu d&#8217;informació rellevant de manera immediata.&#8221;</li><li>&#8220;Seguint la regla d&#8217;or «no existeix una&nbsp;informació més ben protegida que aquella que no arriba a generar-se», has de desenvolupar l&#8217;art de saber quan no produir cap informació.&#8221;</li><li>&#8220;Atrapats com estem en aquest nou paradigma,&nbsp;irremeiablement&nbsp;hem d&#8217;aprendre a moure&#8217;ns en un mitjà que ens és hostil. Se&#8217;ns ha llançat al <strong>tatami&nbsp;cibernètic</strong>&nbsp;sense rebre cap instrucció prèvia, i això ens fa summament vulnerables davant d&#8217;adversaris que són més poderosos, més perseverants i més experimentats que nosaltres.&#8221;</li><li>L&#8217;<strong>anonimat</strong>, com a necessitat diferent de la seguretat o la privacitat, ha estat un recurs necessari en moltes ocasions històriques, actuant com a mesura de&nbsp;prevenció&nbsp;per limitar la superfície d&#8217;atac de l&#8217;adversari: sabut és que no pots colpejar allò que no pots veure. Ho il·lustren&nbsp;a la perfecció les filtracions d&#8217;<a href="/2019/11/16/edward-snowden-project-tor/">Edward&nbsp;Snowden, que va haver de mantenir la seva identitat real en secret</a> per a establir&nbsp;contacte amb la premsa sense cridar l&#8217;atenció de la&nbsp;NSA&nbsp;americana. (&#8230;) Més que «seguretat», l&#8217;anonimat ofereix una protecció similar a la del <strong>camuflatge</strong>, que serveix per allargar la fase d&#8217;identificació prèvia a l&#8217;atac&#8221;.</li><li><span style="font-family: &quot;Nunito Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 1.125rem;">&#8220;L&#8217;ús d&#8217;un terminal mòbil comporta la&nbsp;monitorizació&nbsp;de la localització física aproximada per part del proveïdor i d&#8217;aquells tercers a qui el proveïdor proporcioni accés</span>. Aquesta circumstància ha d&#8217;avaluar-se també des d&#8217;un <strong>punt de vista col·lectiu</strong>. Es pot deduir que dos o més persones es desplacen juntes si els seus telèfons es van connectant a les mateixes antenes al mateix temps quan es mouen.&#8221;</li><li>&#8220;<span style="font-family: &quot;Nunito Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 1.125rem;">Cada any som testimonis de com diversos proveïdors pateixen <strong>atacs i bretxes de seguretat</strong> en què es veuen&nbsp;compromeses centenars de milers de contrasenyes: <strong>Adobe,&nbsp;LinkedIn, PlayStation</strong>&#8230; No reutilitzar claus et protegeix fins i tot en cas que un atacant arribi a descobrir quina és la teva contrasenya en un servei, de manera que no pugui utilitzar-la per a accedir als teus altres comptes. Si, per contra, tens una mateixa clau que utilitzes per a tot, en cas que algú l&#8217;aconseguís guanyaria un accés integral a la teva </span><strong><span style="font-family: &quot;Nunito Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Helvetica, Arial, sans-serif; font-size: 1.125rem;">identitat <em>online</em></span>.</strong>&#8220;</li><li>&#8220;Una aplicació pot arribar a accedir a pràcticament tota la informació i sensors del nostre telèfon si té els <strong>permisos adequats</strong>: identitat, contactes, informació del wifi, localització GPS, SMS, trucades i fins i tot micròfon o càmera. La informació que recopila una aplicació és per tant molt major, i com a usuaris hem de decidir amb cura quines aplicacions tenen accés a quines dades en el nostre&nbsp;telèfon.&#8221; </li><li>&#8220;Existeixen diverses eines que relacionen els teus «m&#8217;agrada» o&nbsp;retuits&nbsp;amb moviments socials o ideologies&nbsp;polítiques&nbsp;afines, i això li concedeix un poder més gran al teu adversari. Com més informació generes, més fàcil és situar-te en una <strong>base de dades ideològica</strong> ben detallada, tenint en compte el teu rang d&#8217;edat, ciutat i cercle social. O pitjor encara, també existeixen eines <em>online</em> que es dediquen a classificar tota la informació que hagis generat en els teus perfils perquè amb un sol clic quedi exposada per categories.&#8221;</li><li>En la&nbsp;missatgeria&nbsp;instantània, &#8220;si algú pren la decisió personal de no protegir-se, la seva decisió individual repercuteix <em>ipso facto</em> en la seguretat i&nbsp;privadesa&nbsp;del conjunt de comunitats de les quals forma part. <strong>La seguretat és un esport d&#8217;equip</strong>: intentem que tot el nostre entorn habiliti un codi de desbloqueig i xifri l&#8217;aparell per evitar que terceres persones puguin accedir al seu contingut, que en bona part serà contingut que pot exposar la seva xarxa de contactes.&#8221;</li></ol>
+
+
+
+<p class="has-small-font-size">Nota: La traducció és nostra.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/19/10-motius-resistencia-digital/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">787</post-id>	</item>
+		<item>
+		<title>Algoritmes esbiaixats: màquines que no fan justícia</title>
+		<link>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/</link>
+					<comments>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/#respond</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2019 12:22:37 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Algorithm]]></category>
+		<category><![CDATA[Algoritme]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Aprenentatge Automàtic]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Salut]]></category>
+		<category><![CDATA[Tinder]]></category>
+		<guid isPermaLink="false">/?p=297</guid>
+
+					<description><![CDATA[Florida, 2014. Una tarda de primavera, Brisha Borden i un amiga, totes dues de 18 anys, roben una bici i un patinet. En plena fugida,&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Florida, 2014. Una tarda de primavera, Brisha Borden i un amiga, totes dues de 18 anys, roben una bici i un patinet. En plena fugida, s’adonen que són massa grans per conduir els vehicles, que pertanyen a un nen de sis anys. La policia les arresta i les acusa de robar uns objectes valorats en 80 dòlars. A l’estiu anterior, Vernon Prater, de 41 anys, és detingut per robar a una botiga diversos articles que sumen 86,35 dòlars. Està en cerca i captura i ja ha passat cinc anys a la presó per robatori armat i dos delictes més. A la presó, un sistema informàtic anomenat COMPAS* puntua la probabilitat de reincidència dels reclusos. A Borden, de pell negra, li atribueix un risc elevat i a Prater, de pell blanca, un risc baix. Dos anys després, es descobreix que l’algoritme predictiu no l’ha encertada: Borden no ha comès cap altra infracció, mentre Prater compleix una pena de vuit anys de presó per un altre robatori.</p>
+
+
+
+<p>Aquest no és un cas aïllat. Dos anys després d’aquests fets, <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">una investigació de Propublica va demostrar</a> que el sistema tendia a assignar riscos molt més elevats a les persones de pell fosca que a les de pell blanca. Era el resultat d’allò que es coneix com a biaix predictiu; en aquest cas, racista.</p>
+
+
+
+<h2>D’on surt aquest biaix?</h2>
+
+
+
+<p>L&#8217;origen s’amaga en els principis més bàsics dels algoritmes predictius, també anomenats d’Aprenentatge Automàtic (Machine Learning, en anglès). Aquests algoritmes, actualment tant habituals, es basen en una anàlisis estadística de dades històriques, a partir de les quals s’extreuen patrons que més endavant serveixen per fer prediccions sobre noves dades. Com a conseqüència, si aquestes dades històriques contenen una representació esbiaixada de la realitat, les prediccions de l’algoritme predictiu reproduiran el mateix biaix.</p>
+
+
+
+<p>Però això no és tot. L’estudi de Propublica va demostrar que la diferència a l’hora d’avaluar persones de colors diferents no s&#8217;explicava només per unes dades històricament esbiaixades, sinó que l&#8217;algoritme tendia a equivocar-se de manera diferent en funció de si examinava persones de pell negra o de pell blanca. Així, COMPAS va atribuir el doble de vegades un risc erròniament alt de reincidència als presos de pell negra; mentre va assignar un risc erròniament baix a molts més reclusos de pell blanca. Per tant, en aquest cas, la Intel·ligència Artificial no ajudava a mitigar les diferències racials inherents a les dades històriques, sinó que encara les potenciava més.</p>
+
+
+
+<p>Per què? Propublica ressaltava que COMPAS no preguntava la raça del pres per formar l’algoritme. No obstant això, les variables que utilitzava per obtenir informació eren 137 preguntes personals sobre el detingut i el seu entorn, com “Els teus amics o familiars formen part de bandes criminals?” o “Has provat l&#8217;heroïna?”. Però el problema és que, als Estats Units, les diferències socials entre els col·lectius racials són prou importants com perquè es vegin reflectides en aquest tipus de respostes. Així, si s&#8217;evités proporcionar a l&#8217;algoritme dades que permeten deduir el color de pell, es quedaria sense informació per a fer prediccions amb precisió.</p>
+
+
+
+<h2>Conseqüències en el treball, en la salut, en l’amor</h2>
+
+
+
+<p>El cas de COMPAS no és una excepció, ja que els biaixos predictius són un fenomen inherent als algoritmes d’Intel·ligència Artificial, que són cada dia més freqüents al nostre entorn. </p>
+
+
+
+<p>El 2014, <a href="https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G?utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz--y-ycxgaCuFg_VJZNKEV72YYe72ryGDwDcZmF4qpvJJsCrmqY2DqHNktpSZD4K2U0Vk-Ri">Amazon va desenvolupar una eina intel·ligent per reclutar els millors treballadors</a>. Un any més tard, la multinacional va adonar-se que als llocs tècnics no hi havia cap dona. La companyia va abandonar l’eina després que una auditoria interna trobés que els candidats homes havien obtingut més puntuació que les dones. Per què? <a href="https://medium.com/think-by-shifta/por-qu%C3%A9-la-inteligencia-artificial-discrimina-a-las-mujeres-18b123ecca4c">Tal com expliquen Karma Peiró i Ricardo Baeza-Yates a Medium</a>, les dades massives que serviren per nodrir l’algoritme de sel·lecció de personal es basaven en currículums rebuts durant l&#8217;última dècada, quan amb prou feines hi havia dones programadores. Quan el sistema automàtic detectava la paraula “dona” o un sinònim, la penalitzava i puntuava més baix.</p>
+
+
+
+<p>En l’àmbit sanitari, als Estats Units s’utilitzen algoritmes per guiar algunes decisions mèdiques. El 25 d’octubre, <a href="https://science.sciencemag.org/content/366/6464/447.full?utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz--y-ycxgaCuFg_VJZNKEV72YYe72ryGDwDcZmF4qpvJJsCrmqY2DqHNktpSZD4K2U0Vk-Ri">la revista Science explicava que els models utilitzats per assignar cures</a> als 100 milions de pacients nordamericans que pateixen malalties cròniques, com atacs de cor o diabetis, prioritzaven els pacients blancs en detriment dels negres, i rebien abans una assistència mèdica urgent.</p>
+
+
+
+<p>Al llibre El Algoritmo del Amor, Judith Duportail explica que <a href="https://www.arabalears.cat/cultura/Tinder-construir-parelles-desiguals_0_2285171474.html">l’algoritme de Tinder classifica els usuaris segons la bellesa, el gènere, els estudis i la classe social</a>. Duportail sosté que els homes amb més ingressos i nivell d’estudis tenen una gratificació i, en canvi, a les dones amb els mateixos atributs se les penalitza. Per això, considera que Tinder vol construir parelles desiguals en què l’home sempre sigui superior: amb més estudis, més ingressos i més edat. Com s&#8217;explica això? Per una banda, l’algoritme és el resultat d’una compilació de dades que ha tingut lloc dins una societat masclista i, per l’altra banda, segons l’autora del llibre, els programadors de l’aplicació han introduït els seus propis biaixos dins el programari. Com trencar aquest cercle viciós?</p>
+
+
+
+<h2>Algunes solucions</h2>
+
+
+
+<p>El <a href="https://fedit.com/2017/09/proyecto-fair-un-algoritmo-para-evitar-discriminaciones-en-la-busqueda-de-trabajo-o-de-pareja/">Centre Tecnològic Eurecat, de la mà de la Universitat Pompeu Fabra (UPF) i la Universitat Tècnica de Berlín</a>, ha creat un algoritme, anomenat FA*IR, per evitar la discriminació per raons de gènere, procedència o aparença física en cercadors de feina o de parella. FA*IR detecta els biaixos i els corregeix incorporant un mecanisme per a reordenar els resultats sense afectar la validesa del rànquing. <a href="https://www.upf.edu/recercaupf/-/asset_publisher/RVNxhLpxnc9g/content/id/226511859/maximized">Des de l’UPF, a més, proposen utilitzar els algoritmes de manera crítica</a> i en col·laboració amb experts de l’àrea que correspongui.</p>
+
+
+
+<p>Rachel Thomas, directora del Centre d’Ètica Aplicada a les Dades de la Universitat de San Francisco, recomana que cada conjunt de dades es presenti amb un document on s’hi descrigui com es va compilar. També aconsella especificar-hi qualsevol preocupació ètica o legal que hagi pogut sorgir durant el procés. Suggereix, tanmateix, que els equips incloguin gent diversa capaç d’advertir els diferents biaixos.</p>
+
+
+
+<p>El 2017, l’<a href="https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf">Associació de Maquinària Informàtica (ACM) publicà un manifest</a> en defensa de la transparència algorítimica i va establir set principis:</p>
+
+
+
+<ol><li>Consciència. Els creadors d’aquests sistemes han de ser conscients de la possibilitat que hi hagi biaixos en el seu disseny, implementació i ús.</li><li>Accés. Els reguladors han d’afavorir l’introducció de mecanismes perquè els individus i grups negativament afectats per decisions algorítmiques puguin qüestionar-les i rectificar-les.</li><li>Passar comptes. Les institucions han de ser responsables de les decisions de l’algoritme, encara que no puguin detallar com s’han pres.</li><li>Explicació. Les institucions que empren sistemes intel·ligents han de promoure la producció d’explicacions sobre els procediments i les decisions específiques que s’hi prenen.</li><li>Procedència de les dades. Les dades emprades per a l’entrenament han d’anar acompanyades d’una descripció del seu origen.</li><li>Auditabilitat. Models, dades i decisions han de quedar registrats perquè puguin auditar-se quan se sospita d’algun error.</li><li>Validació i proves. Les institucions han de fer proves rutinàries per a avaluar i determinar si el model genera discriminació.</li></ol>
+
+
+
+<h2>Encara queda molt per fer</h2>
+
+
+
+<p>Malgrat els esforços, els biaixos algoritmics són entre els grans problemes de la comunitat científica. En alguns casos, les dades sovint reflecteixen diferències no atribuïbles a biaixos, sinó que són resultat d’una descripció objectiva de la realitat i no té sentit corregir-los. A vegades, però, aquests contrastos són producte de certes diferències històriques que cal pal·liar per construir una societat més justa. Tot plegat requereix una feina complexa però necessària per redefinir com conceptualitzem el món i, en conseqüència, com obtenim les dades. Al mateix temps, és urgent introduir l&#8217;Ètica a l&#8217;hora d&#8217;entrenar models intel·ligents que, de ben segur, tindran un gran impacte social.</p>
+
+
+
+<h5>Notes:</h5>
+
+
+
+<p class="has-small-font-size">*COMPAS és l&#8217;acrònim de Correctional Offender Management Profiling for Alternative Sanctions, que en català es tradueix com a Perfilat per la Gestió Correctiva d&#8217;Infractors per Sancions Alternatives.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">297</post-id>	</item>
+		<item>
+		<title>La tecnologia que pot transformar l&#8217;activisme</title>
+		<link>/2019/10/22/tecnologia-transforma-activisme/</link>
+					<comments>/2019/10/22/tecnologia-transforma-activisme/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Mon, 21 Oct 2019 22:07:49 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Activisme]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Tsunami Democràtic]]></category>
+		<guid isPermaLink="false">/?p=101</guid>
+
+					<description><![CDATA[Totes les lluites socials es materialitzen a la xarxa. Però el Tsunami Democràtic fa un pas més amb una app que té el món expectant.&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Totes les lluites socials es materialitzen a la xarxa. Però el Tsunami Democràtic fa un pas més amb una app que té el món expectant. No per allò que ha fet, sinó més aviat per allò que pot fer. Ni assemblees presencials, ni torns de paraula en cua, ni votacions in situ, ni encartellades amb cola i escombra: tota acció del Tsunami és orquestrada en línia. És un moviment sense rostre que actua i s’expressa a través d’eines tecnològiques que desafien la repressió i la censura, i amb un insòlit poder de convocatòria. Alguns especialistes creuen que l&#8217;aplicació pot ser una eina revolucionària per a la democràcia participativa i una de les seves pedres angulars: la desobediència civil.</p>
+
+
+
+<p>La famosa app encara no ha arrencat i, tot i així, el 16 d&#8217;octubre ja se l’havíen descarregada més de 270.000 persones i s&#8217;havien fet 15.000 activacions amb èxit. Una xifra que no va aturar de créixer durant els dies posteriors, igual que ho va fer el compte de Twitter -que ja té 203.200 seguidors- i el canal de Telegram -amb 370.100 subscriptors-. Just després que trancendís la sentència, a la una del migdia, el Tsunami convocava una mobilització a l’aeroport. Al vespre, ja s’hi havien congregat milers de persones per col·lapsar als accessos a la terminal 1. El 18 d&#8217;octubre, un jutge decretava el tancament del web del Tsunami Democràtic, ara investigat per terrorisme. Tot i així, una gran quantitat de gent ha decidit que els fa cas perquè els sembla raonable allò que proposa i perquè, des de l&#8217;inici, ha comptat amb el suport públic del president Quim Torra, el vicepresident Pere Aragonès i el president del Parlament, Roger Torrent. </p>
+
+
+
+<h5>1. Insòlit poder de convocatòria</h5>
+
+
+
+<p>Les xarxes i els canals de missatgeria, com Telegram, han permès respostes massives. Unes reaccions que l&#8217;app del Tsunami pot continuar potenciant. Quan t&#8217;instal·les l&#8217;aplicació, se&#8217;t demana la geolocalització i quan estàs disponible per protestar. D&#8217;aquesta manera, els administradors poden saber quan i on mobilitzar la gent i enviar unes notificacions o unes altres segons l&#8217;ubicació física. Això els fa possible convocar unes manifestacions espontànies multitudinàries. L&#8217;app també demana als usuaris la seva intenció de participar en una acció propera, de manera que es pot preveure l&#8217;assistència amb antelació. Igualment, com que l&#8217;aplicació et permet registrar quan arribes al punt de trobada, els administradors poden fer el seguiment de la participació en temps real. Una gran eina per coordinar les accions o el naixement de la revolta com a servei?</p>
+
+
+
+<h5>2. Lideratge anònim </h5>
+
+
+
+<p>Els líders del Tsunami no són visibles i, com passa cada cop més sovint amb els moviments socials, la seva presència és exclusivament digital. En aquest cas, però, els administradors s&#8217;amaguen rere l&#8217;anonimat per evitar un procés judicial com el de l&#8217;exlíder de l&#8217;ANC Jordi Sànchez i el president d&#8217;Òmnium Cultural, Jordi Cuixart. A nivell intern, funcionen com un motor en què cada peça sap quina és la seva tasca i es coordina amb les altres, treballant en compartiments estancs i intentant protegir el màxim la identitat dels seus components, fins i tot entre ells. </p>
+
+
+
+<h5>3. Evita infiltrats</h5>
+
+
+
+<p>L&#8217;app està dissenyada expressament per evitar infiltrats. Igual que a l&#8217;1 d&#8217;Octubre, el Tsunami ha creat una xarxa de comunicació xifrada i descentralitzada per distribuir les diferents accions en el territori. D&#8217;aquesta manera, com que l&#8217;app utilitza tecnologia de geolocalització per coordinar l’activitat, les persones es poden organitzar en “cèl·lules” geogràfiques i els manifestants només poden veure accions que es desenvolupen en un determinat radi, evitant que la informació surti a la xarxa i limitant allò que pot descobrir un infiltrat, que només tindria accés a una part molt petita de les convocatòries. </p>
+
+
+
+<h5>4. Esquiva la censura</h5>
+
+
+
+<p>L&#8217;aplicació tampoc no està disponible al Play Store d&#8217;Android ni a l&#8217;App Store d&#8217;Apple. Així, es pretén esquivar el veto de les empreses tecnològiques per la pressió del govern, <a rel="noreferrer noopener" aria-label="com va passar a Hong Kong (s'obre en una nova pestanya)" href="https://www.lavanguardia.com/internacional/20191010/47889999197/apple-elimina-app-seguimiento-policia-hong-kong.html" target="_blank">com va passar a Hong Kong</a>. En aquest sentit, Telegram també és una eina útil: Putin la va bloquejar a Rússia perquè el seu director es va negar a col·laborar amb els serveis secrets. Ara bé, hi confiarà la gent amb una aplicació que s&#8217;ha d&#8217;instal·lar manualment?</p>
+
+
+
+<h5>5. Xarxa de confiança</h5>
+
+
+
+<p>L’aplicació està elaborada amb Retroshare, un programari de lliure accés que s’utilitza per crear xarxes xifrades d’amic a amic, en què els usuaris només entren en contacte amb persones que coneixen personalment. En aquesta xarxa, els usuaris només intercanvien dades amb els seus amics connectats, mentre es manté l&#8217;anonimat entre els que no són amics. Tot això s&#8217;aconsegueix amb l&#8217;intercanvi presencial de claus, com són els codis QR, i sense l&#8217;intervenció d&#8217;un servidor central.</p>
+
+
+
+<h5>6. Cap a la democràcia digital?</h5>
+
+
+
+<p><a rel="noreferrer noopener" aria-label="Alguns experts veuen en l'app del Tsunami (s'obre en una nova pestanya)" href="https://techcrunch.com/2019/10/17/catalan-separatists-have-tooled-up-with-a-decentralized-app-for-civil-disobedience/" target="_blank">Alguns experts veuen en l&#8217;app del Tsunami</a> una estructura que fa possible una forma més democràtica de participació de base. Ara, un manifestant pot optar per seguir les instruccions per a una acció orientada, però també pot respondre i rebre comentaris, participant en les decisions. De fet, si l&#8217;aplicació aconsegueix sostenir l’acció i implicar els ciutadans a llarg termini, allò que volen els creadors és que pugui servir per altres causes on, gràcies a la tecnologia, les persones esdevinguin nodes de dades amb capacitat de rebre i transmetre informació. </p>
+
+
+
+<h5>7. Els artífexs: una &#8220;elit tecnològica&#8221;</h5>
+
+
+
+<p>Enric Luján, professor de Ciència Política especialitzat en tecnologia de la Universitat de Barcelona i membre del grup Críptica, opina que les solucions tecnològiques del Tsunami les desenvolupa <a rel="noreferrer noopener" aria-label="una &quot;elit tècnica clandestina&quot; altament qualificada (s'obre en una nova pestanya)" href="https://github.com/s3rrallonga/s3rrallonga.github.io/issues/4" target="_blank">una &#8220;elit tecnològica clandestina&#8221;, altament qualificada</a> i després se socialitzen &#8220;entre la resta dels mortals&#8221;. Per aquest motiu, considera que l&#8217;estructura del moviment és &#8220;clarament jeràrquica&#8221; perquè no tothom hi té el mateix nivell: per un costat hi ha un grup dirigent que emet missatges, decideix accions, genera i reparteix codis QR, i per altre costat hi ha milers de nodes -que l&#8217;aplicació anomena &#8220;gotes&#8221;- que reben aquesta informació i l&#8217;executen. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+https://twitter.com/imGeheimen/status/1184194150167650304?s=20
+</div></figure>
+
+
+
+<h5>8. Hong Kong: el mirall</h5>
+
+
+
+<p>Els activistes hongkonguesos tampoc tenen un lideratge oficial. Tot i així, demostren una capacitat de coordinació sense precedents, i que ha sorprès el planeta. Quan arriba la policia per detenir-los, es dispersen en diferents direccions i desapareixen, seguint el lema del moviment: &#8220;be water&#8221;. Una consigna que guarda similituds amb el Tsunami, fet de &#8220;gotes&#8221; d&#8217;aigua. De fet, la mobilització a l&#8217;aeroport buscava un &#8220;efecte Hong Kong&#8221;. Picnic per la República enllaça al seu web tres canals de Telegram de les mobilitzacions de Hong Kong, amb la intenció d&#8217;inspirar les accions catalanes. Totes dues aplicacions compten amb un mecanisme que permet avisar a l&#8217;organització de la presència policial sota la consigna &#8220;hi ha piolins&#8221;.</p>
+
+
+
+<h5>9. De moment, codi privat</h5>
+
+
+
+<p>El codi no és obert i, per això, ningú sap del cert com funciona l&#8217;app ni com es gestionen les dades dels usuaris. Tot i això, el creador de l&#8217;aplicació, <a rel="noreferrer noopener" aria-label="&quot;S3rrallonga&quot;, assegura al repositori de l'aplicació (s'obre en una nova pestanya)" href="https://github.com/s3rrallonga/s3rrallonga.github.io/issues/4" target="_blank">&#8220;S3rrallonga&#8221;, assegura al repositori de l&#8217;aplicació</a> que l&#8217;objectiu és alliberar-la perquè sigui &#8220;utilitzada a nivell global per qualsevol grup de persones que vulgui autoorganitzar-se sense patir censura&#8221;. </p>
+
+
+
+<h5>10. Coordinar en remot</h5>
+
+
+
+<p>Des d&#8217;on s&#8217;envien els missatges? Internet permet orquestrar grans mobilitzacions des de qualsevol part del planeta. Permet esquivar represàlies, però també pot suposar que persones deslligades de la realitat social d&#8217;un indret en moguin els fils. Aleshores, es pot confiar el lideratge d&#8217;un moviment social l&#8217;impulsor del qual no és a peu de carrer? Tot i així, en un món permanentment connectat, això serà la sens dubte el més habitual. </p>
+
+
+
+<p></p>
+
+
+
+<h6>Fonts consultades:</h6>
+
+
+
+<ul><li><a rel="noreferrer noopener" aria-label="TECH CRUNCH: Catalan separatists have tooled up with a decentralized app for civil disobedience (s'obre en una nova pestanya)" href="https://techcrunch.com/2019/10/17/catalan-separatists-have-tooled-up-with-a-decentralized-app-for-civil-disobedience/" target="_blank">TECH CRUNCH: Catalan separatists have tooled up with a decentralized app for civil disobedience</a>.</li><li><a rel="noreferrer noopener" aria-label="WIRED: Catalonia has created a new kind of online activism. Everyone should pay attention (s'obre en una nova pestanya)" href="https://www.wired.co.uk/article/barcelonia-riots-catalonia-protests-news" target="_blank">WIRED: Catalonia has created a new kind of online activism. Everyone should pay attention</a>.</li><li><a rel="noreferrer noopener" aria-label="XATAKA: Tsunami Democràtic, así es la app de las protestas independentistas: con sistema 'Retroshare' y códigos QR basados en la ubicación (s'obre en una nova pestanya)" style="font-size: 1.125rem;" href="https://www.xataka.com/aplicaciones/tsunami-democratic-asi-app-protestas-independentistas-sistema-retroshare-codigos-qr-basados-ubicacion" target="_blank">XATAKA: Tsunami Democràtic, así es la app de las protestas independentistas: con sistema &#8216;Retroshare&#8217; y códigos QR basados en la ubicación</a><span style="font-size: 1.125rem;">.</span></li><li><a rel="noreferrer noopener" aria-label="REGIÓ 7: Tsunami Democràtic: què és i qui hi ha al darrere? (s'obre en una nova pestanya)" href="https://www.regio7.cat/arreu-catalunya-espanya-mon/2019/10/15/que-es-tsunami-democratic/573839.html" target="_blank">REGIÓ 7: Tsunami Democràtic: què és i qui hi ha al darrere?</a></li><li><a rel="noreferrer noopener" aria-label="CATALUNYA RÀDIO: Genís Roca: &quot;L'elit de Tsunami deuen ser menys de 10 persones. Tecnològicament no els podran trobar&quot; (s'obre en una nova pestanya)" href="https://www.ccma.cat/catradio/alacarta/el-suplement/genis-roca-lelit-de-tsunami-deuen-ser-menys-de-10-persones-tecnologicament-no-els-podran-trobar/audio/1052358/" target="_blank">CATALUNYA RÀDIO: Genís Roca: &#8220;L&#8217;elit de Tsunami deuen ser menys de 10 persones. Tecnològicament no els podran trobar&#8221;</a>.</li><li><a rel="noreferrer noopener" aria-label="VIA EMPRESA: La revolta com a motor d'innovació (s'obre en una nova pestanya)" href="https://www.viaempresa.cat/opinio/genis-roca-revolta-motor-innovacio-tsunami-democratic_2076257_102.html" target="_blank">VIA EMPRESA: La revolta com a motor d&#8217;innovació</a>.</li><li><a rel="noreferrer noopener" href="https://www.eldiario.es/tecnologia/tsunami-tecnologico_0_953655054.html" target="_blank">ELDIARIO.ES: El tsunami también es tecnológico</a>.</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/10/22/tecnologia-transforma-activisme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">101</post-id>	</item>
+	</channel>
+</rss>

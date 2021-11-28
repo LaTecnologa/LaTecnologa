@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>La Tecnòloga</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Què és la mineria de dades?</title>
+		<link>/2020/09/28/que-es-la-mineria-de-dades/</link>
+		
+		<dc:creator><![CDATA[Termcat]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2020 08:40:12 +0000</pubDate>
+				<category><![CDATA[Tecnologia en català]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Català]]></category>
+		<category><![CDATA[Cercaterm]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Data Mining]]></category>
+		<category><![CDATA[Mineria de Dades]]></category>
+		<category><![CDATA[Mineria Web]]></category>
+		<category><![CDATA[Termcat]]></category>
+		<category><![CDATA[TIC]]></category>
+		<category><![CDATA[Web Mining]]></category>
+		<guid isPermaLink="false">/?p=1615</guid>
+
+					<description><![CDATA[Totes les organitzacions disposen de grans bases de dades on s’emmagatzemen dades massives (big data, en anglès) sobre l’activitat pròpia i sobre aspectes que hi&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Totes les organitzacions disposen de grans bases de dades on s’emmagatzemen <a rel="noreferrer noopener" href="https://tic.termcat.cat/ca/cercaterm/fitxa/MzU0NTMwNw%3D%3D" target="_blank">dades massives</a> (<em>big data</em>, en anglès) sobre l’activitat pròpia i sobre aspectes que hi poden tenir impacte, i el gran repte és organitzar-les amb efectivitat, per a identificar nous productes, oportunitats de negoci, racionalitzar recursos o conèixer millor l&#8217;usuari.</p>
+
+
+
+<p>La tècnica clau en aquesta organització és la <a rel="noreferrer noopener" href="https://tic.termcat.cat/ca/cercaterm/fitxa/MjA3ODM4" target="_blank">mineria de dades</a> (<em>data mining</em>, en anglès), que consisteix a analitzar un gran volum d&#8217;informació emmagatzemada en diferents bases de dades, de manera automàtica o semiautomàtica, a fi de deduir patrons de coneixement i algoritmes que puguin generar aplicacions pràctiques i treure’n rendiment. Aquests patrons es poden trobar utilitzant estadístiques o algoritmes de cerca propers a la intel·ligència artificial i a les xarxes neuronals.  </p>
+
+
+
+<p>La mineria de dades va néixer amb la intenció d’ajudar a comprendre una enorme quantitat de dades, i que se n’extraguessin conclusions per contribuir a la millora i el creixement de les empreses, sobretot pel que fa a les vendes i la fidelització de clients. Fora de l’àmbit empresarial, en les institucions també té un gran camp per recórrer, ja que aquesta tècnica s’ha incorporat en governs, universitats, hospitals i altres organitzacions que volen treure el màxim rendiment de les dades que acumulen, i fer que reverteixin de manera positiva en l’activitat.</p>
+
+
+
+<p>Un altre concepte relacionat és la <a rel="noreferrer noopener" href="https://tic.termcat.cat/ca/cercaterm/fitxa/MzM0NzY0MA%3D%3D" target="_blank">mineria web</a> (<em>web mining</em>, en anglès): és la tècnica informàtica de mineria de dades aplicada específicament a extreure informació del contingut de pàgines web, de la seva estructura de relacions i enllaços i dels registres de navegació dels usuaris.</p>
+
+
+
+<p>Podeu consultar al <a href="https://www.termcat.cat/ca/cercaterm" target="_blank" rel="noreferrer noopener">Cercaterm</a>, el cercador terminològic del TERMCAT, les fitxes d’aquests termes catalans, i també trobareu al <a href="https://tic.termcat.cat/ca" target="_blank" rel="noreferrer noopener">canal Terminologia de les TIC</a> altres recursos d’aquest àmbit.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1615</post-id>	</item>
+		<item>
+		<title>Teresa López-Pellisa, enderrocant el masclisme des de la cibercultura</title>
+		<link>/2020/09/18/teresa-lopez-pellisa-enderrocant-masclisme-cibercultura/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2020 17:39:52 +0000</pubDate>
+				<category><![CDATA[Diàlegs]]></category>
+		<category><![CDATA[Ciberfeminisme]]></category>
+		<category><![CDATA[Ciència ficció]]></category>
+		<category><![CDATA[Destacat]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[ginoides]]></category>
+		<category><![CDATA[Las Otras. Antología de mujeres artificiales]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[Science Fiction]]></category>
+		<category><![CDATA[Teresa López-Pellisa]]></category>
+		<guid isPermaLink="false">/?p=1601</guid>
+
+					<description><![CDATA[Entrevista a Teresa López-Pellisa, professora de Literatura a la Universitat de les Illes Balears (UIB), membre del Grup d’Estudis sobre el Fantàstic de la Universitat Autònoma de Barcelona (UAB) i és coneguda pel seu treball vinculat a la cibercultura, la ciència-ficció i el feminisme. Ha editat, entre altres títols, Las Otras: Antología de mujeres artificiales (2018), Distópicas i Poshumanas (2018) i Ciberfeminismo. De VNS Matrix a Laboria Cuboniks (2019). També és autora d’Insólitas: Narradoras de lo fantástico en Latinoamérica y España (2019), Historia de la ciencia ficción en la cultura española (2018)]]></description>
+										<content:encoded><![CDATA[
+<h3>López-Pellisa és professora de Literatura a la Universitat de les Illes Balears (UIB), membre del Grup d’Estudis sobre el Fantàstic de la Universitat Autònoma de Barcelona (UAB) i és coneguda pel seu treball vinculat a la cibercultura, la ciència-ficció i el feminisme. Ha editat, entre altres títols, <em>Las Otras: Antología de mujeres artificiales</em> (2018), <em>Distópicas </em>i<em> Poshumanas</em> (2018) i <em>Ciberfeminismo. De VNS Matrix a Laboria Cuboniks</em> (2019). També és autora d’<em>Insólitas: Narradoras de lo fantástico en Latinoamérica y España</em> (2019), <em>Historia de la ciencia ficción en la cultura española</em> (2018)</h3>
+
+
+
+<p>El cíborg ha burlat els límits de la ciència-ficció per convertir-se en la nova definició de l’ésser humà: com a espècie, hem creat artificialment el món que habitem i, alhora, hem modificat la naturalesa per adaptar-la al nostre mode de vida. I, en aquest context, la tecnologia també pot servir a causes emancipadores. Aquesta idea teixeix els escrits reunits per Teresa López-Pellisa i Remedios Zafra a l’antologia <a rel="noreferrer noopener" href="https://edicionesholobionte.com/ciberfeminismo-remedios-zafra-y-teresa-lopez-pellisa-eds/" target="_blank"><em>Ciberfeminismo. De VNS Matrix a Laboria Cuboniks </em>(Ediciones Holobionte)</a>, que recullen el pensament de més de vint creadores i pensadores ciberfeministes, o sigui, els feminismes orientats a la tecnologia. El mateix principi vertebra els relats de <a href="https://www.eolasediciones.es/catalogo/coleccion-las-puertas-de-lo-posible/las-otras-antologia-de-mujeres-artificiales/" target="_blank" rel="noreferrer noopener"><em>Las Otras: Antología</em> <em>de mujeres artificiales</em> (Eolas Ediciones)</a>, editat per López-Pellisa i que aplega contes de vint-i-sis autores i autors catalans, espanyols i llatinoamericans sobre ginoides, nines o dones virtuals i biotecnològiques de silici, plàstic i dígits binaris. L’obra defuig els clixés i, aquest cop, molts autors s’atreveixen a anar més enllà de la concepció tradicional de la dona artificial com a fetitxe, prostituta o companya sentimental en el marc de les relacions heteronormatives i dibuixen la imatge de l’autòmat femení des de postures dissidents.&nbsp;</p>
+
+
+
+<p><strong>Potser se’n parla poc, de ciberfeminisme, tot i que el feminisme i la seva relació amb la tecnologia és un tema d’absoluta actualitat?</strong></p>
+
+
+
+<p>L’etiqueta de ciberfeminisme ja no està d’actualitat, tot i que continua existint. De fet, moltes ciberfeministes han anat canviant de posicionaments, tal com es pot comprovar en el procés del llibre [<em>Ciberfeminismo. De VNS Matrix a Laboria Cuboniks</em>] que, primer cop, tradueix i reuneix textos clau del ciberfeminisme. El concepte de ciberfeminisme s’encunya als anys noranta. Neix sobretot en el context de l’art feminista i el <a rel="noreferrer noopener" href="https://es.wikipedia.org/wiki/Net.art" target="_blank"><em>Net.art</em></a>, quan es reflexiona sobre la <em>cibercultura</em> en uns termes que avui ens resulten inversemblants i ingenus. Cal tenir en compte que als noranta no tothom tenia un ordinador personal. Tal com escriu Remedios Zafra al pròleg, el llibre també reivindica la necessitat de publicar aquests textos en la llengua cíborg, meridional i mestissa que és el castellà per evidenciar les relacions entre Espanya i Llatinoamèrica amb una cultura digital que semblava que pertanyia exclusivament al món anglosaxó, i recull des dels primers manifestos dels noranta fins al <a rel="noreferrer noopener" href="https://www.nuvol.com/llibres/rosi-braidotti-posthuma-es-una-paraula-molt-molesta-31471" target="_blank">posthumanisme</a> i el <a rel="noreferrer noopener" href="http://lab.cccb.org/ca/helen-hester-la-biologia-no-determina-el-desti-es-pot-modificar-tecnologicament/" target="_blank">xenofeminisme</a>, que és cap a allò al qual ha tendit el ciberfeminisme. El problema és que el ciberfeminisme dels noranta reclamava un espai per a la cultura digital que per a les dones no ha existit. Es pensava en una relació postgènere a l’espai virtual que finalment no ha sigut real perquè el patriarcat l’ha col·lonitzat.&nbsp;</p>
+
+
+
+<p><strong>Com es podria caracteritzar el ciberfeminisme avui?</strong></p>
+
+
+
+<p>Trobem el ciberfeminisme en <em>Las Otras</em> o en pel·lícules com <em>Her</em>, <em>Ex-Machina</em>, <em>Ghost in the Shell</em>, o en sèries com <em>Black Mirror</em>; productes culturals que reflexionen sobre l’imaginari científic i tecnològic de la feminitat i la projecció d’aquest futur especulatiu a través de la ciència-ficció. Cada cop que tractem l’imaginari femení tecnològic parlem de ciberfeminisme. Els ciberfeminismes plantegen que allò personal és hiperpolític -i no només polític, com deien els feminismes de la segona onada- entenent la hiperpolítica com una ampliació d&#8217;allò polític a través de la seva extensió al món virtual. Totes les lluites feministes que es duen a terme a través de la xarxa tenen a veure amb el ciberfeminisme o allò que s’ha denominat tecnofeminisme. El llibre va de Venus Matrix, un grup d’artistes australianes sorgit als noranta, fins als textos xenofeministes del 2019. Algunes treballen des del ciberactivisme i les xarxes de dones del ciberespai, mentre altres treballen des de la idea de la representació de la dona en l’imaginari científic i tecnològic cultural i els estereotips que s’hi repeteixen i que reforcen la desigualtat de gènere.</p>
+
+
+
+<p><strong>Estem veient la quasi monopolització dels codis estètics per part de lògiques mercantilistes i algunes grans empreses, i, per tant, ni els videojocs, ni les xarxes socials, ni altres espais virtuals són, generalment, feministes avui en dia.</strong></p>
+
+
+
+<p>Els estereotips no només es perpetuen en la ficció: la ficció crea la realitat. Allò que consumim és allò que naturalitzem com a normatiu i com a real. Per això és important analitzar la representació femenina al cinema i la literatura del passat: per a entendre com s&#8217;ha construït una realitat que es continua perpetuant. El que passa és que interioritzem aquests rols i discursos en la mesura que els veiem. Al món virtual de&nbsp;<em>Second&nbsp;Life</em>, tots els avatars tenen uns cossos impressionants. Allà tothom pot tenir el físic que sempre ha volgut. Però el gust i l&#8217;estètica deriven de la cultura, i si&nbsp;continuem educant-nos en els mateixos models, res canviarà. Si no plantegem alternatives, no podem imaginar-nos altres possibilitats. I és en la imaginació poètica i l&#8217;espai simbòlic on es plantegen aquestes altres opcions. Per això la&nbsp;ciència-ficció&nbsp;és tan interessant: perquè ens pot mostrar altres societats viables. I perquè la ficció crea o reforça la realitat. Però, compte, que també pot ser conservadora.</p>
+
+
+
+<p><strong>Sovint les distopies ens transmeten recel&nbsp;cap&nbsp;a allò que en realitat és crític o vol qüestionar el present.</strong>..</p>
+
+
+
+<p>Sí, és un dels gèneres de moda del segle XXI. Trobem una gran quantitat de distopies al teatre, a la narrativa i al cinema. I habitualment són súper conservadores. Ens diuen que el futur és pitjor, que val més quedar-nos així i conformar-nos amb allò que tenim. A través de la por, se&#8217;ns condueix cap a la immobilitat. Però també hi ha distopies interessants, aquelles que ens inciten a canviar les causes del nostre malestar. És preferible sortir de l&#8217;habitual discurs distòpic per plantejar-nos alternatives socials, solidàries, de gènere, de sexualitat&#8230; I, això, avui, l&#8217;única narrativa que ho fa possible és la&nbsp;ciència-ficció.</p>
+
+
+
+<p><strong>Ha de ser aquesta una de les missions de la ciència-ficció? A <em>Ciberfeminismo</em> es planteja que l’art té més potència deconstructiva que la teoria perquè aquesta última està més afectada pels codis i estructures científic-tecnològiques.</strong></p>
+
+
+
+<p>Quasi totes les filòsofes i els filòsofs contemporanis utilitzen la&nbsp;ciència-ficció&nbsp;en els seus textos.&nbsp;Braidotti,&nbsp;Haraway,&nbsp;Zizek o&nbsp;Sloterdijk, que s&#8217;adonen que no es tracta d&#8217;un gènere marginal perquè planteja qüestions, metàfores i imaginacions de la poètica de la resistència amb un contingut social i polític molt interessant. A través de la&nbsp;ciència-ficció&nbsp;es pot plantejar un món fora del patriarcat i del gènere binari i normatiu. Unes altres regles són possibles en la ficció i en el ciberespai, que era allò que plantejaven algunes&nbsp;ciberfeministes&nbsp;dels noranta. Ara bé, cal després que puguem treure aquestes qüestions al món real, ja que al final la ficció és el reflex del món i viceversa.</p>
+
+
+
+<p><strong>La tecnologia diria que és ambivalent. Per una banda, ha esdevingut un lloc on ha quallat la societat patriarcal mentre, alhora, pot tenir un paper important per a les lluites feministes. Com podem utilitzar la tecnologia per aconseguir una justícia social i de gènere, segons els últims corrents ciberfeministes?&nbsp;</strong></p>
+
+
+
+<p>La reproducció i la biotecnologia són temes que actualment treballen els col·lectius <a rel="noreferrer noopener" href="https://es.wikipedia.org/wiki/SubRosa" target="_blank">SubRosa</a> o <a rel="noreferrer noopener" href="https://laboriacuboniks.net/" target="_blank">Laboria Cuboniks</a>, i tenen molt a veure amb el posthumanisme tecnomaterialista (tot són paraulotes meravelloses!). En plena segona onada del feminisme, <a rel="noreferrer noopener" href="https://ca.wikipedia.org/wiki/Shulamith_Firestone" target="_blank">Shulamith Firestone</a> escriu la <em>Dialèctica del Sexe,</em> on parla de l’alliberament del rol reproductiu de les dones a través dels anticonceptius. Aquest fet suposa una revolució perquè de sobte les dones guanyen la capacitat de decidir si volen reproduir-se o no. Més enllà dels anticonceptius, també es posa sobre la taula la possibilitat de l’ectogènesi, que és la gestació fora de l’úter. Hi ha una antologia de ciència-ficció escrita per dones espanyoles i llatinoamericanes, <em>Proyectogénesis</em>, on només hi apareixen relats que plantegen mons on això succeeix. I, en alguns casos, no són gens encoratjadors. És clar, el problema d’aquesta tecnologia -com el de qualsevol altra- és a quins interessos respon, qui hi accedirà o quin preu tindrà. Per això els ciberfeminismes han reclamat que aquestes eines siguin sense ànim de lucre. En el marc del capitalisme monopolista, els beneficis d’una tecnologia perverteixen el seu sentit. Què passaria si l’Estat necessita més soldats o pagadors d’impostos perquè mantinguin el sistema i la reproducció humana ja no depèn de la dona? A l’Estat li interessa tenir un control sobre els úters i els cossos femenins, i per això es legisla. </p>
+
+
+
+<p><strong>Tot això ja s’ho van plantejar les primeres ciberfeministes?</strong></p>
+
+
+
+<p>Quan&nbsp;<a rel="noreferrer noopener" href="https://ca.wikipedia.org/wiki/Donna_Haraway" target="_blank">Donna&nbsp;Haraway [considerada la primera&nbsp;ciberfeminista] escriu el Manifest Cíborg</a>, l&#8217;humà entès com a cíborg, com un organisme biològic modificat per la tecnologia, esdevé un ésser <em>queer</em>. Tot i que el concepte <em>queer</em> no apareix fins més tard,&nbsp;Haraway&nbsp;l&#8217;utilitza més enllà del significat literal i el transforma en una metàfora del subjecte postmodern. Alhora, ens diu que els límits entre biologia i cultura o entre natural i artificial són borrosos. Ens diu que la biologia és un discurs científic que respon a uns certs interessos històrics de gènere, per exemple.&nbsp;Haraway&nbsp;obre un món per a l&#8217;ésser humà que interactua amb els entorns digitals i evidencia que les nostres identitats estan absolutament&nbsp;intervingudes&nbsp;per les noves tecnologies. D&#8217;alguna manera, tots som cíborgs, al marge de les pròtesis que cadascú duu al cos -vacunes, ulleres, etc. Els ciberfeminismes i el&nbsp;posthumanisme&nbsp;crític feminista sostenen que cal desplaçar l&#8217;humà com a mesura de totes les coses perquè aquesta idea és absolutament androcèntrica, antropocèntrica, patriarcal i racista, i no inclou les dones, ni els cossos amb disfuncionalitat, ni els d&#8217;altres colors de pell, ni els altres éssers vius amb els quals convivim&#8230;&nbsp;Aquest pensament té molt a veure amb la quarta onada feminista que vivim, on l&#8217;ecocrítica&nbsp;és fonamental. Cal veure com la tecnologia i la biotecnologia han vist beneficis en l&#8217;explotació de la terra i els cossos. Això preocupa molt des de l&#8217;ectogènesi, la clonació o la intervenció en la línia germinal, que consisteix&nbsp;a&nbsp;dissenyar els éssers que naixeran utilitzant la reproducció en els cossos femenins. En aquest sentit, es parla d&#8217;eugenèsia terapèutica. Però les tecnologies poden servir tant per al control com per a l&#8217;alliberament. Ara ens toca debatre quin ús donarem a la biotecnologia un cop descoberta la recepta de l&#8217;ADN que ens permet intervenir-lo i modificar-lo.</p>
+
+
+
+<p><strong>Cal veure com utilitzarem el <a rel="noreferrer noopener" href="https://www.ccma.cat/tv3/alacarta/no-pot-ser/gen-etica/video/6035499/" target="_blank">mètode d’edició genètica CRISPR</a>…</strong></p>
+
+
+
+<p>Exacte, l&#8217;edició de l&#8217;ADN suposa un canvi de paradigma. De fet, John&nbsp;Haldan, un biòleg de principis del segle XX -qui, per cert, coneixia&nbsp;Aldous&nbsp;Huxley, l&#8217;autor de la novel·la distòpica genètica Un món feliç (1932)- va treballar en les possibilitats de la biologia reproductiva&nbsp;durant els anys vint i somiava amb la possibilitat que, en un futur, l&#8217;espècie es reproduiria per ectogènesi. Sostenia que&nbsp;el 2044&nbsp;el 75-80% de la població naixeria a través d&#8217;aquest mètode i que, a més, només veurien la llum aquells éssers desitjables. Parlava d&#8217;eugenèsia, un tema que les teories darwinianes del segle XIX van posar molt de moda. Fins als&nbsp;anys seixanta, el Japó esterilitzava les persones amb Síndrome de&nbsp;Down&nbsp;o alguna deficiència sense el seu consentiment. Es tracta d&#8217;una pràctica eugenèsica que executa l&#8217;Estat sense el consentiment de les persones afectades. Avui en dia es duen a terme diverses pràctiques eugenèsiques.</p>
+
+
+
+<p><strong>A&nbsp;<em>Las&nbsp;Otras&nbsp;</em>escrius que &#8220;en els relats d&#8217;aquesta antologia no només ens trobem amb&nbsp;Galatees&nbsp;sinó també amb Pandores, un mite que m&#8217;interessa reivindicar com a metàfora per a&nbsp;analizar&nbsp;aquells textos&nbsp;en què&nbsp;es creen dones des d&#8217;una perspectiva&nbsp;patrilinial&nbsp;per a l&#8217;ús, el goig i el gaudi del plaer masculí&#8221;.</strong></p>
+
+
+
+<p>El relat de <em>Las Otras</em> de José María Merino, membre de la Reial Acadèmia Espanyola (RAE) i un dels autors de la literatura fantàstica de ciència-ficció més importants d’Espanya que ha publicat diversos textos protagonitzats per dones artificials, parla de prostíbuls i d’una societat on les fèmines virtuals estan molt sol·licitades, mentre manquen homes artificials perquè no hi ha demanda. Però va ser molt interessant veure com alguns autors dels contes de l’antologia<em> </em>defugen l’imaginari grecollatí i estereotipat de Galatees i Pandores i plantegen alternatives com fan Alberto Chimal, Naief Yehya o Lola Robles. Segons el mite, Pigmalió, el rei de Xipre, esculpeix Galatea perquè s’ha de casar i tenir descendència, però no li interessa cap dona de l’illa que regna. Perquè les considera a totes malvades i malignes. Perquè té por de l’altre, d’allò desconegut, allò que no és ell mateix. Per tant, decideix crear-se la seva pròpia muller i, tal com relata Ovidi a <em>Metamorfosis</em>, la fa a imatge seva. Aleshores, la deessa Venus infon vida a l’escultura. Galatea és la projecció del desig masculí, és la seva imatge, tal com passa amb la majoria d’actrius de Hollywood: dones que responen a la sexualitat heteronormativa per al gaudi i el plaer de l’ull masculí. Al final, Galatea és com una dona inflable que, a més, viu feliç com a esposa submisa i mare fins al final dels seus dies.</p>
+
+
+
+<p>Pandora també és una dona artificial que neix per encàrrec de Zeus amb l’objectiu de castigar <a href="https://ca.wikipedia.org/wiki/Prometeu_(mitologia)" target="_blank" rel="noreferrer noopener">Prometeu</a> per haver ajudat els homes. Per això, Zeus ordena a Hefest la creació d’alguna cosa desastrosa per a l’home. Cada déu de l’Olimp li confereix un do, mentre Hermes li infon la curiositat i la mentida. Al mateix temps, els déus omplen una capsa amb els mals de la humanitat i, Pandora, presa de la curiositat, l’obre i fugen tots els mals que corren avui per la terra, provocant també la seva mort. A mi m’interessa Pandora perquè quan parlem de dones artificials sempre es fa al·lusió a Galatea i, en canvi, mai es menciona a Pandora. En la majoria de textos com aquest, la dona -ja sigui de fang, metàl·lica, virtual o electrònica- acaba sent assassinada o destruïda, carregant-se també l’home que l’ha creada, que sovint és el pare o l’amant de l’artefacte. Ho veiem, per exemple, a <em>El hombre de arena</em> de Hoffmann. En el fons, crec que en aquests textos es penalitza la relació de l’home amb una dona artificial perquè amb ella no es pot reproduir. En la majoria d’aquests textos es parla de dones incompletes, que no tenen la regla ni poden engendrar fills. Són una joguina, un mer entreteniment.</p>
+
+
+
+<p><strong>És un enfocament que hauríem de canviar?</strong></p>
+
+
+
+<p>El posthumanisme crític es planteja una relació diferent amb la tecnologia i els éssers no humans. Desaprova l’antropolatria, la superioritat de l’ésser humà, tal com va fer Haraway al <em>Manifest de les espècies de companyia</em>. Dins el sistema capitalista, tractem malament els objectes perquè els comprem, ens els apropiem, els tirem i, després, ens en comprem uns altres. Això només fomenta el consumisme, l’esgotament dels recursos i la sobreproducció. En la ciència-ficció, la majoria d’éssers artificials són autoconscients, però se’ls tracta malament. Per això serveixen com una metàfora de l’altre i la diversitat. I, al final, el que es penalitza és això: la relació amb algú que no és igual.&nbsp;</p>
+
+
+
+<p><strong>Per què hi ha encara tan poques tecnòlogues dones amb relació als homes? </strong><a href="/2020/02/11/mhan-arribat-a-dir-que-som-massa-guapa-per-ser-informatica/"><strong>A la UIB, les dones no arriben al 8,5% del total de matriculats a Enginyeria Informàtica a la Universitat de les Illes Balears i representen com a màxim el 18% dels treballadors amb perfil tècnic del sector digital</strong></a><strong>. Què cal fer per empènyer les dones a intervenir-hi, tenint en compte que la tecnologia tindrà un pes tan gran en la fabricació del futur?</strong></p>
+
+
+
+<p>És una qüestió de cultura i educació. Jo, que sóc professora de lletres, pràcticament només tinc dones. I a la carrera de Magisteri potser hi ha dos homes. Per això hem de construir imaginaris on les dones facin ciència i tecnologia, i amb això la ficció té un paper fonamental. Quantes pel·lícules has vist protagonitzades per una dona <em>hacker</em>? Si de petita ja et relaciones de manera natural amb la tecnologia, de gran escolliràs la carrera que vulguis. Però mentre els missatges que arriben a les nenes siguin que han d’estar boniques, dedicar-se a la criança i ser mestres… Per a generar nous discursos s’ha de fer resistència… però clar, quina resistència pot fer una adolescent de disset anys, si tot just comença a formar-se la seva consciència política? Quantes pensadores has llegit durant la carrera de Filosofia?</p>
+
+
+
+<p><strong>Doncs molt poques, la veritat.&nbsp;Hannah&nbsp;Arendt i poques més. Cap de les que ha esmentat aquí. D&#8217;homes, un munt.</strong></p>
+
+
+
+<p>Pràcticament, tots. Tenim un problema, i és com s’ensenya la Història. Porten tota la vida dient-me que no hi ha autores de ciència-ficció i és mentida. La primera novel·la del gènere és <em>Frankenstein</em> (1818) de Mary Shelley. De fet, la primera ginotopia [utopia on només apareixen personatges femenins] l’escriu <a rel="noreferrer noopener" href="https://ca.wikipedia.org/wiki/Llibre_de_la_ciutat_de_les_dames" target="_blank">Christine de Pisan el 1405</a> que, considerada la primera escriptora professional de la història d’Occident, imagina un món poblat només per dones que poden educar-se, escriure i cultivar-se. Allò cert és que li va costar molt viure en un món d’homes i no van parar de dir-li que mancava de capacitat intel·lectual. Quan estudiem Història de la literatura sembla que al segle XVIII no hi havia escriptores. Hi eren, però s’han invisibilitzat. Del ciberfeminisme he après que cal recompondre la Història de la ciència i la tecnologia tenint en compte la participació de les dones. No sabem què feien les dones del passat? Doncs investiguem-ho. Tothom coneix <em>Utopia</em> (1516) de Thomas More o <em>La ciutat del sol</em> (1602) de Campanella; però pocs coneixen <em>The Blazing World</em> (1666), una utopia fascinant de l’anglesa Margaret Cavendish on, a més, hi apareix una perspectiva ecocrítica molt interessant. </p>
+
+
+
+<p><strong>A la&nbsp;ciència-ficció&nbsp;també veiem allò que&nbsp;Barbara&nbsp;Creed&nbsp;defineix com&nbsp;la síndrome&nbsp;del femení monstruós. Per exemple, tal com comenta Rosi&nbsp;Braidotti, a la pel·lícula <em>Alien</em> l&#8217;ordinador principal que controla la nau es diu Mare i és molt malvada amb la protagonista.&nbsp;<em>Las&nbsp;Otras</em>&nbsp;vol combatre també aquesta idea?</strong></p>
+
+
+
+<p>La teòrica&nbsp;Rosi&nbsp;Braidotti amb la seva filosofia del&nbsp;posthumanisme&nbsp;crític feminista es presenta com&nbsp;a antihumanista. La seva posició vol fer-nos veure que hi ha alternatives a l&#8217;humanisme occidental imperialista, capitalista, blanc, occidental i heteronormatiu, per la qual cosa el&nbsp;posthumanisme&nbsp;ens ofereix altres maneres de relacionar-nos entre els éssers humans, amb el planeta que habitem i amb altres éssers vius i&nbsp;tecnològics. No és que&nbsp;Braidotti&nbsp;no cregui en la humanitat, sinó que aposta per una altra idea de l&#8217;humà més igualitària, justa i sostenible.<br>A l&#8217;antologia de <em>Las Otras</em> hi ha relats que defensen la subjectivitat&nbsp;posthumana, però també hi ha monstruositats femenines que simbolitzen i reforcen el patriarcat al costat d&#8217;unes altres que el subverteixen. La tradició literària i cinematogràfica està plagada d&#8217;aquesta mena de monstres femenins. Sense anar més lluny, l&#8217;exemple d&#8217;<em>Alien</em> també pot llegir-se com una crítica&nbsp;a la&nbsp;maternitat&nbsp;obligatòria. Si&nbsp;tens&nbsp;la&nbsp;bestiola&nbsp;al&nbsp;ventre, has de parir&nbsp;vulguis&nbsp;o no.  Cal tenir en compte que la pel·lícula s&#8217;estrena als anys setanta, durant la segona onada feminista, quan precisament es comença a reivindicar el dret a l&#8217;avortament.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1601</post-id>	</item>
+		<item>
+		<title>Com aprenen les màquines?</title>
+		<link>/2020/09/08/com-aprenen-les-maquines/</link>
+		
+		<dc:creator><![CDATA[Termcat]]></dc:creator>
+		<pubDate>Tue, 08 Sep 2020 11:31:15 +0000</pubDate>
+				<category><![CDATA[Tecnologia en català]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[Aprenentatge Automàtic]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Català]]></category>
+		<category><![CDATA[Cercaterm]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[IA]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Termcat]]></category>
+		<guid isPermaLink="false">/?p=1586</guid>
+
+					<description><![CDATA[Sobre els termes &#8216;intel·ligència artificial&#8217; i &#8216;aprenentatge automàtic&#8217; La intel·ligència artificial és una branca de la informàtica aplicada al desenvolupament de màquines amb capacitat de&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Sobre els termes &#8216;intel·ligència artificial&#8217; i &#8216;aprenentatge automàtic&#8217;</h2>
+
+
+
+<p>La <a rel="noreferrer noopener" href="https://www.termcat.cat/ca/cercaterm/fitxa/Njc0NDky" target="_blank"><strong>intel·ligència artificial</strong></a> és una branca de la informàtica aplicada al desenvolupament de màquines amb capacitat de simular conductes humanes o d’aproximar-s’hi, com ara el raonament, l&#8217;aprenentatge, el processament i la interpretació d&#8217;estímuls sensorials.&nbsp; Així, es dedica al desenvolupament d&#8217;algorismes que permeten a un ordinador percebre el seu entorn lògic i prendre decisions amb la mínima intervenció humana, per maximitzar les seves possibilitats d&#8217;èxit en una o més tasques.</p>
+
+
+
+<p>Tot i remuntar-se a la dècada dels anys 50, la intel·ligència artificial està més d’actualitat que mai per les aplicacions que tècniques com el <a href="/2019/12/13/una-tecnologia-que-avanca-malgrat-els-emperons/">reconeixement de veu i d’imatge</a>, la traducció automàtica o la mateixa predicció de paraules tenen en l’àmbit de la comunicació entre els humans i les màquines.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="hQ7z2qwpjr"><a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">Intel·ligència Artificial: dilemes ètics del 2020</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Intel·ligència Artificial: dilemes ètics del 2020&#8221; &#8212; La Tecnòloga" src="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/embed/#?secret=hQ7z2qwpjr" data-secret="hQ7z2qwpjr" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p>En aquest àmbit, és rellevant&nbsp;el procés de l’<a rel="noreferrer noopener" href="https://www.termcat.cat/ca/cercaterm/fitxa/MzcwMTQyMA%3D%3D" target="_blank"><strong>aprenentatge automàtic</strong></a><strong>&nbsp;</strong>(en anglès,&nbsp;<em>machine learning</em>) dedicat a l&#8217;anàlisi, el disseny i el desenvolupament d&#8217;algorismes i tècniques que permeten que les màquines evolucionin, millorant el seu comportament a partir de l&#8217;estudi d&#8217;observacions o de les experiències pròpies.</p>
+
+
+
+<p>En l’aprenentatge automàtic els dispositius treballen sobre grans volums de dades, hi identifiquen patrons de comportament i, sobre aquesta base, prediuen i suggereixen comportaments futurs. Aquesta possibilitat d’aplicar automàticament càlculs matemàtics complexos a <a rel="noreferrer noopener" href="https://www.termcat.cat/ca/cercaterm/fitxa/MzU0NTMwNw%3D%3D" target="_blank"><strong>dades massives</strong></a> (<em>big data</em>, en anglès) és un assoliment relativament recent que amplia el camp d’intervenció d’aquesta tècnica.&nbsp;</p>
+
+
+
+<p>Per exemple, la indústria financera l’utilitza per detectar oportunitats d’inversió i fer vigilància del frau. Els governs, per explotar les múltiples fonts de dades disponibles. La indústria de la salut ha desplegat dispositius i sensors que avaluen constants d’un pacient en temps real, i porten a la millora de diagnòstics i tractaments. I la indústria del màrqueting i les vendes, per analitzar historials de compra.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="gath1nzlhJ"><a href="/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/">“A CoronaWhy s’obren per a les Dades Massives nous horitzons en la recerca mèdica”</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;“A CoronaWhy s’obren per a les Dades Massives nous horitzons en la recerca mèdica”&#8221; &#8212; La Tecnòloga" src="/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/embed/#?secret=gath1nzlhJ" data-secret="gath1nzlhJ" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p>I anant a un terreny més pràctic, són exemples concrets d’aplicació de l’aprenentatge automàtic la conducció autònoma que anuncia Google, les recomanacions en línia que ens fan Amazon o Netflix, a partir de l’anàlisi dels nostres patrons de comportament, o les alertes per detecció de fraus en ciberseguretat.&nbsp;</p>
+
+
+
+<p>Podeu consultar al <a rel="noreferrer noopener" href="https://www.termcat.cat/ca/cercaterm" target="_blank">Cercaterm</a>, &nbsp;el cercador terminològic del TERMCAT, les fitxes d’aquests termes catalans, i també trobareu al&nbsp; <a rel="noreferrer noopener" href="https://tic.termcat.cat/ca" target="_blank">canal Terminologia de les TIC</a>&nbsp; altres recursos d’aquest àmbit.&nbsp;</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-white-background-color has-white-color is-style-dots"/>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-medium is-resized"><a href="https://www.termcat.cat/en/cercaterm" target="_blank" rel="noopener noreferrer"><img loading="lazy" src="/wp-content/uploads/2020/09/Logo_TERMCAT_Color-300x75.png" alt="Termcat" class="wp-image-1588" width="300" height="75" srcset="/wp-content/uploads/2020/09/Logo_TERMCAT_Color-300x75.png 300w, /wp-content/uploads/2020/09/Logo_TERMCAT_Color.png 620w" sizes="(max-width: 300px) 100vw, 300px" /></a></figure></div>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1586</post-id>	</item>
+		<item>
+		<title>Art i robots</title>
+		<link>/2020/08/10/art-i-robots/</link>
+		
+		<dc:creator><![CDATA[Peter Suechting]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2020 16:26:09 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Art]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Deepfakes]]></category>
+		<category><![CDATA[Destacat]]></category>
+		<category><![CDATA[Falsificacions]]></category>
+		<category><![CDATA[GAN]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[Xarxes Generatives Antagòniques]]></category>
+		<guid isPermaLink="false">/?p=1554</guid>
+
+					<description><![CDATA[Durant els darrers dos anys, investigadors del Laboratori de Dades per a la Intel·ligència Artificial (Data-to-AI Lab) de l’Institut Tecnològic de Massachusetts (MIT) ha estat experimentant amb GANs per resoldre un grapat de problemes socialment rellevants, que van des de transmetre -i detectar- missatges secrets i protegir vídeos amb una marca d’aigua fins a identificar anomalies i preservar la privacitat. Al DAI Lab li complau compartir alguns dels seus projectes més engrescadors amb les comunitats de l’aprenentatge automàtic i la ciència de dades amb l’esperança de generar debat i col·laboració. ]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">Foto: Retrat de Belamy. Imatge cortesia de <a href="https://art.art/blog/christies-first-ai-artwork">Christie’s</a>.</p>
+
+
+
+<p><em>Nota dels editors:</em> <em>Aquest article és el primer d&#8217;una sèrie que ha impulsat el Laboratori de Dades per a la Intel·ligència Artificial (Data-to-AI Lab) de l’Institut Tecnològic de Massachusetts (MIT), amb qui La Tecnòloga col·labora, i que vol generar debat i cooperació en les comunitats de l’aprenentatge automàtic (machine learning) i la ciència de dades.</em> <em>Podeu llegir l&#8217;article original en <a rel="noreferrer noopener" href="https://medium.com/mit-data-to-ai-lab/art-robots-661b7ad86411" target="_blank">aquest enllaç</a>.</em> <em>Traducció d&#8217;Anna Schnabel.</em></p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<h2>Sobre les Xarxes Generatives Antagòniques i el seu potencial creatiu</h2>
+
+
+
+<p>Les estimacions inicials del valor del retrat <a rel="noreferrer noopener" href="https://www.christies.com/Lotfinder/lot_details.aspx?hdnSaleID=27814&amp;LN=363&amp;intsaleid=27814&amp;sid=41bfe836-b0c1-4afa-9298-09cc909345ee" target="_blank">Edmond de Belamy</a> van situar el seu preu entre els 7.000 i els 10.000 dòlars. En realitat, la pintura en si no és res de l’altre món. Pinzellades barroeres de color marró, negre, blanc i gris esbossen un home més aviat desdibuixat mirant lúgubrement i confusa fora del quadre. Però el 25 d’octubre de 2018, quan va tornar la calma a la casa de subhastes Christie’s, a Nova York, <a rel="noreferrer noopener" href="https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans" target="_blank">el retrat s’havia venut per 432.500 dòlars</a>.&nbsp;</p>
+
+
+
+<h3><strong>L’art d’artificial&nbsp;</strong></h3>
+
+
+
+<p>Què va provocar el frenesí per apostar per part dels participants presents aquella tarda a la sala de subhastes? El fet que la tela havia estat ‘pintada’ per una màquina. La <a rel="noreferrer noopener" href="https://obvious-art.com/gallery-obvious/" target="_blank">sèrie de retrats de Belamy</a> és obra d’<a rel="noreferrer noopener" href="http://obvious-art.com/" target="_blank"><em>Obvious</em></a>, un grup de tres artistes i programadors francesos que produïren la peça utilitzant <a rel="noreferrer noopener" href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/" target="_blank">Xarxes Generatives Antagòniques</a>, o GANs, a partir d’un conjunt de dades de 15.000 retrats europeus¹. El resultat? Onze obres úniques, incloent-hi el retrat Edmond de Belamy, amb trets característics de les obres que van nodrir i entrenar el model.</p>
+
+
+
+<p>El projecte atribueix potencialment a l&#8217;art produït per intel·ligència artificial (AI) el mateix mèrit que a l&#8217;art fruit de la mà humana. Al cap i a la fi, el que els d&#8217;<em>Obvious</em> van fer és imprimir el resultat de l&#8217;algorisme que els va agradar més amb una impressora d’injecció i, posteriorment, van posar-hi un marc daurat i van signar l&#8217;obra amb un fragment del codi de l’algorisme. Res té d’especial l’objecte en si mateix; es podria imprimir i emmarcar un miler de vegades més. Així doncs, la guerra d&#8217;ofertes per aconseguir el retrat de Belamy sembla respondre més aviat a la voluntat de fer-se amb una peça clau de la història contemporània: el moment en què les màquines esdevenen artistes.</p>
+
+
+
+<p>Les màquines creen, però poden ser creatives? Aquesta és la pregunta que fa sorgir l’aparició dels GANs. Per a programadors com els d’<em>Obvious</em>, els GANs poden convertir-se en una eina molt poderosa a l&#8217;hora de prendre part en el debat sobre l’autenticitat. Com a tal, el projecte de Belamy és només un fragment d’un debat molt més ampli al voltant de la definició de la creativitat i sobre si els humans poden encara considerar-se els seus practicants exclusius.</p>
+
+
+
+<h3><strong>Fallar és generatiu</strong></h3>
+
+
+
+<p>Des de la seva concepció dins de la ment d’Ian Goodfellow, els GANs s’han aplicat a una gran varietat de tasques ‘creatives’. D’acord amb <a href="https://arxiv.org/pdf/1406.2661.pdf">l&#8217;article de Goodfellow et. al. del 2014</a>, les Xarxes Generatives Antagòniques entrenen dos models -un generador i un discriminador- al mateix temps. Un conjunt de dades original (imatges, text, etc.) es presenta als dos algorismes, cadascun dels quals separa les dades i avalua com es relacionen els seus components entre ells. Aquesta és una aplicació típica d’una xarxa neuronal. Però el que ve a continuació és la clau del procés. La mitologia del moment dibuixa a Goodfellow plantejant-se una pregunta: &#8220;què passaria si les xarxes neuronals poguessin competir entre elles?&#8221;</p>
+
+
+
+<p>Dins dels GANs, el concepte de les xarxes antagòniques està vinculat a una operació anomenada &#8216;retropropagació&#8217;, que és un component crític del procés d’aprenentatge. Així, la wiki de Skymind.AI compara:</p>
+
+
+
+<p><em>“&#8230; una xarxa neuronal amb una gran peça d’artilleria que intenta colpejar un objecte llunyà amb un projectil. Quan la xarxa neuronal fa una suposició sobre un punt de les dades, dispara, un núvol de pols emergeix a l’horitzó, i el tirador intenta esbrinar on impacta el projectil i la distància que la separa de l’objectiu. I aquesta distància és la mesura de l’error. La mesura de l’error és aleshores aplicada a l’angle i la direcció de l’arma, abans que dispari de nou. La retropropagació pren l’error associat amb una suposició incorrecta d’una xarxa neuronal, i utilitza aquest error per ajustar els paràmetres de la xarxa neuronal en la direcció en què es redueix l&#8217;error”.&nbsp;</em></p>
+
+
+
+<p>En aquest sentit, la retropropagació és similar a la cognició humana. Un operador d’artilleria, disparant uns quants projectils per provar i refinar la seva punteria abans de fer diana, aprèn què funciona i què necessita ajustar i automàticament fa aquests canvis cada cop que dispara. Però així com l’operador ha de confiar en els propis ulls per comprovar el seu grau d’èxit o fracàs, els GANs tenen un algorisme discriminador que indica si el simulacre és discerniblement fals o no. A més a més, una màquina pot disparar milers de trets en el mateix temps en què un humà dispara un sol cop. La potència iterativa de càlcul de la màquina permet, doncs, que ambdues xarxes coevolucionin ràpidament.</p>
+
+
+
+<p>En resum, la retropropagació crea un entorn en el qual un algorisme generador s’entrena de manera ràpida i eficaç competint contra un algorisme discriminador. L’algorisme generador no té límits pel que fa a les habilitats que pot assolir amb relació al discriminador. A través d’aquest procés, la falsificació s’acosta asimptòticament a la realitat fins al punt que distingir entre els dos deixa de ser possible, fins i tot per a les màquines. Així, després de l’entrenament apropiat, l’algorisme generador esdevé capaç de produir simulacres que poden enganyar l’ull digital del discriminador i, conseqüentment, l’ull humà observant el resultat.</p>
+
+
+
+<h3><strong>Remesclant la realitat</strong></h3>
+
+
+
+<p>Hi ha nombrosos exemples d’eines basades en GANs en els últims anys, que van des de les populars i depredadores aplicacions per a crear <a href="https://www.bbc.com/news/technology-42912529">deepfakes</a> fins a d’altres més il·lustrades com el <a href="https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html">DeepDream</a>, eines basades en GANs per generar inquietants imatges al·lucinògenes a partir de fotografies reals. <a href="https://magenta.tensorflow.org/">Project Magenta</a>, un grup d’investigadors afiliats a Google, desenvolupen i acullen una llibreria d’eines basades en GANs per augmentar la producció de música digital, proporcionant una altra aplicació fascinant per a la manipulació i la millora del so. (Podeu escoltar els resultats de la col·laboració entre Magenta i el grup musical de Los Angeles YACHT a l’àlbum que llançaren el setembre del 2019 <a href="https://magenta.tensorflow.org/chain-tripping">aquí</a>. I a sota hi trobareu un exemple d’interpolació de vídeo utilitzant eines basades en GANs per a projectar cossos en moviment, <a href="https://arxiv.org/pdf/1808.07371.pdf">presentat en un article recent de Caroline Chan</a>.)</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Everybody Dance Now" width="1160" height="653" src="https://www.youtube.com/embed/mSaIrz8lM1U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Però no creguem que els investigadors en IA inverteixen el seu temps en deixar sense feina a artistes ja famolencs, perquè aquestes aplicacions artístiques encara no estan preparades per competir amb els grans mestres. Continuen sent eines per ser emprades pels humans en àmbits molt diversos i en diferents graus d’utilitat. Això sí, a banda d’aplicacions artístiques, les eines basades en GANs estan fent ruta cap a altres reialmes, un tema que s’explorarà en una altra publicació.&nbsp;</p>
+
+
+
+<p><em>Durant els darrers dos anys, investigadors del Laboratori de Dades per a la Intel·ligència Artificial (Data-to-AI Lab) de l’Institut Tecnològic de Massachusetts (MIT) ha estat experimentant amb GANs per resoldre un grapat de problemes socialment rellevants, que van des de transmetre -i detectar- missatges secrets i protegir vídeos amb una marca d’aigua fins a identificar anomalies i preservar la privacitat. Al DAI Lab li complau compartir alguns dels seus projectes més engrescadors amb les comunitats de l’aprenentatge automàtic i la ciència de dades amb l’esperança de generar debat i col·laboració. Amb aquesta intenció, aquest article és el primer d’una sèrie de publicacions sobre els projectes de xarxes generatives antagòniques del laboratori per a incloure mostres de la nostra feina, tutorials, comentaris i llibreries de codi obert. Planegem publicar aquests articles cada dues setmanes, alternant-los amb una sèrie de tutorials dedicats a varis dels nostres últims projectes relacionats amb GANs. Torneu aviat a la nostra pàgina de Medium i seguiu-nos a Twitter.</em></p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">A commentary on GANs by Peter Suechting. With this article, we are launching a multipart bi-weekly series on the lab’s GAN-related projects, to include demonstrations of our work, tutorials, commentary essays, and open-source libraries.  <a href="https://t.co/sLICz5FA3a">https://t.co/sLICz5FA3a</a></p>&mdash; MIT &#8211; Data to AI Lab (@lab_dai) <a href="https://twitter.com/lab_dai/status/1291043188052918278?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>[1]: El debat persisteix sobre l’origen del codi que <em>Obvious</em> va utilitzar per produir el retrat de Belamy. El programador Robbie Barat, artista d&#8217;IA no afiliat a <em>Obvious</em>, és responsable, segons algunes fonts, del 90% del codi utilitzat en el projecte, tot i que originalment havia publicat el codi sota la llicència <a href="https://creativecommons.org/">creative commons</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1554</post-id>	</item>
+		<item>
+		<title>Xnet denuncia que Educació esquiva l&#8217;acord contra la &#8216;googleització&#8217; de les aules catalanes</title>
+		<link>/2020/07/29/xnet-denuncia-que-educacio-esquiva-lacord-contra-la-googleitzacio-de-les-aules-catalanes/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2020 17:48:40 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Suite]]></category>
+		<category><![CDATA[Xnet]]></category>
+		<guid isPermaLink="false">/?p=1537</guid>
+
+					<description><![CDATA[L&#8217;acord per buscar una alternativa al paquet d&#8217;aplicacions de Google Suite a les aules que va signar el juny el Departament d&#8217;Educació de la Generalitat&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>L&#8217;acord per buscar una alternativa al paquet d&#8217;aplicacions de Google Suite a les aules que va signar el juny el Departament d&#8217;Educació de la Generalitat amb la plataforma d&#8217;activistes Xnet pot haver quedat en paper mullat. Així ho ha denunciat aquest dimecres el col·lectiu defensor dels drets digitals <a rel="noreferrer noopener" href="https://xnet-x.net/digitalizacion-democratica-centros-educativos-cataluna/" target="_blank">en un comunicat</a>: segons Xnet, el nou pla de digitalització no inclou el compromís de revisar el programari i els servidors dels centres educatius catalans i no mostra cap intenció de buscar una alternativa al gegant Google, que al febrer va ser acusat per la Fiscalia de Nou Mèxic (EEUU) de recopilar dades dels alumnes de manera il·legal.  La preocupació és si la multinacional estaria accedint a un mercat de dades personals -com les capacitats intel·lectuals o els fracassos escolars de cada alumne, per posar-ne alguns exemples- dels menors. </p>
+
+
+
+<p>El &#8216;<a rel="noreferrer noopener" href="https://xnet-x.net/privacidad-datos-digitalizacion-democratica-educacion-sin-google/" target="_blank">Pla per a la digitalització democràtica dels centres educatius</a>&#8216; és, d&#8217;acord amb Xnet, el resultat d&#8217;un any de converses amb el Departament d&#8217;Educació amb l&#8217;objectiu d&#8217;impulsar una digitalització democràtica de les escoles. La proposta reclama que la comunitat educativa tingui el control de les pròpies dades, que la privacitat quedi garantida, que s&#8217;impulsi la capacitació digital puntera i l&#8217;ús de programari lliure. A diferència de les eines de Microsoft i Google, el programari lliure, a més de ser gratuït, permet a la comunitat de programadors accedir al codi font per tal d&#8217;auditar quines dades s&#8217;emmagatzemen, l&#8217;ús que se&#8217;n fa d&#8217;aquestes i si existeixen riscos de privacitat o seguretat per als estudiants.</p>
+
+
+
+<p>&#8220;Hem de denunciar una submissió innecessària a les pressions corporatives tant dels qui volen afavorir el monocultiu de multinacionals com Google i el seu <em>G Suite for Education</em>, com dels qui tenen interessos clientelars amb els diversos Departaments i volen impedir la diversitat i una digitalització que permeti florir més innovació a Catalunya i més llocs de feina que no depenguin del seu control&#8221;, diu Xnet al comunicat, on expliquen que compten amb el suport de la <a rel="noreferrer noopener" href="https://fapac.cat/" target="_blank">FaPaC</a>&nbsp;(Federació d’Associacions de Mares i Pares d’Alumnes de Catalunya),  l&#8217;<a rel="noreferrer noopener" href="https://www.sindicat.net/" target="_blank">USTEC</a>&nbsp;(Sindicat de treballadores i treballadors de l’ensenyament de Catalunya) i el <a rel="noreferrer noopener" href="https://www.sepc.cat/" target="_blank">SEPC</a>&nbsp;(Sindicat d’Estudiants dels Països Catalans).</p>
+
+
+
+<p>Xnet i<a rel="noreferrer noopener" href="https://maadix.net/es" target="_blank"> Maadix</a> -companyia especialitzada en solucions de codi obert, la privacitat de les comunicacions i la seguretat de les dades per a persones sense coneixements tècnics- van plantejar una sèrie d&#8217;aplicacions adaptades a les necessitats de la comunitat educativa auditables i de codi lliure i obert. La idea del col·lectiu és &#8220;<a rel="noreferrer noopener" href="https://xnet-x.net/privacidad-datos-digitalizacion-democratica-educacion-sin-google/" target="_blank">crear un cercle virtuós</a>&#8221; actualitzant i adaptant aquestes eines, algunes de les quals poc àgils i insuficients, per tal d&#8217;afavorir eines més ètiques i transparents que G Suite. Així mateix, el Pla, que segons Xnet, només l&#8217;1% del pressupost anunciat per Educació per a la digitalització, proposa capacitar les empreses catalanes per donar resposta a les necessitats educatives sense haver de recórrer a multinacionals poc respectuoses amb la privacitat. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1537</post-id>	</item>
+		<item>
+		<title>Apunts per a una ètica de la tecnologia</title>
+		<link>/2020/07/17/apunts-etica-de-la-tecnologia-luis-montero/</link>
+					<comments>/2020/07/17/apunts-etica-de-la-tecnologia-luis-montero/#comments</comments>
+		
+		<dc:creator><![CDATA[Luis Montero]]></dc:creator>
+		<pubDate>Fri, 17 Jul 2020 16:41:47 +0000</pubDate>
+				<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Disseny]]></category>
+		<category><![CDATA[El Diseño de nosotros mismos]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Tecnologia]]></category>
+		<guid isPermaLink="false">/?p=1481</guid>
+
+					<description><![CDATA[El canal de Filosofia i Disseny de Telegram va néixer com un quadern de notes on apuntar les nocions bàsiques sobre les quals havia de girar el curs d’introducció a la filosofia del disseny, El disseny de nosaltres mateixos, la primera edició del qual s’anava a impartir l’octubre del 2019. Però se’m en va anar de les mans.]]></description>
+										<content:encoded><![CDATA[
+<p style="font-size:14px" class="has-text-color has-medium-gray-color">Peu de foto: La &#8216;màquina humana&#8217;, de la pel·lícula <em>Metropolis</em> (1927), va ser el primer robot representat al cinema, dut a la &#8216;vida&#8217; per l&#8217;actriu Brigitte Helm.&nbsp;</p>
+
+
+
+<p>El canal de <a rel="noreferrer noopener" href="https://t.me/filosofiaydiseno" target="_blank">Filosofia i Disseny de Telegram</a> va néixer com un quadern de notes on apuntar les nocions bàsiques sobre les quals havia de girar el curs d&#8217;introducció a la filosofia del disseny, <em>El disseny de nosaltres mateixos</em>, la primera edició del qual s&#8217;anava a impartir l&#8217;octubre del 2019. Però se&#8217;m en va anar de les mans. Les meres notes van convertir-se en llavors d&#8217;on van florir arguments filosòfics al voltant del disseny. I aquests arguments van empeltar-se els uns amb als altres fins a unir-se en un mateix tronc: allò que va començar en forma de meres anotacions a rajaploma havia acabat constituint l&#8217;eix central d&#8217;una lectura filosòfica del disseny. Havia nascut el llibre homònim <em>El diseño de nosotros mismos. Una lectura filosòfica del disseny </em>(Experimenta Libros). Un tractat que intenta traçar ponts entre dues disciplines que tradicionalment s&#8217;han donat l&#8217;esquena, quan no s&#8217;han menyspreat. Una escletxa que calia superar. Que era urgent superar. Perquè la filosofia compta amb una llarga tradició d&#8217;eines analítiques que ens permeten un millor enteniment del disseny, la seva pràctica i el seu resultat. I perquè el disseny trenca amb molts postulats filosòfics previs que es consideraven inamovibles i, si alguna cosa il·lumina la filosofia, és el qüestionament.</p>
+
+
+
+<p>Aquestes notes són el record d&#8217;un viatge d&#8217;anar i tornar. Un viatge que parteix de la tecnologia i el seu ús per acabar en la tecnologia i la seva expressió, el disseny. I tornar una altra vegada. I una altra vegada. I una altra… Aquestes notes que aquí apareixen publicades s&#8217;obren també a la crítica de la tecnologia, atès que el disseny és inintel·ligible sense ella. De manera que s&#8217;ajusten millor a l&#8217;audiència de <em>La&nbsp;Tecnòloga</em>, a qui m&#8217;agradaria agrair els seus esforços i ànims incansables per a la seva publicació. De fet, al canal de Telegram s&#8217;entén el disseny com l&#8217;expressió de la tecnologia, entre altres coses. I és que el disseny sense tecnologia deixa de ser-ho per ser una altra cosa, un mal record de l&#8217;artesania. Així que allí es parla ara molt sobre tecnologia. És el viatge de tornada…</p>
+
+
+
+<p>Un viatge de tornada també a una antiga passió meva, l&#8217;ètica. Perquè en aquesta selecció que es presenta ara apareixen algunes anotacions sobre els avanços de la&nbsp;intel·ligència artificial (IA), la biotecnologia, el reconeixement facial… i com aquestes tecnologies estan començant a despertar fantasmes ètics que crèiem superats. I, el més interessant, és que es proposa una solució.</p>
+
+
+
+<p>Una altra cosa és que ningú en faci cas.</p>
+
+
+
+<hr class="wp-block-separator has-text-color has-background has-accent-background-color has-accent-color is-style-dots"/>
+
+
+
+<p class="has-small-font-size">Sobre l&#8217;autor:</p>
+
+
+
+<p class="has-small-font-size">Luis Montero va néixer el 65. Va estudiar Filosofia a la UNED i Publicitat a la Complutense. Ha estat guia turístic, creatiu publicitari i consultor estratègic. Ha viscut a Madrid, Nova York, Londres, Frankfurt, Marràqueix, Benarés i ara a Palma. Ha escrit les novel·les de ciència-ficció <em>Artrópodos</em>, <em>Feliz Año Nuevo</em> i <em>Clon</em> i els assajos sobre ontotecnologia <em>Mundo-hecho</em> i <a href="/2020/05/23/una-antropologia-del-futur/"><em>Dejad que las máquinas vengan a mí</em></a>. D&#8217;aquí a dues setmanes apareix <em>El diseño de nosotros mismos</em>. Una lectura filosòfica del disseny. Llibre que complementa i aprofundeix en algunes de les notes aquí publicades. A més ha publicat en diversos mitjans, <em>La Tecnòloga</em> entre ells, on va aparèixer el diàleg <a href="/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/">D&#8217;humans, màquines i altres éssers que senten</a>. Últimament procura gaudir de la vida i anar amb bicicleta.</p>
+
+
+
+<p class="has-text-align-center">Podeu llegir aquest <a href="/apuntes-etica-de-la-tecnologia-luis-montero/">article en versió original (castellà) en aquest enllaç</a>.</p>
+
+
+
+<div class="wp-block-group has-accent-color has-text-color"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator is-style-dots"/>
+</div></div>
+
+
+
+<p class="has-text-align-center has-large-font-size"><strong>Notes sobre tecnologia (sel·lecció de l&#8217;autor)</strong></p>
+
+
+
+<p>1.- La discussió sobre l&#8217;ètica de les IAs està fatal enfocada. Tot déu tem que ens matin quan el que havíem de témer és que no ens matin. Com a espècie històricament hem demostrat molt baixa tolerància als exterminis massius però altíssima a les formes de tirania que mantenen la vida, per dolentes que siguin les seves condicions.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>2.- Hi ha un fons polític efecte de la producció tecnològica de la realitat sobre el qual es demanen respostes ètiques.</p>
+
+
+
+<p>2.1.- Es pretén buscar una bona vida en un entorn polític que ignora –quan no impossibilita– aquesta bona vida (al contrari del que succeïa en, per exemple, Aristòtil, l&#8217;ètica del qual també està alçada sobre un fons polític que la sustentava i feia possible; però, potser al contrari del que passa ara, aquella política sustentava l&#8217;ètica dels qui vivien les condicions polítiques d&#8217;Aristòtil –l&#8217;home propietari i, per tant, lliure– i no de la majoria. Aquella ètica estava igual de segrestada, però l&#8217;hem&nbsp;romantitzat. Per què l&#8217;hem&nbsp;romantitzat?&nbsp;A part de l&#8217;argument d&#8217;autoritat -ei, que és Aristòtil!-, hi ha la contradicció entre aquella ètica i la política que la feia possible i la relació entre la nostra política i la impossibilitat de l&#8217;ètica). L&#8217;ètica pateix un segrest, el segrest de la política, que la redueix a la redempció personal dels actes i les seves conseqüències. La vida es redueix a cadascun dels actes, a la seva suma potser, però una suma que no té un resultat final o el resultat final del qual es limita a l&#8217;enumeració dels actes, com aquesta passada de diapositives mítica que en diuen avantsala de la mort. És una vida estreta, algebraica. De l&#8217;ètica reduïda a les conseqüències dels actes no resulta una vida bona. Una vida es compon d&#8217;actes, sí, però no només. I ni tan sols els actes han de ser el component fonamental: en aquest cas algú impedit a realitzar algun acte sigui per discapacitat o per tancament no podria qualificar-se com a capaç de viure una vida plena. Aquí el tot és major que la suma de les parts. Gairebé fins i tot es podria dir que d&#8217;aquesta reducció o segrest ni tan sols resulta una vida.</p>
+
+
+
+<p>La teleologia utilitarista és&nbsp;<em>peanuts</em>&nbsp;davant la teleologia aristotèlica. L&#8217;ètica d&#8217;aquest no tractava d&#8217;avaluar un acte concret sinó aixecar una vida.</p>
+
+
+
+<p>2.2.- Per això el problema del disseny és més polític que ètic. O dit d&#8217;una altra manera: la producció tecnològica de la realitat és una estructura política i una ètica no pot ser més que un sistema. I un sistema no pot anar a contracorrent de l&#8217;estructura que el suporta. El sistema no pot negar l&#8217;estructura que el sosté.</p>
+
+
+
+<p>2.3.- I, no obstant això, la generalitat –que no abstracció– de l&#8217;imperatiu kantià allunya tantíssim allò moral de les nostres vides, de qualsevol vida, que és impracticable per inaplicable. Si el conseqüencialisme es dissol en la immediatesa fins a perdre de vista aquest horitzó que és la vida, el kantianisme funciona si, al contrari, la vida se subjuga i dissol en aquest sistema reglat. I amb aquesta dissolució es perd la vida. També.</p>
+
+
+
+<p>De fet, i com apunto a <em>Dejad que las máquinas vengan a mí</em>, la tecnologia –i per tant el procés de producció industrial de la realitat– parteix del que allí anomeno «error metafísic» perquè tota màquina –i més les IA– és kantiana per definició: porta incrustada en si la definició del món en el qual opera, l&#8217;ontologia. Així doncs sobre aquest fons kantià es pretén pensar una ètica que possibiliti una vida bona i al mateix temps estigui subjecta a aquest teixit legiforme kantià de la tecnologia.</p>
+
+
+
+<p>2.4.- En aquest sentit de l&#8217;acceptació del polític com a substrat sobre el qual floreix –l&#8217;avui tan de moda <em>flourish</em> saxó– per ètic s&#8217;entén el ressorgir de l&#8217;anomenada ètica de les virtuts. L&#8217;ètic resideix en el caràcter del subjecte que viu privilegiat pel polític. Tal com succeïa amb Aristòtil, qui podia atribuir al caràcter –i per tant al subjecte– les virtuts morals, virtuts morals que partien d&#8217;un i revertien en un, entre altres coses perquè l&#8217;altre que també disposava de caràcter era igual que l&#8217;u, això és, estava en la mateixa situació política. Però aleshores com ara aquesta situació no sempre és compartida per tots. De fet, gairebé mai. Si bé aquestes ètiques de la virtut prenen constància dels diferents caràcters de cadascun de nosaltres suposen que tots partim d&#8217;una mateixa situació política des de la qual la distància i dificultats per a arribar a l&#8217;acte moral és el mateix.</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="31cXVZ5e1Z"><a href="/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/">Luis Montero: &#8220;Les màquines reflecteixen la nostra lògica occidental, masculina i de domini del món&#8221;</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Luis Montero: &#8220;Les màquines reflecteixen la nostra lògica occidental, masculina i de domini del món&#8221;&#8221; &#8212; La Tecnòloga" src="/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/embed/#?secret=31cXVZ5e1Z" data-secret="31cXVZ5e1Z" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p>3.- Davant les crítiques estereotipades dels perfils més conservadors al canvi en l&#8217;espai públic, abans solia dir mig de broma mig de debò que no és que ara estiguem pitjor educats, és que tenim més oportunitats de molestar. I moltes d&#8217;aquestes oportunitats són causades per objectes de disseny (altaveus sense fils, envasos portàtils, vehicles elèctrics omnipresents, etc.). Molts dels problemes que genera el disseny no són tant existencials –que requereixen solucions ètiques– com de convivència –que requereixen una reformulació d&#8217;allò que significa viure en comunitat–. L&#8217;educació en la seva accepció disciplinària, no pedagògica, se&#8217;ns ha fet gran. Cosa que no està malament i per la qual hem sospirat en innúmeres ocasions per la cosa hipòcrita que hi havia darrere de la salutació desapegada, però que ara ens enfronta a uns <em>mores</em> (sí, l&#8217;avantsala d&#8217;allò moral) que no sabem redefinir sense recaure en una moralitat de nou&nbsp;castradora. De sobte el xaval que escolta&nbsp;trap&nbsp;a tot volum a la plaça ens ha retratat a tots.</p>
+
+
+
+<p>I no ens agrada com sortim a la foto.</p>
+
+
+
+<p>3.1.- La convivència no es basava tant en el costum com en l&#8217;acceptació d&#8217;aquest costum. El disseny, gran productor d&#8217;objectes que fan fallida i inhibeixen aquesta convivència o, almenys, la qüestionen, podria produir el benèfic efecte insospitat d&#8217;obligar les comunitats a haver de negociar les pautes de convivència amb cada nou objecte que la desequilibra. Però aquí s&#8217;anticipen dos problemes: d&#8217;una banda la incapacitat de la comunitat d&#8217;articular aquestes negociacions –incapacitat que explica l&#8217;acceptació submisa al costum– i per una altra la curtíssima&nbsp;<em>shell&nbsp;life</em>&nbsp;que imposa el mercat a la producció de la realitat. Encara que el primer problema no es donés i la societat fos capaç de negociar al mateix temps que apareixen nous objectes&nbsp;desavinents&nbsp;–que amenacen la convivència–, la creixent velocitat d&#8217;aparició d&#8217;aquests objectes, que no és d&#8217;estranyar que es veiés impulsada per aquesta capacitat d&#8217;acceptació, ja que l&#8217;objecte de disseny ha de xocar per a no ser fons, aquesta creixent velocitat empenyeria a la societat cap a dos extrems, tots dos extenuants però per diferents raons. O bé la comunitat es convertiria únicament en l&#8217;espai de la negociació, una negociació eterna i accelerada donada l&#8217;aparició eterna i accelerada d&#8217;objectes que, al seu torn, es veiés impedida a acceptar aquests objectes per falta de temps, tot aquest dedicat a una esgotadora negociació. O, a l&#8217;extrem oposat, que enviés a pastar fang l&#8217;educació i, amb aquesta, la convivència.</p>
+
+
+
+<p>Que és on sembla que estem. O cap a on ens dirigim.</p>
+
+
+
+<p>3.2.- Però amb una diferència. Aquesta negació de la negociació –i per tant del canvi: no oblidem que la història de la humanitat és la història de la negociació per a l&#8217;acceptació del canvi, un canvi que ha comportat 25 segles a occident perquè acabem aquí– no part d&#8217;una decisió voluntària dels membres de la comunitat –que és l&#8217;òptim buscat quan des de la tradició es critica el costum: aquell denunciar l&#8217;educació com un sistema de control i coerció– sinó que és una condició exògena a la comunitat a la qual no sap reaccionar. A la qual no pot reaccionar. Perquè, ja se sap, sense negociació no hi ha acceptació.</p>
+
+
+
+<p>3.3.- Si Thatcher va dir «No existeix la societat, existeix l&#8217;individu», avui podríem afirmar «No existeixen societat ni individu, existeix l&#8217;objecte».</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>4.- Abunden –o comencen a abundar– els llibres de tecnòlegs i dissenyadors proposant solucions ètiques per a la tecnologia i el disseny. I a mi sempre em xoquen. I no sols perquè em sembla que la solució ètica no pot venir de la part que genera el problema, ningú té aquesta equanimitat –ni tan sols Moore quan afirmava que en tot acte hi ha un punt de vista objectiu, que és el de l&#8217;altre afectat… que és cert que n&#8217;hi ha, però pretendre que el patró moral sigui aquest és pretendre que siguem sants: no sempre puc actuar amb la mirada de l&#8217;altre, entre altres coses perquè desconec la seva mirada, és impenetrable–, sinó perquè aquests llibres de tecnòlegs i dissenyadors escrivint ètiques de tecnologia i disseny em sonen a <span class="has-inline-color has-accent-color">exercici de&nbsp;capellanets</span>. Són llibres en certa manera redemptors. Un «va, ànim, nois, que no som tan dolents, que podem fer-ho bé», potser necessari, però que té molt poc a veure amb l&#8217;ètica, té a veure amb el consol –un consol injust, perquè el tecnòleg i el dissenyador estan en un espai de poder, i no sols polític–.</p>
+
+
+
+<p>4.1.- Però no em xoquen per això, em xoquen per alguna cosa més densa. El disseny és un exercici de creació. I els discursos redemptors ho són precisament perquè tot exercici de creació és fallit. I vaig amb un exemple més gran. No&nbsp;hi ha&nbsp;creador més gran que déu, que en la seva teoria ho ha fet tot. Bé, acceptem-la per un segon i com a experiment mental. Si ho ha fet tot, per què ens ha d&#8217;enviar un redemptor (que sempre ens imposa una moral, per cert)? Perquè la creació és imperfecta i hem d&#8217;ajustar-nos a aquest patró moral per a salvar-nos. Hi ha salvació condicionada, i només condicionada. La salvació és un condicional fort, si i només si. Però per als qui no tenim moltes ganes de salvar-nos, perquè tampoc pensem que calgui salvar-nos de res, és a dir, per als qui no pertanyem al marc, aquesta salvació coercitiva en realitat no manifesta una altra cosa que la imperfecció ontològica d&#8217;allò creat i, per tant, del creador. El tecnòleg o el dissenyador ficat a la pell de l&#8217;ètic ocupa per mi aquest espai. En comptes de mirar el problema primer, el problema fonamental del disseny, intenta excusar-lo amb una ètica. Com les religions, que per salvar la creació condemnen a mitja humanitat (d&#8217;aquí el magnífic problema de les teodicees, que com a exercici són precioses, però insalvables), el tecnòleg/dissenyador-ètic, per a salvar la disciplina condemna l&#8217;honestedat intel·lectual.</p>
+
+
+
+<p>4.2.- Convé desconfiar sempre dels tractats ètics escrits a favor del P&amp;L [&#8216;<em>profit and loss</em>&#8216;; en català, pèrdues i guanys] de qui els escriu. Ja sigui de capellans explicant que bona és la catequesi per la moral o de tecnòlegs i dissenyadors explicant que bones són les pràctiques per a la consecució de l&#8217;objectiu que li demana el client.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>5.- Si la moral tingués una base biològica que depengués de la morfologia cerebral, com sí que succeeix amb la cognició (d&#8217;entrada només percebem aquells estímuls que el nostre aparell cognitiu percep com a fenòmens, que no són més que una mostra ínfima del total de possibles estímuls que produeix el món), llavors, deia, podríem disposar d&#8217;alguna cosa així com una moralitat augmentada. I no em refereixo a comptar amb una base de dades de casos resolts o no, no amb programes per a desenvolupar la lògica inherent a un arbre de decisions, per exemple, sinó a ampliar les fonts dels nostres sentiments morals més enllà de les nostres fisiologies-cossos. Poder, per exemple, participar dels sentiments morals d&#8217;un altre. Un dispositiu que te l&#8217;enganxes a l&#8217;orella, alguna cosa així com un audiòfon, que t&#8217;oferís la visió moral d&#8217;una tercera persona en una determinada situació. Alguna cosa així com aquell imperatiu d&#8217;objectivitat –davant tota decisió moral sempre hem de tenir en compte la perspectiva objectiva, exterior a nosaltres, que dictaminava Moore–, però generat per un dispositiu.</p>
+
+
+
+<p>Cosa que em fa pensar que aquest dispositiu ja existeix, és la plaça del poble. On una comunitat vivia els seus <em>mores</em> compartits.</p>
+
+
+
+<p>No feia falta tecnologia, sinó convivència.</p>
+
+
+
+<p>Però potser aquesta última sigui una sortida massa fàcil. És que la plaça pública no és una forma de tecnologia? Més enllà que sigui tecnologia o no, que és una disquisició que ara no és necessària, el que sí que és és el lloc que propicia la convivència. Arribats en aquest punt apareix la pregunta: podríem crear altres dispositius que ampliessin el registre-sentiment moral, ja fos mitjançant l&#8217;ampliació de la convivència, la seva simulació o representació, o qualsevol altra manera d&#8217;obrir-nos, de treure&#8217;ns del nostre punt de vista moral subjectiu?</p>
+
+
+
+<p>Ho acceptaríem?</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>6.- La inundació de notícies que anuncien capacitats tecnològiques miraculoses deixen poc espai per a la&nbsp;<em>scifi</em>&nbsp;especulativa més enllà de la política. I és tan aclaparador que gairebé l&#8217;única lectura possible és la distopia.</p>
+
+
+
+<p>I la distopia, la falta de relats de cels oberts i una certa esperança, ens està matant. I no, no parlo d&#8217;aquests relats prefabricats per la indústria de producció del tot, com el disseny de futurs,&nbsp;Hollywood&nbsp;o els casos d&#8217;èxit de les consultores estratègiques –que en el fons són tres formes del mateix– sinó de les possibilitats de llegir-nos a nosaltres mateixos de formes alternatives, oberturistes, esplendoroses.</p>
+
+
+
+<p>Una inundació que ens arriba en el pitjor moment –totes les crisis sempre arriben en el pitjor moment–, quan a més sembla que a força de narrar-ho tot hem esgotat el diccionari i no fem sinó parlotejar.</p>
+
+
+
+<p>Potser, i aquí ho uneixo amb tecnologia i disseny, té a veure amb la pèrdua de pes&nbsp;il·locutiu&nbsp;del llenguatge enfront de la capacitat&nbsp;realitzativa&nbsp;del disseny i la tecnologia. M&#8217;explico, una mica. Se suposava des d&#8217;Austin que hi havia enunciats que tenien un impacte directe en la realitat, que eren com els manaments d&#8217;un déu: es complien. «Queda inaugurat aquest pantà!» significava que efectivament aquest pantà havia estat inaugurat –òbviament la referència franquista és a posta, el feixisme és extremadament&nbsp;il·locutiu–. Aquest efecte era allò perlocutiu de l&#8217;acte&nbsp;il·locutiu. El perlocutiu és el que succeïa en el món quan s&#8217;emetia un enunciat&nbsp;il·locutiu. Bé, perquè el disseny i la tecnologia poden entendre&#8217;s com a actes perlocutius que no necessiten actes&nbsp;il·locutius. I si l&#8217;economia regeix els usos del llenguatge, aquesta no-necessitat d&#8217;enunciats és un estalvi magnífic que semblaria fer l&#8217;acte lingüístic superflu.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>7.- Una prova, o potser un mer delator, de la rebolcada causal provocada per la tecnologia i esperonada pel disseny –on els efectes són les causes– és que el procés de denominació d&#8217;un nou aparell, artefacte, disciplina o eina moltes vegades ve derivat d&#8217;un efecte. El&nbsp;GUI&nbsp;es diu així pel que produeix: la interacció amb objectes és més immediata que la línia de comandos.&nbsp;Chromecast&nbsp;es diu així pel que produeix: emetre a la pantalla de la tele allò reproduït a Chrome.&nbsp;UX&nbsp;s&#8217;acronomitza&nbsp;així pel que produeix: una vivència en l&#8217;usuari. Els exemples són moltíssims, i és una tendència que ve de lluny: el telèfon o el rentavaixella ja duien impresa aquesta manera d&#8217;atribució –atribució que potser també respon a l&#8217;entorn domèstic on es despleguen aquests objectes; almenys al principi, ja que ara són sobretot d&#8217;ús professional (encara que aquesta diferència ja gairebé manca de sentit)–. En aquest sentit el disseny és una excepció, quasi res del que esmentem és anomenat per l&#8217;efecte que produeix. La relació entre el nom i la cosa anomenada poques vegades era identificable. Fins i tot tirant d&#8217;etimologies, encara que retrocedim al llatí o al grec, arriba un punt que aquesta relació nom-cosa anomenada apareix com a aleatòria. Indesxifrable. No així en el disseny. És aquell remetre de&nbsp;Heidegger&nbsp;a <em>Ésser i temps</em> propi de tota eina tecnològica.</p>
+
+
+
+<p>7.1.- En certa manera l&#8217;efecte és el sentit (l&#8217;efecte que hauria de ser contingent passa així a universal).</p>
+
+
+
+<p>7.2.- Aquest universal impedeix la resignació del dissenyat, acció política proposada moltes vegades com a forma de&nbsp;reapropiació. Exemples d&#8217;aquestes propostes n&#8217;hi ha molts.</p>
+
+
+
+<p>7.3.- No obstant això, qualsevol&nbsp;reapropiació&nbsp;és impossible quan no hi ha cap distància en la relació entre significant i significat i quan aquest, a més, s&#8217;ha convertit en universal, sempre el mateix.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>8.- La intel·ligència respon a la vida i no al contrari. El mateix hauria de succeir amb la&nbsp;IA, si no volem que es giri contra la vida. Ara bé, per a això la&nbsp;IA&nbsp;hauria d&#8217;estar viva. I això és poc probable –i no només perquè estem més lluny encara d&#8217;emular la vida que d&#8217;emular la intel·ligència–.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>9.- L&#8217;impacte de la quarantena en la&nbsp;interintimitat. Avui pensava que, si la quarantena té alguna virtut, és que ens permet centrar-nos a cuidar als qui són a prop, als qui estem més pròxims. Els qui a <em>Dejad que las máquinas vengan a mí</em> vaig definir com l&#8217;altre-jo, aquells que estan en aquest costat del pal del&nbsp;<em>selfie</em>. L&#8217;excepcionalitat de la situació ens ha fet conscients de la importància de les cures d&#8217;aquests altre-jo. Però aquesta proximitat amb l&#8217;altre-jo, sobre la qual es construeix aquesta&nbsp;interintimitat&nbsp;que s&#8217;expressa en&nbsp;<em>selfie</em>&nbsp;comuna –el&nbsp;self&nbsp;compartit com a expressió visual de l&#8217;altre-jo–, no és la proximitat física de la distància. El confinament de cadascun s&#8217;amplia en l&#8217;allunyament i distribució d&#8217;aquests altre-jo. És la presència absent que ens permeten les tecnologies, que per alguna cosa totes es denominen amb el prefix tele:&nbsp;telèfon, televisió, teleconferència… Tecnologies que ens permeten ser sense estar. És la presència absent. I avui, confinats, estem més presents-absents que mai. Quan truquem per videoconferència grupal als nostres quatre éssers més estimats. Quan ens posem d&#8217;acord en un grup de Telegram que prestarem especial atenció a algú que no està al grup perquè està en una situació delicada, sigui laboral o de salut o del que sigui. Aquesta intimitat estesa que és la&nbsp;interintimitat&nbsp;amb l&#8217;altre-jo potser també pot ser anomenada la tele-intimitat. La intimitat del fet de compartir des de la presència absent.</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="ZmfQy5y3la"><a href="/2020/05/23/una-antropologia-del-futur/">Una antropologia del futur</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Una antropologia del futur&#8221; &#8212; La Tecnòloga" src="/2020/05/23/una-antropologia-del-futur/embed/#?secret=ZmfQy5y3la" data-secret="ZmfQy5y3la" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p>10.- El disseny –i la tecnologia amb aquest– parteixen d&#8217;una premissa equivocada: que un només pot habitar un món. És a dir, que la vivència està limitada al món en què es dóna aquesta vivència. El que bé pot ser cert dit de cada vivència. Però no ho és quan les vivències s&#8217;entenen com un continu no determinista. No hi ha –o no hi ha raó perquè hi sigui més enllà de la imposició d&#8217;un món produït pel disseny– per a pensar que la meva següent vivència sigui dependent del món en el qual es dóna aquesta. No hi ha un&nbsp;historicisme&nbsp;de la vivència. El confinament és una prova d&#8217;això. Qui ens hauria dit que ens passaríem sis setmanes a casa? I qui hauria dit que ens semblaria malament? No obstant això aquesta relació unívoca món-vivència que fonamenta el disseny –com a procés de producció d&#8217;aquest món i la seva vivència donat el seu caràcter fenomènic– comença a esquerdar-se.</p>
+
+
+
+<p>10.1.- És tasca del disseny, si vol sobreviure a la pandèmia, en la qual s&#8217;ha demostrat com a superflu, atès que el món que proposava ha esdevingut inhabitable, a explotar aquestes noves esquerdes en si mateix per a permetre l&#8217;aparició de noves realitats. De nous mons. Trencar aquesta equació és el nou imperatiu del disseny.</p>
+
+
+
+<p>10.2.- El disseny, últimament centrat en els fonaments d&#8217;aquest món previ, s&#8217;ha entossudit a bussejar en els P&amp;L dels seus clients (els casos d&#8217;èxit sempre s&#8217;expliquen com a èxits de negoci) i morirà arrossegat per aquests mateixos P&amp;L que ja estan morint. El disseny ha d&#8217;aprendre que el seu futur no és aquí sinó en altres llocs. A la vida. M&#8217;explico. Com altres indústries culturals, el disseny ha de buscar la seva inspiració en la resta de fenòmens culturals que l&#8217;acompanyen. Així com la música pop sempre es renova gràcies als experiments musicals de minories&nbsp;racialitzades&nbsp;o els videojocs a la reinterpretació de clàssics de la literatura, el disseny té trobar altres fonts alienes a ell mateix però que l&#8217;enriqueixin. Ha de sortir dels despatxos i els&nbsp;<em>Indesigns</em>&nbsp;de torn i sortir al carrer. Ha de baixar al barri si és que vol sobreviure. Hi ha, per exemple, més futur del disseny en el&nbsp;<em>bombing</em>&nbsp;grafiter que en els estudis de disseny estratègic, que ja fan olor de formol.</p>
+
+
+
+<p>10.3.- I el mateix és aplicable a tecnologies creadores de mons com la&nbsp;IA, la&nbsp;RV&nbsp;[Realitat Virtual] o els videojocs.</p>
+
+
+
+<p>10.4.- Però una de les raons en la diferència de cos és que la tasca del dissenyador i de l&#8217;ideo-CEO&nbsp;és la creació del món, però no el seu manteniment (déu, com a aclariment, és aquell que és perquè és capaç de crear el món/univers, sí, però també de mantenir-lo. En el model producció industrial de la realitat, que inclouria aquestes dues tasques: creació i manteniment, totes dues tasques apareixen com deslligades). El manteniment d&#8217;això creat encara continua estant estretament lligat al cos –d&#8217;aquí ve que els processos d&#8217;automatització i&nbsp;robotització&nbsp;estiguin centrats fonamentalment en els sectors de producció industrial del que ja hi ha: cadenes de muntatge,&nbsp;ERPs, etc.</p>
+
+
+
+<p>10.5.- Reflexió que em porta a una altra, relacionada amb l&#8217;absència present del cos –en aquest cas el cervell– en les&nbsp;IAs. La tasca de la&nbsp;IA&nbsp;és la creació o el manteniment del que hi ha? De moment jo diria que és la del manteniment, entre altres coses <a rel="noreferrer noopener" href="https://t.me/filosofiaydiseno/725" target="_blank">per la no permissibilitat de fal·libilitat de la qual parlava</a>. Però, i aquesta és una tesi que trobo interessant, perquè és fàcil&nbsp;preveure&nbsp;que si la&nbsp;IA&nbsp;intervingués en la creació de nosaltres, com a humans, no entendríem moltes vegades aquest acte com un acte creador i ho entendríem, en canvi, com un acte aleatori, resultat de l&#8217;atzar (o de la bogeria de la màquina, que és una altra forma d&#8217;atzar).</p>
+
+
+
+<p>Així, per exemple, va succeir amb el famós moviment 37 de la segona partida d&#8217;AlphaGo, que tots els experts van interpretar com a aleatori, per inexplicable, però que com que es va donar dins d&#8217;un món ja creat (aquí la&nbsp;IA&nbsp;no feia altra cosa que mantenir el món que és el joc de&nbsp;Go), va acabar per revelar-se com a intel·ligent i, per tant, intel·ligible.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>11.- Amb relació a la disjuntiva instrumentalisme&nbsp;vs.&nbsp;substancialisme&nbsp;d&#8217;allò tecnològic (i del disseny) nascuda a partir del que es va anomenar l&#8217;<em>empirical&nbsp;turn</em>&nbsp;dels&nbsp;70s&nbsp;–quan la filosofia de la tecnologia va començar a acceptar d&#8217;una manera menys crítica la tecnologia, acceptant que era aquí per a quedar-se–, potser convindria recordar a Plató i el seu&nbsp;<em>Fedre</em>, on rebutjava l&#8217;escriptura al·legant que acabaria amb la memòria. Però l&#8217;atac no era un atac oral, era un atac escrit. Escrivia per a atacar a l&#8217;escriptura. Una vegada que Plató va decidir començar a escriure ja mai va poder deixar de fer-ho –perquè allò no tecnològic, precisament perquè deixa una petjada efímera, es perd en i per a la memòria: per això no sabem què va dir a la seva Acadèmia–. I nosaltres amb ell. Per això, en continuar escrivint definia una manera d&#8217;humà, un humà la memòria del qual potser no es veia substituïda per l&#8217;escriptura, però sí que es veuria augmentada. Un humà la memòria del qual quedaria per sempre intervinguda per l&#8217;escriptura. Que avui encara llegim a Plató ho demostra.</p>
+
+
+
+<p>Les interpretacions&nbsp;instrumentalista&nbsp;vs.&nbsp;substancialista&nbsp;s&#8217;han llegit fins ara com a contraposades, com dues maneres d&#8217;entendre allò tecnològic (i el disseny), contradictoris, però en realitat conformen un mateix discurs, una dialèctica, que a força de negar-se amplien l&#8217;àmbit d&#8217;allò definit per aquest discurs, que és el tot. Aquesta és la dialèctica que descansa en la dialèctica de la filosofia de la tecnologia, que en cada nou pensar es consolida el&nbsp;tecnograma&nbsp;a&nbsp;la&nbsp;Latour&nbsp;i&nbsp;Borgmann&nbsp;com a continuació interessada de les seves cadenes cosmològiques (que és com denomina&nbsp;Latour&nbsp;a les tres maneres d&#8217;estar en el món que&nbsp;Borgmann&nbsp;denominaria Naturalesa, Cultura i Tecnologia):</p>
+
+
+
+<p class="has-text-align-center">Cosmograma&nbsp;-&gt;&nbsp;Cultugrama&nbsp;-&gt;&nbsp;Tecnograma</p>
+
+
+
+<p>sobre el qual es construeix un món&nbsp;tecnologitzat&nbsp;al qual ja no pot renunciar, en un procés semblant al sistema que s&#8217;expandeix a força de negar-se&nbsp;recursivament, això que&nbsp;Hofstadter&nbsp;va anomenar&nbsp;gödelització. Per això quan se supera un&nbsp;estadi, una manera d&#8217;estar en el món, quan, per exemple, se supera el&nbsp;cosmograma&nbsp;per a endinsar-se en el&nbsp;culturgrama, el&nbsp;cosmograma&nbsp;pot advertir-se, però no es pot tornar a ocupar. Queda com a record, però com els records és inaprehensible. I en aquest tot estem nosaltres. El&nbsp;tecnograma&nbsp;apareix cada vegada més com més afermat i el&nbsp;culturgrama&nbsp;se&#8217;ns apareix tènue i cada cop més desvalgut. Del&nbsp;cosmogama&nbsp;no tenim ja ni notícies. Aquest tot que transformem no pot ser-ho sense la nostra pròpia transformació.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>12.- Un dels atributs que distingeixen a la intel·ligència és que no comptem amb la seva infal·libilitat. De fet, tot el contrari, entenem allò intel·ligent com alguna cosa que pot o bé fallar o bé produir solucions (és cert que definir el producte de la intel·ligència com a «solucions» ja denota un biaix que rebaixa el possible intel·ligent, però perquè ens entenguem), solucions, deia, inesperades. I cap de les dues resultants ho desqualifiquen com a intel·ligent. Exemple de resultes intel·ligents fallides? Posaré un que té relació amb el disseny. Les places dures de Madrid. Aquestes places que es van dissenyar no per a la convivència, que és per al que es van dissenyar, però que sol ser estàtica, conviure requereix temps, sinó que es van dissenyar per al trànsit. Així són places sense arbres, ombres o bancs. És més, no són places, són esplanades. Solars. Terra erma. «Terra erma», com el poema de T. S. Eliot&nbsp;(<a rel="noreferrer noopener" href="https://www.poetryfoundation.org/poems/47311/the-waste-land" target="_blank">per a qui no el conegui, és aquí</a>). Més semblants a patis de presó, un altre espai «obert» en el qual no es conviu sinó que s&#8217;erra, com en una plaça de poble. Una solució arquitectònica intel·ligent quan allò que pretens és transformar les ciutats en espais Centres Comercials oberts, com el projecte de Gallardón per al centre de Madrid. Una solució perfecta, a més, per a l&#8217;explotació comercial d&#8217;aquestes esplanades: en totes hi cap un&nbsp;quiosc&nbsp;de Nokia, una terrassa de cafeteria o un estand de Movistar.</p>
+
+
+
+<p>Però la solució va deixar de ser intel·ligent el 15M. De sobte aquella solució de plaça dura va resultar increïblement fàcil d&#8217;ocupar. Allò que estava dissenyat per al trànsit va resultar perfecte per a la immobilització. I d&#8217;aquí el doble impacte d&#8217;aquesta ocupació, perquè no sols redefinia l&#8217;espai sinó també el seu ús. Però aquest&nbsp;sub-ús, diguem-ne, no vol dir que la proposta de disseny no fos intel·ligent per al model de ciutat que es pretenia. És només que la ciutat en algun moment no ho va entendre així.</p>
+
+
+
+<p>Això com a exemple de resulta intel·ligent fallida; perquè exemples de resultes intel·ligents que generen respostes alternatives n&#8217;hi ha moltes i són fàcils de trobar.</p>
+
+
+
+<p>No obstant això, amb la&nbsp;IA&nbsp;esperem infal·libilitat. Si falla ja no és intel·ligència. I si genera solucions divergents (més enllà de la divergència pautada dins d&#8217;allò ontològic-possible&nbsp;d&#8217;aquesta&nbsp;IA)&nbsp;tampoc. Fet que obre dos problemes, un epistemològic a l&#8217;hora de definir què és&nbsp;IA; un altre ètic, a l&#8217;hora de definir com ens relacionem amb les&nbsp;IA.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>13.- No parem de culpar a la&nbsp;IA&nbsp;de biaixos que no són sinó nostres. De miopies ontològiques que no són sinó nostres. De decisions pernicioses que no són sinó les que fa 2.500 anys que prenem. De fet la&nbsp;IA&nbsp;està a punt de convertir-se en el boc expiatori moral per a les decisions que no volem prendre. Complint així el paper de boc expiatori positiu. Es menja la culpa per a redimir-nos. Fins i tot aquesta denúncia es desploma davant d&#8217;aquest argument: en denunciar el desplaçament de la culpa no fa una altra cosa que reforçar aquest desplaçament. La nostra relació amb la&nbsp;IA&nbsp;és absolutament cristiana.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<p>14.- «Deixeu de fer» potser és l&#8217;únic mantra ètic vàlid avui per al disseny i la tecnologia. Potser l&#8217;únic treball moralment justificat de dissenyadors i tecnòlegs sigui deixar de fer i, sobretot, convèncer als seus clients perquè no facin.</p>
+
+
+
+<p>Em costa molt trobar un argument contra aquesta proposta mínimament ben fonamentada. S&#8217;admeten contribucions.</p>
+
+
+
+<p>Exemple, no perfecte, però exemple: </p>
+
+
+
+<p><a href="https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/">https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/</a></p>
+
+
+
+<p>Un altre exemple del «Deixeu de fer», però aquesta vegada des d&#8217;un lloc problemàtic:&nbsp;Amazon. No obstant això, és simptomàtic que les companyies de tecnologia s&#8217;autoregulin –en allò que no és altra cosa que una expressió de la seva por a les regulacions governamentals que vindran– mentre els dissenyadors continuen empenyent a fer: </p>
+
+
+
+<p><a href="https://venturebeat.com/2020/06/10/amazon-imposes-one-year-moratorium-on-police-use-of-its-facial-recognition-technology/amp/">https://venturebeat.com/2020/06/10/amazon-imposes-one-year-moratorium-on-police-use-of-its-facial-recognition-technology/amp/</a></p>
+
+
+
+<p>En els anys 70,&nbsp;Putnam&nbsp;(el lògic matemàtic-filòsof) va proposar alguna cosa així com un axioma ètic, el punt mínim moral des del qual decidir actuar. Deia «Always&nbsp;stick&nbsp;to&nbsp;the&nbsp;loser», estigues sempre amb el perdedor. I encara que no sempre és fàcil saber qui és el perdedor–a&nbsp;<em>Dejad que las máquinas vengan a mí</em> explico el cas d&#8217;una persona les profundes creences catòliques de la qual feien que confongués el perdedor en el cas d&#8217;una noia violada fecundada– l&#8217;axioma encara continua ressonant dins el meu cap. Primer perquè té això d&#8217;analític formal de base kantiana, que no obliga a alguna cosa concreta sinó que és&nbsp;<em>context-irrelevant</em>. Aspira així a una certa universalitat que ho fa estrictament atractiu. Segon, i derivat d&#8217;això analític, perquè encara que no proposa solucions, aquest «<em>stick</em>» no és actuar, tampoc és una forma d&#8217;inacció, que sempre és una forma de suport a l&#8217;agressor. Res és tan poc equidistant com l&#8217;equidistància, que diria Benjamin dels alemanys «neutrals» davant l&#8217;ascens nazi.</p>
+
+
+
+<p>Avui aquest «Deixeu de fer» reprèn aquestes virtuts de l&#8217;axioma&nbsp;putmanià&nbsp;i fa de la inacció acció. I ho fa mitjançant una inacció no equidistant. Ho fa amb la consciència clara dels perills polítics de l&#8217;objecte de disseny i tecnològic. No fer és un reforçar allò bo que encara ens queda i, al mateix temps, estar-nos amb els perdedors d&#8217;això&nbsp;tecnosocial&nbsp;que estem produïnt dissenyadors i tecnòlegs, nosaltres. Tots. Tots nosaltres.</p>
+
+
+
+<p>A més, i per si no fos prou, ataca aquest dogma neoliberal que no fa reforçar privilegis de l&#8217;aprenentatge a través de l&#8217;error –recordem que només els rics poden permetre&#8217;s fallar perquè compten amb una xarxa de suport teixida amb la plusvàlua expropiada als seus treballadors (si això ha sonat marxista no us estranyi, ho és); els&nbsp;pobres&nbsp;no poden provar, perquè no té l&#8217;oportunitat de tornar-se a aixecar: com s&#8217;aixecaran una segona vegada si no poden aixecar-se una primera?–, una tesi, la de l&#8217;error com a catapulta cap a l&#8217;èxit final, derivada d&#8217;aquesta altra proposta moral de rics, el pragmatisme&nbsp;a&nbsp;la&nbsp;Dewey, que és extremadament nociva perquè determina que tot fer redunda en el poder establert. I ara que el poder establert està desbocat dotat d&#8217;un fer quasi-miraculós, el fer ha de parar. Ja no podem permetre&#8217;ns eslògans –tots&nbsp;deweyans, per cert– tipus «aprendre fent» o «narrar a través d&#8217;actes» (<em>storydoing</em>)&nbsp;perquè tot fer ens converteix en perdedors. A base de tant fer hem perdut el sentit, i el fer sense sentit és prerrogativa del tirà, com deia el nazi de&nbsp;Schmitt.</p>
+
+
+
+<p>14.1.- Per què «Deixeu de fer»?</p>
+
+
+
+<p>Al començament del segle passat la filosofia es va partir per la meitat, i no em refereixo a la segregació analítica&nbsp;vs.&nbsp;continental, que en el fons parlaven del mateix però en diferents termes, el llenguatge i allò que pot ser enunciat amb propietat, sinó al fet que la interpretació del món s&#8217;obria en dos: o llenguatge o acció. I mentre tots dos corrents van optar pel llenguatge el món, cada vegada més produït per la indústria, va optar per l&#8217;acció.</p>
+
+
+
+<p>I l&#8217;acció, gràcies a la incorporació dels avanços lingüístics de l&#8217;analítica, va acabar per devorar al llenguatge. La programació ha fet saltar per l&#8217;aire tot allò pensat sobre el llenguatge perquè l&#8217;ha convertit en performatiu. Tot llenguatge de programació és performatiu. Per&nbsp;tèlic.</p>
+
+
+
+<p>Fa 120 anys que pensem allò que no és. Allò que no tocava.</p>
+
+
+
+<p>Per això avui toca «Deixar de fer» i començar a pensar això que fem.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/07/17/apunts-etica-de-la-tecnologia-luis-montero/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1481</post-id>	</item>
+		<item>
+		<title>Presenten el primer observatori epidemiològic a Catalunya basat en intel·ligència artificial i dades massives</title>
+		<link>/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/</link>
+					<comments>/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/#comments</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 14:57:30 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Departament de Polítiques Digitals i Administració Pública de la Generalitat de Catalunya]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<guid isPermaLink="false">/?p=1484</guid>
+
+					<description><![CDATA[Estudiarà la propagació d&#8217;epidèmies a través de l’anàlisi de dades del cens, epidemiològiques, meteorològiques i mediambientals i d’algunes companyies telefòniques La pandèmia de la Covid-19&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Estudiarà la propagació d&#8217;epidèmies a través de l’anàlisi de dades del cens, epidemiològiques, meteorològiques i mediambientals i d’algunes companyies telefòniques</h2>
+
+
+
+<p>La pandèmia de la Covid-19 ha posat sobre la taula la necessitat d&#8217;anticipar-se als brots epidèmics per fer més eficients els processos de contenció i mitigació. Amb aquest objectiu, Catalunya ha vist néixer aquest dijous el primer projecte per a la prevenció d&#8217;epidèmies basat en intel·ligència artificial (IA) i l&#8217;anàlisi de dades massives (<em>Big Data</em>). </p>
+
+
+
+<p>L’observatori epidemiològic, impulsat pel Govern de la mà d&#8217;institucions mèdiques com l&#8217;Hospital Germans Trias i Pujol, operadores telefòniques, i centres educatius com la Universitat de Girona i la Rovira i Virgili, vol estudiar la propagació d&#8217;epidèmies a través de l’anàlisi de dades del cens, epidemiològiques, meteorològiques i mediambientals i d&#8217;algunes companyies telefòniques per crear &#8220;millors models predictius&#8221;, que ajudaran a elaborar models matemàtics i a dissenyar estratègies per preveure i mitigar la propagació d’epidèmies presents i futures. </p>
+
+
+
+<p>Segons una nota de premsa de la Generalitat, en primer lloc es procedirà al creuament de les dades de forma agregada i anonimitzada -en cap cas implicarà traçabilitat o identificació de les persones-, i a l’anàlisi i extensió de models matemàtics per comparar i predir patrons específics d&#8217;epidèmies, a partir de la grip i la Covid-19. Això permetrà definir un primer model epidemiològic al qual posteriorment s’aplicaran tècniques i algoritmes d&#8217;aprenentatge automàtic (<em>Machine Learning</em>) per millorar-lo. Finalment, es treballarà en la construcció d’una eina capaç d’integrar les diferents fonts de dades de manera automàtica que permetrà el monitoratge de l’evolució d’una epidèmia i crear un sistema de suport a les decisions obert per a les comunitats científica i sanitària.</p>
+
+
+
+<p><strong>&#8220;Respecte a la informació de caràcter personal&#8221;</strong></p>
+
+
+
+<p>La mateixa nota subratlla que &#8220;una de les prioritats d’aquest Observatori és definir un model de tractament de dades que garanteixi plenament el respecte a la informació de caràcter personal per protegir la intimitat i privacitat dels ciutadans&#8221;. &#8220;En aquest sentit -continua el comunicat-, per tal d’estudiar la transmissió del virus, es treballarà amb dades agregades epidemiològiques i de mobilitat, sempre agregades i anonimitzades, seguint les recomanacions i millors pràctiques del Comitè Europeu de Protecció de Dades (CEPD) i del Departament de Salut.&#8221;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="678" src="/wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-1024x678.png" alt="Presentació del primer observatori epidemiològic de Catalunya basat en tecnologies digitals avançades" class="wp-image-1490" srcset="/wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-1024x678.png 1024w, /wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-300x199.png 300w, /wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-768x508.png 768w, /wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20.png 1213w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Presentació del primer observatori epidemiològic de Catalunya basat en tecnologies digitals avançades</figcaption></figure>
+
+
+
+<p>L’Observatori s’ubicarà a l’Hospital Germans Trias i Pujol (HGTiP) i comptarà amb la coordinació científica del doctor Bonaventura Clotet, cap del Servei de Malalties Infeccioses de l’HGTiP i president de la Fundació Lluita contra la Sida (FLS). La coordinació tècnica anirà a càrrec del Center for Innovation in Data tech and Artificial Intelligence (CIDAI), creat en el marc de l’Estratègia en Intel·ligència Artificial del Govern de Catalunya, Catalonia.AI.</p>
+
+
+
+<p>Aquesta iniciativa publicoprivada suma els esforços de la Generalitat de Catalunya, a través del Departament de Polítiques Digitals i Administració Pública i el Departament de Salut; institucions mèdiques i de salut (Hospital Germans Trias i Pujol i Fundació Lluita contra la Sida); centres d’innovació i investigació tecnològica i grups de recerca (CIDAI, Eurecat, Barcelona Supercomputing Center, Universitat Rovira i Virgili i Universitat de Girona) i el Mobile World Capital Barcelona. A més, el projecte compta amb la col·laboració de la iniciativa GSMA AI for Impact.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1484</post-id>	</item>
+		<item>
+		<title>Neix l’Observatori d’ètica en intel·ligència artificial de Catalunya</title>
+		<link>/2020/06/29/observatori-etica-intelligencia-artificial-catalunya/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2020 16:44:41 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[ADA]]></category>
+		<category><![CDATA[Algoritmes de Decisió Automatitzada]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Carme Torras]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Karma Peiró]]></category>
+		<guid isPermaLink="false">/?p=1463</guid>
+
+					<description><![CDATA[“L’evolució tecnològica és tan àmplia, profunda i veloç que els éssers humans no som capaços d’anticipar com s&#8217;incorporarà a les nostres vides”, afirmava Maria Àngels&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>“L’evolució tecnològica és tan àmplia, profunda i veloç que els éssers humans no som capaços d’anticipar com s&#8217;incorporarà a les nostres vides”, afirmava Maria Àngels Barbarà, directora de l’Autoritat Catalana de Protecció de Dades, a l’informe <a rel="noreferrer noopener" href="https://apdcat.gencat.cat/web/.content/04-actualitat/noticies/documents/INFORME-INTELLIGENCIA-ARTIFICIAL-FINAL-WEB-OK.pdf" target="_blank"><em>Intel·ligència Artificial. Decisions Automatitzades a Catalunya</em></a>. La periodista Karma Peiró recull a l’estudi més de cinquanta exemples d’usos d’algorismes de decisió automatitzada (ADA) a Catalunya i que, <a href="/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/">en molts casos, han passat desapercebuts per a la majoria de la població tot i intervenir en decisions sovint sensibles</a>: per exemple, extradir migrants, concedir ajuts socials, predir el risc de reincidència d’un pres o advertir què ha après i què no ha après un alumne a l’escola. El que passa és que si les màquines s’entrenen amb prou dades fiables, els ADA poden facilitar-nos enormement la vida; però si es nodreixen amb informació deficient i esbiaixada, <a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">els resultats poden conduir a errors o a decisions discriminatòries</a>. Per això el naixement, aquest dilluns, de l&#8217;Observatori d&#8217;Ètica en Intel·ligència Artificial de Catalunya és una bona notícia.</p>
+
+
+
+<p>La iniciativa neix del Govern i la Universitat de Girona (UdG) i pren la forma d’una càtedra amb seu a la facultat. <a rel="noreferrer noopener" href="http://politiquesdigitals.gencat.cat/ca/detalls/Noticia/200629_Observatori_IA" target="_blank">Segons una nota de la Generalitat</a>, l’Observatori té la missió d’estudiar els impactes ètics i legals de la implantació de la IA en la vida diària, de vetllar perquè la tecnologia s’apliqui de manera segura i justa, d’establir unes directrius ètiques i, en definitiva, de desenvolupar al país “una intel·ligència artificial ètica i confiable”. Per aconseguir-ho, l’observatori vol analitzar l’evolució del desenvolupament de la IA a Catalunya, impulsar jornades i tallers per debatre sobre ètica, regulació i IA, promoure la conscienciació ciutadana entorn la IA i les decisions automatitzades i crear un consell assessor format per experts d’àmbits diversos -acadèmic, tecnològic, humanístic, legal, econòmic, etc.</p>
+
+
+
+<p>La iniciativa compta amb un pressupost de 250.000 euros per al període 2020–2022, finançats principalment pel Departament de Polítiques Digitals en el marc de l’estratègia <a rel="noreferrer noopener" href="http://politiquesdigitals.gencat.cat/ca/tic/catalonia-ai" target="_blank">Catalonia.AI, l’Estratègia d’Intel·ligència Artificial de Catalunya</a>, aprovada el 18 de febrer, i el pla estratègic de la <a rel="noreferrer noopener" href="https://www.udg.edu/ca/Portals/63/Escenaris/PE_2030_SumaIntel_20190306.pdf" target="_blank">Universitat de Girona ‘2030: La suma d’Intel·ligències’</a>, que vol buscar el millor encaix de la intel·ligència artificial amb la intel·ligència natural i la intel·ligència col·lectiva.</p>
+
+
+
+<p>El tret de sortida de l’Observatori l’han donat aquest matí el conseller de Polítiques Digitals, Jordi Puigneró, i el rector de la UdG, Quim Salvi, entre altres representants del Govern i la universitat, que han presentat el nou organisme en un acte telemàtic amb la intervenció de Karma Peiró i de la <a href="/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/">professora d’Investigació de l’Institut de Robòtica (CSIC-UPC) i escriptora Carme Torras</a>.</p>
+
+
+
+<h3>La necessitat d’una mirada ètica</h3>
+
+
+
+<p>Els intents de regular la intel·ligència artificial des d’una mirada ètica persegueixen l’evolució tecnològica, però de moment no l’atrapen. El febrer, la presidenta de la Comissió Europea (CE), Ursula Von der Leyen, va presentar un pla per regular la IA i recuperar la sobirania digital davant els gegants tecnològics, tot i que les veus crítiques li van retreure poca concreció. A l’abril del 2019, un grup d’experts d’alt nivell de la CE havia fet públiques unes Directrius Ètiques per a una IA Confiable (<em>Ethics Guidelines for Trustworthy AI</em>). Poc després, el professor de filosofia de la Universitat de Mainz (Alemanya) Thomas Metzinger, que va formar part del grup d’experts, va denunciar al diari <em>Der Tagesspiegel</em> que “<a href="/2020/02/15/etica-inteligencia-artificial-maquillatge/">el relat de la Intel·ligència Artificial confiable pretén eixamplar els mercats futurs</a> i utilitzar els debats sobre Ètica com un bell decorat públic per a una estratègia d’inversió a gran escala”. Per això, cal prendre consciència que la revisió ètica de la IA necessita molt més que una declaració de bones intencions.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1463</post-id>	</item>
+		<item>
+		<title>La pandèmia dispara l’activitat il·legal al web fosc</title>
+		<link>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/</link>
+					<comments>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2020 16:10:16 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Agència de Ciberseguretat de Catalunya]]></category>
+		<category><![CDATA[Cibercrim]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Dark web]]></category>
+		<category><![CDATA[Edward Snowden]]></category>
+		<category><![CDATA[Silvia Puglisi]]></category>
+		<category><![CDATA[The Tor Project]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[Web fosc]]></category>
+		<guid isPermaLink="false">/?p=1446</guid>
+
+					<description><![CDATA[Vacunes i cures falses, drogues, més material pedòfil i credencials d’accés a entorns corporatius: el coronavirus desplaça la criminalitat al món virtual ]]></description>
+										<content:encoded><![CDATA[
+<h2>Vacunes i cures falses, drogues, més material pedòfil i credencials d’accés a entorns corporatius: el coronavirus desplaça la criminalitat al món virtual </h2>
+
+
+
+<p>La Covid-19 ha omplert Internet d’ofertes de cures, proves de diagnòstic, respiradors i equips de protecció personal a preus desorbitats, productes teòricament miraculosos i vacunes falses. Segons <a rel="noreferrer noopener" href="https://www.anu.edu.au/news/all-news/pandemic-profiting-vaccines-and-ppe-on-the-dark-web" target="_blank">una recerca de l’<em>Australian National University</em></a>, que a l’abril va investigar vint mercats clandestins d’Internet, s’hi ha arribat a vendre un fals vaccí per 24.598 dòlars, distribuït des dels Estats Units, mentre el preu mitjà d’aquest producte no baixa dels 575. D’acord amb l’estudi, es tracta de substàncies “probablement robades o distribuïdes il·legalment des de laboratoris d’assaig amb animals o humans o, fins i tot, amb pacients recuperats del coronavirus”.&nbsp;</p>
+
+
+
+<p>Productes com aquests s’han comercialitzat al llarg del confinament al <a href="https://www.termcat.cat/ca/actualitat/apunts/que-samaga-la-xarxa-web-profund-i-web-fosc">web fosc (en anglès, <em>dark web</em>)</a>, on habitualment hi ha lloc per a la venda il·legal d&#8217;armes, drogues, material pedòfil, targetes de crèdit robades, programari maliciós, documents falsificats i tota mena d’activitats que defugen la llei. Els abismes d’Internet no són accessibles des d’un navegador normal i, per a entrar, cal un programari especial. Un exemple és la xarxa d’anonimat TOR (<em>The Onion Router</em>; o, en català, L’Enrutador Ceba), composta per milers de servidors i estructurada en forma de capes, que fa pràcticament impossible identificar els usuaris. “Allò que et dona el web fosc és un anonimat quasi absolut”, expliquen fonts de l’Agència de Ciberseguretat de Catalunya. Tot això ho converteix en un espai molt atractiu per als cibercriminals.</p>
+
+
+
+<p>Les dades de <em>The Tor Project</em>, que és l’entitat d’administració de la xarxa Tor, evidencien un creixement molt significatiu d’usuaris durant la quarantena. Així, si el dia previ a l’anunci del decret d’alarma, el 12 de març, es van registrar a Espanya 23.703 usuaris, <a rel="noreferrer noopener" href="https://metrics.torproject.org/userstats-relay-country.html?start=2020-01-01&amp;end=2020-06-17&amp;country=es&amp;events=off" target="_blank">el 7 de maig es van assolir els 43.495</a>; o sigui, que el trànsit ha arribat a créixer més d’un 180% durant el confinament. Des d’aleshores, l’activitat ha minvat lleugerament, tot i que a l’últim mes s’han continuat veient xifres elevades: 38.169 usuaris l’11 de juny. Un increment que no té res a veure amb l’any passat, que amb prou feines va arribar als 29.481 usuaris.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="615" height="327" src="/wp-content/uploads/2020/06/image.png" alt="" class="wp-image-1447" srcset="/wp-content/uploads/2020/06/image.png 615w, /wp-content/uploads/2020/06/image-300x160.png 300w" sizes="(max-width: 615px) 100vw, 615px" /><figcaption>The Tor Project.</figcaption></figure>
+
+
+
+<h3>Espanya, el sisè estat més atacat per amenaces relacionades amb la Covid-19</h3>
+
+
+
+<p>El Covid-19 també s’ha popularitzat als fòrums de ciberdelinqüents especialitzats en el robatori de dades. Segons <a rel="noreferrer noopener" href="https://www.bitdefender.es/news/espa%C3%B1a-se-sit%C3%BAa-entre-los-seis-pa%C3%ADses-del-mundo-m%C3%A1s-atacados-por-ciberamenazas-relacionadas-con-el-coronavirus-3839.html" target="_blank">l’empresa de ciberseguretat Bitdefender</a>, Espanya s’ha convertit en el sisè país més atacat per amenaces relacionades amb la Covid-19. Al març, les ciberamenaces vinculades amb la crisi ja s’havien multiplicat per cinc, i a l’abril el creixement va ser encara major. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Una investigació de la consultora Digital Shadows</a> mostra un debat en un xat de la <em>dark web</em> sobre &#8220;Com treure el màxim partit de la quarantena&#8221;.&nbsp;</p>
+
+
+
+<p>Segons l’Agència de Ciberseguretat de Catalunya, l’activitat criminal que més ha crescut és la venda de credencials d’accés a entorns corporatius. Amb la implantació del teletreball a correcuita s’ha ampliat la bretxa de seguretat informàtica als sectors menys acostumats a aquesta modalitat laboral: “Ara els usuaris naveguen molt més i es compten moltes més víctimes de pesca per correu electrònic (<em>phishing</em>) utilitzant d&#8217;esquer la Covid-19”, explica una font de l’agència. “Algunes contrasenyes acaben sent venudes al web fosc i algú altre les compra per demanar rescats mentre altres amenacen la víctima amb filtrar la informació”, hi afegeix.&nbsp;</p>
+
+
+
+<p>La Covid-19 també ha donat un impuls sense precedents a la pederàstia. <a rel="noreferrer noopener" href="https://diariodetransporte.com/2020/04/informe-de-europol-sobre-cibercrimen-y-desinformacion-en-medio-de-la-crisis-sanitaria/" target="_blank">Un estudi de l’Europol sobre cibercrim durant la pandèmia</a> alerta que l’intercanvi de material pedòfil va disparar-se un 25% durant l’estat d’alarma, arribant a les 21.100 descàrregues entre el 17 i el 24 de març. Dues setmanes després, la Guàrdia Civil detectà a Espanya un nou rècord de la circulació de vídeos pedòfils quan l’augment va assolir el 507% durant l’estat d’alarma, <a rel="noreferrer noopener" href="https://elpais.com/sociedad/2020-04-27/el-trafico-de-videos-pedofilos-se-dispara-en-redes-un-507-durante-el-estado-de-alarma.html" target="_blank">segons una investigació de la Unitat Central Operativa (UCO) de la Guàrdia Civil que va fer públic <em>El País</em></a> i tal com ha pogut confirmar <em>La Tecnòloga</em>. L’Europol alerta que els pedòfils han aprofitat la pandèmia per buscar noves víctimes i reprodueix alguns dels seus missatges: “Hola, amb aquesta quarantena creieu que hi haurà més nens a Omegle [un lloc web per a xatejar amb persones anònimes] traient ‘<em>packs</em>’ [de fotografies íntimes]?”, es demana algú en un fòrum d&#8217;Internet, mentre algú altre encara va més enllà: “Imagina estar tancat a casa en tot moment. Aquells que tenen un fill a casa o els que passen més temps amb els seus fills, jajaja, m’agradaria tenir aquesta situació”.&nbsp;</p>
+
+
+
+<p>El confinament també ha provocat un augment de visites al web fosc per comprar droga. Amb la restricció dels moviments, els consumidors l’han anat a buscar al mercat negre d’Internet. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Com ho reflecteix Digital Shadows</a>, un venedor de cànnabis promet un bon servei als seus clients oferint-los “uns cogolls de laboratori densos i ensucrats, enviats a domicili per un venedor dedicat del web fosc”.</p>
+
+
+
+<p>L’increment de la venda de productes relacionats amb la Covid-19 al web fosc s’explica en part per la interrupció de l’activitat habitual dels ciberdelinqüents. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Digital Shadows reprodueix</a> les preocupacions d’alguns usuaris que temen els efectes de la pandèmia sobre els seus models de negoci. En un fòrum del web fosc, algú s’hi anuncia: “Un vell busca feina”. A la mateixa publicació explica que treballava des del 2012 en el frau orientat al turisme, hotels, vols i excursions, i hi afegeix: “(&#8230;) però des que va començar l’estafa del coronavirus m’he quedat indefinidament sense ingressos”.&nbsp;</p>
+
+
+
+<h3>El web fosc i la llibertat d’expressió</h3>
+
+
+
+<p>Perseguir els delinqüents del web fosc és una cursa d’obstacles quan l’anonimat s’interposa entre aquests i la policia, que normalment disposa de pocs recursos si no compta amb l’ajuda d’organismes internacionals com l’Europol o empreses privades de seguretat. Per això, governs de tot el món han intentat prohibir els servidors xifrats; un fet al qual s’hi oposen activistes, alertadors, periodistes o persones que, simplement, volen evitar que les dades de navegació caiguin en mans dels governs o les grans corporacions: &#8220;La privacitat sempre és prioritària. És un dret que ens permet desenvolupar les nostres idees, saber qui som i com volem presentar-nos al món&#8221;, <a href="/2020/06/14/silvia-puglisi-the-tor-project/">remarcava l&#8217;enginyera informàtica Silvia Puglisi, de <em>The Tor Project</em>, en una entrevista recent a <em>La Tecnòloga</em></a>.</p>
+
+
+
+<p>Així, en un país amb llibertats restringides, utilitzar el web fosc permet esquivar la censura, tot i que, segons l’investigador especialitzat en aquest àmbit Eric Jardine, els navegadors anònims també s’han popularitzat a les democràcies liberals arran d’una creixent preocupació per la privacitat. De fet, el pic més alt d’usuaris de Tor va coincidir amb l’inici de les revelacions sobre l&#8217;<a href="/2019/11/16/edward-snowden-project-tor/">espionatge massiu de l&#8217;Agència de Seguretat Nacional (NSA) d’Edward Snowden</a>, passant en tan sols un mes d’<a rel="noreferrer noopener" href="https://metrics.torproject.org/userstats-relay-country.html?start=2013-01-01&amp;end=2014-06-08&amp;country=all&amp;events=off" target="_blank">uns 800 mil usuaris a gairebé sis milions, el 18 de setembre del 2013</a>.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="608" height="325" src="/wp-content/uploads/2020/06/image-1.png" alt="" class="wp-image-1448" srcset="/wp-content/uploads/2020/06/image-1.png 608w, /wp-content/uploads/2020/06/image-1-300x160.png 300w" sizes="(max-width: 608px) 100vw, 608px" /><figcaption>The Tor Project.</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1446</post-id>	</item>
+		<item>
+		<title>Silvia Puglisi, de The Tor Project: “El principal paper de Tor és ajudar a persones en risc de censura per fer alguna cosa tan simple com llegir el diari”</title>
+		<link>/2020/06/14/silvia-puglisi-the-tor-project/</link>
+					<comments>/2020/06/14/silvia-puglisi-the-tor-project/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 13 Jun 2020 23:37:49 +0000</pubDate>
+				<category><![CDATA[Diàlegs]]></category>
+		<category><![CDATA[Destacat]]></category>
+		<category><![CDATA[No Con Name]]></category>
+		<category><![CDATA[Silvia Puglisi]]></category>
+		<category><![CDATA[The Tor Project]]></category>
+		<category><![CDATA[Tor]]></category>
+		<guid isPermaLink="false">/?p=1422</guid>
+
+					<description><![CDATA[Fotografia: Puglisi impartint una conferència al congrés de ciberseguretat No Con Name. / No Con Name Silvia Puglisi (Itàlia, 1983) és enginyera informàtica i va&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">Fotografia: Puglisi impartint una conferència al congrés de ciberseguretat No Con Name. / <em>No Con Name</em></p>
+
+
+
+<p>Silvia Puglisi (Itàlia, 1983) és enginyera informàtica i va estrenar-se a Google (Dublín), on va treballar cinc anys. Però si el punt de partida va ser el gegant tecnològic que ho sap quasi tot, ha acabat formant part d&#8217;una organització clau per a la defensa de la privacitat a Internet, <em>The Tor Project</em>, on treballa des de fa quatre anys. I, entremig, ha fet feina al <em>Fab Lab Barcelona</em> -una xarxa col·laborativa global per a la recerca- i s’ha doctorat a la Universitat Politècnica de Catalunya (UPC). </p>
+
+
+
+<p><em>The</em> <em>Tor Project</em> és l’entitat sense ànim de lucre que gestiona Tor, acrònim de <em>The Onion Router</em> (en català, l&#8217;Enrutador Ceba), que és el programari de codi obert que permet navegar anònimament per la Xarxa. Tal com explica Edward Snowden al llibre <em>Permanent Record</em>, Tor és una creació del govern dels Estats Units que es va acabar convertint en un dels pocs escuts eficaços contra la vigilància estatal, basat en un model de comunitat cooperativa que depèn de voluntaris experts en tecnologia de tot el món que gestionen els seus propis servidors des dels seus soterranis, golfes i garatges: “Gairebé cap dels servidors Tor -anomenats &#8216;capes&#8217;- coneix la identitat de l&#8217;origen del tràfic, ni té cap informació per identificar-lo. A més, en una autèntica jugada mestra, l&#8217;únic servidor Tor que coneix aquest origen (el primer de la cadena) no sap on es dirigeix el tràfic”. </p>
+
+
+
+<p>Però la xarxa d’anonimització més utilitzada del món no ha evitat els danys col·laterals de la pandèmia i, recentment, ha patit una dràstica reducció de la plantilla per la caiguda de les donacions i la congelació de les subvencions. A més, Puglisi i altres companys seus es troben en ERTO fins el desembre.</p>
+
+
+
+<p><strong>A què es dedica The Tor Project?</strong></p>
+
+
+
+<p>El Projecte Tor és una entitat d’administració de la xarxa Tor. No intervé en allò que passa a la xarxa en si, perquè aquesta no és controlada. El projecte s’ocupa, sobretot, de desenvolupar un protocol, o sigui, allò que defineix la manera de navegar per Internet. El resultat és el navegador Tor.&nbsp;</p>
+
+
+
+<p><strong>Quines implicacions té per a la nostra societat l&#8217;existència d&#8217;una xarxa com Tor? Què significa l’eslògan del Projecte Tor ‘Take back the Internet’?</strong></p>
+
+
+
+<p>El principal paper de Tor és ajudar a persones en situació de censura o risc de censura a l’hora de fer alguna cosa tan simple com llegir el diari o buscar informació. Per exemple, en alguns països, buscar a Internet sobre com avortar pot ser molt perillós. Per altra banda, res justifica que, quan llegeixes un diari, cinquanta empreses mirin com es mou el teu ratolí a la pantalla.&nbsp;</p>
+
+
+
+<p><strong>Quina rellevància té l&#8217;activitat del Projecte Tor per a la supervivència de la xarxa Tor: podria existir una sense l’altra, només amb el suport i treball de voluntaris?</strong></p>
+
+
+
+<p>L’objectiu del Projecte Tor és el desenvolupament del protocol, la resolució dels problemes del codi i el manteniment d’aquest codi. Però la xarxa és mantinguda sobretot per voluntaris. Jo mateixa tinc un node i la gent l’utilitza per accedir a la xarxa. La xarxa en si és, d’alguna manera, autònoma del projecte. De fet, hi ha molts projectes de codi lliure que es desenvolupen íntegrament per voluntaris. És el cas de Debian, una distribució de Linux. En altres casos, hi ha empreses o organitzacions al darrere.</p>
+
+
+
+<p><strong>Com pot una xarxa que depèn directament del treball d&#8217;una organització tenir garanties de ser una xarxa lliure i independent?</strong></p>
+
+
+
+<p>Per començar, no controlem la xarxa. Qualsevol persona pot posar un node a la xarxa. En segon lloc, el codi del programari és obert i molta gent el llegeix. Quan tu utilitzes el navegador Tor o afegeixes un node a la xarxa, pots confiar que molta gent accedeix i revisa aquest codi, tal com funciona una distribució Linux de codi lliure.&nbsp;</p>
+
+
+
+<p><strong>Actualment, el Projecte Tor tenia fins a 35 persones treballant en el nucli del seu servei, però l&#8217;alerta sanitària del coronavirus </strong><a rel="noreferrer noopener" href="https://www.adslzone.net/noticias/redes/despido-plantilla-tor-project-coronavirus/" target="_blank"><strong>ha forçat l&#8217;organització a acomiadar a 13 persones, que és un terç de la plantilla</strong></a><strong>, per a poder continuar endavant. Com afectarà això a Tor? Quines conseqüències per a la privacitat pot tenir?</strong></p>
+
+
+
+<p>Seguim treballant com abans i el protocol es manté igual. Tot i això, ara som menys gent i la resolució d’alguns problemes pot ser més lenta. Per sort, tenim una comunitat molt activa de persones que no treballen directament al Projecte Tor, però que investiguen sobre el protocol, o bé simplement fan traduccions, o bé fan desenvolupaments durant el seu temps lliure. Són molts els voluntaris que sostenen el projecte. El Projecte Tor funciona d’una manera similar a organitzacions com <a href="https://ca.wikipedia.org/wiki/Indymedia" target="_blank" rel="noreferrer noopener">Indymedia</a>, que a finals dels anys 90 va impulsar un mitjà de comunicació més independent i autosostenible. Molts dels qui en formaven part ara són a Tor.&nbsp;</p>
+
+
+
+<p><strong>Esdeveniments com la primavera àrab o les revelacions de Snowden, el 2013, van disparar l&#8217;èxit de Tor. El pic més alt d&#8217;usuaris va coincidir amb l&#8217;inici de les revelacions sobre l&#8217;espionatge massiu de la NSA, passant de menys de 800 mil usuaris a gairebé 6 milions en tan sols un mes&#8230;</strong></p>
+
+
+
+<p>Sovint s’ha parlat de la utopia de la tecnologia. Hi ha dos moments que trenquen amb aquesta creença. El primer coincideix amb les filtracions de Snowden, i el segon amb el cas de <em>Cambridge Analytica</em>, l’empresa que va tenir un paper decisiu en les victòries de Donald Trump i el Brexit utilitzant dades personals per a influir en decisions polítiques. Amb les revelacions de Snowden, es va trencar la confiança amb el govern, i amb l’escàndol de <em>Cambridge Analytica</em> es va trencar la confiança amb les grans corporacions. Crec que d’aquí a un temps ens passarà el mateix amb aplicacions com Facebook, Whatsapp o Instagram.</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="oW2fvqmDJi"><a href="/2019/11/16/edward-snowden-project-tor/">Snowden: &#8220;Tor [The Onion Router] feia plorar els espies&#8221;</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;Snowden: &#8220;Tor [The Onion Router] feia plorar els espies&#8221;&#8221; &#8212; La Tecnòloga" src="/2019/11/16/edward-snowden-project-tor/embed/#?secret=oW2fvqmDJi" data-secret="oW2fvqmDJi" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p><strong>Com de ràpid hem de fugir d’aquestes xarxes socials?</strong></p>
+
+
+
+<p>És normal que la gent vulgui tenir-hi un compte, però com menys dades hi comparteixis, millor. L’ideal seria, per exemple, que no utilitzis el mateix navegador per accedir al compte bancari i per connectar-te a Facebook. Si una cosa la fas amb Chrome, l’altra la pots fer amb Firefox, o al revés. També és convenient evitar l’ús d’aplicacions mòbils que acaben enviant dades a grans corporacions com Google o Facebook. És preferible fer servir Facebook o Instagram des d’un navegador.&nbsp;</p>
+
+
+
+<p><strong>La Covid-19 ha implicat prioritzar la recol·lecta de dades personals per sobre de la privacitat. Hi haurà un abans i un després en matèria de llibertats?</strong></p>
+
+
+
+<p>A escala europea, els protocols per analitzar els contagis són força segurs. De fet, un dels protocols més descentralitzats han estat desenvolupats en bona part per l’espanyola <a rel="noreferrer noopener" href="https://es.wikipedia.org/wiki/Carmela_Troncoso" target="_blank">Carmela Troncoso</a> i el seu equip, que treballen a Ginebra. La majoria de les aplicacions dels governs s’han desenvolupat amb aquesta idea: que les anàlisis de dades personals es fan al telèfon de la persona i no es comparteixen ni amb el govern ni amb les empreses. Tot i això, els governs regionals ja tenen les dades dels contagis perquè les han obtingut a través dels hospitals i els diferents sistemes de salut. Malgrat tot, altres governs han actuat amb més picardia i han arribat a un acord amb empreses poc fiables. Per exemple, arran de la pandèmia, el govern d’Anglaterra ha començat a col·laborar amb Palantir, una empresa que ven dades de persones migrants o sospitoses d’alguna il·legalitat a la policia.</p>
+
+
+
+<p><strong>La privacitat ha de prioritzar-se per davant de la seguretat?</strong></p>
+
+
+
+<p>La privacitat sempre és prioritària. La privacitat és un dret que ens permet desenvolupar les nostres idees, saber qui som i com volem presentar-nos al món. A vegades penso que és com la roba. Tu esculls com et vesteixes, o si et vesteixes una mica més o una mica menys. No sóc de les persones que considera que la privacitat ha mort i que, si no tens res a amagar, no cal amoïnar-se. De fet, la privacitat està en moltes constitucions i és un dels drets fonamentals. Ara bé, l’anonimat no és el mateix que la privacitat. L’anonimat és quan tu has fet alguna cosa i ningú ho sap. A vegades l’anonimat provoca una certa por. A <em>La República</em>, Plató parla de Giges, un pastor que troba un anell que li dona el poder de la invisibilitat que utilitza per matar el rei. El conte ens ve a dir que el do d’ocultar-se serveix per a fer el mal. Això no és cert i, a més, actualment existeixen tots els mecanismes per descobrir si algú ha comès un crim independentment de si llegeix <em>El País</em>, <em>La Vanguardia</em> o si prefereix un altre diari.</p>
+
+
+
+<p><strong>Realment hi ha els mecanismes per a perseguir la pederàstia, la venda il·legal d’armes o el narcotràfic al web fosc (<em>dark web</em>)?</strong></p>
+
+
+
+<p>Sí, hi ha mecanismes. Sempre que la gent utilitza un servidor es produeixen errors. La gent que comet un delicte també deixa un rastre fora del web fosc. A vegades el web fosc provoca una certa por perquè no hi ha una empresa al darrere. Però, en molts casos, el material il·legal també es comparteix per Whatsapp, com passa amb molts vídeos de ciberassetjament. També hi ha molt material que es comparteix a Dropbox o <a rel="noreferrer noopener" href="https://www.cloudflare.com/es-es/" target="_blank">Cloudflare</a>, un servei que et proporciona cert anonimat perquè no revela on es troba el servidor.</p>
+
+
+
+<p><strong>El web fosc és un terme criminalitzat. Hauríem de canviar l&#8217;enfocament?</strong></p>
+
+
+
+<p>Crec que sovint els mitjans no troben una bona història quan parlen d’arxius compartits a Dropbox. En canvi, si parles del web fosc, hi ha tota una narrativa al darrere que desperta més interès i que va desenvolupar-se amb el sorgiment de <a href="https://es.wikipedia.org/wiki/Silk_Road" target="_blank" rel="noreferrer noopener">Silk Road</a>, un popular mercat negre de droga desmantellat el 2013, i que evocava històries de pirates.</p>
+
+
+
+<p><strong>Com es planteja a Tor el dilema entre privacitat i seguretat?</strong></p>
+
+
+
+<p>Nosaltres escollim sempre la privacitat perquè l’usuari és la baula més dèbil de la cadena; especialment si viu en un país amb llibertats limitades. Cal tenir en compte que a Internet també hi ha contingut il·legal i que cada país té la seva manera de detectar qui comparteix aquests continguts.&nbsp;</p>
+
+
+
+<p><strong>En un país on les llibertats estan limitades, el web fosc és un mitjà d&#8217;expressió i accés a informacions que en altres espais estarien vetats o suposaria un risc inassumible. Però Tor també és popular en les democràcies liberals. Per què és necessari Tor en un Estat com l’espanyol?</strong></p>
+
+
+
+<p>Tu has de tenir el dret de comprar alguna cosa i no haver de pagar un preu alterat pel fet d’haver buscat el mateix producte tres setmanes abans, com passa amb el cost d’un vol, per exemple. El dret a la privacitat és també això: no ser vist mentre busques qualsevol cosa.&nbsp;</p>
+
+
+
+<p><strong>Hi ha alguna mesura implementada per <em>The Tor Project</em> o alguna altra organització que intenti mitigar l&#8217;ús de la xarxa per a cometre crims?</strong></p>
+
+
+
+<p>El protocol <em>onion</em> et permet publicar un web sense que ningú identifiqui l’autor ni el visitant. Es protegeixen les dues parts. Per altra banda, si ve algú i ens diu que una pàgina és il·legal, nosaltres no tenim manera de conèixer el servidor d’origen. Tot i això, nosaltres no volem que aquest tipus de contingut sigui al web fosc i sovint pensem mecanismes per evitar que n’hi hagi. Però són continguts que també existeixen a Internet.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="JukvFXNqFg"><a href="/2020/02/19/10-motius-resistencia-digital/">10 motius per practicar la &#8216;Resistència Digital&#8217;</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8220;10 motius per practicar la &#8216;Resistència Digital&#8217;&#8221; &#8212; La Tecnòloga" src="/2020/02/19/10-motius-resistencia-digital/embed/#?secret=JukvFXNqFg" data-secret="JukvFXNqFg" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/06/14/silvia-puglisi-the-tor-project/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1422</post-id>	</item>
+	</channel>
+</rss>

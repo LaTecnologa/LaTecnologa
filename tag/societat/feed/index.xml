@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Societat &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/societat/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Societat &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Alumnes sense ordinador i ordinadors en desús: recollida solidària contra la bretxa digital</title>
+		<link>/2020/05/14/alumnes-sense-ordinador-i-ordinadors-en-desus-recollida-solidaria-contra-la-bretxa-digital/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 14 May 2020 15:34:26 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Bretxa digital]]></category>
+		<category><![CDATA[Digital Gap]]></category>
+		<category><![CDATA[Societat]]></category>
+		<guid isPermaLink="false">https://nova.tecnologa.cat/?p=1165</guid>
+
+					<description><![CDATA[Un 34% de les famílies amb rendes baixes no té cap dispositiu per seguir les classes online, segons la Fundació Viarany Internet no és una&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Un 34% de les famílies amb rendes baixes no té cap dispositiu per seguir les classes online, segons la Fundació Viarany</h2>
+
+
+
+<p>Internet no és una utopia amb possibilitats il·limitades, tal com es pensava als anys 90. No és un espai lliure de vigilància, on es pot expressar qualsevol opinió, com va demostrar <a href="/2019/11/16/edward-snowden-project-tor/">Edward Snowden</a>. Més aviat sembla un lloc ple de gent enfadada i obsessionada amb la seva pròpia representació, d&#8217;acord amb la periodista <a rel="noreferrer noopener" href="http://lab.cccb.org/ca/el-jo-a-internet/" target="_blank">Jia Tolentino, que al llibre <em>Falso Espejo</em></a> descriu Internet com un &#8220;infern elèctric, febril i invivible&#8221;. </p>
+
+
+
+<p>Però també és cert que Internet és una porta al coneixement i una finestra al món, especialment durant la quarantena. Ens agradi o no, la presència digital és una forma més de forjar una carrera professional. I ara també és l&#8217;única opció dels estudiants per acabar el curs. Però, en un context on l&#8217;educació està cada cop més digitalitzada, no tothom rep classe amb igualtat de condicions perquè fer-ho depèn de la connexió a Internet. I les diferències en l&#8217;accés als mitjans telemàtics -o sigui, la bretxa digital- es relaciona íntimament amb problemes estructurals com la pobresa, l’exclusió, la desocupació o la precarització de la feina, d&#8217;acord amb <a rel="noreferrer noopener" href="https://ricardfaura.net/2020/04/27/perque-la-connectivitat-es-el-principal-escull-per-superar-la-bretxa-digital/" target="_blank">aquesta anàlisi de Ricard Faura</a>, cap del Servei d&#8217;Inclusió o Capacitació Digital de la Generalitat.</p>
+
+
+
+<h3>Dona una tablet o un PC</h3>
+
+
+
+<p>Gent sense ordinador i ordinadors sense gent: &#8220;Hi ha alumnes que no en tenen i, alhora, molts n&#8217;acumulen i no els fan servir&#8221;, explica Zita Bartolomé, de la Fundació Privada Viarany, entitat catalana especialitzada en la inclusió socioeducativa. Amb el suport d&#8217;EDIW Barcelona, la fundació ha engegat una campanya per recollir ordinadors i tauletes que no s&#8217;utilitzen per tal de fer-los arribar als alumnes que, d&#8217;altra manera, no poden continuar assistint a classe. La iniciativa té per nom &#8216;Dona una tablet o un PC&#8217;.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4e3.png" alt="📣" class="wp-smiley" style="height: 1em; max-height: 1em;" /> La Fundació Privada Viarany amb el suport de EDIW Barcelona han posat en marxa una campanya<br>de recollida de tauletes i ordinadors per tal de fer-los arribar a les famílies que no disposen dels<br>mitjans necessaris per garantir la igualtat d&#39;oportunitats a nivell educatiu. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4bb.png" alt="💻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4da.png" alt="📚" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/IJD6H4b2qY">pic.twitter.com/IJD6H4b2qY</a></p>&mdash; DonaunatabletounPC (@Donaunatabletpc) <a href="https://twitter.com/Donaunatabletpc/status/1256132387869777920?ref_src=twsrc%5Etfw">May 1, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>A hores d&#8217;ara, l&#8217;entitat ja ha aconseguit 53 donacions, entre ordinadors i tauletes. Abans d&#8217;arribar a les mans dels beneficiaris, tots els equips passen per la botiga BCN Informàtica, que ajuda la Fundació a fer el buidatge de dades antigues -tot seguint el Reglament Europeu de Protecció de Dades- i hi instal·la després un sistema operatiu, gratuït per a les famílies. </p>
+
+
+
+<p>Cal tenir present que la campanya pretén atacar la bretxa digital ara i després de la pandèmia. La iniciativa, que s&#8217;estendrà més enllà del confinament, també vol &#8220;crear consciència i sensibilització sobre un problema que existia abans del coronavirus i seguirà existint després de la nova normalitat&#8221;, subratlla Bartolomé.</p>
+
+
+
+<p>Així, per a donar un ordinador o una tauleta, no cal residir a la vora de Barcelona, on la Fundació Viarany té la seu: si bé els equips informàtics poden entregar-se en mà al seu local, també es pot organitzar una recollida a domicili o fer un enviament per correu. Només s&#8217;ha de contactar amb l&#8217;entitat al telèfon 652543240 o al correu donaunatabletopc@fundacioviarany.org. </p>
+
+
+
+<h3>La bretxa digital, en xifres</h3>
+
+
+
+<p>Segons les dades recollides per la Fundació Viarany en el seu projecte del Centre Obert Eixample -que ofereix un acompanyament en l&#8217;educació formal i no formal a nens, adol·lescents i famílies amb risc d&#8217;exclusió social-, un 34% de les famílies ateses no té cap dispositiu per seguir les classes online. &#8220;Un 9% de les llars que atenem no tenia connexió, però amb l&#8217;ajuda dels serveis socials el problema s&#8217;ha anat resolent&#8221;, explica Bartolomé. &#8220;Per això vam centrar-nos en la recollida de dispositius, perquè és allò que costa més&#8221;, hi afegeix. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="410" height="1024" src="https://nova.tecnologa.cat/wp-content/uploads/2020/05/Infographic.cat_-410x1024.png" alt="" class="wp-image-1167" srcset="/wp-content/uploads/2020/05/Infographic.cat_-410x1024.png 410w, /wp-content/uploads/2020/05/Infographic.cat_-120x300.png 120w, /wp-content/uploads/2020/05/Infographic.cat_-768x1920.png 768w, /wp-content/uploads/2020/05/Infographic.cat_.png 800w" sizes="(max-width: 410px) 100vw, 410px" /><figcaption>Infografia de la Fundació Privada Viarany.</figcaption></figure></div>
+
+
+
+<p>La Generalitat va xifrar en 52.000 les famílies a Catalunya sense mitjans tecnològics per seguir les classes telemàtiques a Internet. <a rel="noreferrer noopener" href="https://www.elperiodico.com/es/sociedad/20200330/brecha-digital-aprendizaje-coronavirus-7904747" target="_blank">Segons un reportatge d&#8217;El Periódico</a>, el 15% de les llars catalanes no tenen computadora, i el percentatge s&#8217;eleva al 34,8% en el cas de les famílies amb rendes més baixes. </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://www.ugt.es/un-plan-nacional-de-inclusion-tecnologica-que-termine-con-la-brecha-digital" target="_blank">D&#8217;acord amb UGT</a>, un 31.5% de les llars espanyoles amb una renda inferior a 900 euros mensuals no tenen accés a Internet. I la majoria dels menors amb problemes d&#8217;accés a la Xarxa presenten un perfil molt definit: viuen en poblacions petites -de menys de 10.000 habitants-, amb famílies monoparentals o resideixen en llars de cinc o més membres. Com revertir d&#8217;arrel la situació? Segons Ricard Faura, la manca d’inversió d’Estats i operadores &#8220;són els principals responsables de promoure i perpetuar les desigualtats entre regions, països i persones&#8221;.</p>
+
+
+
+<p>Allò cert és que la Generalitat no s’ha quedat de braços creuats i just fa un mes va posar en marxa un operatiu per garantir paquets de dades d’Internet i ordinadors a les 52.000 famílies amb dificultats per connectar amb l’escola. A les Balears, la Conselleria d’Educació calcula que hi ha 2.193 alumnes que no tenen ordinador ni tauleta, i 1.751 sense connexió a Internet ni terminals informàtics. Per això, a principis d’abril anuncià que comprava 3.000 chromebooks per als estudiants sense eines per accedir a l&#8217;aprenentatge virtual. Tot i així, calen encara més esforços. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1165</post-id>	</item>
+		<item>
+		<title>Twitter fa una prova per fer canviar als usuaris les respostes ofensives</title>
+		<link>/2020/05/06/twitter-experiment-canviar-usuaris-respostes-ofensives/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 06 May 2020 17:35:29 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">/?p=1057</guid>
+
+					<description><![CDATA[La companyia està provant un nou sistema per calmar els ànims abans que algú hi obri foc]]></description>
+										<content:encoded><![CDATA[
+<p>&#8220;Quan les coses s&#8217;escalfen, potser dius coses que no volies dir&#8221;, ha piulat Twitter aquest dimarts. I continua: &#8220;Estem posant en marxa un experiment a iOS amb un sistema que et dona l&#8217;opció de revisar la teva resposta abans que sigui publicada en cas d&#8217;utilitzar un llenguatge que pot ser ofensiu&#8221;. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">When things get heated, you may say things you don&#39;t mean. To let you rethink a reply, we’re running a limited experiment on iOS with a prompt that gives you the option to revise your reply before it’s published if it uses language that could be harmful.</p>&mdash; Twitter Support (@TwitterSupport) <a href="https://twitter.com/TwitterSupport/status/1257717113705414658?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Davant les habituals batalles verbals que es despleguen a Twitter, la plataforma vol oferir una segona oportunitat als tuitaires més agressius. Així, la companyia està provant un nou sistema per calmar els ànims abans que algú hi obri foc: quan els algorismes detecten una resposta amb llenguatge &#8220;ofensiu&#8221;, hi apareix una finestra amb una suggerència per canviar el text abans de ser publicat. Una mesura que ha sembrat la desconfiança a diversos usuaris de Twitter: &#8220;La llibertat d&#8217;expressió existeix perquè la gent pugui dir coses que no t&#8217;agraden. Al final és una companyia la que decideix què és apropiat i què no, que no és cap poder moral superior&#8221;, diu un usuari.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Freedom of speech is there to protect the speech you hate, always consider it that way. Also ultimately its a company thats deciding whats appropriate and whats not, not some higher moral power. Keep that in mind</p>&mdash; Professer_finesser (@Akwardgaming) <a href="https://twitter.com/Akwardgaming/status/1257820677836603395?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>L&#8217;any passat, Instagram va fer una prova similar. &#8220;Els resultats han estat positius. Veiem que aquests tocs d&#8217;atenció poden animar la gent a reconsiderar les seves paraules&#8221;, <a rel="noreferrer noopener" href="https://about.instagram.com/blog/announcements/our-progress-on-leading-the-fight-against-online-bullying" target="_blank">va escriure al desembre la companyia al seu blog</a>. D&#8217;aquesta manera, avui, quan els algorismes d&#8217;aquesta xarxa social detecten que un usuari és a punt de publicar un comentari potencialment lesiu, se li apareix un avís com el de la imatge, i l&#8217;informa de que frases similars ja han estat denunciades abans.  </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2048" height="1387" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n.png?fit=1024%2C694&amp;ssl=1" alt="" class="wp-image-1059" srcset="/wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n.png 2048w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-300x203.png 300w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-1024x694.png 1024w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-768x520.png 768w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-1536x1040.png 1536w" sizes="(max-width: 2048px) 100vw, 2048px" /><figcaption>Instagram.</figcaption></figure>
+
+
+
+<p>Cal tenir en compte que, amb Twitter, ja són totes les grans xarxes socials les que han mostrat la seva confiança en la Intel·ligència Artificial a l&#8217;hora de moderar continguts. I això és especialment cert quan la pandèmia ha fet retallar temporalment molts llocs de feina, <a rel="noreferrer noopener" href="https://techcrunch.com/2020/05/05/twitter-harmful-replies-prompt-harassment-test-feature/" target="_blank">segons Tech Crunch</a>. Tot i així, és evident que es tracta d&#8217;una mesura que ha vingut per quedar-se. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1057</post-id>	</item>
+		<item>
+		<title>Luis Montero: &#8220;Les màquines reflecteixen la nostra lògica occidental, masculina i de domini del món&#8221;</title>
+		<link>/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/</link>
+					<comments>/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2020 15:43:13 +0000</pubDate>
+				<category><![CDATA[Diàlegs]]></category>
+		<category><![CDATA[Antropologia del futur]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Dejad que las máquinas vengan a mí]]></category>
+		<category><![CDATA[Filosofia]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Luis Montero]]></category>
+		<category><![CDATA[Màquines]]></category>
+		<category><![CDATA[Societat]]></category>
+		<guid isPermaLink="false">/?p=1011</guid>
+
+					<description><![CDATA[El filòsof Luis Montero desxifra la humanitat del futur. Al seu últim assaig introdueix les màquines al debat metafísic. I és que les màquines no són només un producte nostre: també són allò que volem ser. I són un reflex de nosaltres mateixos amb la capacitat de transformar-nos. Aleshores, qui és el producte de qui?]]></description>
+										<content:encoded><![CDATA[
+<p>El filòsof Luis Montero desxifra la humanitat del futur. Al seu darrer assaig, <em>Dejad que las máquinas vengan a mí</em> (Editorial Enclave), introdueix la tecnologia al debat metafísic. És una bona manera d’autoexplorar-nos, perquè les màquines no són només un producte nostre: també són allò que volem ser. I són un reflex de nosaltres mateixos amb la capacitat de transformar-nos. Aleshores, qui és el producte de qui? Montero parla del somni humà de voler dominar el món i de com l’home acaba dominat per aquest. Parla d&#8217;éssers humans cada cop menys humans que fabriquen màquines cada cop més humanes. Què en quedarà, doncs, de nosaltres? Amb tot, les màquines poden reduir la nostra estructura categorial ja raquítica. Però potser també poden fer tot el contrari.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="De humanos, máquinas y otros seres sentientes. Conversaciones pandémicas #3." width="1160" height="653" src="https://www.youtube.com/embed/AxJTBdztc3g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>Vídeo de l&#8217;entrevista sencera: <em>D&#8217;humans, màquines i altres éssers que senten. Converses pandèmiques número 3</em>. </figcaption></figure>
+
+
+
+<p><strong>A&nbsp;<em>Dejad&nbsp;que las máquinas vengan a mí, </em>dius que estem en procés de deshumanització a causa de la irrupció de les màquines. En quin sentit és així? El llibre és un cant a la tecnologització de la vida?</strong></p>
+
+
+
+<p>El títol és un joc de paraules. “Deixeu que els nens vinguin a mi”, diu Jesús a la Bíblia. Però aquesta no és una frase neutra. Els nens són el futur de l&#8217;església. Són els qui cal convertir. Llavors, “deixeu que les màquines vinguin a mi” significa que cal convertir a les màquines. D&#8217;altra banda, pot dir-se que Jesús era un marrec amb&nbsp;superpoders. Segons els evangelis apòcrifs, que conten la infància de Jesús, un nen l&#8217;empeny i ell respon “Tant de bo caiguis mort”. I el nen cau mort immediatament. És a dir, de sobte, el llenguatge de Jesús adopta una fórmula&nbsp;tèlica. Els verbs&nbsp;tèlics&nbsp;inclouen el seu final, tal com passa amb “acabar”. I, en certa manera, els algorismes també ho són. Això sempre ha impregnat la imatge de déu: un ésser que pot fer complir allò que anuncia. Però nosaltres, amb les màquines, també donem ordres que s&#8217;executen. Ordenem tota l&#8217;estona com ens comportem respecte als altres i respecte al món. El que passa és que a força de dibuixar-nos a través de les màquines, ens hem dibuixat com a màquines. I cada vegada ens hi assemblem més.</p>
+
+
+
+<p><strong>La veritat és que a mesura que les màquines adquireixen atributs humans, com la intel·ligència o la creativitat, cada vegada és més difícil separar allò humà d&#8217;allò artificial. Introduint les màquines a l&#8217;equació, què queda de nosaltres i què ens defineix com a humans?</strong></p>
+
+
+
+<p>Jo parlo del Principi d&#8217;Humanitat Suficient, fent un altre joc de paraules amb el Principi de Raó Suficient de&nbsp;Leibniz. En realitat no ens estem deshumanitzant perquè mai no hem tingut clar què és ser humà. Sempre ens hem aferrat a l&#8217;excepció: som allò que els altres éssers no són. El problema -o potser la virtut- és que, amb les màquines, tot allò que ens feia excepcionals s&#8217;ha anat erosionant. Quan&nbsp;Leibniz&nbsp;va fabricar una calculadora, les màquines van saber sumar. Fins llavors, podríem haver pensat que el càlcul numèric era allò que ens feia humans. Però, al final, això de la humanitat s&#8217;ha convertit en una mena de carxofa i anem perdent fulles. I què en queda, de nosaltres? En realitat és igual l&#8217;atribut, perquè l&#8217;important és que ens preguntem què som. Aquesta pregunta no té cap sentit per a una màquina. El que passa és que la tecnologia ha contribuït a fer petit el món. El problema són les lògiques que hi ha darrere de les màquines, que beuen de la tradició aristotèlica i passen per Ramon Llull,&nbsp;Leibniz, &#8230; Però les màquines també podrien ajudar-nos a ampliar els punts de vista i les maneres d&#8217;estar en el món. Per a això caldria repensar la tecnologia des de zero. I caldria utilitzar altres aparells lògics subjacents que poden obrir camps estadístics més complexos.</p>
+
+
+
+<p><strong>Deixar de perseguir el Principi d&#8217;Humanitat Suficient seria una forma de llibertat?</strong></p>
+
+
+
+<p>Clar, és un llast. Trenquem les categories que ens impedeixen pensar-nos d&#8217;altres maneres. Les màquines reflecteixen la nostra lògica occidental, masculina i, en termes d&#8217;Adorno, de domini de la realitat, d&#8217;administració de la realitat i de la vida, que en realitat és l&#8217;exclusió de la vida. La vida és molt difícil de formalitzar i, no obstant això, totes les estructures estan&nbsp;super&nbsp;formalitzades. Comencem a trencar aquestes lògiques binàries que divideixen el món entre el jo i l&#8217;altre, entre home i dona, entre animal humà i animal no humà, entre persona capacitada i no capacitada, etcètera. Trenquem aquestes dicotomies que tanquen el món en capsetes que, al seu torn, ens tanquen a nosaltres. Perquè així és com perdem maneres de viure i d&#8217;experimentar una realitat que és més rica que nosaltres. Sobretot perquè, en general, a la realitat no li importem gaire.</p>
+
+
+
+<p><strong>Barrejant filosofia i etnografia, has traçat mapes del futur per a empreses com Ikea; mentre que <em>Dejad que las máquinas vengan a mí</em> es diu que és una antropologia del futur. Cap a on anem?</strong></p>
+
+
+
+<p>Els treballs per a empreses solen ser més banals, perquè aquestes quantifiquen la realitat amb els diners. Els escenaris més o menys especulatius que els presento són relativament fàcils de dibuixar. Però en les antropologies, afortunadament, no tot és quantificable i hi ha molta part d&#8217;inferència. Quan parlem de la condició humana, tot és més complicat perquè és molt més obert. Jo no tinc massa clar cap a on anem, però si continuem escoltant als homes blancs occidentals, en els quals m&#8217;incloc, tal com ho hem fet durant els últims 2.500 anys, continuarem retallant una gran quantitat de mirades possibles a nosaltres mateixos i al món. Per tant, els homes blancs occidentals hem de fer un pas enrere i deixar que altres entitats parlin. I això passa per escoltar les dones, com a gènere i com a institució política, i no opinar. Passa per eliminar aquesta construcció de domini sobre la dona, sobre els animals, sobre el planeta i sobre nostre estar en el món.</p>
+
+
+
+<p>D&#8217;altra banda, sempre havíem pensat que la intel·ligència ens feia superherois i, de sobte, amb les màquines, ha quedat en no-res. Però en aquest no-res hi ha moltíssimes virtuts. En el&nbsp;<em>Zarathustra</em>, Nietzsche diu que al nostre cos hi ha molta més intel·ligència que en cap de les idees que generi mai el nostre cervell. I té raó. Diem intel·ligents a les màquines quan en realitat la intel·ligència és un resultat de la vida i no de quantificacions o formalitzacions alienes a ella. Intel·ligència és acceptar-nos com a entitats vives, tenint en compte que nosaltres no vivim la vida, sinó que la interpretem. El llenguatge ens separa de la vida i ens fa interpretar el que som&nbsp;contínuament.</p>
+
+
+
+<p><strong>Els dibuixos del futur que hem plasmat en la ciència-ficció -com&nbsp;<em>Blade&nbsp;Runner</em>, <em>District 9</em> o&nbsp;<em>Matrix</em>&#8211;&nbsp;són quasi sempre distòpics. Hi ha lloc per a l&#8217;esperança?</strong></p>
+
+
+
+<p>Sí que n&#8217;hi ha. Ens hem vist en pitjors situacions. Sempre ens hem sentit excepcionals i per això hem imaginat per a nosaltres un final de l&#8217;hòstia: l&#8217;apocalipsi, la destrucció del planeta, &#8230; Però, com deia Gramsci, les narratives d&#8217;allò nou estan una mica esgotades. Allò nou no acaba de sorgir i ens fa por. Però no perdem la perspectiva històrica.&nbsp;Locke, el pare de moltes de les nostres idees polítiques actuals, va haver de fer front a una realitat molt més fotuda, la de les monarquies absolutistes. I per a això va caldre matar a Déu. I, de la mateixa manera, segurament nosaltres hem de matar els diners, que li donen valor i sentit a la realitat. Ara fem coses que per als nostres avis era impensable, com llogar les nostres tasses del vàter a Airbnb. Ho hem ficat tot al mercat. Però hi ha espais on els diners no poden entrar. El gran fracàs de la pandèmia no és només el sistema liberal anglosaxó, sinó també la idea que les multinacionals anaven a substituir l&#8217;estat-nació. Però allò que ens guarirà és una vacuna subministrada per un Estat.</p>
+
+
+
+<p>A més, amb la pandèmia s&#8217;ha produït una reducció del món inesperada. Ens hem cenyit als mínims possibles de producció i consum. De sobte, han desaparegut la indústria cultural, el disseny i un munt d&#8217;indústries col·laterals que abans eren importants i ara sembla que no serveixen per a res. Perquè no van a favor de la vida. Perquè formen part d&#8217;aquesta capa ideològica que ens havíem&nbsp;construït, on els diners eren molt valuosos. Però no necessitem els diners per a explicar la realitat. Potser ara crearem nous espais aliens al mercat, perquè hem vist que el mercat&nbsp;peta. Que la realitat governada pel mercat no existeix; era una ficció. Hem de començar a pensar-nos més enllà de la transacció, més enllà del valor econòmic i d&#8217;un&nbsp;<em>business&nbsp;plan</em>.</p>
+
+
+
+<p><strong>La situació actual és una mica distòpica. A més, amb el distanciament social ha passat una cosa curiosa. Com dius als </strong><em><strong>Tres apuntes morales sobre la pandemia</strong></em><strong>, nosaltres ens hem convertit en amenaça per als altres i viceversa i, a més, construïm comunitat allunyant-nos els uns dels altres.</strong></p>
+
+
+
+<p>Sí, és com una mena d&#8217;antinòmia. Però em sembla molt bonica. Sartre deia que l&#8217;infern són els altres. Que els ulls dels altres poden veure&#8217;ns cometent una falta. Que els altres poden denunciar-nos. I, de sobte, amb la pandèmia, l&#8217;infern som nosaltres. El vector de transmissió som nosaltres. De cop i volta, ens reconeixem com a lesius. Però l&#8217;home blanc occidental mai s&#8217;ha sentit amenaça, i quan s&#8217;ha sentit amenaça en realitat és perquè l&#8217;ha executat. Això erosiona la seva posició de poder perquè ha de desplaçar-se cap a un territori que mai ha ocupat: el de l&#8217;altre. I això trenca una mica les lectures tradicionals del jo, la masculinitat, els masclismes. Vindrà una crisi econòmica brutal i el sistema en sortirà&nbsp;malferit, però em sembla que ens pot fer pensar-nos de maneres diferents.</p>
+
+
+
+<p><strong>Continuant amb les distopies,&nbsp;<em>Matrix</em>&nbsp;introdueix la gestació en úters artificials -allò que es coneix com&nbsp;a <em>ectogènesi</em>&#8211;&nbsp;mentre la nova de&nbsp;<em>Blade&nbsp;Runner</em>&nbsp;(2017) introdueix la natalitat dins de l&#8217;univers robot. Si això acaba succeint, quines conseqüències tindrà per a les dones? Les podria alliberar o tot just al contrari?</strong></p>
+
+
+
+<p>Una de les idees dels projectes feministes que han quallat més enllà del feminisme és que la biologia no és destí. És a dir, que no tenim per què fer cas als dictats dels nostres cossos. Crec que qualsevol cosa que permeti superar el destí, perquè possibilita ampliar les maneres d&#8217;ocupar la realitat, és bo. Aleshores, si l&#8217;ectogènesi&nbsp;allibera la dona de ser l&#8217;esclava de tenir fills -i dic esclava perquè de moment és l&#8217;única que pot fer-ho-, em sembla perfecte. Que després hi haurà dones que decidiran tenir fills&nbsp;per via intrauterina? Doncs fantàstic. Després podríem plantejar-nos si l&#8217;ectogènesi dins d&#8217;un aparell capitalista beneficiaria o no a les dones, però estaríem qüestionant més l&#8217;aparell capitalista i no tant la tecnologia <em>per se</em>. Encara que també és cert que no hi ha tecnologies neutres, però això és un altre debat.</p>
+
+
+
+<p>I, per altra banda, hi ha la qüestió de la maternitat a&nbsp;<em>Blade&nbsp;Runner</em>. De sobte, si els robots poden tenir fills, sorgeix la pregunta de què passa si la capacitat d&#8217;engendrar vida tampoc ens defineix com a humans. Encara que jo no sóc més humà per ser fill intrauterí de la meva mare. La dependència de la carn és una estupidesa. Allò perillós és que la filla robot sigui digital i no analògica. I el nostre cos -aquesta intel·ligència de la qual parlava Nietzsche- és&nbsp;super&nbsp;analògic. Perquè és la nostra integració amb el món, una continuació del món. I algunes tecnologies són una mena d&#8217;exclusió de la vida. Estem inventant un tercer estat entre la vida i la mort, que és allò que jo anomeno&nbsp;infravida.&nbsp;Infravida&nbsp;també és l&#8217;estat de les gallines amuntegades en els inferns de les granges avícoles. És una culminació del domini de la vida. És l&#8217;epítom de la lògica que va d&#8217;Aristòtil a l&#8217;algorísmia dels ordinadors, i no un reconeixement a la vida com allò inesperat, diferent, obert.</p>
+
+
+
+<p><strong>Entre altres coses ets assessor ètic d&#8217;empreses. Com evitar que el teu treball es quedi en el blanqueig ètic d&#8217;un&nbsp;<em>business&nbsp;plan</em>?</strong></p>
+
+
+
+<p>Jo intento definir els marcs ètics en què operen les companyies i, clar, sempre intento que no quedi en un blanqueig ètic. Un marc ètic és un conjunt de pràctiques que l&#8217;empresa pot fer abans de generar danys a tercers. I això no ha de confondre&#8217;s amb una forma de consol. En primer lloc, l&#8217;ètica no pot venir donada des de fora. Són les mateixes companyies les que han de descobrir quin és el seu marc ètic. No m&#8217;interessa tant fer-los un decàleg com plantejar-los com poden fer bé allò que fan. Després, cal definir el “bé”, i molts solen anomenar-lo “impacte positiu”. Perquè aquest impacte positiu sigui real, cal veure a qui afecta i de qui depèn. I per a això cal analitzar tota la cadena d&#8217;involucrats, on sempre s&#8217;amaguen sectors o poblacions més desfavorides, més mal pagades, menys qualificades, … Hi ha una llei que, en aquest moment polític actual, pot ajudar-nos amb això: “Sempre del costat del perdedor”. És a dir, tenir en compte que sempre hi ha un perjudicat. Intentar definir qui és el perjudicat en la cadena de valor per a perjudicar-lo el mínim o, si és possible, empoderar-lo. I, a partir d&#8217;aquí, ampliar aquest cercle virtuós als treballadors, a les persones, a la comunitat on treballes, etcètera. La idea és evitar que només quedi en un&nbsp;<em>business&nbsp;plan</em> i, perquè això passi, han de donar-se dues condicions: la primera és que les persones facin seu aquest marc ètic i, la segona, i la més important, és construir polítiques que obliguin a executar-lo. No hi ha res pitjor que tenir una visió moral d&#8217;allò que fas i no ho compleixis.</p>
+
+
+
+<p><strong>El món està molt fragmentat i tenim un camp de visió molt estret. En el terreny empresarial, hi ha manera d&#8217;evitar ser esclau del sistema i no convertir-te en un engranatge més?</strong></p>
+
+
+
+<p>Sobre això s&#8217;ha escrit molt. La construcció seriada de la realitat parcel·la la nostra capacitat d&#8217;actuació i la nostra responsabilitat moral. Imaginem que hi ha un milió de torturadors amb un milió de dispositius que només emeten un volt. Cap d&#8217;ells, aïlladament, electrocuta el torturat. Allò que mata és la suma dels volts. Què és allò que els faria moralment responsables d&#8217;aquesta mort? El fet de saber que, si tots apreten el botó al mateix temps, provoquen una mort. Potser cal tornar a perseguir la majoria d&#8217;edat kantiana, i assimilar que si seguim comprant segons quina roba estem fotent a algú. Però d&#8217;allò que no ens podem alienar responsablement és de no mirar. No podem dir que no ho sabíem, perquè tots sabem quina és la realitat. Quan&nbsp;Amancio&nbsp;Ortega regala milions d&#8217;euros en material sanitari està comprant l&#8217;aprovació moral de la societat. Però en realitat el seu problema moral és no haver respectat als perjudicats de la cadena de valor de les seves empreses.</p>
+
+
+
+<p>Llavors, com fer que aquest marc ètic no quedi en pur blanqueig? Cal posar límits a les nostres accions, perquè potser els nostres guanys no compensen el mal que fem. És un pensament una mica&nbsp;antiutilitarista. La idea que el benefici de les majories val més que el perjudici de les minories és mentida. Si el benefici es crea matant a algú, mai podrà compensar-se el mal. Per això, com ha passat amb la pandèmia, la clau és prendre consciència que som amenaça.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1011</post-id>	</item>
+		<item>
+		<title>Visita virtual a set museus del món</title>
+		<link>/2020/04/17/visita-virtual-a-set-dels-millors-museus-del-mon/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2020 20:13:54 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Art]]></category>
+		<category><![CDATA[Museus virtuals]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Street View]]></category>
+		<guid isPermaLink="false">/?p=982</guid>
+
+					<description><![CDATA[Per què no repassar els vestits de Frida Kahlo des del llit? O submergir-se en la mirada de la Mona Lisa des del sofà? O viatjar a l'Índia a través dels seus vestigis artístics amb un clic?]]></description>
+										<content:encoded><![CDATA[
+<p>Per què no repassar l&#8217;art de Frida Kahlo des del llit? O submergir-se en la mirada de la Mona Lisa des del sofà? O viatjar a l&#8217;Índia a través dels seus vestigis artístics amb un clic? La pandèmia mundial no ha aconseguit tancar els museus que ofereixen <em>tours</em> virtuals, gràcies a eines com Google Arts &amp; Culture i Street View. Aquí teniu set propostes per assaborir centenars d&#8217;obres artístiques del més al nivell sense sortir de casa ni pagar un cèntim.</p>
+
+
+
+<h3>El Museu de Frida Kahlo (La Casa Azul, Ciutat de Mèxic)</h3>
+
+
+
+<p>La Casa Azul és on Frida Kahlo, l&#8217;artista mexicana més popular del món, va viure i exhalar l&#8217;últim alè. Amb Diego Rivera, el seu marit, van omplir l&#8217;edifici de colors i peces d&#8217;art popular. Kahlo va fer de la llar el seu univers creatiu, i entre aquestes parets reposen molts dels seus objectes personals i algunes de les obres més importants de l&#8217;artista, com Viva la Vida (1954), Frida y la cesárea (1931) o Retrato de mi padre Wilhem Kahlo (1952).</p>
+
+
+
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="https://artsandculture.google.com/partner/museo-frida-kahlo" target="_blank">Visita virtual a La Casa Azul</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i0.wp.com/tecnologa.cat/wp-content/uploads/2020/04/frida-ok-1-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1047" srcset="/wp-content/uploads/2020/04/frida-ok-1-scaled.jpg 2560w, /wp-content/uploads/2020/04/frida-ok-1-300x179.jpg 300w, /wp-content/uploads/2020/04/frida-ok-1-1024x610.jpg 1024w, /wp-content/uploads/2020/04/frida-ok-1-768x457.jpg 768w, /wp-content/uploads/2020/04/frida-ok-1-1536x914.jpg 1536w, /wp-content/uploads/2020/04/frida-ok-1-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>La Casa Azul, Museu de Frida Kahlo.</figcaption></figure>
+
+
+
+<h3>Galeria dels Uffizi (Florència)</h3>
+
+
+
+<p>La Galeria Uffizi és un dels temples de la cultura europea que més pateix la massificació, amb sales plenes a vessar i cues infinites a l&#8217;entrada. Però res d&#8217;això incordiarà els visitants virtuals, que poden repassar des de casa les pintures de Botticelli, Leonardo i Caravaggio i un arxiu de més de 4.000 obres catalogades. </p>
+
+
+
+<p class="has-text-align-center"><a href="https://artsandculture.google.com/partner/uffizi-gallery" target="_blank" rel="noreferrer noopener">Visita virtual a la Galeria Uffizi</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i2.wp.com/tecnologa.cat/wp-content/uploads/2020/04/botticelli-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1003" srcset="/wp-content/uploads/2020/04/botticelli-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/botticelli-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/botticelli-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/botticelli-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/botticelli-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/botticelli-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>El naixement de Venus<br>Sandro Boticelli &#8211; 1482-1485</figcaption></figure>
+
+
+
+<h3>Museu Van Gogh (Àmsterdam)</h3>
+
+
+
+<p>Els usuaris poden visualitzar les pinzellades del postimpressionista holandès a cop de clic, endinsar-se en la seva biografia i passejar virtualment per la famosa Habitació d&#8217;Arlès i el gran ventall d&#8217;escenaris que va plasmar sobre tela. Vincent Van Gogh només va aconseguir vendre un sol quadre mentre vivia. Mai va imaginar-se que es convertiria en un dels artistes més influents del segle XX i que el seu museu atrauria cada any milions de visitants.</p>
+
+
+
+<p class="has-text-align-center"><a href="https://artsandculture.google.com/partner/van-gogh-museum?hl=en" target="_blank" rel="noreferrer noopener">Visita virtual al Museu Van Gogh</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/04/vangogh-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1004" srcset="/wp-content/uploads/2020/04/vangogh-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/vangogh-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/vangogh-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/vangogh-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/vangogh-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/vangogh-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Terrassa de cafè de nit<br>Vincent Van Gogh &#8211; 1888</figcaption></figure>
+
+
+
+<h3>Museu Bhau Daji Lad (Bombai, Índia)</h3>
+
+
+
+<p>Mapes, litografies, relíquies arqueològiques i models d&#8217;argila és només una petita porció d&#8217;allò que trobarà l&#8217;espectador al Bhau Daji Lad, un dels museus més antics d&#8217;aquesta regió índia que mostra el seu patrimoni cultural i històric a través d&#8217;una estranya i bella col·lecció d&#8217;arts decoratives que, a més, fan evident que el país va acollir un precoç art modern. </p>
+
+
+
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="https://artsandculture.google.com/partner/dr-bhau-daji-lad-mumbai-city-museum" target="_blank">Visita virtual al Bhau Daji Lad</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i0.wp.com/tecnologa.cat/wp-content/uploads/2020/04/india-ok-1-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1048" srcset="/wp-content/uploads/2020/04/india-ok-1-scaled.jpg 2560w, /wp-content/uploads/2020/04/india-ok-1-300x179.jpg 300w, /wp-content/uploads/2020/04/india-ok-1-1024x610.jpg 1024w, /wp-content/uploads/2020/04/india-ok-1-768x457.jpg 768w, /wp-content/uploads/2020/04/india-ok-1-1536x914.jpg 1536w, /wp-content/uploads/2020/04/india-ok-1-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Una de les sales del museu.</figcaption></figure>
+
+
+
+<h3>Museu Britànic (Londres)</h3>
+
+
+
+<p>La visió de 360 graus d&#8217;aquest <em>tour</em> virtual ens permet assaborir de prop la Pedra Rosetta, les mòmies egípcies i altres meravelles de l&#8217;Antiguitat. Els risc és perdre&#8217;s sota l&#8217;allau de coneixement que regala un museu que aixopluga dos milions d&#8217;anys d&#8217;història i quatre milions d&#8217;objectes que invoquen l&#8217;herència artística de tota la humanitat. </p>
+
+
+
+<p class="has-text-align-center"><a href="https://blog.britishmuseum.org/how-to-explore-the-british-museum-from-home/" target="_blank" rel="noreferrer noopener">Visita virtual al Museu Britànic</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i0.wp.com/tecnologa.cat/wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-990" srcset="/wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-scaled.jpg 2560w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-300x179.jpg 300w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-1024x610.jpg 1024w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-768x457.jpg 768w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-1536x914.jpg 1536w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Mòmia egípcia</figcaption></figure>
+
+
+
+<h3>Museu Dalí (Figueres)</h3>
+
+
+
+<p>El surrealisme a un clic. La Fundació Dalí ofereix un recorregut virtual i interactiu per l&#8217;interior del museu que ens permet submergir-nos en l&#8217;univers oníric d&#8217;aquest artista clau del segle XX. El recorregut tridimensional ens convida a mirar terra i sostre, on s&#8217;hi amaguen algunes sorpreses, i ens permet crear el nostre propi itinerari per recórrer 11 sales d&#8217;un edifici fascinant.</p>
+
+
+
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="https://www.salvador-dali.org/es/museos/teatro-museo-dali-de-figueres/visita-virtual/" target="_blank">Visita virtual al Museu Dalí</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/04/dali-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1006" srcset="/wp-content/uploads/2020/04/dali-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/dali-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/dali-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/dali-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/dali-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/dali-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Nen geopolític vigilant el naixement de l’home nou<br>Salvador Dalí &#8211; 1943</figcaption></figure>
+
+
+
+<h3>Museu del Louvre (París)</h3>
+
+
+
+<p>Referents artístics de l&#8217;impressionisme, les belles arts més estudiades i escultures emblemàtiques descansen dins les parets d&#8217;aquest museu meravellós. El somriure de la Gioconda ha captivat durant segles a visitants dels cinc continents i veure-la al museu sense caps tapant la seva imatge és quasi una missió impossible. El web del Louvre ofereix visites guiades virtuals per disfrutar del museu sense trencar la quarantena.</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.louvre.fr/en/visites-en-ligne#tabs" target="_blank" rel="noreferrer noopener">Visita virtual al Louvre</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/04/monalisa-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1007" srcset="/wp-content/uploads/2020/04/monalisa-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/monalisa-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/monalisa-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/monalisa-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/monalisa-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/monalisa-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Mona Lisa (La Gioconda)<br>Leonardo da Vinci &#8211; 1503-1505</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">982</post-id>	</item>
+		<item>
+		<title>El voluntariat digital triomfa en la competició catalana d&#8217;apps per al confinament</title>
+		<link>/2020/04/16/el-voluntariat-digital-triomfa-en-la-competicio-catalana-dapps-per-al-confinament/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2020 16:33:11 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Ajudem.cat]]></category>
+		<category><![CDATA[Alex Párraga]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Coronatíquets]]></category>
+		<category><![CDATA[Departament de Polítiques Digitals]]></category>
+		<category><![CDATA[Digital Future Society]]></category>
+		<category><![CDATA[Edukiapp]]></category>
+		<category><![CDATA[Fundació i2CAT]]></category>
+		<category><![CDATA[Hackató]]></category>
+		<category><![CDATA[Hacker]]></category>
+		<category><![CDATA[Hackovid]]></category>
+		<category><![CDATA[Humbert Blanco]]></category>
+		<category><![CDATA[Jordi Puigneró]]></category>
+		<category><![CDATA[Juan Irache]]></category>
+		<category><![CDATA[Lucía Román]]></category>
+		<category><![CDATA[Marc Aymerich]]></category>
+		<category><![CDATA[Marc Celeiro]]></category>
+		<category><![CDATA[Mobile World Capital Barcelona]]></category>
+		<category><![CDATA[Nebots]]></category>
+		<category><![CDATA[Pau Riba]]></category>
+		<category><![CDATA[Regalocal]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Toti Moragas]]></category>
+		<category><![CDATA[Trick-troc]]></category>
+		<category><![CDATA[UPCoders]]></category>
+		<category><![CDATA[Voluntariat digital]]></category>
+		<guid isPermaLink="false">/?p=961</guid>
+
+					<description><![CDATA[La &#8216;Hackovid&#8217; dona un impuls a la tecnologia ètica per a la quarentena &#8220;Tot granet de sorra compta&#8221; a l&#8217;hora d&#8217;encarar els reptes socials que&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>La &#8216;Hackovid&#8217; dona un impuls a la tecnologia ètica per a la quarentena</h2>
+
+
+
+<p>&#8220;Tot granet de sorra compta&#8221; a l&#8217;hora d&#8217;encarar els reptes socials que planteja la pandèmia. Així ho pensa l&#8217;Humbert Blanco que, al costat del Marc Celeiro i el Pau Riba -d&#8217;entre 17 i 21 anys- aquest dimecres han recollit virtualment el primer guardó de la &#8216;<a rel="noreferrer noopener" href="https://hackovid.cat/solutions" target="_blank">Hackovid</a>&#8216;, un concurs d&#8217;aplicacions innovadores per trobar solucions als entrebancs del confinament i el post-confinament. </p>
+
+
+
+<p>La proposta de Blanco, Celeiro i Riba és la plataforma <a rel="noreferrer noopener" href="https://ajudem.cat/" target="_blank">Ajudem.cat</a>, que facilita el voluntariat entre veïns. Així, la pàgina és un punt de trobada entre els qui volen ajudar i els qui necessiten un cop de mà, tenint en compte la proximitat geogràfica. I no només això. També ofereix informació i consells sobre la Covid-19 i compta amb una plataforma de videotrucades de programari lliure i de codi obert. &#8220;Hem utilitzat la infraestructura que tenim, de manera que els servidors són nostres i no suposa cap risc per a la privacitat”, subratlla Blanco a La Tecnòloga. I tot això ha estat desenvolupat en només 12 dies. &#8220;Hem treballat moltíssim i hem dormit poc&#8221;, admet. Però al final l&#8217;esforç ha valgut la pena i ara, gràcies al premi, el projecte compta amb 7.000 euros de pressupost.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2049.png" alt="⁉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Què és i com funciona <a href="https://t.co/PiKxBhLiQ1">https://t.co/PiKxBhLiQ1</a>? T&#39;ho expliquem en aquest vídeo! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4f9.png" alt="📹" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/SomAix%C3%AD?src=hash&amp;ref_src=twsrc%5Etfw">#SomAixí</a> <a href="https://t.co/frhBfujfDY">pic.twitter.com/frhBfujfDY</a></p>&mdash; Ajudem.cat (@ajudem_cat) <a href="https://twitter.com/ajudem_cat/status/1249283199282425861?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div><figcaption>Ajudem.cat facilita el voluntariat entre veïns.</figcaption></figure>
+
+
+
+<p>La &#8216;Hackovid&#8217;, impulsada pel Departament de Polítiques Digitals i la <a rel="noreferrer noopener" href="https://www.i2cat.net/about-us/" target="_blank">Fundació i2CAT</a>, amb el suport de la Mobile World Capital Barcelona, ha aconseguit reunir en aquesta primera &#8216;hackató&#8217; -o sigui, una marató de persones vinculades a la informàtica- més de 300 participants i més de 50 mentors per fer realitat una seixantena de solucions tecnològiques per a fer més digerible la quarantena. </p>
+
+
+
+<p>&#8220;S&#8217;han plantejat propostes genials i demostren que el sector tecnològic aporta un gran valor a la societat; ara més que mai&#8221;, afirma Blanco. Un valor que també ha subratllat el conseller de Polítiques Digitals i Administracions Públiques, Jordi Puigneró, durant la cerimònia virtual: &#8220;La crisi de la Covid-19 ha evidenciat fins a quin punt les tecnologies poden ser unes grans aliades no només per sortir de la crisi sanitària, sinó també per construir un futur amb més progrés i oportunitats&#8221;.</p>
+
+
+
+<h3>Tecnologia per a tothom</h3>
+
+
+
+<p>Enmig dels aplaudiments virtuals, també han rebut el premi de la Digital Future Society, dotat amb 5.000 euros, <a rel="noreferrer noopener" href="https://nebots.cat/" target="_blank">pel servei web i telefònic d&#8217;assistència tècnica voluntària &#8216;Nebots&#8217;</a>, desenvolupat per Juan Irache i Lucía Román, que són programador i metgessa. La pàgina pretén posar en contacte gent gran amb dificultats per entendre temes tècnics d’informàtica amb voluntaris entesos aquests àmbits -els anomenats &#8216;nebots&#8217;-. </p>
+
+
+
+<p>Irache explica a La Tecnòloga que la hackató ha servit per materialitzar una idea que ja existia abans d&#8217;arrencar la competició. &#8220;Tenim una piràmide poblacional cada cop més invertida i, per tant, no hi ha una persona jove que pugui ajudar a cada persona gran&#8221;, comenta. &#8220;La clau de Nebots -continua el programador- és que es basa en noves tecnologies però no requereix que els seus usuaris les utilitzin ja que poden, simplement, marcar un número de telèfon&#8221;.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="nebots — assistència tècnica humana" width="1160" height="653" src="https://www.youtube.com/embed/aiAxYJSkrPM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>Nebots és un servei web i telefònic d&#8217;assistència tècnica voluntària. NEBOTS</figcaption></figure>
+
+
+
+<p>Una empenta a la reactivació del comerç local va ser una de les necessitats més votades per la ciutadania, durant la fase inicial, i també és allò que ha donat forma als projectes dels qui s&#8217;han fet amb el segon, el tercer i el quart premi de la Hackovid. </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://upcoders.eebe.upc.edu/" target="_blank">Coronatíquets</a>, que s&#8217;ha endut 4.000 euros de pressupost, és un servei de tíquets per demanar hora per anar a les botigues i, d&#8217;aquesta manera, evitar que hi coincideixin més persones amb l&#8217;objectiu d&#8217;eludir aglomeracions i contagis. &#8220;Creiem que l&#8217;aplicació pot ser&nbsp;útil&nbsp;per estalviar patiment a molts petits comerços durant la desacceleració econòmica&#8221;, explica Tomàs Gea, que és enginyer electrònic. Ell i els seus companys d&#8217;equip -Toti Moragas, Marc Aymerich i Alex Párraga- formen part dels <a rel="noreferrer noopener" href="https://www.instagram.com/upcoders/" target="_blank">UPCoders</a>, una associació de programadors de la UPC. &#8220;Amb l&#8217;ajuda de la nostra app, els petits comerços que s&#8217;han vist forçats a tancar podran tornar a obrir les botigues de forma moderada, reduint així els impactes econòmics que puguin patir&#8221;, afegeix Gea.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Anunci Coronatiquets Hackovid" width="1160" height="653" src="https://www.youtube.com/embed/rAhCFlJ26Xo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>Coronatíquets és un servei de tíquets per demanar hora per anar a les botigues. CORONATÍQUETS</figcaption></figure>
+
+
+
+<p>Per la seva banda, <a rel="noreferrer noopener" href="https://www.regalocal.com/" target="_blank">Regalocal</a> ha obtingut 3.000 euros per desenvolupar un servei web gratuït&nbsp;que permet comprar cupons de regal en comerços locals per poder bescanviar un cop aquests tornin a obrir. </p>
+
+
+
+<p>Mentrestant, <a rel="noreferrer noopener" href="https://www.tricktroc.cat/home" target="_blank">Trick-troc</a> ha fet realitat una plataforma de comerç electrònic per promoure i millorar l’accessibilitat de la venda online i la distribució de productes de comerç local amb una finalitat social gràcies a una moneda virtual, el Troc, amb què es poden obtenir descomptes en comerços locals o fer donatius a entitats benèfiques de productes de comerços locals. Els ha valgut un premi de 2.000 euros. </p>
+
+
+
+<p>El cinquè premi de la Hackovid ha estat per als creadors de <a rel="noreferrer noopener" href="https://apps.apple.com/us/app/edukiapp/id1507658309?l=ca&amp;ls=1" target="_blank">l&#8217;Edukiapp</a>, una aplicació d&#8217;educació a distància per a professors i alumnes d&#8217;Infantil i Primària. </p>
+
+
+
+<h3>La solidaritat es propaga</h3>
+
+
+
+<p>Tot va començar el 3 d&#8217;abril, amb una fase de participació ciutadana. <a rel="noreferrer noopener" href="https://hackovid.cat/solutions" target="_blank">Les 60 solucions que s&#8217;hi han plantejat</a> donen resposta a alguns dels reptes més votats per la ciutadania d’entre les 175 necessitats socials identificades com aprendre des de casa, l&#8217;aprovisionament d’aliments, l&#8217;atenció especial a col·lectius de risc, tornar al mercat laboral, la solidaritat entre veïns o teletreballar.</p>
+
+
+
+<p>Però la Hackovid és només una gota de la pluja d&#8217;esforços col·laboratius que s&#8217;han propagat amb la pandèmia. Alguns d&#8217;aquests projectes han agafat una dimensió exponencial des de la seva creació, com és el cas de <a rel="noreferrer noopener" href="/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/" target="_blank">Coronawhy, una organització de tecnòlegs voluntaris</a> que treballen per fer digerible amb Intel·ligència Artificial la col·lecció d’articles científics vinculats a l&#8217;epidèmia per facilitar la recerca mèdica. D&#8217;altra banda, la setmana que ve la Comissió Europea acull una hackató per connectar la societat civil i tecnòlegs i inversors de tot el continent per desenvolupar solucions innovadores per combatre el virus que ha posat en pausa el món.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">We will host on 24-26 April a pan-European Hackathon to connect civil society, innovators, partners and buyers across Europe to develop innovative solutions to <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a>.<br><br>Register now and be part of the solution! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/27a1.png" alt="➡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/yUexZYLB55">https://t.co/yUexZYLB55</a> <a href="https://twitter.com/hashtag/EUvsVirus?src=hash&amp;ref_src=twsrc%5Etfw">#EUvsVirus</a> <a href="https://t.co/I5qbDJnTl3">pic.twitter.com/I5qbDJnTl3</a></p>&mdash; European Commission <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ea-1f1fa.png" alt="🇪🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@EU_Commission) <a href="https://twitter.com/EU_Commission/status/1250095573908312067?ref_src=twsrc%5Etfw">April 14, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">961</post-id>	</item>
+		<item>
+		<title>Dol virtual en temps de quarantena</title>
+		<link>/2020/04/04/dol-virtual-en-temps-de-quarantena/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 04 Apr 2020 10:17:49 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Alife]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Bel Ferrer]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[dol virtual]]></category>
+		<category><![CDATA[Jordi Martínez]]></category>
+		<category><![CDATA[Nara Jeevan]]></category>
+		<category><![CDATA[Psicologia]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Societat]]></category>
+		<guid isPermaLink="false">/?p=930</guid>
+
+					<description><![CDATA[Es disparen els usuaris de l’aplicació Alife, que permet vetllar online els difunts &#8220;Per ara, és com si la mare no hagués mort&#8221;, escriu el&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Es disparen els usuaris de l’aplicació <em>Alife</em>, que permet vetllar online els difunts</h2>
+
+
+
+<p>&#8220;Per ara, és com si la mare no hagués mort&#8221;, escriu el filòsof Albert Camús a <em>L&#8217;Estrany</em>, quan li arriba per telegrama la notícia. L&#8217;inici d&#8217;aquesta obra ens evoca als qui, en aquests temps anòmals, perden familiars i amics des de la distància. Aquest divendres s&#8217;han extingit 173 vides a Catalunya, i 12 a les Balears. I molt probablement ho han fet sense el consol del contacte físic. Potser sí virtual. En època de quarentena per la Covid-19, són sovint els professionals sanitaris qui fan costat als malalts terminals i intenten una comunicació telemàtica amb la família. Les xarxes són el mirall d&#8217;aquesta situació insòlita i angoixant. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr">Ahir vaig haver d’aguantar el telèfon a la orella d’un pacient mentre la filla es despedia del seu pare. Dur, molt dur. I està passant. Quedeu-vos a casa siusplau. <a href="https://twitter.com/hashtag/Covid_19?src=hash&amp;ref_src=twsrc%5Etfw">#Covid_19</a></p>&mdash; Violeta Torrent Pinart (@violetatorrent) <a href="https://twitter.com/violetatorrent/status/1241300859612475393?ref_src=twsrc%5Etfw">March 21, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr">Darrera de cada xifra hi ha un nom i una família destrossada. Avui li ha tocat a la meva. El nostre nom és el de Marina. Tothom l’estimava i no era la seva hora. El virus se l’ha emportat en sis dies. Gràcies a la gent de <a href="https://twitter.com/Mutua_Terrassa?ref_src=twsrc%5Etfw">@Mutua_Terrassa</a> per cuidar-la i per acostar-li el telèfon.</p>&mdash; Xavi Coral (@xavicoral) <a href="https://twitter.com/xavicoral/status/1244698345932808197?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>L&#8217;Hospital de Son Espases, a Palma, ha aconseguit tauletes per posar en contacte els pacients per coronavirus i les famílies. El Grup d&#8217;Educadors de Carrer i Treball amb Menors (GREC) hi col·labora &#8220;<a rel="noreferrer noopener" href="https://www.facebook.com/558552354191268/photos/rpp.558552354191268/2935280143185132/?type=3&amp;theater" target="_blank">perquè les persones majors, gent sense recursos ni connexió a Internet</a> o inexperts tecnològics també puguin beneficiar-se del servei&#8221;, amb paraules de l&#8217;educador de l&#8217;entitat Iñaki Vega. A l&#8217;Hospital de Sant Pau, a Barcelona, els infermers també han muntat un <a rel="noreferrer noopener" href="https://www.ccma.cat/324/els-hospitals-estableixen-protocols-per-poder-acomiadar-se-dels-malalts-mes-greus/noticia/2999699/" target="_blank">sistema per fer arribar missatges a una pantalla</a> que poden veure els malalts, i la Societat Catalana de Tecnologia ha <a rel="noreferrer noopener" href="https://www.iec.cat/activitats/noticiasencera.asp?id_noticies=2758" target="_blank">impulsat la donació de dispositius electrònics per connectar famílies i pacients</a> en l&#8217;últim tram de la vida. </p>
+
+
+
+<p>Però amb el distanciament social també s&#8217;han prohibit vetlles i funerals per a tothom (i no només pels afectats del coronavirus). Per això, <a rel="noreferrer noopener" href="https://alife.social/es/" target="_blank">l&#8217;aplicació <em>Alife</em></a>, que permet crear el perfil d&#8217;una persona que ha mort i, d&#8217;aquesta manera, homenatjar-la i facilitar el dol dels qui l&#8217;han estimat, ha multiplicat per nou la seva activitat des del 15 de març, segons Jordi Martínez, el CEO d&#8217;<em>Alife</em>, que compta de mitjana un miler de nous usuaris cada tres dies. </p>
+
+
+
+<p>&#8220;Mai oblidaré cada cop que obries la porta i em deies que havia crescut molt des de l&#8217;última vegada que ens vam veure. T&#8217;estimo i no t&#8217;oblidaré!&#8221;, escriu una usuària d&#8217;<em>Alife</em> per rememorar algú que ja no hi és. Aquest missatge es llegeix a la <a rel="noreferrer noopener" href="https://alife.social/es/" target="_blank">pàgina d&#8217;inici del web de l&#8217;aplicació</a>, però no tot el contingut que s&#8217;hi introdueix és públic. &#8220;Hi ha diversos nivells de privacitat. En un lloc s&#8217;hi comparteix la informació de la cerimònia funerària i, en un altre, que pot ser més reduït, recrea un espai més íntim i respecta al màxim la privacitat&#8221;, explica Martínez. D&#8217;aquesta manera, l&#8217;app permet compartir fotografies, vídeos, escrits, cites i anècdotes amb el cercle social del difunt, i permet fer-ho &#8220;amb un clic, en qualsevol moment, amb el mòbil i des de casa&#8221;, afegeix el director. </p>
+
+
+
+<p>Fins fa unes setmanes, l&#8217;aplicació es comercialitzava a través de les funeràries. Però davant de l&#8217;estat d&#8217;alarma, <em>Alife</em> ha obert la seva aplicació i actualment qualsevol la pot fer servir sense intermediaris. Per a fer-ho, només cal escriure un correu a info@alife.social perquè les famílies puguin recrear un espai virtual de vetlla i dol compartit en cas que els tanatoris no l&#8217;hagin proporcionat. A més, l&#8217;app és totalment gratuïta per als usuaris i l&#8217;únic cost es troba en la creació del perfil del difunt.</p>
+
+
+
+<h3>Bel Ferrer, psicòloga: &#8220;L&#8217;afecte no entén de fronteres físiques&#8221;</h3>
+
+
+
+<p><em>La Tecnòloga</em> ha demanat l&#8217;opinió sobre la vetlla virtual a una psicòloga especialitzada en processos de dol, Bel Ferrer, que valora molt positivament les possibilitats que ofereix aquesta eina. &#8220;Tot allò que serveix per compartir, elaborar i gestionar el dol em sembla fantàstic&#8221;, afirma Ferrer, que recolza l&#8217;opció d&#8217;acomiadar els familiars per telèfon. &#8220;Per nosaltres és important el tacte i la vista, però en aquesta situació, allò més important és l&#8217;afecte, i l&#8217;afecte no entén de fronteres físiques&#8221;, assegura la psicòloga, que encapçala l&#8217;associació <a rel="noreferrer noopener" href="https://www.facebook.com/Nava-Jeevan-acompanyament-emocional-als-processos-de-malaltia-mort-i-dol-1339453789398104/" target="_blank">Nava Jeevan, dedicada a l&#8217;acompanyament emocional als processos de malaltia, mort i dol</a> (s&#8217;hi pot contactar escrivint al correu associacionavajeevan@gmail.com o telefonant al 695 250 240, i aquests dies ofereixen la seva assistència per videoconferència).</p>
+
+
+
+<p>Ferrer recomana decididament comunicar-se amb la persona que és a punt de morir: &#8220;Podem donar les gràcies per tot allò que ha fet, dir-li que l&#8217;estimam i donar significat a la seva vida, que senti que pot tancar el cercle vital&#8221;. Després de la mort, l&#8217;especialista aconsella donar-se permís per viure el dol: &#8220;És bo parlar amb naturalitat de la persona estimada que ha partit, plorar la seva absència, expressar les emocions i compartir-les&#8221;. Afegeix, a més, que &#8220;la ritualització de la pèrdua és important&#8221; independentment de les creences dels qui viuen l&#8217;òbit. I, d&#8217;alguna manera, ara tot això es pot fer <em>online</em>. En la mateixa línia, la Societat Funerària Catalana i el Col·legi Oficial de Psicologia de Catalunya han elaborat un <a rel="noreferrer noopener" href="https://www.copc.cat/adjuntos/adjunto_15309/v/Recomanacions%20per%20afrontar%20la%20mort%20d%E2%80%99una%20persona%20estimada%20durant%20el%20confinament%20per%20l%E2%80%99epid%C3%A8mia%20de%20COVID-19.pdf?tm=1585304549" target="_blank">manual per fer front a la mort d&#8217;una persona estimada durant el confinament</a>. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">930</post-id>	</item>
+		<item>
+		<title>Seducció en línia: Internet ha canviat les regles del joc?</title>
+		<link>/2020/02/27/seduccio-online-adeu-als-jocs-de-mirades/</link>
+					<comments>/2020/02/27/seduccio-online-adeu-als-jocs-de-mirades/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 27 Feb 2020 22:02:29 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Amor digital]]></category>
+		<category><![CDATA[Digital Love]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Filosofia]]></category>
+		<category><![CDATA[influencers]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[Selfie]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Tinder]]></category>
+		<category><![CDATA[Xarxes Socials]]></category>
+		<guid isPermaLink="false">/?p=824</guid>
+
+					<description><![CDATA[Lligant a través de Tinder, Facebook o Instagram, la representació dels usuaris -sovint manipulada- guanya el rol protagonista i la veritat queda relegada al segon pla. ]]></description>
+										<content:encoded><![CDATA[
+<h2>Molts usuaris s’han obsessionat amb la performance sexual, experimentant cada cop més ansietat davant el temor de no complir les expectatives durant la unió, segons un estudi</h2>
+
+
+
+<div class="wp-block-columns are-vertically-aligned-center">
+<div class="wp-block-column is-vertically-aligned-center">
+<blockquote class="wp-block-quote"><p>«I sens dubte els nostres temps prefereixen la imatge abans que la cosa, la còpia abans que l’original, la representació abans que la realitat, l’aparença abans que el ser. Ara, allò ‘sagrat’ és la il·lusió, mentre allò profà és la veritat.» </p><p>Ludwig Feuerbach</p></blockquote>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center"></div>
+</div>
+
+
+
+<p>Qui no ha tingut mai un amor platònic? Potser ens hem enamorat de qui coneixíem ben poc, de qui no ens feia cas o de qui, directament, no sabia que existíem. És un amor unilateral, no correspost. Mancat de reciprocitat. És més el desig d’una idea que no pas d’algú real. L’enamorament nascut a Internet també és idealista en el sentit platònic. Lligant a través de Tinder, Facebook o Instagram, la representació dels usuaris -sovint manipulada- guanya el rol protagonista i la veritat queda relegada al segon pla. A la xarxa, l’enginy per semblar interessant i desitjable és el catalitzador d’un públic <em>voyeur</em> i infinit que busca sense descans contactar amb els altres en un espai sense olfacte, ni paraules en viu, ni jocs de mirades.&nbsp;</p>
+
+
+
+<h2>El jo</h2>
+
+
+
+<p>Internet va néixer amb la promesa de fer públic el coneixement. I en part, el somni s’ha fet realitat. Ara tenim més informació al nostre abast i, allò que és més important: podem compartir-la. Però ho podem fer en la mesura que hi estem registrats en pàgines i perfils socials centrats en la identitat individual: l’element bàsic que basteix tota l’estructura. “Com si ens haguessin donat uns prismàtics que convertissin tot el que veiem en un reflex de nosaltres mateixos”, escriu <a rel="noreferrer noopener" aria-label="Jia Tolentino a ‘Falso Espejo’ (opens in a new tab)" href="http://lab.cccb.org/ca/el-jo-a-internet/" target="_blank">Jia Tolentino a ‘Falso Espejo’</a>. I de l’anhel d’un Internet alliberador, hem quedat atrapats pel propi jo online -continua Tolentino-, mentre les plataformes que havien de connectar-nos, han passat a induir l’alienació a una escala massiva.</p>
+
+
+
+<p>Algú sol fent petons a una pantalla ens pot fer riure, però també ens recorda que la xarxa és la finestra cap a un públic invisible i sense fons. La pressió és enorme. No podem dir-ho tot perquè el preu pot ser massa elevat (una possible condemna social). I, de la mateixa manera, no podem quedar malament a les fotos (quants futurs amants podem perdre?). I així, <a rel="noreferrer noopener" aria-label="al despotisme dels cànons estètics s’hi suma l’encadenament a la pròpia representació (opens in a new tab)" href="http://lab.cccb.org/ca/rellegir-debord/" target="_blank">al despotisme dels cànons estètics s’hi suma l’encadenament a la pròpia representació, adverteix Ingrid Guardiola en aquest article</a>. “El filtre <em>Facetune</em> és com fer-te cirurgia plàstica amb el mòbil”, conta una usuària que vol operar-se per ser com les seves selfies. &nbsp;</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="I Got Surgery to Look Like My Snapchat and Facetune Selfies" width="1160" height="653" src="https://www.youtube.com/embed/5ZOpLpSNW6c?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Però&#8230; quin és el jo autèntic? Si més no, a la xarxa hi mostrem un jo polièdric: una identitat presumiblement coherent que ha de poder de ser vista per diferents persones amb una opinió imprevisible. Una imatge que servirà de mediació per a diverses relacions socials. Una representació a través de la qual plantegem preguntes com ‘us agrado?’ o ‘us agrado fent això?’. Però tot això ja ho trobàrem reflectit a l’art d’Andy Warhol, on l’obra perd importància i guanya rellevància l’autor. També Warhol va popularitzar la voluntat d’exhibir-se com un fenomen universal. Cert o no, ara en tenim les eines.</p>
+
+
+
+<h2>L’altre</h2>
+
+
+
+<p>És mala època per als qui volen lligar a la xarxa i no són fotogènics o no tenen gràcia per escriure punyents peus de foto. No tenir el do pot restar punts, i molts. En canvi, els més enginyosos seran els més presents als <em>timelines</em> -ajudats pels algoritmes-, els aspirants a <em>influencer</em>, els qui entren als somnis i autoprojeccions dels altres perquè, d’alguna manera, quasi sempre hi són presents: cada cop que obren l’Instagram.&nbsp;</p>
+
+
+
+<p>Cada cop més connectats i, tot i així, més sols, separats, alienats. I no és casualitat. Tal com revela Judith Duportail al seu estudi sobre Tinder, que plasma a <em>El algoritmo del amor</em>, el que pretén l’aplicació és que ens hi enamorem, sí, però que sempre hi acabem tornant. “És important recordar a tots els que utilitzen o han utilitzat aquest tipus d’aplicacions de <em>dating</em> que la soledat és una part important del seu bussiness plan”, <a rel="noreferrer noopener" aria-label="va dir l’autora en una entrevista a l’Ara (opens in a new tab)" href="https://www.ara.cat/cultura/Tinder-construir-parelles-desiguals_0_2285171474.html" target="_blank">va dir l’autora en una entrevista a l’Ara</a>.&nbsp;</p>
+
+
+
+<p>La comunitat de fans de les estrelles porno de dibuixos animats com <em>Projekt Melody</em>, que s’ha convertit en tot un fenomen, podria entendre’s com la màxima expressió d’un cert platonisme. Entre els seguidors més fervents de Melody hi ha els anomenats ‘digisexuals’, que expressen la seva identitat sexual a través de la tecnologia. I, segons els fans, aquest és només el començament. Alguns sostenen que les dones virtuals són el futur, o sigui, una versió millorada de les de carn i ossos. <a rel="noreferrer noopener" aria-label="“Bots not thots” (”Els robots no són promiscus”), escriuen alguns a les comunitats virtuals (opens in a new tab)" href="https://www.wired.com/story/projekt-melody-anime-porn-stars/" target="_blank">“<em>Bots not thots</em>” (”Els robots no són promiscus”), escriuen alguns a les comunitats virtuals</a>. I això cal llegir-ho com una clara mostra de misogínia. No és estrany que molts seguidors de Melody coincideixin als espais més foscos i masclistes d’Internet: les comunitats d’<a href="https://elpais.com/tecnologia/2020/02/03/actualidad/1580691442_090373.html">incels -una abreviació en anglès de ‘cèlibes involuntaris’</a>.&nbsp;</p>
+
+
+
+<p>Mentrestant, la cantant hologramàtica Hatsune Miku omplia al gener el Sant Jordi Club a Barcelona. La influencer virtual Lil Miquela, que té quasi 2 milions de seguidors a Instagram, és l’esquer de campanyes publicitàries i marques de luxe internacionals. El petó virtual que es va fer amb la model Bella Hadid per a la marca Calvin Klein va donar la volta al món -sense estalviar-se la polèmica.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Miquela and Bella Hadid Get Surreal | CALVIN KLEIN" width="1160" height="653" src="https://www.youtube.com/embed/JuTowFf6B9I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Més enllà dels enamoraments <em>online</em>, el documental <em>Meeting you</em>, emès per la cadena MBC, mostra com una mare utilitza realitat virtual per acomiadar-se de la seva filla de 7 anys, morta quatre anys abans. La mare, amb les ulleres posades, parla amb la nena i li acaricia els cabells. Al final, la petita ofereix un ram de flors a la mare i s’estira al llit dient que està cansada i que l’estima. Tot seguit, es queda adormida, es transforma en una papallona blanca i se’n va volant amb delicadesa. </p>
+
+
+
+<p>La mare va assegurar que la recreació de la filla -que va costar vuit mesos de feina- la va ajudar a superar el dol, tot i que a l’altra banda dels seus plors no hi havia ningú. Una mostra d’amor unilateral, sense receptor, sense retorn. Una experiència que recorda l’idealisme més extrem: el solipsisme de Berkeley, segons el qual la realitat es deriva de l’activitat de la pròpia ment i no hi ha res més enllà d’un mateix. El reportatge va desfermar el debat sobre les implicacions morals i psicològiques de retrobar-se amb éssers estimats que ja no hi són.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Virtual reality &quot;reunites&quot; mother with dead daughter in South Korean doc" width="1160" height="653" src="https://www.youtube.com/embed/0p8HZVCZSkc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<h2>La unió</h2>
+
+
+
+<p>Una <em>app</em> per lligar pot ajudar a socialitzar-se a qui ha perdut la xarxa social -la de debò. Potser les relacions de parella no han canviat tant, però amb Internet s’ha obert un món de possibilitats i hi ha més terreny per explorar. Coses bones, també n’hi ha. Tot i així, Judith Duportail conta que Tinder disposa d’un registre de 800 pàgines de cada usuari i que, al mateix temps, et classifica segons la bellesa, el gènere, els estudis i la condició sense que ho sàpigues.&nbsp;</p>
+
+
+
+<p>A més, la disponibilitat de tantes potencials parelles fa que les persones siguin menys receptives a continuar sortint amb algú amb qui no es van entusiasmar. Les cites s’han tornat més complicades per la gran quantitat de participants en el joc. El flirteig ha esdevingut un fi en si mateix. <a rel="noreferrer noopener" aria-label="Segons un informe de Havas (opens in a new tab)" href="https://download.havas.com/prosumer-reports/love-in-the-digital-age/" target="_blank">Segons un informe del Havas Group</a>, més d&#8217;un terç de la població admet que està més interessada en rebre l’aprovació de la comunitat que a trobar un company sexual. I el 39% dels participants en la recerca -quasi 17.500 persones majors de 13 anys de 37 països diferents- admeten que, estant dins d’una relació, continuen oberts a trobar algú millor.</p>
+
+
+
+<p>Si al món <em>offline</em> el físic, les feromones o els jocs de mirades juguen un paper clau, al món <em>online</em>, segons l’informe, molts usuaris s’han obsessionat amb la performance sexual, experimentant cada cop més ansietat davant el temor de no complir les expectatives durant l’encontre. En conseqüència, el sexe s’ha convertit en un esdeveniment atlètic que demana entrenament. Més d’un 40% dels participants en la recerca es van mostrar disposats a monitoritzar la seva activitat sexual per millorar-la.</p>
+
+
+
+<p>Així, l’amor <em>online</em> s’ha objectivitzat i racionalitzat a mesura que la gent està cada cop més disposada a lliurar els desitjos a les dades i la tecnologia. Les aplicacions, els algoritmes i la intel·ligència artificial es consideren una bona manera d’optimitzar la cerca d’un amant.</p>
+
+
+
+<h2>El romanticisme no ha mort&nbsp;</h2>
+
+
+
+<p>Tot i així, vuit de cada deu persones continuen convençudes que l’amor pot durar per sempre. I la majoria -dos terços dels homes i més de la meitat de les dones- creuen que sense una parella romàntica falta a la vida quelcom d&#8217;essencial. De fet, la noció d’amor etern és encara tan present que més d’un 40% prefereix romandre en una relació que no és del tot satisfactòria, que no pas estar sol. Però, igual que la tecnologia ha fet aparèixer noves formes de començar una relació, també ha propiciat noves maneres d’acabar-les. Segons el mateix informe, quasi el 60% de la gent creu que és més fàcil tallar a través d’un missatge o les xarxes socials que no pas en persona. Simplement esvaïnt-se.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/27/seduccio-online-adeu-als-jocs-de-mirades/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">824</post-id>	</item>
+		<item>
+		<title>“M’han arribat a dir que sóc massa guapa per ser informàtica”</title>
+		<link>/2020/02/11/mhan-arribat-a-dir-que-som-massa-guapa-per-ser-informatica/</link>
+					<comments>/2020/02/11/mhan-arribat-a-dir-que-som-massa-guapa-per-ser-informatica/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Tue, 11 Feb 2020 10:38:10 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Dones]]></category>
+		<category><![CDATA[Feminisme]]></category>
+		<category><![CDATA[Recerca]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[STEM]]></category>
+		<category><![CDATA[Tecnologia]]></category>
+		<guid isPermaLink="false">/?p=729</guid>
+
+					<description><![CDATA[Les dones no arriben al 8,5% del total de matriculats a Enginyeria Informàtica a la Universitat de les Illes Balears i només representen entre el 15 i el 18% dels treballadors amb perfil tècnic del sector digital de l'arxipèlag]]></description>
+										<content:encoded><![CDATA[
+<h2>Les dones no arriben al 8,5% del total de matriculats a Enginyeria Informàtica a la Universitat de les Illes Balears i representen com a màxim el 18% dels treballadors amb perfil tècnic del sector digital</h2>
+
+
+
+<p>Diu l’estereotip que a les dones no els agraden les carreres tècniques. I en el món dels programadors, l’estereotip es tradueix en xifres. María Calzada i Clara Bonnín, enginyeres informàtiques i programadores d’Habitíssimo, ho varen comprovar el primer dia de classe. “Al primer curs, érem almenys 120 alumnes i només quatre dones”, recorda Calzada. La masculinització del món informàtic les desconcerta, perquè a totes dues els encanta l’ofici. “Té un vessant creatiu molt estimulant”, diu Bonnín encongint les espatlles. Tot i això, els clixés hi són i les persegueixen. “M’han arribat a dir que sóc massa guapa per ser informàtica -lamenta Calzada-, i fins i tot massa normal”. A Bonnín també l’han tractada d’estranya, i al masclisme hi afegeix “el mite de l’informàtic ‘freaky’, sense aptituds socials, quan és tot el contrari”.</p>
+
+
+
+<p class="has-text-align-center"><strong>Llegeix <a rel="noreferrer noopener" aria-label="l'article complet a l'ARA Balears (opens in a new tab)" href="https://www.arabalears.cat/societat/han-arribat-massa-guapa-informatica_0_2395560521.html" target="_blank">l&#8217;article complet a l&#8217;ARA Balears</a>.</strong></p>
+
+
+
+<p class="has-small-font-size">Foto: María Calzada i Clara Bonnín, enginyeres informàtiques i programadores d’Habitíssimo, durant un dels actes organitzats per la <a rel="noreferrer noopener" aria-label="Plataforma 11F, amb motiu del Dia de la Dona i la Nina en la Ciència (opens in a new tab)" href="https://11fbalears.org/" target="_blank">Plataforma 11F, amb motiu del Dia de la Dona i la Nina en la Ciència</a>. Autora: <em>Anna Schnabel</em>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/11/mhan-arribat-a-dir-que-som-massa-guapa-per-ser-informatica/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">729</post-id>	</item>
+	</channel>
+</rss>

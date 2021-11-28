@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Algorithm &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/algorithm/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:34:54 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Algorithm &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Els algoritmes invisibles de Catalunya</title>
+		<link>/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/</link>
+					<comments>/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 14 Feb 2020 22:38:59 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[ADA]]></category>
+		<category><![CDATA[ADM]]></category>
+		<category><![CDATA[Algorithm]]></category>
+		<category><![CDATA[Algorithm Decision Making]]></category>
+		<category><![CDATA[Algoritme]]></category>
+		<category><![CDATA[Algoritmes de Decisió Automatitzada]]></category>
+		<category><![CDATA[APDCAT]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Autoritat Catalana de Protecció de Dades]]></category>
+		<category><![CDATA[Facial Recognition]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Karma Peiró]]></category>
+		<category><![CDATA[Reconeixement Facial]]></category>
+		<guid isPermaLink="false">/?p=738</guid>
+
+					<description><![CDATA[Predir la reincidència criminal, escriure notícies o concedir ajuts socials: un informe recull més de cinquanta exemples de decisions automatitzades al territori català Prendre una&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Predir la reincidència criminal, escriure notícies o concedir ajuts socials: un informe recull més de cinquanta exemples de decisions automatitzades al territori català</h2>
+
+
+
+<p>Prendre una decisió no és simple, i menys quan la llibertat d’algú està en joc. Abans de concedir un permís o alliberar un pres, els jutges han de posar sobre la taula moltes variables. Tot i així, una màquina els ajuda. Fa deu anys que les presons catalanes fan servir una eina intel·ligent per valorar el risc de reincidència, el RisCanvi, que ja s’ha utilitzat amb vint mil presos. El sistema fa una predicció a partir de 43 variables que combina un sistema matemàtic: la biografia del pres, l’historial delictiu, la conducta dins la presó, el nivell educatiu, els vincles familiars, possibles patologies i addiccions, l’edat, el gènere o si ha nascut a l’Estat espanyol, entre altres. Un sistema similar ha aixecat una <a href="/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/">gran polèmica als Estats Units pels biaixos racistes que presentava</a>, ja que atribuïa més probabilitat de reincidència als negres que als blancs. Tot i així, cap investigació no ha demostrat que passi el mateix amb el RisCanvi i, a més, les decisions automatitzades són validades després per un professional humà.&nbsp;</p>
+
+
+
+<p>Aquest és un dels cinquanta exemples que apareixen a l’<a rel="noreferrer noopener" aria-label="informe Intel·ligència Artificial. Decisions Automatitzades a Catalunya (opens in a new tab)" href="https://apdcat.gencat.cat/web/.content/04-actualitat/noticies/documents/INFORME-INTELLIGENCIA-ARTIFICIAL-FINAL-WEB-OK.pdf" target="_blank">informe <em>Intel·ligència Artificial. Decisions Automatitzades a Catalunya</em></a>, elaborat per <a rel="noreferrer noopener" aria-label="Karma Peiró per encàrrec de l’Autoritat Catalana de Protecció de Dades (APDCAT) (opens in a new tab)" href="https://www.karmapeiro.com/" target="_blank">Karma Peiró per encàrrec de l’Autoritat Catalana de Protecció de Dades (APDCAT)</a>. El text treu a la llum alguns dels casos més sorprenents de decisions automatitzades que es prenen a Catalunya, però també subratlla la necessitat de prendre consciència -ens hi juguem les dades més íntimes- sense oblidar <a rel="noreferrer noopener" aria-label="els dilemes ètics que planteja la Intel·ligència Artificial (opens in a new tab)" href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/" target="_blank">la llarga llista dels dilemes ètics que planteja la Intel·ligència Artificial</a> (IA): “Cal dissenyar una IA segura i confiable, en què s’integrin els principis de la transparència, l’explicabilitat, la seguretat, l’auditabilitat i la responsabilitat”, hi escriu la presidenta de l’APDCAT, M. Àngels Barbarà.</p>
+
+
+
+<h3>L’aula intel·ligent</h3>
+
+
+
+<p>A escoles i instituts, les aplicacions de la Intel·ligència Artificial són diverses. Per exemple, s’ha començat a fer servir un programa nord-americà -l’<em>Assessment and Learning in Knowledge Spaces</em>&#8211; que determina &#8220;de manera ràpida i precisa&#8221; allò que sap i que no sap un estudiant sobre una assignatura. Els anomenats Algoritmes de Decisió Automatitzada (ADA) també poden dir com formar els grups de classe, en el decurs d’una activitat, en funció de les personalitats dels estudiants, evaluades prèviament. Segons el creador de l’eina, es busca fer equips equilibrats.&nbsp;</p>
+
+
+
+<p>A les aules també hi han entrat els assistents virtuals per crear mètodes d’estudi personalitzats. Fins i tot alguns són capaços d’alertar l’alumne que està a punt d’oblidar un coneixement après, mesurant la velocitat de l’oblit i recomanant una revisió de la lliçó abans que la memòria l’esborri. No hi podia faltar <a rel="noreferrer noopener" aria-label="el reconeixement facial, que s’ha utilitzat als instituts per controlar l’assistència dels alumnes (opens in a new tab)" href="/2019/10/07/reconeixement-facial/" target="_blank">el reconeixement facial, que s’ha utilitzat als instituts per controlar l’assistència dels alumnes</a>. De fet, l’APDCAT ha imposat recentment un procés sancionador a un d’aquests centres que, tot i que ara ha retirat el sistema, l’ha utilitzat des del 2012.</p>
+
+
+
+<h3>Periodisme Artificial</h3>
+
+
+
+<p>L’empresa <a href="https://www.narrativa.com/">Narrativa</a>, que genera notícies amb Intel·ligència Artificial, ja treballa per a 25 mitjans de comunicació i agències de notícies espanyoles. De moment, els algoritmes d’aquesta empresa només redacten articles amb base a dades objectives -per exemple, resultats electorals, dades econòmiques o la previsió del temps. Tot i així, amb aquesta eina, els mitjans doblen o tripliquen el volum d’articles diaris. “La màquina és superexacta en la creació de continguts; no dirà que un altre jugador ha marcat el gol, ni s’equivocarà en els resultats electorals de tal partit perquè beu de les dades”, hi explica David Lorente, el fundador. A més, el sistema s’entrena amb l’hemeroteca del mitjà que el contracta, n’imita el to i l’estil d’escriptura i, a més, supera els redactors de carn i ossos en velocitat, volum d’informació, precisió i correcció ortogràfica, tal com diu Lorente, per a qui l’opinió i les <em>fake news</em> són línies roges.</p>
+
+
+
+<h3>Extradició de migrants</h3>
+
+
+
+<p>El Departament de Matemàtiques i Informàtica de la Universitat de Barcelona (UB) ha elaborat un sistema que recull tots els casos d’extradició de persones migrants que han passat pel Tribunal Suprem i ha creat un model matemàtic que pot ajudar els jutges a decidir si l’afectat s’empara o no en els criteris que evitarien el seu retorn -per exemple, el risc de mort, de contraure una malaltia greu, de tortura o de tractament cruel, inhumà o degradant. El sistema, que encara no s’ha posat en pràctica a Catalunya, també podria ajudar els advocats i les associacions d’ajuda a les persones migrants, segons l&#8217;investigador de l&#8217;UB Jordi Vitrià.</p>
+
+
+
+<h3>Els bancs ho saben tot</h3>
+
+
+
+<p>La banca va ser la primera en fer servir els ADA, especialment a l’hora de concedir un crèdit o una hipoteca. Però… amb base a quina informació decideix l’ordinador? “Els bancs saben el teu sou, allò que gastes i factures, on vius i amb quanta gent, a quins horaris hi entres i en surts, controlen els mòbils&#8230; “ <a href="https://www.ccma.cat/catradio/alacarta/popap/quins-algoritmes-que-sutilitzen-a-catalunya-ens-afecten-directament/audio/1063189/">explicava l’autora de l&#8217;estudi, Karma Peiró, en una entrevista al Popap</a>. D’aquesta manera, l’algorisme fa una “radiografia integral” de tots els seus clients i, segons el perfil de cadascú, concedeixen o no un préstec, o li ofereixen determinats serveis.&nbsp;</p>
+
+
+
+<h3>Algorismes pels ajuts socials</h3>
+
+
+
+<p>L’Ajuntament de Barcelona ha començat a fer servir un sistema intel·ligent per agilitzar la concessió d’ajuts socials, a partir d’un repositori de tres-centes mil entrevistes i tècniques d’aprenentatge automàtic. Segons l’informe, les persones que acudeixen als centres de serveis socials de la ciutat amb problemes econòmics, situacions de dependència o violència de gènere han de passar una primera entrevista amb un assistent i seguir una sèrie de passos que eternitzen el procés. Però la Intel·ligència Artificial ha permès simplificar la burocràcia i, per tant, agilitzar la concessió d’ajuts.</p>
+
+
+
+<h3>Detectar els mals</h3>
+
+
+
+<p>Els hospitals són plens d’algoritmes que assisteixen els professionals humans. “El metge veu coses que l’algorisme no veu, i l’algorisme troba patrons que l’ull humà no veu: l’algorisme mira els arbres i el metge el bosc”, diu Ramón López de Mántaras, professor investigador del Consell Superior d’Investigacions Científiques (CSIC). &#8220;Assenyala que en la detecció del càncer de mama, hi ha estudis que demostren que el millor metge té un error del 5% o 6% amb les mamografies i l’ADA, del 6% o 7%, però que, treballant plegats, l’error és només del 0,5%”, diu l&#8217;informe. Però les màquines, que es nodreixen de tot l’historial de proves i diagnòstics acumulats durant anys, també serveixen per detectar l’exageració del dolor per poder accedir a una baixa, per exemple. I quan l’ordinador ho adverteix, la Seguretat Social denega la baixa.&nbsp;</p>
+
+
+
+<p>A l’àmbit de la salut, també s’utilitza el reconeixement facial per detectar transtorns per dèficit d’atenció amb hiperactivitat (TDAH) i depressions. El Centre de Visió per Computació (CVC) de la Universitat Autònoma de Barcelona (UAB) ha posat en marxa un sistema que analitza els gestos i les expressions facials dels menors d&#8217;edat i, a més, estudia el seu comportament a les xarxes socials.&nbsp;</p>
+
+
+
+<h3>Ètica i interessos comercials</h3>
+
+
+
+<p>Servint-se d&#8217;algoritmes, les agències de viatges apugen preus als qui reserven l’hotel des d’un barri benestant, o la Viquipèdia detecta les entrades incorrectes. Amb el reconeixement facial, es detecta un possible criminal o si un acusat menteix, en situacions de custòdia de menors. Aquests són només altres exemples de l’ús de la Intel·ligència Artificial a Catalunya, però la llista és molt més llarga.&nbsp;</p>
+
+
+
+<p>És perillosa aquesta col·lonització de la Intel·ligència Artificial en les nostres vides? Els algoritmes poden contenir biaixos, sí, però allò cert és que tampoc no podem dir que molts professionals siguin imparcials: també tenen prejudicis. Per això, l’autora de l’informe, Karma Peiró, es pregunta qui pot ser més just: un jutge o una màquina? De moment, no dona una resposta, com tampoc hi ha resposta quan algú demana a l’algoritme per què ha arribat a determinada conclusió. Per això, a les aplicacions dedicades al processament del llenguatge natural com ara els traductors, la diagnosi mèdica, la bioinformàtica o la detecció del frau financer se les anomena <a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">“caixes negres”, i és aquest, actualment, un dels grans dilemes de la IA</a>.</p>
+
+
+
+<p>&#8220;És ètic que els bancs ho sàpiguen tot de nosaltres, hàbits de consum, despeses i preferències d’oci i ens vulguin fidelitzar amb ofertes de productes, en funció de l’anàlisi del rendiment que han fet de nosaltres? És ètic que l’habitació d’un hotel em costi més diners a mi que al meu veí perquè saben a quin barri visc i poden interpretar la meva renda?&#8221;. S&#8217;ho pregunta Victòria Camps, Catedràtica d’Ètica i Filosofia del Dret Moral i Polític de la Universitat Autònoma de Barcelona (UAB), que reclama diferenciar entre l’interès comercial i l’ètica. Just amb aquesta intenció, la Comissió Europea prepara una nova llei que ha de veure la llum abans del 10 de març, segons va prometre la nova presidenta, Ursula von der Leyen, quan va assumir el càrrec. Però, <a href="/2020/02/15/etica-inteligencia-artificial-tapadora/">serà capaç, Europa, de fer una regulació independent de les grans tecnològiques?</a> </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">738</post-id>	</item>
+		<item>
+		<title>Algoritmes esbiaixats: màquines que no fan justícia</title>
+		<link>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/</link>
+					<comments>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/#respond</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2019 12:22:37 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Algorithm]]></category>
+		<category><![CDATA[Algoritme]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Aprenentatge Automàtic]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Salut]]></category>
+		<category><![CDATA[Tinder]]></category>
+		<guid isPermaLink="false">/?p=297</guid>
+
+					<description><![CDATA[Florida, 2014. Una tarda de primavera, Brisha Borden i un amiga, totes dues de 18 anys, roben una bici i un patinet. En plena fugida,&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Florida, 2014. Una tarda de primavera, Brisha Borden i un amiga, totes dues de 18 anys, roben una bici i un patinet. En plena fugida, s’adonen que són massa grans per conduir els vehicles, que pertanyen a un nen de sis anys. La policia les arresta i les acusa de robar uns objectes valorats en 80 dòlars. A l’estiu anterior, Vernon Prater, de 41 anys, és detingut per robar a una botiga diversos articles que sumen 86,35 dòlars. Està en cerca i captura i ja ha passat cinc anys a la presó per robatori armat i dos delictes més. A la presó, un sistema informàtic anomenat COMPAS* puntua la probabilitat de reincidència dels reclusos. A Borden, de pell negra, li atribueix un risc elevat i a Prater, de pell blanca, un risc baix. Dos anys després, es descobreix que l’algoritme predictiu no l’ha encertada: Borden no ha comès cap altra infracció, mentre Prater compleix una pena de vuit anys de presó per un altre robatori.</p>
+
+
+
+<p>Aquest no és un cas aïllat. Dos anys després d’aquests fets, <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">una investigació de Propublica va demostrar</a> que el sistema tendia a assignar riscos molt més elevats a les persones de pell fosca que a les de pell blanca. Era el resultat d’allò que es coneix com a biaix predictiu; en aquest cas, racista.</p>
+
+
+
+<h2>D’on surt aquest biaix?</h2>
+
+
+
+<p>L&#8217;origen s’amaga en els principis més bàsics dels algoritmes predictius, també anomenats d’Aprenentatge Automàtic (Machine Learning, en anglès). Aquests algoritmes, actualment tant habituals, es basen en una anàlisis estadística de dades històriques, a partir de les quals s’extreuen patrons que més endavant serveixen per fer prediccions sobre noves dades. Com a conseqüència, si aquestes dades històriques contenen una representació esbiaixada de la realitat, les prediccions de l’algoritme predictiu reproduiran el mateix biaix.</p>
+
+
+
+<p>Però això no és tot. L’estudi de Propublica va demostrar que la diferència a l’hora d’avaluar persones de colors diferents no s&#8217;explicava només per unes dades històricament esbiaixades, sinó que l&#8217;algoritme tendia a equivocar-se de manera diferent en funció de si examinava persones de pell negra o de pell blanca. Així, COMPAS va atribuir el doble de vegades un risc erròniament alt de reincidència als presos de pell negra; mentre va assignar un risc erròniament baix a molts més reclusos de pell blanca. Per tant, en aquest cas, la Intel·ligència Artificial no ajudava a mitigar les diferències racials inherents a les dades històriques, sinó que encara les potenciava més.</p>
+
+
+
+<p>Per què? Propublica ressaltava que COMPAS no preguntava la raça del pres per formar l’algoritme. No obstant això, les variables que utilitzava per obtenir informació eren 137 preguntes personals sobre el detingut i el seu entorn, com “Els teus amics o familiars formen part de bandes criminals?” o “Has provat l&#8217;heroïna?”. Però el problema és que, als Estats Units, les diferències socials entre els col·lectius racials són prou importants com perquè es vegin reflectides en aquest tipus de respostes. Així, si s&#8217;evités proporcionar a l&#8217;algoritme dades que permeten deduir el color de pell, es quedaria sense informació per a fer prediccions amb precisió.</p>
+
+
+
+<h2>Conseqüències en el treball, en la salut, en l’amor</h2>
+
+
+
+<p>El cas de COMPAS no és una excepció, ja que els biaixos predictius són un fenomen inherent als algoritmes d’Intel·ligència Artificial, que són cada dia més freqüents al nostre entorn. </p>
+
+
+
+<p>El 2014, <a href="https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G?utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz--y-ycxgaCuFg_VJZNKEV72YYe72ryGDwDcZmF4qpvJJsCrmqY2DqHNktpSZD4K2U0Vk-Ri">Amazon va desenvolupar una eina intel·ligent per reclutar els millors treballadors</a>. Un any més tard, la multinacional va adonar-se que als llocs tècnics no hi havia cap dona. La companyia va abandonar l’eina després que una auditoria interna trobés que els candidats homes havien obtingut més puntuació que les dones. Per què? <a href="https://medium.com/think-by-shifta/por-qu%C3%A9-la-inteligencia-artificial-discrimina-a-las-mujeres-18b123ecca4c">Tal com expliquen Karma Peiró i Ricardo Baeza-Yates a Medium</a>, les dades massives que serviren per nodrir l’algoritme de sel·lecció de personal es basaven en currículums rebuts durant l&#8217;última dècada, quan amb prou feines hi havia dones programadores. Quan el sistema automàtic detectava la paraula “dona” o un sinònim, la penalitzava i puntuava més baix.</p>
+
+
+
+<p>En l’àmbit sanitari, als Estats Units s’utilitzen algoritmes per guiar algunes decisions mèdiques. El 25 d’octubre, <a href="https://science.sciencemag.org/content/366/6464/447.full?utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz--y-ycxgaCuFg_VJZNKEV72YYe72ryGDwDcZmF4qpvJJsCrmqY2DqHNktpSZD4K2U0Vk-Ri">la revista Science explicava que els models utilitzats per assignar cures</a> als 100 milions de pacients nordamericans que pateixen malalties cròniques, com atacs de cor o diabetis, prioritzaven els pacients blancs en detriment dels negres, i rebien abans una assistència mèdica urgent.</p>
+
+
+
+<p>Al llibre El Algoritmo del Amor, Judith Duportail explica que <a href="https://www.arabalears.cat/cultura/Tinder-construir-parelles-desiguals_0_2285171474.html">l’algoritme de Tinder classifica els usuaris segons la bellesa, el gènere, els estudis i la classe social</a>. Duportail sosté que els homes amb més ingressos i nivell d’estudis tenen una gratificació i, en canvi, a les dones amb els mateixos atributs se les penalitza. Per això, considera que Tinder vol construir parelles desiguals en què l’home sempre sigui superior: amb més estudis, més ingressos i més edat. Com s&#8217;explica això? Per una banda, l’algoritme és el resultat d’una compilació de dades que ha tingut lloc dins una societat masclista i, per l’altra banda, segons l’autora del llibre, els programadors de l’aplicació han introduït els seus propis biaixos dins el programari. Com trencar aquest cercle viciós?</p>
+
+
+
+<h2>Algunes solucions</h2>
+
+
+
+<p>El <a href="https://fedit.com/2017/09/proyecto-fair-un-algoritmo-para-evitar-discriminaciones-en-la-busqueda-de-trabajo-o-de-pareja/">Centre Tecnològic Eurecat, de la mà de la Universitat Pompeu Fabra (UPF) i la Universitat Tècnica de Berlín</a>, ha creat un algoritme, anomenat FA*IR, per evitar la discriminació per raons de gènere, procedència o aparença física en cercadors de feina o de parella. FA*IR detecta els biaixos i els corregeix incorporant un mecanisme per a reordenar els resultats sense afectar la validesa del rànquing. <a href="https://www.upf.edu/recercaupf/-/asset_publisher/RVNxhLpxnc9g/content/id/226511859/maximized">Des de l’UPF, a més, proposen utilitzar els algoritmes de manera crítica</a> i en col·laboració amb experts de l’àrea que correspongui.</p>
+
+
+
+<p>Rachel Thomas, directora del Centre d’Ètica Aplicada a les Dades de la Universitat de San Francisco, recomana que cada conjunt de dades es presenti amb un document on s’hi descrigui com es va compilar. També aconsella especificar-hi qualsevol preocupació ètica o legal que hagi pogut sorgir durant el procés. Suggereix, tanmateix, que els equips incloguin gent diversa capaç d’advertir els diferents biaixos.</p>
+
+
+
+<p>El 2017, l’<a href="https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf">Associació de Maquinària Informàtica (ACM) publicà un manifest</a> en defensa de la transparència algorítimica i va establir set principis:</p>
+
+
+
+<ol><li>Consciència. Els creadors d’aquests sistemes han de ser conscients de la possibilitat que hi hagi biaixos en el seu disseny, implementació i ús.</li><li>Accés. Els reguladors han d’afavorir l’introducció de mecanismes perquè els individus i grups negativament afectats per decisions algorítmiques puguin qüestionar-les i rectificar-les.</li><li>Passar comptes. Les institucions han de ser responsables de les decisions de l’algoritme, encara que no puguin detallar com s’han pres.</li><li>Explicació. Les institucions que empren sistemes intel·ligents han de promoure la producció d’explicacions sobre els procediments i les decisions específiques que s’hi prenen.</li><li>Procedència de les dades. Les dades emprades per a l’entrenament han d’anar acompanyades d’una descripció del seu origen.</li><li>Auditabilitat. Models, dades i decisions han de quedar registrats perquè puguin auditar-se quan se sospita d’algun error.</li><li>Validació i proves. Les institucions han de fer proves rutinàries per a avaluar i determinar si el model genera discriminació.</li></ol>
+
+
+
+<h2>Encara queda molt per fer</h2>
+
+
+
+<p>Malgrat els esforços, els biaixos algoritmics són entre els grans problemes de la comunitat científica. En alguns casos, les dades sovint reflecteixen diferències no atribuïbles a biaixos, sinó que són resultat d’una descripció objectiva de la realitat i no té sentit corregir-los. A vegades, però, aquests contrastos són producte de certes diferències històriques que cal pal·liar per construir una societat més justa. Tot plegat requereix una feina complexa però necessària per redefinir com conceptualitzem el món i, en conseqüència, com obtenim les dades. Al mateix temps, és urgent introduir l&#8217;Ètica a l&#8217;hora d&#8217;entrenar models intel·ligents que, de ben segur, tindran un gran impacte social.</p>
+
+
+
+<h5>Notes:</h5>
+
+
+
+<p class="has-small-font-size">*COMPAS és l&#8217;acrònim de Correctional Offender Management Profiling for Alternative Sanctions, que en català es tradueix com a Perfilat per la Gestió Correctiva d&#8217;Infractors per Sancions Alternatives.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">297</post-id>	</item>
+	</channel>
+</rss>

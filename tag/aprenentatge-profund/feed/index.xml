@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Aprenentatge Profund &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/aprenentatge-profund/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 23 May 2020 11:28:39 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Aprenentatge Profund &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Intel·ligència Artificial per combatre el Covid-19</title>
+		<link>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/</link>
+					<comments>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 20 Mar 2020 21:26:48 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Aprenentatge Profund]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Coronavirus]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Robotics]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[SARS]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Virus]]></category>
+		<category><![CDATA[Xarxes Neuronals]]></category>
+		<guid isPermaLink="false">/?p=847</guid>
+
+					<description><![CDATA[La Intel·ligència Artificial, la ciència de dades i la tecnologia tenen un paper clau per rastrejar i combatre la pandèmia del coronavirus]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">Imatge: <a rel="noreferrer noopener" aria-label="Casos de COVID-19 segons el Centre de Sistemes, Ciència i Enginyeria (CSSE) a la Universitat John Hopkins (JHU) (opens in a new tab)" href="https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6" target="_blank">Casos de COVID-19 segons el Centre de Sistemes, Ciència i Enginyeria (CSSE) de la Universitat John Hopkins (JHU)</a> el dia 20 de març a les 22:30 hores. </p>
+
+
+
+<h2>La Intel·ligència Artificial, la ciència de dades i la tecnologia tenen un paper determinant en rastrejar i combatre la pandèmia del coronavirus</h2>
+
+
+
+<p>El món ha emmalaltit. L&#8217;últim dia d&#8217;hivern tanca amb més de 259.000 casos confirmats per coronavirus i 11.250 morts, i els mitjans de comunicació ens recorden a tothora que no hem tocat sostre. Però enmig de les males notícies, una d’esperançadora. Aquesta setmana, la Xina, on es va originar la pandèmia, ha registrat per primer cop zero contagis locals. I el robust sector tecnològic de la segona potència mundial hi ha tingut un paper determinant. Concretament, la Intel·ligència Artificial (IA), la ciència de dades i la tecnologia per rastrejar i combatre el Covid-19. Per exemple, un sistema de control que utilitza dades massives (<em>Big Data</em>) per identificar i avaluar el risc de cada individu en funció del seu historial de viatges o la possible exposició a persones portadores del virus.</p>
+
+
+
+<p>El gegant asiàtic, però, també ha fet ús del vessant més polèmic de la tecnologia. El sofisticat sistema de vigilància del règim de Xi Jinping <a href="/2019/10/13/els-perills-del-reconeixement-facial/">s’ha servit del reconeixement facial</a> i de programari de detecció de temperatura per identificar persones que tenen febre o més probabilitats de patir el virus. Fins i tot va proporcionar a la policia de la regió de Sichuan cascos intel·ligents per identificar persones amb temperatura elevada. Mentre l’exigència de la privadesa en el tractament de les dades personals guanya pes arreu, és sabut que a la Xina la protecció de la informació personal decau en l’escala de prioritats.&nbsp;</p>
+
+
+
+<h3><strong>IA per predir un brot</strong></h3>
+
+
+
+<p>Tot i així, la Intel·ligència Artificial pot ajudar-nos en aquest gran repte que tenim al davant d’una manera menys problemàtica. Per exemple, l&#8217;IA es fa servir per detectar l’afectació del Covid-19, pot guiar el desenvolupament de fàrmacs o identificar, rastrejar i pronosticar els brots. De fet, abans que es fessin públics els primers casos de coronavirus, la Intel·ligència Artificial ja ho sabia. El 31 de desembre, un algoritme desenvolupat per una empresa canadenca especialitzada en avaluar el risc de malalties infeccioses, BlueDot, ja havia descobert el brot i avisat de la notícia als seus clients, <a href="https://www.wired.com/story/ai-epidemiologist-wuhan-public-health-warnings/">segons Wired</a>, deu dies abans que l’Organització Mundial de la Salut (OMS) donés l’avís.</p>
+
+
+
+<p>D’aquesta manera, <a rel="noreferrer noopener" aria-label="el sistema de BlueDot (opens in a new tab)" href="https://bluedot.global/" target="_blank">el sistema de BlueDot</a> proporciona una vigilància centralitzada de malalties partint de més de 10.000 fonts -documents governamentals, notícies publicades en webs informatius i diaris en més de 65 idiomes diferents-, permet conèixer la probabilitat que arribi una malaltia infecciosa a un indret determinat i envia notificacions personalitzades dels brots, segons l’interès del client. Així, per exemple, un algoritme llegeix notícies publicades en mitjans locals que mencionen casos de grip, morts sense una explicació aparent i símptomes que no s’ubiquen en un diagnòstic concret, tant en humans com en animals, i utilitza aquesta informació per a fer una predicció.</p>
+
+
+
+<p>L’empresa també té accés a dades globals de bitllets d’avió, que poden ajudar a predir cap a on i quan viatgen els residents infectats, i quantes persones volen amb ells. És així com la companyia va predir correctament que el coronavirus saltaria de Wuhan a Bangkok, Seül, Taipei i Tòquio els dies següents a la seva aparició inicial. Una vegada l&#8217;IA ha fet la seva feina, els epidemiòlegs verifiquen si les conclusions tenen sentit des d&#8217;un punt de vista científic, i envien un informe als funcionaris de salut pública. I aquesta no és la primera vegada que BlueDot té èxit: ja va predir el brot de Zika al sud de Florida en <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)00080-5/fulltext">una publicació a la revista mèdica britànica The Lancet</a>.</p>
+
+
+
+<h3><strong>IA per ajudar a detectar l’afectació</strong></h3>
+
+
+
+<p>Però per trobar eines útils no cal anar tan lluny. <a href="https://citibeats.net/">Una startup catalana, Citibeats</a>, crea observatoris per a governs sobre el coronavirus. De moment, ha llançat observatoris ciutadans en 26 països de Llatinoamèrica, <a href="https://cronicaglobal.elespanol.com/creacion/vida-tecky/startup-catalana-capaz-crear-observatorios-datos-gobiernos-durante-coronavirus_329040_102.html">segons explica el director, Ivan Caballero, a Crónica Global</a>. D’acord amb Caballero, ofereixen informació pública, gratuïta i en temps real sobre l’evolució del Covid-19 en diferents àrees territorials. Així, la Intel·ligència Artificial pot detectar en quins barris hi ha més necessitats, així com els canvis d’hàbits i comportaments que es produeixen. Segons el mateix mitjà, la startup es troba actualment en converses amb el Govern espanyol i amb la Generalitat de Catalunya sobre la possibilitat de crear un observatori sobre el coronavirus.</p>
+
+
+
+<p>La <a rel="noreferrer noopener" aria-label="startup valenciana Quibim (opens in a new tab)" href="https://quibim.com/" target="_blank">startup valenciana Quibim</a> ha desenvolupat un sistema d’Aprenentatge Profund (<em>Deep Learning</em>, o sigui, una xarxa neuronal artificial que emula el funcionament d’un cervell biològic per a fer tasques concretes) que determina l’afectació d’un pacient amb Covid-19 a partir d’imatges mèdiques. D’aquesta manera, no diagnostica el virus, però ajuda als metges a prendre la decisió d’hospitalitzar o no als contagiats. De fet, aquesta solució ja s’utilitza en alguns centres per valorar la gravetat d’un pacient amb símptomes i decidir si enviar-lo a casa o ingressar-lo, tal com <a href="https://retina.elpais.com/retina/2020/03/17/innovacion/1584450877_681658.html">explica el director de Quibim a El País Retina</a>.</p>
+
+
+
+<p>Un altre sistema que ajuda a diagnosticar la malatia és aquell que ofereix <a href="https://global.infervision.com/">la multinacional Infervision</a>, que ha llançat un sistema per assistir a metges i infermers per detectar i supervisar el Covid-19. <a href="https://www.wired.com/story/chinese-hospitals-deploy-ai-help-diagnose-covid-19/amp">Segons un altre article de Wired</a>, un algoritme de la companyia s’ha utilitzat en 34 hospitals xinesos per detectar signes visuals de la pneumònia associada al virus SARS-Cov-2 en 32.000 radiografies pulmonars, tot i que el diagnòstic definitiu requereix detectar el virus en els fluids corporals. Tots aquests sistemes permeten alleugerir la immensa càrrega de feina dels professionals sanitaris i millora la velocitat de diagnòstic.&nbsp;</p>
+
+
+
+<h3>Robots que desinfecten amb llum ultraviolada</h3>
+
+
+
+<p>A les màquines no els preocupa contagiar-se, de manera que són els éssers ideals per netejar i esterilitzar espais en temps de confinament. Els <a href="http://www.uvd-robots.com/">robots de Blue Ocean Robotics</a> tenen com a objectiu prevenir i reduir la propagació de virus, bacteris i altres microbis descomposant la seva estructura d’ADN utilitzant llum ultraviolada.</p>
+
+
+
+<p>Per la seva banda, <a href="https://benevolent.ai/">BenevolentAI</a> utilitza Intel·ligència Artificial per crear medicines que puguin combatre les malalties més agressives. Actualment recolza els esforços per tractar el Covid-19. <a href="https://www.forbes.com/sites/bernardmarr/2020/03/13/coronavirus-how-artificial-intelligence-data-science-and-technology-is-used-to-fight-the-pandemic/#3b5882345f5f">Segons Forbes</a>, durant les setmanes posteriors al brot va utilitzar les seves capacitats de predicció per examinar l’afinitat de tots els fàrmacs aprovats per identificar aquells que tenen propietats antivíriques i antiinflamatòries, útils per combatre o mitigar els efectes del coronavirus.</p>
+
+
+
+<p>Així doncs, la Intel·ligència Artificial s’ha unit a la lluita contra una pandèmia que ens ha tancat a casa i ha paralitzat el frenètic ritme de vida del planeta. Per ara, però, el principal problema és que aquests sistemes necessiten una sèrie de dades que, o bé encara s&#8217;estan generant, o bé no resulten completament accessibles. Tot i que BlueDot va predir el brot deu dies abans que fos anunciat per l’OMS, empreses com aquesta no solen revelar a qui proporcionen la informació ni com l’utilitzen. A més, també és cert que sovint la publicitat entorn les capacitats de la IA supera la realitat. Confiar-hi massa podria provocar la presa de decisions incorrectes, tenint en compte que els algoritmes <a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">poden contenir biaixos i no ser infalibles</a>. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/03/20/intelligencia-artificial-per-combatre-el-covid-19/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">847</post-id>	</item>
+		<item>
+		<title>Intel·ligència Artificial: dilemes ètics del 2020</title>
+		<link>/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/</link>
+					<comments>/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/#comments</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 03 Jan 2020 22:23:18 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Algorismes]]></category>
+		<category><![CDATA[Aprenentatge Profund]]></category>
+		<category><![CDATA[Armes autònomes letals]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Deep Fakes]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Lethal autonomous weapon]]></category>
+		<category><![CDATA[Military robots]]></category>
+		<category><![CDATA[Robots sexuals]]></category>
+		<category><![CDATA[Robots soldat]]></category>
+		<category><![CDATA[Sexual robots]]></category>
+		<guid isPermaLink="false">/?p=568</guid>
+
+					<description><![CDATA[On ens durà enguany, la Intel·ligència Artificial? Ningú en sap del cert la resposta. Però nosaltres tenim clars els dubtes essencials.]]></description>
+										<content:encoded><![CDATA[
+<p>El meteòric ascens de la Intel·ligència Artificial (IA) durant el 2019 és fruit del seu enorme potencial per a fer-nos, teòricament, l’existència més fàcil. Ja és normal desbloquejar el mòbil amb reconeixement facial, deixar-se guiar per un assistent virtual, veure anuncis personalitzats i escoltar música seguint els consells d&#8217;un algoritme. Acaba la dècada amb la certesa que la nostra vida quotidiana està cada cop més vinculada a l&#8217;aprenentatge de les màquines que, dia a dia, minut a minut, penetra als àmbits més sensibles com les relacions humanes, la salut, la criminalitat, la sexualitat, l&#8217;educació i fins i tot els conflictes armats. On ens durà enguany, la Intel·ligència Artificial? Ningú en sap del cert la resposta, però tenim clars els interrogants.</p>
+
+
+
+<p class="has-large-font-size"><strong>La guerra intel·ligent</strong></p>
+
+
+
+<p>Fa dos anys,<a href="https://www.theguardian.com/technology/2017/aug/20/elon-musk-killer-robots-experts-outright-ban-lethal-autonomous-weapons-war" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)"> 116 experts en el camp de la Intel·ligència Artificial reclamaven a les Nacions Unides</a> que prohibís l&#8217;ús de <strong>robots soldat</strong>. En una carta advertien que &#8220;les <strong>armes autònomes letals</strong> -o sigui, armes que es disparen soles- fan possible que un conflicte armat es lliuri a una escala més gran que mai, i a intervals de temps tan ràpids que ni els humans podran comprendre&#8221;. La majoria d&#8217;Estats membres han recolzat públicament la prohibició del robot assassí. Tot i així, actualment s&#8217;oposen a vetar-los el<a href="https://www.theguardian.com/science/2019/mar/29/uk-us-russia-opposing-killer-robot-ban-un-ai" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)"> Regne Unit, Israel, Austràlia, Rússia, Corea del Sud o els Estats Units</a>. Dotzenes de<a href="https://www.technologyreview.com/s/614488/why-remote-war-is-bad-war/"> startups privades venen el mite de la guerra intel·ligent</a> i als seus laboratoris s&#8217;inventen noves formes més netes i eficaces de matar. <a href="https://www.ara.cat/internacional/Iran-promet-venjanca-atac-nord-america_0_2373962741.html" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">L’assassinat, aquest divendres, del general iranià Soleimani, amb quatre míssils</a> disparats des d’un dron nord-americà, és una prova més d’aquest procés.&nbsp;</p>
+
+
+
+<p>Actualment, el cap d&#8217;Intel·ligència Artificial del Pentàgon, Jack Shanahan, descarta per ara l&#8217;ús de soldats robot. Tot i així, Shanahan vol que l&#8217;IA ocupi un paper central en la lluita bèl·lica i<a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.wired.com/story/pentagon-ai-chief-prepares-for-battle/" target="_blank"> l&#8217;Exèrcit ha estat provant el desembre una torreta automatitzada</a>. Mentrestant, la Marina planeja fer servir vaixells no tripulats. Abans d&#8217;assumir el seu càrrec actual, Shahanan dirigia el Projecte Maven, que té com a objectiu desenvolupar drons intel·ligents per detectar les forces enemigues. Segons la revista Wired, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.wired.com/story/pentagon-ai-chief-prepares-for-battle/" target="_blank">el Pentàgon vol gastar-s&#8217;hi al voltant de 4.000 milions de dòlars</a> durant l&#8217;exercici del 2020.</p>
+
+
+
+<p>Una cosa queda clara: el govern nord-americà somia amb un exèrcit que utilitzi l&#8217;IA per moure&#8217;s més ràpid al camp de batalla. Però la integració militar de l&#8217;<a rel="noreferrer noopener" aria-label="aprenentatge automàtic (opens in a new tab)" href="https://www.termcat.cat/ca/cercaterm/fitxa/MzcwMTQyMA==" target="_blank">aprenentatge automàtic</a> (<em>Machine Learning</em>) planteja molts dubtes. L&#8217;armament intel·ligent permet eixamplar la distància moral amb una escena bèl·lica, fent menys incòmoda la veritat: que en una guerra s’hi maten persones. </p>
+
+
+
+<p class="has-large-font-size"><strong>Robots sexuals</strong></p>
+
+
+
+<p>L&#8217;IA també ha entrat per la porta gran del negoci del sexe. Els robots sexuals intel·ligents ja no són ciència ficció i <em>Sex dolls</em>,<a href="https://www.sexdolls.com/with-artificial-intelligence/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)"> una empresa que distribueix nines sexuals intel·ligents</a>, assegura que &#8220;poden calibrar-se fàcilment per fer quasi totes les funcions imaginables&#8221;. A més, explica que també disposen de sensors integrats a les seves mans, als genitals, a la cara i als pits: &#8220;Això permet que el robot pugui sentir quan el toqueu&#8221;. Fins i tot poden suar, gemegar i lubricar-se, segons l&#8217;empresa. A més, les nines poden integrar-se amb la vida quotidiana i, tal com diu la companyia, ofereixen diferents modes: familiar, romàntic o sexy.</p>
+
+
+
+<p>La introducció de la tecnologia en les relacions sexuals no és cap novetat, però aquesta vegada el realisme de l&#8217;objecte marca la diferència. Alguns autors fins i tot han plantejat obrir un debat sobre els drets dels robots, com a éssers simbòlics i semblants als humans. Mentrestant, altres defensen que l&#8217;ús dels ninots sexuals intel·ligents no va més enllà d&#8217;una masturbació assistida. Ara bé, els grans problemes arriben quan aquests robots -realistes- perpetuen els estereotips de gènere: potencien els clixés? O -encara pitjor- si els robots s&#8217;assemblen a menors d&#8217;edat: afavoreixen les conductes pedòfiles? Per altra banda, poden contribuir en la cosificació de la dona i, per tant, normalitzar la cultura de la violació. Com influeix allò simbòlic, com el físic d&#8217;un androide, en el món real?</p>
+
+
+
+<p class="has-large-font-size"><strong>Generació d&#8217;informació massiva</strong></p>
+
+
+
+<p>Durant els darrers anys hi ha hagut una explosió de &#8216;papers&#8217; sobre les Xarxes Generatives Adversàries (també anomenades GAN, segons les sigles de <em>Generative Adversarial Network</em>), que utilitzen l&#8217;<a rel="noreferrer noopener" aria-label="aprenentatge profund (opens in a new tab)" href="https://www.termcat.cat/ca/cercaterm/fitxa/MzcwMTQyMQ==" target="_blank">aprenentatge profund</a> (<em>Deep Learning</em>) per generar imatges, vídeos o àudios hiperrealistes de manera totalment artificial.</p>
+
+
+
+<p>Els GAN, en alguns casos, persegueixen fins inofensius, com rejovenir actors de cinema o fer vídeos còmics, però també poden utilitzar-se per a<a href="/2019/11/13/equipo-e-deepfake-desinformacio/"> generar els anomenats <em>Deepfakes</em>,</a> sovint falsificacions malintencionades amb conseqüències preocupants. Artistes com Scarlett Johansson o Katy Perry foren víctimes d&#8217;una sèrie de vídeos pornogràfics falsos que circularen el 2019 per Internet. Però els <em>Deepfakes</em> també podrien servir per implicar algú en un crim que no ha comès, falsejar notícies o manipular l&#8217;opinió pública durant unes eleccions. La polèmica va inundar les xarxes socials quan Obama va deixar anar que “el president Trump és totalment idiota”. Una afirmació que, en realitat, mai va fer.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="You Won’t Believe What Obama Says In This Video! &#x1f609;" width="1160" height="653" src="https://www.youtube.com/embed/cQ54GDm1eL0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Més enllà de les imatges,<a href="/2019/11/12/openai-allibera-un-generador-intelligent-de-text-que-considerava-massa-perillos/"> els generadors de textos intel·ligents també penetren al mercat</a>. El nivell de sofisticació d&#8217;alguns sistemes és tan gran que <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.digitaltrends.com/cool-tech/japanese-ai-writes-novel-passes-first-round-nationanl-literary-prize/" target="_blank">ja hi ha hagut polèmica per l’ús d’IA en la redacció d’un text presentat a un concurs de literatura</a>. Durant la propera dècada, el futur del periodisme o la redacció de continguts -sobretot les branques menys creatives- es desdibuixa i planteja encara més dubtes.</p>
+
+
+
+<p>També és possible crear Deepfakes d&#8217;àudio, que obren horitzons igual d&#8217;inquietants. A través d&#8217;aquest sistema, <a href="https://www.wsj.com/articles/fraudsters-use-ai-to-mimic-ceos-voice-in-unusual-cybercrime-case-11567157402" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">uns estafadors van falsificar la veu d&#8217;un executiu en una trucada de telèfon</a>, aconseguint robar 243.000 dòlars a través d&#8217;un empleat que pensava que rebia instruccions del director de l&#8217;empresa.</p>
+
+
+
+<p>Existeix algun sistema fiable per detectar els àudios, vídeos i textos manipulats? La investigació es desplega a les millors universitats i als departaments de recerca de les grans empreses tecnològiques i, tanmateix, els algoritmes de detecció encara no són capaços d&#8217;enxampar les falsificacions de manera immediata. De fet, Facebook va admetre el setembre que <a href="https://ai.facebook.com/blog/deepfake-detection-challenge" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">no era capaç d’identificar els <em>Deepfakes</em> més sofisticats</a> perquè la tecnologia que els produeix millora massa ràpid. En un esforç per combatre la proliferació dels vídeos enganyosos, Facebook, Microsoft i acadèmics de les universitats més punteres, com la d&#8217;Oxford o el MIT, encapçalen el &#8216;<a href="https://venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Deepfake Challenge</a>&#8216; per impulsar la investigació i assegurar el desenvolupament d&#8217;eines de codi obert per la detecció de vídeos sintètics. La companyia de Mark Zukerberg ha destinat més de 10 milions de dòlars per animar a la participació: un senyal del valor de l&#8217;operació.</p>
+
+
+
+<p class="has-large-font-size"><strong>Màquines que treballen</strong></p>
+
+
+
+<p>El 2020, hi haurà molts àmbits professionals on s’aplicarà l&#8217;IA per primer cop. Els supermercats i les petites botigues comencen a implementar sistemes de predicció de demanda, segons les dades d&#8217;allò que van vendre en determinada data. La Intel·ligència Artificial revolucionarà la logística de les empreses, i ho farà també amb l’educació, la justícia i la medicina.</p>
+
+
+
+<p>Els metges s&#8217;estan bolcant en l’aprenentatge automàtic per recolzar la presa de certes decisions. Aquest nou any, ajudarà a molts professionals sanitaris a fer diagnòstics de malalties de manera automàtica. De fet, <a href="https://www.ccma.cat/324/un-sistema-dintelligencia-artificial-millora-la-deteccio-precoc-de-cancer-de-mama/noticia/2976182/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">un programa informàtic ja pot diagnosticar càncer de mama</a> de manera més acurada, eficient i ràpida que un oncòleg a partir d’una mamografia. Algunes teràpies conductuals basades en els <em>smartphones</em> ofereixen la promesa de tractar la depressió, els transtorns alimentaris o l&#8217;abús d&#8217;alguns fàrmacs.</p>
+
+
+
+<p>Per altra banda, a les presons catalanes ja fa una dècada que es fan servir algoritmes de presa de decisions per calcular les possibilitats de reincidència dels que surten en llibertat. L&#8217;IA també pot ser utilitzada per predir crims. <a href="https://www.cio.com/article/3401401/can-crime-be-predicted-with-ai-ml.html" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">L&#8217;anomenada &#8216;policia predictiva&#8217; és capaç d&#8217;identificar la data, l&#8217;hora i l&#8217;ubicació en què és més probable que es produeixin certs delictes</a>, per tal que els agents prioritzin aquestes zones i franges temporals. A més, després d&#8217;unes quantes investigacions, els models analítics predictius s&#8217;han perfeccionat molt i de ben segur que seran utilitzats ben aviat a casa nostra. </p>
+
+
+
+<p>En l&#8217;àmbit educatiu, algunes facultats estan començant a guardar les dades acadèmiques i no acadèmiques dels estudiants. Sistemes d&#8217;IA són utilitzats per desenvolupar un perfil d&#8217;aprenentatge personalitzat en funció de la capacitat, l&#8217;experiència i la modalitat preferida d&#8217;estudi.<a href="https://www.forbes.com/sites/cognitiveworld/2019/07/12/ai-applications-in-education/#246ec87d62a3"> Els educadors comencen a utilitzar els assistents de veu</a> com l&#8217;Amazon Alexa, Google Home o Apple Siri, que permeten als estudiants interactuar amb material educatiu sense la intervenció del professor. Utilitzar sistemes intel·ligents a escoles i instituts pot incrementar l&#8217;eficiència de moltes institucions educatives i abaixar els costos.</p>
+
+
+
+<p class="has-large-font-size"><strong>Biaixos i caixes negres</strong></p>
+
+
+
+<p>De moment, però, els sistemes l&#8217;IA no són perfectes i poden cometre errors. Greus. Si un ordinador s&#8217;entrena amb un conjunt de dades suficient i fiable, els resultats poden ser de gran ajuda. Però, en canvi, si s&#8217;alimenta amb informació deficient i esbiaixada, o el sistema no es programa adequadament, els resultats poden conduir a l&#8217;equívoc o, en el pitjor dels casos, a la discriminació i a la desigualtat. Algunes investigacions han destapat que certs sistemes per predir la reincidència dels presos<a href="/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/"> tendien a assignar riscos molt més elevats a les persones de pell fosca que a les de pell blanca</a>. Quin és el problema? Si les dades que alimenten un algoritme contenen una representació esbiaixada de la realitat, les prediccions de l’algoritme predictiu reproduiran el mateix biaix.</p>
+
+
+
+<p>Un altre gran escull dels sistemes intel·ligents és allò que es coneix com el problema de la &#8216;caixa negra&#8217;: quan l&#8217;IA pren decisions que cap ésser humà pot explicar. Abans podiem rastrejar les resolucions que una màquina adoptava gràcies a un determinat codi. Però ara, els enfocaments complexos de l&#8217;aprenentatge automàtic poden fer que la presa de decisions automatitzada sigui completament inescrutable. La Intel·ligència Artificial aprèn per sí mateixa i genera respostes i decisions que l&#8217;intel·lecte humà mai podrà concebre, a velocitats fora del nostre abast.</p>
+
+
+
+<p>El 2015, un grup de recerca d&#8217;un hospital de Nova York va aplicar l&#8217;aprenentatge profund a la seva base de dades (de 700.000 registres de pacients). El sistema va descobrir patrons ocults en les dades que semblaven anticipar sorprenentment bé l&#8217;aparició de trastorns psiquiàtrics com l&#8217;esquizofrènia, que és molt difícil de predir. El coordinador de l&#8217;equip mèdic es pregunta com és possible, i encara no ho sap.</p>
+
+
+
+<p>El problema de la caixa negra és més perillós en l&#8217;àmbit de la Defensa, per exemple. Per això, correspon a les administracions públiques buscar assessorament expert independent i ser transparents en les seves polítiques i la presa de decisions, de manera que les comunitats puguin tenir confiança en què la tecnologia no oferirà resultats esbiaixiats o vulnerarà la sobirania dels professionals de carn i ossos.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">568</post-id>	</item>
+	</channel>
+</rss>

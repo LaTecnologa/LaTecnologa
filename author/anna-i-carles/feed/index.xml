@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Carles Sala i Anna Schnabel &#8211; La Tecnòloga</title>
+	<atom:link href="/author/anna-i-carles/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 23 May 2020 11:28:39 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Carles Sala i Anna Schnabel &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Les veritats incòmodes del negoci del software</title>
+		<link>/2020/02/09/les-veritats-incomodes-del-negoci-del-software/</link>
+					<comments>/2020/02/09/les-veritats-incomodes-del-negoci-del-software/#respond</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Sun, 09 Feb 2020 11:03:38 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Free Software Movement]]></category>
+		<category><![CDATA[GNU]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Obsolescència programada]]></category>
+		<category><![CDATA[Programari]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Software Lliure]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows 7]]></category>
+		<guid isPermaLink="false">/?p=712</guid>
+
+					<description><![CDATA[L’obsolescència programada s’ha convertit en una especialitat de Microsoft, i té molt a veure amb la posició hegemònica de l'empresa]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">Foto: El fundador de Microsoft, Bill Gates, en un dinar a la 32ena trobada anual del Forum Econòmic Mundial. Nova York, 3 de febrer del 2002. <em>Wikimedia Commons</em></p>
+
+
+
+<h2>L’obsolescència programada s’ha convertit en una especialitat de Microsoft, i té molt a veure amb la posició hegemònica de l&#8217;empresa</h2>
+
+
+
+<p>El 14 de gener, Microsoft anunciava la fi del suport per a un dels seus sistemes operatius més exitosos, Windows 7. Des d’aleshores, ja no es reparen els errors que es descobreixen i, per tant, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="/2019/11/05/com-evitar-el-ransomware-el-virus-que-recorre-europa/" target="_blank">ja no és segur continuar utilitzant-lo</a>. Per això, Windows ofereix dues opcions: <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.genbeta.com/windows/microsoft-extendera-soporte-windows-7-tres-anos-a-quienes-paguen" target="_blank">o bé pagar pel suport durant tres anys més</a>, o bé <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.xataka.com/basics/fin-soporte-windows-7-que-significa-que-implicaciones-tiene-como-actualizar-gratis-a-windows-10" target="_blank">actualitzar de manera gratuïta a Windows 10</a>. De fet, els sistemes operatius de Microsoft són, amb gran diferència, els més habituals del planeta -quasi un 90% dels usuaris fan servir alguna variant de Windows, com es pot comprovar a la gràfica de Stadista. Però aquest gegant tecnològic no té el quasi-monopoli dels sistemes operatius per casualitat. Ni tan sols per la qualitat del seu <em>software</em>. Si el seu fundador, Bill Gates, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.forbes.com/billionaires/#702e5e42251c" target="_blank">és un habitual de la llista dels més rics del món</a>, es deu més aviat a l’ús de pràctiques èticament qüestionables -i algunes sancionades- per atrapar a milions d’usuaris i ofegar la competència.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/MVSDDovaksaRCvcJQH6V_HE3Q4YJoyWSwLYL_jvC_X5CaThyJzv3lNmB_lE-zpB_TvVFj0cICV_E6OMbZdD8JFlPkuAl-Rwrm4qs5mHwdxRY9w6lvWWZJ_dbRrmpv6wc7fg_nug" alt=""/></figure>
+
+
+
+<p>La versió oficial diu que Windows ha evolucionat gràcies a haver llançat noves versions cada pocs anys, i que mantenir-les totes seria logísticament impossible. Per això, amb el pas del temps, Microsoft abandona les versions més antigues per centrar els esforços en les actuals. Però també hi ha veus crítiques, com l’investigador informàtic Roberto Di Cosmo, que també és&nbsp;director de l’<em>Innovation and Research Initiative for Free Software</em> (IRILL). Des de fa dues dècades, ha dedicat diversos estudis i un llibre al sistema operatiu més popular, a qui qualifica d’especialista en l’obsolescència programada. A les pàgines de <em>Hijacking the World: The Dark Side of Microsoft</em>, Di Cosmo vincula la caducitat del seu programari amb la posició hegemònica que ha aconseguit.</p>
+
+
+
+<h3>Les tàctiques de Microsoft</h3>
+
+
+
+<p>Segons l’investigador, els editors de <em>software</em> com Microsoft tenen dues maneres de fer créixer els beneficis: o incrementar la quota de mercat o, quan el mercat ja està saturat pels seus productes, intentar vendre més i més, sovint als mateixos clients. “Per això necessiten crear noves versions dels seus programes tan sovint com sigui possible i que han de semblar diferents, tot i que continguin poques novetats realment útils”, escriu. I afegeix: “Pitjor encara, per assegurar-se que els seus usuaris no baixen del tren, Microsoft manté com a ostatges les seves dades: això vol dir que simplement han de comprar les versions més noves dels seus programes si volen continuar intercanviant informació amb altres persones”.</p>
+
+
+
+<p>Bill Gates s’ha presentat sempre com la veu de la competitivitat, però Microsoft ha utilitzat totes les armes per eliminar qui podia fer-li ombra. La tàctica més coneguda va ser la imposició per contracte d’oferir només els seus productes als grans fabricants d’ordinadors com Compaq, Dell o Gateaway. La companyia fins i tot va requerir a tots els distribuïdors d’ordinadors IBM o compatibles amb IBM que preinstalessin els seus programes a tots els equips que venien: primer, amb MS-DOS i, després, amb Windows.&nbsp;</p>
+
+
+
+<p>A més, la mena de contracte que va signar amb els grans fabricants de <em>hardware</em> implicava una taxa de llicència per processador. Així, IBM o Compaq havien de pagar un cànon fixat per cada equip que venien, tant si l’usuari final volia tenir-hi o no instal·lat DOS o Windows. En conseqüència, al distribuïdor li interessava instal·lar Windows enlloc d’un altre sistema operatiu més car. I, per tant, a l’usuari final tampoc li resultava pràctic desinstal·lar DOS o Windows, perquè, tanmateix, ja l’havia pagat.</p>
+
+
+
+<p>Cap a l’any 2000, Microsoft va intentar controlar el mercat no només acaparant els sistemes operatius de tots els ordinadors, sinó també conquerint les activitats estratègiques, com navegar per Internet. L’autor recorda que els navegadors rivals, com <em>Netscape Navigator</em>, no funcionaven bé perquè el contingut <em>online</em> estava optimitzat només per a <em>Internet Explorer</em>, el seu propi. “Microsoft va aconseguir convèncer els proveïdors que el seu navegador és l’estàndard i que és del seu interès adaptar totes les webs només per a aquest navegador”, escriu Di Cosmo.&nbsp;</p>
+
+
+
+<p>La companyia també s’ha desfet de petits potencials competidors assumint la seva tecnologia, per exemple, copiant-la descaradament per integrar-la a les pròpies solucions. Això va succeir amb Stac, que va dissenyar el <em>software</em> de compressió de disc dur Stacker. Va aconseguir demostrar que era així i va guanyar una demanda contra Microsoft.&nbsp;</p>
+
+
+
+<h3>La Comissió Europea sanciona Microsoft</h3>
+
+
+
+<p>Les pràctiques monopolistes de Microsoft també van arribar a la Comissió Europea (CE), que el 2000 va començar a investigar el gegant tecnològic per dos motius: la manca d’informació per assegurar la interoperabilitat -o sigui, la compatibilitat d’aquest sistema operatiu amb altres components de <em>hardware</em>-, i la incorporació del Windows Media Player, que requeria un esquema de llicències incompatible amb el <em><a href="/2020/01/23/pydata-mallorca-2020-software-lliure-cientific/">Software Lliure</a></em>. Va caler esperar quatre anys perquè la CE resolgués que la companyia de Bill Gates havia comès, efectivament, tots dos abusos i <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://fsfe.org/activities/ms-vs-eu/timeline.en.html" target="_blank">li va imposar una multa de 497,2 milions de dòlars</a>.</p>
+
+
+
+<p>Segons Di Cosmo, a més, en aquell temps era pràcticament impossible comprar un ordinador sense Windows, tenint en compte que els fabricants de <em>hardware</em> no tenien marges de benefici gaire alts. Allò cert és que la majoria dels seus guanys derivaven del <em>software</em>, que pràcticament no té cost de fabricació, tenint en compte que un cop fet un programa -amb un cost que pot ser relativament alt-, es pot copiar de manera gratuïta o descarregar-se per Internet. L’investigador també subratllava les sospites d’alguns fabricants que Microsoft amenaçava amb represàlies a aquells qui volien anar per lliure.&nbsp;</p>
+
+
+
+<h3>L’alternativa: el <em>software</em> lliure</h3>
+
+
+
+<p>El terme de ‘Programari Lliure’ (que prové de l’anglès <em>Free Software</em>) va ser encunyat el 1985 per Richard Stallman, aleshores investigador del MIT, que potseriorment va crear l’ONG <em>Free Software Foundation</em>. L’organització té l’objectiu de garantir la llibertat d’executar el programari, estudiar-lo i modificar-lo sense impediments. Per això va crear el sistema operatiu GNU (l’acrònim de ‘<em>GNU is Not Unix</em>’) i la Llicència Pública GNU, donant protecció legal a aquest model de <em>software</em> i, d’aquesta manera, fent possible la creació de Linux, el sistema operatiu de codi obert més conegut i usable. El programari lliure implica que els usuaris tenen quatre llibertats essencials: la d’executar el programa, la d’estudiar i modificar-ne el codi font, la de redistribuir còpies exactes i la de distribuir versions modificades.</p>
+
+
+
+<p>A Mallorca, <a rel="noreferrer noopener" aria-label="l’associació Bulma difón l’esperit del software lliure (opens in a new tab)" href="https://bulma.eu/blog/" target="_blank">l’associació Bulma difón l’esperit del <em>software</em> lliure</a> i la seva idea fonamental: “El coneixement ha de ser per tots”. El president de l’entitat, Daniel Ripoll, defensa la ‘cultura hacker’, és a dir, del repte intel·lectual de superar creativament les limitacions dels sistemes operatius. Entre altres accions, Bulma ha fet <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://bulma.eu/blog/blog/2019/12/15/portatiles-con-linux/#more-2529" target="_blank">un recopilatori de distribuïdors de <em>hardware</em> compatible amb el <em>software</em> lliure</a>. “Fer servir un o altre sistema operatiu ha de ser una decisió teva”, subratlla Ripoll.</p>
+
+
+
+<p>Però Bulma no defensa Windows, ni tampoc l’altra gran companyia de <em>software</em> privatiu: “Apple es va apropiar un poc de la ‘cultura hacker’, però mai ha arribat a alliberar el codi realment”. Amb tot, segons Ripoll, fins i tot és més privatiu que Windows amb les llicències: “Si tens una aplicació mòbil i vols publicar-la a l&#8217;<em>Apple Store</em> amb una llicència GPL [de l’anglès <em>General Public Licence</em>], que és una de les més lliures que hi ha, no la publiquen”, es queixa Ripoll, que opta pel Linux.</p>
+
+
+
+<p>De fet, <a rel="noreferrer noopener" aria-label="Apple acaba de ser sancionada per un cas flagrant d'obsolescència programada (opens in a new tab)" href="https://www.xataka.com/moviles/apple-llega-a-acuerdo-francia-pagara-25-millones-euros-ralentizar-iphone-2017" target="_blank">Apple acaba de ser sancionada per un cas flagrant d&#8217;obsolescència programada</a>. La Direcció General de Competència, Consum i Prevenció de Frau a França ha multat la firma nord-americana amb 25 milions d&#8217;euros fer més lents els iPhones més antics. És més, la pròpia companyia va reconèixer el 2017 que alentia alguns models antics d&#8217;iPhone amb la finalitat de prolongar la vida útil dels aparells. Tot i així, França ha resolt que els consumidors no n&#8217;estaven informats i ha avalat les sospites d&#8217;aquells qui creien que Apple ho feia perquè es compressin un mòbil nou.</p>
+
+
+
+<h3>L&#8217;evolució de Linux</h3>
+
+
+
+<p>El 1991, Linus Torvalds, estudiant de la Universitat de Hèlsinki, de només 21 anys, va utilitzar les eines GNU per escriure Linux. A mesura que el seu projecte avançava, Torvalds va publicar en línia el seu codi font, de manera que va poder ser acabat i revisat pels millors programadors del món. Aquest programari gratuït, que avui dia està disponible per a PC, Mac i altres tipus d&#8217;equips, ha anat guanyant reputació.&nbsp;</p>
+
+
+
+<p>Linux ha creat els efectes especials de <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="http://www.dicosmo.org/HoldUp/English/hijacking_the_world/" target="_blank">pel·lícules com Titanic i gestiona la distribució de correspondència</a> a l’Oficina de Correus dels Estats Units des de fa més de vint anys. Segons Stadista, ja es fa servir a un 13% dels servidors de tot el món, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://en.wikipedia.org/wiki/Usage_share_of_operating_systems" target="_blank">tot i que altres fonts eleven la xifra i compten que Linux manté una posició dominant als servidors d’Internet públics</a>. I no només això. Aquest sistema operatiu ja s’utilitza de manera habitual en disciplines tècniques <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://en.wikipedia.org/wiki/List_of_Linux_adopters" target="_blank">a universitats i centres d’investigació de tot el planeta</a>. Administracions públiques d’Amèrica del Nord i de la Unió Europea estan fent la transició a Linux per la seva estabilitat i obertura del codi font que, al seu torn, és més segur. Espanya va atrevir-se a implementar les distribucions LinEx i Guadalinux el 2003 i 2004, mentre <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://computerhoy.com/noticias/software/barcelona-cambiara-windows-linux-antes-2019-74335" target="_blank">Barcelona va anunciar el 2018 que passaria tota la seva infrastructura a Linux</a>.&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/09/les-veritats-incomodes-del-negoci-del-software/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">712</post-id>	</item>
+		<item>
+		<title>PyData: La comunitat que impulsa el Software Científic Lliure també es reuneix a Mallorca</title>
+		<link>/2020/01/23/pydata-mallorca-2020-software-lliure-cientific/</link>
+					<comments>/2020/01/23/pydata-mallorca-2020-software-lliure-cientific/#comments</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2020 13:07:23 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Codi Obert]]></category>
+		<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Free Software Movement]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Programari]]></category>
+		<category><![CDATA[PyData]]></category>
+		<category><![CDATA[PyData Mallorca]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Software Lliure]]></category>
+		<guid isPermaLink="false">/?p=675</guid>
+
+					<description><![CDATA[Aquest dimecres cinquanta persones s'han trobat al 21è PyData Mallorca, la branca mallorquina d'un popular esdeveniment que ja se celebra a més de 60 ciutats del món. ]]></description>
+										<content:encoded><![CDATA[
+<p>Unes cinquanta persones s&#8217;han trobat aquest dimecres al <strong>21è PyData Mallorca</strong>, la branca mallorquina d&#8217;<a rel="noreferrer noopener" aria-label="un popular esdeveniment que ja se celebra a més de 60 ciutats del món (opens in a new tab)" href="https://pydata.org/" target="_blank">un popular esdeveniment que ja es fa a més de 60 ciutats del món</a>. PyData és un programa divulgatiu de <a rel="noreferrer noopener" href="https://numfocus.org/" target="_blank">NumFOCUS, una entitat sense ànim de lucre</a> que promou l&#8217;ús del Programari Lliure (el codi del qual és obert i de domini públic, i per tant accessible per a ser examinat o modificat per qualsevol persona) en l&#8217;àmbit científic. A Mallorca, es reuneixen cada dos mesos des del 2016.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1019" height="619" src="/wp-content/uploads/2020/01/image.png" alt="" class="wp-image-676" srcset="/wp-content/uploads/2020/01/image.png 1019w, /wp-content/uploads/2020/01/image-300x182.png 300w, /wp-content/uploads/2020/01/image-768x467.png 768w" sizes="(max-width: 1019px) 100vw, 1019px" /></figure>
+
+
+
+<p>Els esdeveniments PyData, organitzats per la mateixa comunitat de desenvolupadors i usuaris, es fan amb l&#8217;objectiu de compartir el coneixement i plantejar idees. A més, la xarxa global PyData promou la discussió de bones pràctiques, nous enfocaments i tecnologies emergents per a la gestió de dades en el camp de la recerca i les ciències de la computació. Per això, els PyData constitueixen un fòrum ideal per debatre obertament el cantó positiu i el cantó fosc de les disciplines vinculades amb les Dades Massives (<em>Big Data</em>). </p>
+
+
+
+<h3>La Cultura del Software Lliure</h3>
+
+
+
+<p>El terme de &#8216;Programari Lliure&#8217; (que prové de l&#8217;anglès <em>Free Software</em>) va ser encunyat el 1985 per Richard Stallman, aleshores investigador del MIT, que potseriorment va crear l&#8217;ONG <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.fsf.org/" target="_blank">Free Software Foundation</a>. L&#8217;organització té l&#8217;objectiu de garantir la llibertat d&#8217;executar el programari, estudiar-lo i modificar-lo sense impediments. Independentment de la llicència i el llenguatge, els desenvolupadors de programari lliure creen, comparteixen i modifiquen el codi font junts. I treballar un codi de manera conjunta significa moltes coses: transparència, franquesa i cooperació són paraules que sovint esmenten els desenvolupadors. A diferència de les aplicacions privades, que impedeixen verificar si el seu funcionament real es correspon de manera exacta amb allò exposat en la descripció, el codi obert permet la seva revisió per part de la comunitat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/01/23/pydata-mallorca-2020-software-lliure-cientific/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">675</post-id>	</item>
+		<item>
+		<title>Intel·ligència Artificial: dilemes ètics del 2020</title>
+		<link>/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/</link>
+					<comments>/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/#comments</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 03 Jan 2020 22:23:18 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Algorismes]]></category>
+		<category><![CDATA[Aprenentatge Profund]]></category>
+		<category><![CDATA[Armes autònomes letals]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Deep Fakes]]></category>
+		<category><![CDATA[Deep Learning]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Lethal autonomous weapon]]></category>
+		<category><![CDATA[Military robots]]></category>
+		<category><![CDATA[Robots sexuals]]></category>
+		<category><![CDATA[Robots soldat]]></category>
+		<category><![CDATA[Sexual robots]]></category>
+		<guid isPermaLink="false">/?p=568</guid>
+
+					<description><![CDATA[On ens durà enguany, la Intel·ligència Artificial? Ningú en sap del cert la resposta. Però nosaltres tenim clars els dubtes essencials.]]></description>
+										<content:encoded><![CDATA[
+<p>El meteòric ascens de la Intel·ligència Artificial (IA) durant el 2019 és fruit del seu enorme potencial per a fer-nos, teòricament, l’existència més fàcil. Ja és normal desbloquejar el mòbil amb reconeixement facial, deixar-se guiar per un assistent virtual, veure anuncis personalitzats i escoltar música seguint els consells d&#8217;un algoritme. Acaba la dècada amb la certesa que la nostra vida quotidiana està cada cop més vinculada a l&#8217;aprenentatge de les màquines que, dia a dia, minut a minut, penetra als àmbits més sensibles com les relacions humanes, la salut, la criminalitat, la sexualitat, l&#8217;educació i fins i tot els conflictes armats. On ens durà enguany, la Intel·ligència Artificial? Ningú en sap del cert la resposta, però tenim clars els interrogants.</p>
+
+
+
+<p class="has-large-font-size"><strong>La guerra intel·ligent</strong></p>
+
+
+
+<p>Fa dos anys,<a href="https://www.theguardian.com/technology/2017/aug/20/elon-musk-killer-robots-experts-outright-ban-lethal-autonomous-weapons-war" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)"> 116 experts en el camp de la Intel·ligència Artificial reclamaven a les Nacions Unides</a> que prohibís l&#8217;ús de <strong>robots soldat</strong>. En una carta advertien que &#8220;les <strong>armes autònomes letals</strong> -o sigui, armes que es disparen soles- fan possible que un conflicte armat es lliuri a una escala més gran que mai, i a intervals de temps tan ràpids que ni els humans podran comprendre&#8221;. La majoria d&#8217;Estats membres han recolzat públicament la prohibició del robot assassí. Tot i així, actualment s&#8217;oposen a vetar-los el<a href="https://www.theguardian.com/science/2019/mar/29/uk-us-russia-opposing-killer-robot-ban-un-ai" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)"> Regne Unit, Israel, Austràlia, Rússia, Corea del Sud o els Estats Units</a>. Dotzenes de<a href="https://www.technologyreview.com/s/614488/why-remote-war-is-bad-war/"> startups privades venen el mite de la guerra intel·ligent</a> i als seus laboratoris s&#8217;inventen noves formes més netes i eficaces de matar. <a href="https://www.ara.cat/internacional/Iran-promet-venjanca-atac-nord-america_0_2373962741.html" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">L’assassinat, aquest divendres, del general iranià Soleimani, amb quatre míssils</a> disparats des d’un dron nord-americà, és una prova més d’aquest procés.&nbsp;</p>
+
+
+
+<p>Actualment, el cap d&#8217;Intel·ligència Artificial del Pentàgon, Jack Shanahan, descarta per ara l&#8217;ús de soldats robot. Tot i així, Shanahan vol que l&#8217;IA ocupi un paper central en la lluita bèl·lica i<a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.wired.com/story/pentagon-ai-chief-prepares-for-battle/" target="_blank"> l&#8217;Exèrcit ha estat provant el desembre una torreta automatitzada</a>. Mentrestant, la Marina planeja fer servir vaixells no tripulats. Abans d&#8217;assumir el seu càrrec actual, Shahanan dirigia el Projecte Maven, que té com a objectiu desenvolupar drons intel·ligents per detectar les forces enemigues. Segons la revista Wired, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.wired.com/story/pentagon-ai-chief-prepares-for-battle/" target="_blank">el Pentàgon vol gastar-s&#8217;hi al voltant de 4.000 milions de dòlars</a> durant l&#8217;exercici del 2020.</p>
+
+
+
+<p>Una cosa queda clara: el govern nord-americà somia amb un exèrcit que utilitzi l&#8217;IA per moure&#8217;s més ràpid al camp de batalla. Però la integració militar de l&#8217;<a rel="noreferrer noopener" aria-label="aprenentatge automàtic (opens in a new tab)" href="https://www.termcat.cat/ca/cercaterm/fitxa/MzcwMTQyMA==" target="_blank">aprenentatge automàtic</a> (<em>Machine Learning</em>) planteja molts dubtes. L&#8217;armament intel·ligent permet eixamplar la distància moral amb una escena bèl·lica, fent menys incòmoda la veritat: que en una guerra s’hi maten persones. </p>
+
+
+
+<p class="has-large-font-size"><strong>Robots sexuals</strong></p>
+
+
+
+<p>L&#8217;IA també ha entrat per la porta gran del negoci del sexe. Els robots sexuals intel·ligents ja no són ciència ficció i <em>Sex dolls</em>,<a href="https://www.sexdolls.com/with-artificial-intelligence/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)"> una empresa que distribueix nines sexuals intel·ligents</a>, assegura que &#8220;poden calibrar-se fàcilment per fer quasi totes les funcions imaginables&#8221;. A més, explica que també disposen de sensors integrats a les seves mans, als genitals, a la cara i als pits: &#8220;Això permet que el robot pugui sentir quan el toqueu&#8221;. Fins i tot poden suar, gemegar i lubricar-se, segons l&#8217;empresa. A més, les nines poden integrar-se amb la vida quotidiana i, tal com diu la companyia, ofereixen diferents modes: familiar, romàntic o sexy.</p>
+
+
+
+<p>La introducció de la tecnologia en les relacions sexuals no és cap novetat, però aquesta vegada el realisme de l&#8217;objecte marca la diferència. Alguns autors fins i tot han plantejat obrir un debat sobre els drets dels robots, com a éssers simbòlics i semblants als humans. Mentrestant, altres defensen que l&#8217;ús dels ninots sexuals intel·ligents no va més enllà d&#8217;una masturbació assistida. Ara bé, els grans problemes arriben quan aquests robots -realistes- perpetuen els estereotips de gènere: potencien els clixés? O -encara pitjor- si els robots s&#8217;assemblen a menors d&#8217;edat: afavoreixen les conductes pedòfiles? Per altra banda, poden contribuir en la cosificació de la dona i, per tant, normalitzar la cultura de la violació. Com influeix allò simbòlic, com el físic d&#8217;un androide, en el món real?</p>
+
+
+
+<p class="has-large-font-size"><strong>Generació d&#8217;informació massiva</strong></p>
+
+
+
+<p>Durant els darrers anys hi ha hagut una explosió de &#8216;papers&#8217; sobre les Xarxes Generatives Adversàries (també anomenades GAN, segons les sigles de <em>Generative Adversarial Network</em>), que utilitzen l&#8217;<a rel="noreferrer noopener" aria-label="aprenentatge profund (opens in a new tab)" href="https://www.termcat.cat/ca/cercaterm/fitxa/MzcwMTQyMQ==" target="_blank">aprenentatge profund</a> (<em>Deep Learning</em>) per generar imatges, vídeos o àudios hiperrealistes de manera totalment artificial.</p>
+
+
+
+<p>Els GAN, en alguns casos, persegueixen fins inofensius, com rejovenir actors de cinema o fer vídeos còmics, però també poden utilitzar-se per a<a href="/2019/11/13/equipo-e-deepfake-desinformacio/"> generar els anomenats <em>Deepfakes</em>,</a> sovint falsificacions malintencionades amb conseqüències preocupants. Artistes com Scarlett Johansson o Katy Perry foren víctimes d&#8217;una sèrie de vídeos pornogràfics falsos que circularen el 2019 per Internet. Però els <em>Deepfakes</em> també podrien servir per implicar algú en un crim que no ha comès, falsejar notícies o manipular l&#8217;opinió pública durant unes eleccions. La polèmica va inundar les xarxes socials quan Obama va deixar anar que “el president Trump és totalment idiota”. Una afirmació que, en realitat, mai va fer.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="You Won’t Believe What Obama Says In This Video! &#x1f609;" width="1160" height="653" src="https://www.youtube.com/embed/cQ54GDm1eL0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Més enllà de les imatges,<a href="/2019/11/12/openai-allibera-un-generador-intelligent-de-text-que-considerava-massa-perillos/"> els generadors de textos intel·ligents també penetren al mercat</a>. El nivell de sofisticació d&#8217;alguns sistemes és tan gran que <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.digitaltrends.com/cool-tech/japanese-ai-writes-novel-passes-first-round-nationanl-literary-prize/" target="_blank">ja hi ha hagut polèmica per l’ús d’IA en la redacció d’un text presentat a un concurs de literatura</a>. Durant la propera dècada, el futur del periodisme o la redacció de continguts -sobretot les branques menys creatives- es desdibuixa i planteja encara més dubtes.</p>
+
+
+
+<p>També és possible crear Deepfakes d&#8217;àudio, que obren horitzons igual d&#8217;inquietants. A través d&#8217;aquest sistema, <a href="https://www.wsj.com/articles/fraudsters-use-ai-to-mimic-ceos-voice-in-unusual-cybercrime-case-11567157402" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">uns estafadors van falsificar la veu d&#8217;un executiu en una trucada de telèfon</a>, aconseguint robar 243.000 dòlars a través d&#8217;un empleat que pensava que rebia instruccions del director de l&#8217;empresa.</p>
+
+
+
+<p>Existeix algun sistema fiable per detectar els àudios, vídeos i textos manipulats? La investigació es desplega a les millors universitats i als departaments de recerca de les grans empreses tecnològiques i, tanmateix, els algoritmes de detecció encara no són capaços d&#8217;enxampar les falsificacions de manera immediata. De fet, Facebook va admetre el setembre que <a href="https://ai.facebook.com/blog/deepfake-detection-challenge" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">no era capaç d’identificar els <em>Deepfakes</em> més sofisticats</a> perquè la tecnologia que els produeix millora massa ràpid. En un esforç per combatre la proliferació dels vídeos enganyosos, Facebook, Microsoft i acadèmics de les universitats més punteres, com la d&#8217;Oxford o el MIT, encapçalen el &#8216;<a href="https://venturebeat.com/2019/12/11/facebook-microsoft-and-others-launch-deepfake-detection-challenge/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Deepfake Challenge</a>&#8216; per impulsar la investigació i assegurar el desenvolupament d&#8217;eines de codi obert per la detecció de vídeos sintètics. La companyia de Mark Zukerberg ha destinat més de 10 milions de dòlars per animar a la participació: un senyal del valor de l&#8217;operació.</p>
+
+
+
+<p class="has-large-font-size"><strong>Màquines que treballen</strong></p>
+
+
+
+<p>El 2020, hi haurà molts àmbits professionals on s’aplicarà l&#8217;IA per primer cop. Els supermercats i les petites botigues comencen a implementar sistemes de predicció de demanda, segons les dades d&#8217;allò que van vendre en determinada data. La Intel·ligència Artificial revolucionarà la logística de les empreses, i ho farà també amb l’educació, la justícia i la medicina.</p>
+
+
+
+<p>Els metges s&#8217;estan bolcant en l’aprenentatge automàtic per recolzar la presa de certes decisions. Aquest nou any, ajudarà a molts professionals sanitaris a fer diagnòstics de malalties de manera automàtica. De fet, <a href="https://www.ccma.cat/324/un-sistema-dintelligencia-artificial-millora-la-deteccio-precoc-de-cancer-de-mama/noticia/2976182/" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">un programa informàtic ja pot diagnosticar càncer de mama</a> de manera més acurada, eficient i ràpida que un oncòleg a partir d’una mamografia. Algunes teràpies conductuals basades en els <em>smartphones</em> ofereixen la promesa de tractar la depressió, els transtorns alimentaris o l&#8217;abús d&#8217;alguns fàrmacs.</p>
+
+
+
+<p>Per altra banda, a les presons catalanes ja fa una dècada que es fan servir algoritmes de presa de decisions per calcular les possibilitats de reincidència dels que surten en llibertat. L&#8217;IA també pot ser utilitzada per predir crims. <a href="https://www.cio.com/article/3401401/can-crime-be-predicted-with-ai-ml.html" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">L&#8217;anomenada &#8216;policia predictiva&#8217; és capaç d&#8217;identificar la data, l&#8217;hora i l&#8217;ubicació en què és més probable que es produeixin certs delictes</a>, per tal que els agents prioritzin aquestes zones i franges temporals. A més, després d&#8217;unes quantes investigacions, els models analítics predictius s&#8217;han perfeccionat molt i de ben segur que seran utilitzats ben aviat a casa nostra. </p>
+
+
+
+<p>En l&#8217;àmbit educatiu, algunes facultats estan començant a guardar les dades acadèmiques i no acadèmiques dels estudiants. Sistemes d&#8217;IA són utilitzats per desenvolupar un perfil d&#8217;aprenentatge personalitzat en funció de la capacitat, l&#8217;experiència i la modalitat preferida d&#8217;estudi.<a href="https://www.forbes.com/sites/cognitiveworld/2019/07/12/ai-applications-in-education/#246ec87d62a3"> Els educadors comencen a utilitzar els assistents de veu</a> com l&#8217;Amazon Alexa, Google Home o Apple Siri, que permeten als estudiants interactuar amb material educatiu sense la intervenció del professor. Utilitzar sistemes intel·ligents a escoles i instituts pot incrementar l&#8217;eficiència de moltes institucions educatives i abaixar els costos.</p>
+
+
+
+<p class="has-large-font-size"><strong>Biaixos i caixes negres</strong></p>
+
+
+
+<p>De moment, però, els sistemes l&#8217;IA no són perfectes i poden cometre errors. Greus. Si un ordinador s&#8217;entrena amb un conjunt de dades suficient i fiable, els resultats poden ser de gran ajuda. Però, en canvi, si s&#8217;alimenta amb informació deficient i esbiaixada, o el sistema no es programa adequadament, els resultats poden conduir a l&#8217;equívoc o, en el pitjor dels casos, a la discriminació i a la desigualtat. Algunes investigacions han destapat que certs sistemes per predir la reincidència dels presos<a href="/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/"> tendien a assignar riscos molt més elevats a les persones de pell fosca que a les de pell blanca</a>. Quin és el problema? Si les dades que alimenten un algoritme contenen una representació esbiaixada de la realitat, les prediccions de l’algoritme predictiu reproduiran el mateix biaix.</p>
+
+
+
+<p>Un altre gran escull dels sistemes intel·ligents és allò que es coneix com el problema de la &#8216;caixa negra&#8217;: quan l&#8217;IA pren decisions que cap ésser humà pot explicar. Abans podiem rastrejar les resolucions que una màquina adoptava gràcies a un determinat codi. Però ara, els enfocaments complexos de l&#8217;aprenentatge automàtic poden fer que la presa de decisions automatitzada sigui completament inescrutable. La Intel·ligència Artificial aprèn per sí mateixa i genera respostes i decisions que l&#8217;intel·lecte humà mai podrà concebre, a velocitats fora del nostre abast.</p>
+
+
+
+<p>El 2015, un grup de recerca d&#8217;un hospital de Nova York va aplicar l&#8217;aprenentatge profund a la seva base de dades (de 700.000 registres de pacients). El sistema va descobrir patrons ocults en les dades que semblaven anticipar sorprenentment bé l&#8217;aparició de trastorns psiquiàtrics com l&#8217;esquizofrènia, que és molt difícil de predir. El coordinador de l&#8217;equip mèdic es pregunta com és possible, i encara no ho sap.</p>
+
+
+
+<p>El problema de la caixa negra és més perillós en l&#8217;àmbit de la Defensa, per exemple. Per això, correspon a les administracions públiques buscar assessorament expert independent i ser transparents en les seves polítiques i la presa de decisions, de manera que les comunitats puguin tenir confiança en què la tecnologia no oferirà resultats esbiaixiats o vulnerarà la sobirania dels professionals de carn i ossos.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">568</post-id>	</item>
+		<item>
+		<title>Immersos en la censura digital</title>
+		<link>/2019/11/30/radiografia-censura-digital-catalunya/</link>
+					<comments>/2019/11/30/radiografia-censura-digital-catalunya/#respond</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 30 Nov 2019 21:15:14 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[ANC]]></category>
+		<category><![CDATA[Assemblea Nacional Catalana]]></category>
+		<category><![CDATA[Catalunya]]></category>
+		<category><![CDATA[Censorship]]></category>
+		<category><![CDATA[Censura Digital]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Proxy]]></category>
+		<category><![CDATA[Referèndum]]></category>
+		<category><![CDATA[Seguretat]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[Tsunami Democràtic]]></category>
+		<category><![CDATA[Vigilància]]></category>
+		<category><![CDATA[VPN]]></category>
+		<guid isPermaLink="false">/?p=450</guid>
+
+					<description><![CDATA[Fem un repàs històric i una anàlisi del fenomen per ajudar a entendre com funciona Montesquieu, Kant i Sartre són de primer curs de Filosofia&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Fem un repàs històric i una anàlisi del fenomen per ajudar a entendre com funciona</h2>
+
+
+
+<p>Montesquieu, Kant i Sartre són de primer curs de Filosofia però, fins el 1966, algunes de les seves obres van formar part dels <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://sourcebooks.fordham.edu/mod/indexlibrorum.asp" target="_blank">Llibres Prohibits de l’Església</a>. La purga d’escrits que induïen a la crítica també va ser bandera del franquisme, que vetà 1984 d’Orwell o el Quixot de Cervantes mentre, alhora, se servia d’un control estricte de la ràdio i la televisió. La censura ens ha perseguit des de temps remots, però ha canviat el canal: Internet és el gran camp de batalla de la censura, que <a href="https://ctxt.es/es/20191106/Firmas/29360/Simona-Levi-Xnet-internet-Espana-China.htm">al 2019 es regula per decret reial</a>. </p>
+
+
+
+<p><a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://freedomhouse.org/report/freedom-world/freedom-world-2019/democracy-in-retreat" target="_blank">Un estudi de la Freedom House</a> alerta que governs de tot el món han concentrat dràsticament els esforços per <a href="/2019/10/14/enxampa-les-fake-news/">manipular els mitjans de comunicació durant el 2018</a>. I al mateix temps creixen, segons l’ONG, noves fórmules de censura: el control estatal de la connectivitat mòbil, la <a href="/2019/10/23/camuflatge-digital-hong-kong/">limitació de vídeos de reproducció instantània o ‘en streaming</a>’, ciberatacs contra opositors i defensors dels drets, noves restriccions de les Xarxes Privades Virtuals (VPN), així com, directament, represàlies i detencions de crítics, activistes i periodistes. Cadascuna és més distòpica que l’anterior i, malauradament, no ens queden tan lluny. Quins mecanismes de censura digital s’han fet servir, a Catalunya i l’Estat espanyol? Quins altres mecanismes de bloqueig en línia existeixen i on s&#8217;han produït? </p>
+
+
+
+<h3>Espanya</h3>
+
+
+
+<p>Avui, a Espanya, l’Independentisme és la principal diana de la censura digital. El nou Reial Decret 14/2019 permetrà tancar webs sense audiència prèvia i, <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://twitter.com/CripticaOrg/status/1199266408498159617" target="_blank">com va alertar l’associació Críptica, prendre el control</a> de la xarxa tecnològica quan l’Estat ho consideri oportú. Una normativa cosida a mida per esmorteir les mobilitzacions que han fet bullir els carrers després de <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.ara.cat/judici-presos-politics-1-octubre/sentencia-proces-presos-politics-tribunal-suprem-marchena-oriol-junqueras-jordi-sanchez-cuixart-turull-josep-rull-raul-romeva-joaquim-forn-carme-forcadell-dolors-bassa-santi-vila-carles-mundo-meritxell-borras_0_2321767925.html" target="_blank">la sentència del Procés</a>, però que permetrà, per exemple, desconnectar de la xarxa als participants d’una manifestació en qualsevol zona concreta de l’Estat espanyol. El decret, també batejat com a “155 digital”, <a href="https://civio.es/el-boe-nuestro-de-cada-dia/2019/11/05/las-administraciones-publicas-tienen-seis-meses-para-que-todas-sus-bases-y-servicios-con-datos-personales-esten-alojadas-en-servidores-europeos/" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">obliga així mateix a passar pel sedàs del govern central els sistemes de firma electrònica propis</a>, com l’IdentiCAT.</p>
+
+
+
+<h5>Sempre hi ha una fórmula</h5>
+
+
+
+<p>La Censura digital adquireix ara rang de llei. Però això ja ho vam veure a l’1-O, quan va enredar-se amb el Codi Penal. El 13 de setembre del 2017, un jutge va fer tancar el web <em>referendum.cat</em> tot i que, poc després, Carles Puigdemont difonia a Twitter els clons de la pàgina que havia estat tancada. “És impossible posar portes al camp”, comentava l&#8217;aleshores president. I tenia raó: sempre hi ha una fórmula.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr">És impossible posar portes al camp. Seguim! <a href="https://twitter.com/hashtag/1Oct?src=hash&amp;ref_src=twsrc%5Etfw">#1Oct</a> <a href="https://t.co/YJUQpMAtRU">pic.twitter.com/YJUQpMAtRU</a></p>&mdash; Carles Puigdemont (@KRLS) <a href="https://twitter.com/KRLS/status/909126641145798656?ref_src=twsrc%5Etfw">September 16, 2017</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>La setmana següent, la Guàrdia Civil va arrestar Josep Masoliver, treballador de la Fundació puntCAT -una entitat privada sense filiació política que promou el domini .cat a Internet-. Tot i que va quedar en llibertat 48 hores després, ha estat finalment processat per voler assegurar l’accés a referendum.cat i altres pàgines vinculades a l’1-O. <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.nytimes.com/2017/09/22/style/cat-domain-catalonia.html" target="_blank">Mitjans de tot el món se’n van fer ressò</a>: era Internet allò que estava en joc. Fins el 27 de setembre, més de 140 llocs web relacionats amb el referèndum van ser bloquejats i, després, continuà el bloqueig, que fins i tot <a href="https://elpais.com/politica/2017/10/10/actualidad/1507631073_313664.html?id_externo_rsoc=TW_CM" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">va arribar al grup de Whatsapp de l’Assemblea Nacional Catalana</a> (ANC) i Òmnium Cultural.&nbsp;</p>
+
+
+
+<h5>La fotografia de la vergonya</h5>
+
+
+
+<p>Dos anys més tard, el Tsunami Democràtic lidera la resposta contra una sentència que ha fet estralls. Alguns experts, com Enric Luján, han vinculat el <em>modus operandi</em> <a href="https://twitter.com/imGeheimen/status/1184178826739367939?s=20" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">d’aquest nou col·lectiu anònim amb l’arquitectura organitzativa i tecnològica de l’1-O</a>. Després de la primera acció a l’aeroport, va començar la persecució i la censura dels canals de difusió del grup. Un nou joc del gat i la rata que ja es va viure l’1 d’Octubre, amb el tancament de pàgines webs que es tornaven a replicar de seguida. Més endavant, la Guàrdia Civil va enviar una petició de bloqueig a la plataforma GitHub de Microsoft, on s’allotjava el web i l’app del Tsunami. Després, l’empresa feia públic el missatge del cos policial, que apareixia al costat de peticions similars de Rússia i la Xina. La fotografia deixava en molt mal lloc l’Estat espanyol.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="es" dir="ltr">Como parte de su política de transparencia <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@GitHub</a> ha publicado la carta de la Guardia Civil exigiéndole retirar la página de <a href="https://twitter.com/hashtag/tsunamidemocractic?src=hash&amp;ref_src=twsrc%5Etfw">#tsunamidemocractic</a> junto con otras peticiones similares de Rusia y China.<a href="https://t.co/yGYtq4sCqq">https://t.co/yGYtq4sCqq</a> <a href="https://t.co/t3Za7HBIPD">pic.twitter.com/t3Za7HBIPD</a></p>&mdash; Xnet (@X_net_) <a href="https://twitter.com/X_net_/status/1189449939593482240?ref_src=twsrc%5Etfw">October 30, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div></figure>
+
+
+
+<p>El 18 d’octubre, el domini tsunamidemocratic.cat era bloquejat “gràcies a la col·laboració de les grans teleoperadores”, segons explicava el Tsunami en un comunicat. Alhora, recomanava descarregar la seva singular aplicació, <a href="/2019/10/22/tecnologia-transforma-activisme/">concebuda per esquivar la censura</a>, i animava a utilitzar una VPN. Però el servei més útil pel Tsunami ha estat sens subte Telegram, l’aplicació russa que el president Vladimir Putin va bloquejar perquè el seu director es va negar a col·laborar amb els serveis secrets. Des de Telegram, s’ha continuat permetent l’accés a l’app, que des d’aquesta setmana <a href="https://www.producthunt.com/posts/tsunami-democratic-app" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">també és a la principal llista de noves aplicacions i serveis tecnològics, Product Hunt:</a> un nou revés a la censura.&nbsp;</p>
+
+
+
+<h3>Casos extrems</h3>
+
+
+
+<p>El país on va néixer Telegram és conegut per la seva relació íntima amb la censura. Al principi d’aquest mes, <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.bbc.com/mundo/noticias-internacional-50268214" target="_blank">va entrar en vigor l’anomenada ‘llei d’Internet sobirana</a>’, que estableix que l’Estat ja no necessita una autorització judicial ni contactar amb les teleoperadores per bloquejar qualsevol contingut d’Internet considerat sospitós. Putin justifica la mesura per la millora de la ciberseguretat, però els crítics temen que el Kremlin vol crear un <em>firewall</em> -’tallafocs’, en català- capaç de tallar completament les connexions del país amb la web mundial. Això ja ho va fer el govern de l’Iran, quan <a href="https://www.bbc.com/mundo/noticias-internacional-50489085" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">va deixar sense Internet a un pais de 80 milions de persones</a> enmig d’unes protestes pel dràstic augment dels preus del combustible, on van ser disparats desenes de manifestants.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Update: 65 hours after <a href="https://twitter.com/hashtag/Iran?src=hash&amp;ref_src=twsrc%5Etfw">#Iran</a> implemented a near-total internet shutdown, some of the last remaining networks are now being cut and connectivity to the outside world has fallen further to 4% of normal levels <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4c9.png" alt="📉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/Internet4Iran?src=hash&amp;ref_src=twsrc%5Etfw">#Internet4Iran</a> <a href="https://twitter.com/hashtag/IranProtests?src=hash&amp;ref_src=twsrc%5Etfw">#IranProtests</a><br><br><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4f0.png" alt="📰" class="wp-smiley" style="height: 1em; max-height: 1em;" /><a href="https://t.co/1Al0DT8an1">https://t.co/1Al0DT8an1</a> <a href="https://t.co/uLWx3i0uBO">pic.twitter.com/uLWx3i0uBO</a></p>&mdash; NetBlocks (@netblocks) <a href="https://twitter.com/netblocks/status/1196734263963607041?ref_src=twsrc%5Etfw">November 19, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<h5>El Projecte Escut Daurat</h5>
+
+
+
+<p>El firewall és una realitat al país liderat per Xi Jinping, i és un cas extrem de censura digital. Per a executar-la, el govern utilitza des del 2003 el conegut com a ‘Gran Tallafocs’ o, com s’ha batejat oficialment, el ‘Projecte Escut Daurat’. El tallafocs xinès funciona interceptant els requeriments que envien els ordinadors dins de la xarxa a la Xina. El <em>firewall</em> els analitza i determina si els deixa passar. D’aquesta manera, recolzant-se en l’ús massiu de les noves tecnologies, Jinping ha aconseguit imposar un model de societat basat en el control estricte de la informació i els ciutadans.</p>
+
+
+
+<h3>Com funciona la censura digital?</h3>
+
+
+
+<p>Quan només se censuraven llibres o cadenes de ràdio i televisió, els mecanismes eren més senzills. Actualment, la complexitat de les tecnologies que fem servir per comunicar-nos a través de la xarxa, ha donat lloc a una sèrie de procediments cada cop son més enrevessats. Fem un repàs dels més habituals.</p>
+
+
+
+<h5>Proveïdors d’Internet (ISP)</h5>
+
+
+
+<p>Els casos més habituals requereixen la col·laboració de les empreses proveïdores d’Internet, o ISP per les sigles d’Internet Service Provider en anglès, com Telefonica o Orange. Aquestes companyies interfereixen en les comunicacions dels seus usuaris bloquejant o alterant el contingut que aquests reben als seus dispositius, sovint a conseqüència d’un requeriment judicial o d&#8217;una petició del govern.</p>
+
+
+
+<ul><li><strong>Filtratge d’IP</strong>: En els casos més senzills, el proveïdor bloqueja tota comunicació dels seus usuaris amb una adreça IP d’un servidor en particular. Recordem que una <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://ca.wikipedia.org/wiki/Adre%C3%A7a_IP" target="_blank">adreça IP</a> és un codi numèric d’entre 4 i 12 dígits que identifica de manera única un servidor a Internet. Així doncs, bloquejant les comunicacions amb aquesta adreça, s&#8217;impedeix als usuaris accedir a qualsevol contingut o servei allotjat en aquell servidor, ja sigui una pàgina web, imatges, o un servei de correu electrònic. <a href="https://www.eff.org/deeplinks/2014/02/venezuelas-net-crackdown-escalates" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">Aquest sistema s&#8217;hauria aplicat a Veneçuela</a> per a impedir l&#8217;accés a imatges de Twitter o a Pastebin, una aplicació que permet pujar petits textos i que era utilitzada pels activistes d’Anonymous per a difondre maneres d&#8217;esquivar la censura.</li></ul>
+
+
+
+<ul><li><strong>Filtratge de noms de domini</strong>: Quan s&#8217;introdueix un <a href="https://ca.wikipedia.org/wiki/Domini_d%27Internet">nom de domini</a> com “tecnologa.cat” en un navegador web, el que fa aquest és demanar al DNS (Sistema de Noms de Domini) l&#8217;adreça IP corresponent per poder accedir al servidor i subministrar-ne el contingut. Si el DNS consultat pertany a l’ISP, aquest pot decidir no retornar la IP del servidor i bloquejar-ne així el contingut. En altres casos, en comptes d’evitar contestar, respondria una adreça IP alternativa en la que es mostra un missatge judicial. <a href="https://ooni.io/es/post/internet-censorship-catalonia-independence-referendum/" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">Dades de l’Observatori Obert d’Interferències de Xarxa (OONI) demostren</a> que France Telecom Espanya i Euskaltel van adoptar aquesta tècnica per bloquejar llocs web relacionats amb el referèndum de Catalunya.</li></ul>
+
+
+
+<ul><li><strong>Desconnexió total</strong>: En els casos més extrems, quan tots els altres sistemes fallen, el proveïdor d’internet pot optar per la solució més dràstica: deixar a tots els seus usuaris sense connexió a internet. Aquesta és una mesura extrema que s’ha aplicat en molt poques ocasions, normalment en un contextos de gran desestabilització del país. Els primers països a tancar l&#8217;accés a Internet per complet van ser Nepal el 2005 i Birmània el 2007. Egipte va tallar del tot l&#8217;accés a Internet durant la anomenada primavera àrab, <a href="https://www.telegraph.co.uk/news/worldnews/africaandindianocean/egypt/8288163/How-Egypt-shut-down-the-internet.html" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">entre el 27 de gener i el 2 de febrer de 2011</a>. El cessament de l&#8217;activitat va ser absolut, encara que alguns usuaris van trobar maneres de sortejar-lo. Altres països que van emprar la mateixa tàctica van ser Líbia, amb talls intermitents, Bahrain (que va incrementar el seu filtratge, però no va tancar totalment l&#8217;accés a la xarxa) i Síria.</li></ul>
+
+
+
+<h5>Proveïdors de Serveis</h5>
+
+
+
+<p>En altres casos, la censura no té res a veure amb el nostre proveïdor d’Internet o ISP, sinó que s’aplica per part d’alguna altra empresa que ofereix un servei a Internet. Quan això passa, l’empresa és l’encarregada de bloquejar certs continguts mentre continua oferint-ne d’altres amb normalitat. En alguns casos, cal un requeriment judicial o una petició del govern però, en altres casos, es vesteix amb l’excusa d’una violació dels termes d’ús.</p>
+
+
+
+<ul><li><strong>Catàlegs d’aplicacions</strong>: Alguns dels proveïdors que bloquegen els seus continguts són els catàlegs d’aplicacions com Google Play Store o Apple Store. Quan això passa, determinades aplicacions deixen d’estar-hi disponibles per descarregar. Recentment es van observar casos d’aquests quan <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.eldiario.es/internacional/Apple-manifestantes-Hong-Kong-Policia_0_951205117.html" target="_blank">Apple va eliminar una aplicació amb què els manifestants de Hong Kong</a> coneixien l’ubicació de la Policia, o quan, fa tres setmanes, Quarz, portal de notícies amb sis anys de vida, desapareixia de l&#8217;App Store xinesa per la seva cobertura contínua sobre les protestes. Per altre cantó, l’app del Tsunami Democràtic no va arribar ni a donar-se d’alta al Play Store perquè s’assumia que Google la podia bloquejar.<br></li><li><strong>Xarxes Socials</strong>: Una altra de les més habituals és la censura en Xarxes Socials. A vegades, les xarxes com Twitter, Instagram o Facebook retiren continguts penjats per usuaris sota l’argument de que són inapropiats. En d’altres, els comptes dels usuaris poden arribar a ser suspesos de manera temporal o definitiva. Alguns cops, fins i tot, les Xarxes Socials ofereixen la possibilitat que els propis usuaris apliquin la censura a base de denunciar massivament i de manera sincronitzada a determinats perfils per violacions de les condicions d’ús. Per exemple, aquesta mateixa setmana, la plataforma Tiktok va haver de disculpar-se per haver bloquejat el compte d’una adolescent que <a href="/2019/11/27/el-video-duna-jove-que-alerta-sobre-els-camps-de-concentracio-de-la-xina-i-esquiva-per-ara-la-censura/">denunciava la repressió dels uigurs als seus vídeotutorials de maquillatge</a>.</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/30/radiografia-censura-digital-catalunya/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">450</post-id>	</item>
+		<item>
+		<title>Algoritmes esbiaixats: màquines que no fan justícia</title>
+		<link>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/</link>
+					<comments>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/#respond</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Mon, 11 Nov 2019 12:22:37 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Algorithm]]></category>
+		<category><![CDATA[Algoritme]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Aprenentatge Automàtic]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Health]]></category>
+		<category><![CDATA[Machine Learning]]></category>
+		<category><![CDATA[Salut]]></category>
+		<category><![CDATA[Tinder]]></category>
+		<guid isPermaLink="false">/?p=297</guid>
+
+					<description><![CDATA[Florida, 2014. Una tarda de primavera, Brisha Borden i un amiga, totes dues de 18 anys, roben una bici i un patinet. En plena fugida,&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Florida, 2014. Una tarda de primavera, Brisha Borden i un amiga, totes dues de 18 anys, roben una bici i un patinet. En plena fugida, s’adonen que són massa grans per conduir els vehicles, que pertanyen a un nen de sis anys. La policia les arresta i les acusa de robar uns objectes valorats en 80 dòlars. A l’estiu anterior, Vernon Prater, de 41 anys, és detingut per robar a una botiga diversos articles que sumen 86,35 dòlars. Està en cerca i captura i ja ha passat cinc anys a la presó per robatori armat i dos delictes més. A la presó, un sistema informàtic anomenat COMPAS* puntua la probabilitat de reincidència dels reclusos. A Borden, de pell negra, li atribueix un risc elevat i a Prater, de pell blanca, un risc baix. Dos anys després, es descobreix que l’algoritme predictiu no l’ha encertada: Borden no ha comès cap altra infracció, mentre Prater compleix una pena de vuit anys de presó per un altre robatori.</p>
+
+
+
+<p>Aquest no és un cas aïllat. Dos anys després d’aquests fets, <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">una investigació de Propublica va demostrar</a> que el sistema tendia a assignar riscos molt més elevats a les persones de pell fosca que a les de pell blanca. Era el resultat d’allò que es coneix com a biaix predictiu; en aquest cas, racista.</p>
+
+
+
+<h2>D’on surt aquest biaix?</h2>
+
+
+
+<p>L&#8217;origen s’amaga en els principis més bàsics dels algoritmes predictius, també anomenats d’Aprenentatge Automàtic (Machine Learning, en anglès). Aquests algoritmes, actualment tant habituals, es basen en una anàlisis estadística de dades històriques, a partir de les quals s’extreuen patrons que més endavant serveixen per fer prediccions sobre noves dades. Com a conseqüència, si aquestes dades històriques contenen una representació esbiaixada de la realitat, les prediccions de l’algoritme predictiu reproduiran el mateix biaix.</p>
+
+
+
+<p>Però això no és tot. L’estudi de Propublica va demostrar que la diferència a l’hora d’avaluar persones de colors diferents no s&#8217;explicava només per unes dades històricament esbiaixades, sinó que l&#8217;algoritme tendia a equivocar-se de manera diferent en funció de si examinava persones de pell negra o de pell blanca. Així, COMPAS va atribuir el doble de vegades un risc erròniament alt de reincidència als presos de pell negra; mentre va assignar un risc erròniament baix a molts més reclusos de pell blanca. Per tant, en aquest cas, la Intel·ligència Artificial no ajudava a mitigar les diferències racials inherents a les dades històriques, sinó que encara les potenciava més.</p>
+
+
+
+<p>Per què? Propublica ressaltava que COMPAS no preguntava la raça del pres per formar l’algoritme. No obstant això, les variables que utilitzava per obtenir informació eren 137 preguntes personals sobre el detingut i el seu entorn, com “Els teus amics o familiars formen part de bandes criminals?” o “Has provat l&#8217;heroïna?”. Però el problema és que, als Estats Units, les diferències socials entre els col·lectius racials són prou importants com perquè es vegin reflectides en aquest tipus de respostes. Així, si s&#8217;evités proporcionar a l&#8217;algoritme dades que permeten deduir el color de pell, es quedaria sense informació per a fer prediccions amb precisió.</p>
+
+
+
+<h2>Conseqüències en el treball, en la salut, en l’amor</h2>
+
+
+
+<p>El cas de COMPAS no és una excepció, ja que els biaixos predictius són un fenomen inherent als algoritmes d’Intel·ligència Artificial, que són cada dia més freqüents al nostre entorn. </p>
+
+
+
+<p>El 2014, <a href="https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G?utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz--y-ycxgaCuFg_VJZNKEV72YYe72ryGDwDcZmF4qpvJJsCrmqY2DqHNktpSZD4K2U0Vk-Ri">Amazon va desenvolupar una eina intel·ligent per reclutar els millors treballadors</a>. Un any més tard, la multinacional va adonar-se que als llocs tècnics no hi havia cap dona. La companyia va abandonar l’eina després que una auditoria interna trobés que els candidats homes havien obtingut més puntuació que les dones. Per què? <a href="https://medium.com/think-by-shifta/por-qu%C3%A9-la-inteligencia-artificial-discrimina-a-las-mujeres-18b123ecca4c">Tal com expliquen Karma Peiró i Ricardo Baeza-Yates a Medium</a>, les dades massives que serviren per nodrir l’algoritme de sel·lecció de personal es basaven en currículums rebuts durant l&#8217;última dècada, quan amb prou feines hi havia dones programadores. Quan el sistema automàtic detectava la paraula “dona” o un sinònim, la penalitzava i puntuava més baix.</p>
+
+
+
+<p>En l’àmbit sanitari, als Estats Units s’utilitzen algoritmes per guiar algunes decisions mèdiques. El 25 d’octubre, <a href="https://science.sciencemag.org/content/366/6464/447.full?utm_campaign=The%20Batch&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz--y-ycxgaCuFg_VJZNKEV72YYe72ryGDwDcZmF4qpvJJsCrmqY2DqHNktpSZD4K2U0Vk-Ri">la revista Science explicava que els models utilitzats per assignar cures</a> als 100 milions de pacients nordamericans que pateixen malalties cròniques, com atacs de cor o diabetis, prioritzaven els pacients blancs en detriment dels negres, i rebien abans una assistència mèdica urgent.</p>
+
+
+
+<p>Al llibre El Algoritmo del Amor, Judith Duportail explica que <a href="https://www.arabalears.cat/cultura/Tinder-construir-parelles-desiguals_0_2285171474.html">l’algoritme de Tinder classifica els usuaris segons la bellesa, el gènere, els estudis i la classe social</a>. Duportail sosté que els homes amb més ingressos i nivell d’estudis tenen una gratificació i, en canvi, a les dones amb els mateixos atributs se les penalitza. Per això, considera que Tinder vol construir parelles desiguals en què l’home sempre sigui superior: amb més estudis, més ingressos i més edat. Com s&#8217;explica això? Per una banda, l’algoritme és el resultat d’una compilació de dades que ha tingut lloc dins una societat masclista i, per l’altra banda, segons l’autora del llibre, els programadors de l’aplicació han introduït els seus propis biaixos dins el programari. Com trencar aquest cercle viciós?</p>
+
+
+
+<h2>Algunes solucions</h2>
+
+
+
+<p>El <a href="https://fedit.com/2017/09/proyecto-fair-un-algoritmo-para-evitar-discriminaciones-en-la-busqueda-de-trabajo-o-de-pareja/">Centre Tecnològic Eurecat, de la mà de la Universitat Pompeu Fabra (UPF) i la Universitat Tècnica de Berlín</a>, ha creat un algoritme, anomenat FA*IR, per evitar la discriminació per raons de gènere, procedència o aparença física en cercadors de feina o de parella. FA*IR detecta els biaixos i els corregeix incorporant un mecanisme per a reordenar els resultats sense afectar la validesa del rànquing. <a href="https://www.upf.edu/recercaupf/-/asset_publisher/RVNxhLpxnc9g/content/id/226511859/maximized">Des de l’UPF, a més, proposen utilitzar els algoritmes de manera crítica</a> i en col·laboració amb experts de l’àrea que correspongui.</p>
+
+
+
+<p>Rachel Thomas, directora del Centre d’Ètica Aplicada a les Dades de la Universitat de San Francisco, recomana que cada conjunt de dades es presenti amb un document on s’hi descrigui com es va compilar. També aconsella especificar-hi qualsevol preocupació ètica o legal que hagi pogut sorgir durant el procés. Suggereix, tanmateix, que els equips incloguin gent diversa capaç d’advertir els diferents biaixos.</p>
+
+
+
+<p>El 2017, l’<a href="https://www.acm.org/binaries/content/assets/public-policy/2017_usacm_statement_algorithms.pdf">Associació de Maquinària Informàtica (ACM) publicà un manifest</a> en defensa de la transparència algorítimica i va establir set principis:</p>
+
+
+
+<ol><li>Consciència. Els creadors d’aquests sistemes han de ser conscients de la possibilitat que hi hagi biaixos en el seu disseny, implementació i ús.</li><li>Accés. Els reguladors han d’afavorir l’introducció de mecanismes perquè els individus i grups negativament afectats per decisions algorítmiques puguin qüestionar-les i rectificar-les.</li><li>Passar comptes. Les institucions han de ser responsables de les decisions de l’algoritme, encara que no puguin detallar com s’han pres.</li><li>Explicació. Les institucions que empren sistemes intel·ligents han de promoure la producció d’explicacions sobre els procediments i les decisions específiques que s’hi prenen.</li><li>Procedència de les dades. Les dades emprades per a l’entrenament han d’anar acompanyades d’una descripció del seu origen.</li><li>Auditabilitat. Models, dades i decisions han de quedar registrats perquè puguin auditar-se quan se sospita d’algun error.</li><li>Validació i proves. Les institucions han de fer proves rutinàries per a avaluar i determinar si el model genera discriminació.</li></ol>
+
+
+
+<h2>Encara queda molt per fer</h2>
+
+
+
+<p>Malgrat els esforços, els biaixos algoritmics són entre els grans problemes de la comunitat científica. En alguns casos, les dades sovint reflecteixen diferències no atribuïbles a biaixos, sinó que són resultat d’una descripció objectiva de la realitat i no té sentit corregir-los. A vegades, però, aquests contrastos són producte de certes diferències històriques que cal pal·liar per construir una societat més justa. Tot plegat requereix una feina complexa però necessària per redefinir com conceptualitzem el món i, en conseqüència, com obtenim les dades. Al mateix temps, és urgent introduir l&#8217;Ètica a l&#8217;hora d&#8217;entrenar models intel·ligents que, de ben segur, tindran un gran impacte social.</p>
+
+
+
+<h5>Notes:</h5>
+
+
+
+<p class="has-small-font-size">*COMPAS és l&#8217;acrònim de Correctional Offender Management Profiling for Alternative Sanctions, que en català es tradueix com a Perfilat per la Gestió Correctiva d&#8217;Infractors per Sancions Alternatives.<br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">297</post-id>	</item>
+	</channel>
+</rss>

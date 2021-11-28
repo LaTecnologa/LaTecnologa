@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Departament de Polítiques Digitals i Administració Pública de la Generalitat de Catalunya &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/departament-de-politiques-digitals-i-administracio-publica-de-la-generalitat-de-catalunya/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Departament de Polítiques Digitals i Administració Pública de la Generalitat de Catalunya &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Presenten el primer observatori epidemiològic a Catalunya basat en intel·ligència artificial i dades massives</title>
+		<link>/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/</link>
+					<comments>/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/#comments</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 14:57:30 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Departament de Polítiques Digitals i Administració Pública de la Generalitat de Catalunya]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<guid isPermaLink="false">/?p=1484</guid>
+
+					<description><![CDATA[Estudiarà la propagació d&#8217;epidèmies a través de l’anàlisi de dades del cens, epidemiològiques, meteorològiques i mediambientals i d’algunes companyies telefòniques La pandèmia de la Covid-19&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Estudiarà la propagació d&#8217;epidèmies a través de l’anàlisi de dades del cens, epidemiològiques, meteorològiques i mediambientals i d’algunes companyies telefòniques</h2>
+
+
+
+<p>La pandèmia de la Covid-19 ha posat sobre la taula la necessitat d&#8217;anticipar-se als brots epidèmics per fer més eficients els processos de contenció i mitigació. Amb aquest objectiu, Catalunya ha vist néixer aquest dijous el primer projecte per a la prevenció d&#8217;epidèmies basat en intel·ligència artificial (IA) i l&#8217;anàlisi de dades massives (<em>Big Data</em>). </p>
+
+
+
+<p>L’observatori epidemiològic, impulsat pel Govern de la mà d&#8217;institucions mèdiques com l&#8217;Hospital Germans Trias i Pujol, operadores telefòniques, i centres educatius com la Universitat de Girona i la Rovira i Virgili, vol estudiar la propagació d&#8217;epidèmies a través de l’anàlisi de dades del cens, epidemiològiques, meteorològiques i mediambientals i d&#8217;algunes companyies telefòniques per crear &#8220;millors models predictius&#8221;, que ajudaran a elaborar models matemàtics i a dissenyar estratègies per preveure i mitigar la propagació d’epidèmies presents i futures. </p>
+
+
+
+<p>Segons una nota de premsa de la Generalitat, en primer lloc es procedirà al creuament de les dades de forma agregada i anonimitzada -en cap cas implicarà traçabilitat o identificació de les persones-, i a l’anàlisi i extensió de models matemàtics per comparar i predir patrons específics d&#8217;epidèmies, a partir de la grip i la Covid-19. Això permetrà definir un primer model epidemiològic al qual posteriorment s’aplicaran tècniques i algoritmes d&#8217;aprenentatge automàtic (<em>Machine Learning</em>) per millorar-lo. Finalment, es treballarà en la construcció d’una eina capaç d’integrar les diferents fonts de dades de manera automàtica que permetrà el monitoratge de l’evolució d’una epidèmia i crear un sistema de suport a les decisions obert per a les comunitats científica i sanitària.</p>
+
+
+
+<p><strong>&#8220;Respecte a la informació de caràcter personal&#8221;</strong></p>
+
+
+
+<p>La mateixa nota subratlla que &#8220;una de les prioritats d’aquest Observatori és definir un model de tractament de dades que garanteixi plenament el respecte a la informació de caràcter personal per protegir la intimitat i privacitat dels ciutadans&#8221;. &#8220;En aquest sentit -continua el comunicat-, per tal d’estudiar la transmissió del virus, es treballarà amb dades agregades epidemiològiques i de mobilitat, sempre agregades i anonimitzades, seguint les recomanacions i millors pràctiques del Comitè Europeu de Protecció de Dades (CEPD) i del Departament de Salut.&#8221;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="678" src="/wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-1024x678.png" alt="Presentació del primer observatori epidemiològic de Catalunya basat en tecnologies digitals avançades" class="wp-image-1490" srcset="/wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-1024x678.png 1024w, /wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-300x199.png 300w, /wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-768x508.png 768w, /wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20.png 1213w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Presentació del primer observatori epidemiològic de Catalunya basat en tecnologies digitals avançades</figcaption></figure>
+
+
+
+<p>L’Observatori s’ubicarà a l’Hospital Germans Trias i Pujol (HGTiP) i comptarà amb la coordinació científica del doctor Bonaventura Clotet, cap del Servei de Malalties Infeccioses de l’HGTiP i president de la Fundació Lluita contra la Sida (FLS). La coordinació tècnica anirà a càrrec del Center for Innovation in Data tech and Artificial Intelligence (CIDAI), creat en el marc de l’Estratègia en Intel·ligència Artificial del Govern de Catalunya, Catalonia.AI.</p>
+
+
+
+<p>Aquesta iniciativa publicoprivada suma els esforços de la Generalitat de Catalunya, a través del Departament de Polítiques Digitals i Administració Pública i el Departament de Salut; institucions mèdiques i de salut (Hospital Germans Trias i Pujol i Fundació Lluita contra la Sida); centres d’innovació i investigació tecnològica i grups de recerca (CIDAI, Eurecat, Barcelona Supercomputing Center, Universitat Rovira i Virgili i Universitat de Girona) i el Mobile World Capital Barcelona. A més, el projecte compta amb la col·laboració de la iniciativa GSMA AI for Impact.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1484</post-id>	</item>
+	</channel>
+</rss>

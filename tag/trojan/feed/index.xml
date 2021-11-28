@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>trojan &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/trojan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:25:51 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>trojan &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Un troià capaç d&#8217;espiar a través del webcam per menys de 25 euros</title>
+		<link>/2019/12/02/un-troia-capac-despiar-a-traves-del-webcam-per-poc-mes-de-20-euros/</link>
+					<comments>/2019/12/02/un-troia-capac-despiar-a-traves-del-webcam-per-poc-mes-de-20-euros/#respond</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Mon, 02 Dec 2019 15:27:46 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[IM-RAT]]></category>
+		<category><![CDATA[Imminent Monitor Remote Access Trojan]]></category>
+		<category><![CDATA[troià]]></category>
+		<category><![CDATA[trojan]]></category>
+		<category><![CDATA[Virus]]></category>
+		<guid isPermaLink="false">/?p=472</guid>
+
+					<description><![CDATA[La Policia desmantella una xarxa d&#8217;usuaris a l&#8217;Estat espanyol i set països més Les víctimes es compten per desenes de milers. Per sort, organismes europeus&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>La Policia desmantella una xarxa d&#8217;usuaris a l&#8217;Estat espanyol i set països més </h2>
+
+
+
+<p>Les víctimes es compten per desenes de milers. Per sort, organismes europeus acaben de donar el cop de gràcia a un troià informàtic que tenia molts números de ser la gran ciberamenaça del 2019, <a rel="noreferrer noopener" aria-label="segons el comunicat oficial (s'obre en una nova pestanya)" href="http://www.eurojust.europa.eu/press/PressReleases/Pages/2019/2019-11-29b.aspx" target="_blank">segons el comunicat oficial</a>. Era d&#8217;allò més assequible per a qualsevol persona que tingués la intenció d&#8217;espiar o robar dades personals: baratíssim, amb un cost de 22,6 euros, i molt fàcil d&#8217;utilitzar. &#8220;Vivim en un món on, per només 25 dòlars, un cibercriminal de l&#8217;altra banda del món pot, amb tant sols un clic del ratolí, accedir a les nostres dades personals o a les fotografies dels nostres éssers estimats o fins i tot espiar-nos&#8221;, diu el director del Centre Europeu de Delictes Cibernètics d&#8217;Europol al comunicat. </p>
+
+
+
+<p>El virus informàtic s&#8217;ha fet servir en 124 països i s&#8217;ha venut a uns 14.500 compradors. Però l&#8217;Oficina Europea de la Policia (Europol) i l&#8217;Eurojust (l&#8217;òrgan encarregat de reforçar la cooperació judicial entre membres de la Unió Europea) han aconseguit eliminar el programari després d&#8217;una investigació que s&#8217;ha desenvolupat a l&#8217;Estat espanyol, Txèquia, els Països Baixos, Polònia, Suècia, el Regne Unit, Austràlia i Colòmbia i que ha conclòs amb l&#8217;arrest dels 13 usuaris més prolífics de l&#8217;eina i el decomís de més de 430 dispositius.</p>
+
+
+
+<p>Aquest troià, anomenat &#8216;Imminent Monitor Remote Access Trojan&#8217; (IM-RAT), permet, per exemple, controlar totalment l&#8217;ordinador de la víctima de manera remota. Una vegada infectat, el virus desactiva els sistemes de protecció d&#8217;aquests ordinadors -com els antivirus-, donant barra lliure als atacants. Entre altres accions, l&#8217;IM-RAT va ser creat per espiar i gravar pulsacions de tecles, observar les seves víctimes a través del webcam i robar dades personals sensibles com contrasenyes, credencials per a la banca en línia i fotografies i vídeos privats. I tot això sense despertar cap sospita. </p>
+
+
+
+<h5>Què és un virus troià?</h5>
+
+
+
+<p>Un&nbsp;<a href="https://www.kaspersky.com/resource-center/threats/trojans" target="_blank" rel="noreferrer noopener" aria-label="troià informàtic és un&nbsp;programari&nbsp;maliciós (s'obre en una nova pestanya)">troià informàtic és un&nbsp;programari&nbsp;maliciós</a> amb l&#8217;aparença de&nbsp;programari&nbsp;inofensiu que permet l&#8217;accés a usuaris externs i que pot recaptar informació o controlar de manera remota una altra&nbsp;màquina sense afectar el seu funcionament.&nbsp;</p>
+
+
+
+<p>Sovint, les víctimes són enganyades amb algun tipus d&#8217;enginyeria social. De fet, sol ser la pròpia víctima qui, sense saber-ho, descarrega i executa el virus al seu ordinador. Una vegada activat, els cibercriminals poden espiar-la i robar-li les dades, però també esborrar-les, modificar-les, copiar-les o segrestar-les, <a href="/2019/11/05/com-evitar-el-ransomware-el-virus-que-recorre-europa/">tal com va fer el virus Ransomware amb la Cadena SER</a>, obligant l&#8217;emissora a interrompre el seu funcionament habitual durant vàries setmanes. </p>
+
+
+
+<p>El nom d&#8217;aquest virus prové del mitològic&nbsp;cavall de Troia, que els grecs van utilitzar per guanyar la guerra. Segons l&#8217;<em>Eneida</em>&nbsp;de&nbsp;Virgili, després d&#8217;un infructuós setge de deu anys, les forces gregues van enganyar els habitants de Troia, grans creients dels déus, amb una falsa ofrena a la deessa Minerva: un gran cavall de fusta que deixaren davant les portes de la metròpoli. Un regal enverinat ja que, en realitat, era un cavall ple de guerrers grecs que a mitjanit sortiren i arrassaren la ciutat.</p>
+
+
+
+<h5>Com evitar el RAT?</h5>
+
+
+
+<p>L&#8217;Eurojust recomana instal·lar un antivirus i tenir-lo actualitzat, dissenyar la xarxa evitant exposar serveis interns utilitzant tallafocs o detectors d’intrusions, no obrir fitxers adjunts o provinents d&#8217;adreces de correu electrònic sospitoses -fins i tot si provenen de persones de la pròpia llista de contactes- i l&#8217;ús de contrasenyes fortes. </p>
+
+
+
+<p>A més a més, hi ha diverses recomanacions per evitar la infecció d&#8217;un troià, que són bones pràctiques de seguretat en general. Seguir-les, pot servir de protecció davant de qualsevol atac:</p>
+
+
+
+<ul><li>Actualitzar els sistemes de manera automatitzada i centrada.</li><li>Fer còpies de seguretat periòdiques.</li><li>Controlar els accessos, restringir l’ús d’aplicacions o d’equips no permesos.</li><li>Disposar de mitjans per navegar amb seguretat, xifrant les comunicacions i actualitzant els navegadors.</li><li>Configurar el correu electrònic amb filtres antispam i autenticació de correus entrants.</li><li>Desactivar les opcions d’Autorun i Autoplay a les unitats externes, com els USB o els CD.</li><li>Protegir la seguretat del wifi.</li><li>En el cas d’una empresa, formar els treballadors en matèria de ciberseguretat.</li></ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/12/02/un-troia-capac-despiar-a-traves-del-webcam-per-poc-mes-de-20-euros/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">472</post-id>	</item>
+	</channel>
+</rss>

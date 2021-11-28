@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Legislació &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/legislacio/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:41:41 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Legislació &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Reconeixement facial II: la tecnologia que ens vigila</title>
+		<link>/2019/10/13/els-perills-del-reconeixement-facial/</link>
+					<comments>/2019/10/13/els-perills-del-reconeixement-facial/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sun, 13 Oct 2019 15:25:01 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Control]]></category>
+		<category><![CDATA[Facial Recognition]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Legislació]]></category>
+		<category><![CDATA[Reconeixement Facial]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<guid isPermaLink="false">/?p=51</guid>
+
+					<description><![CDATA[La legislació avança a poc a poc, mentre empreses i cossos policials trepitgen les línies roges El reconeixement facial ens pot ser molt útil. Traduir&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h3>La legislació avança a poc a poc, mentre empreses i cossos policials trepitgen les línies roges</h3>
+
+
+
+<p>El reconeixement facial ens pot ser molt útil. Traduir les nostres cares en dades úniques i intransferibles pot facilitar-nos la vida, permetre&#8217;ns entrar a l&#8217;avió sense mostrar el passaport, desbloquejar el mòbil sense dibuixar el patró o pagar sense introduir el PIN. I al mateix temps, ens deixa un estol d&#8217;incògnites a l&#8217;aire. A diferència del reconeixement de veu o les empremtes dactilars, dona peu a grans perills, mentre <a rel="noreferrer noopener" aria-label="el seu ús s'expandeix acceleradament (s'obre en una nova pestanya)" href="/2019/10/09/reconeixement-facial/" target="_blank">el seu ús s&#8217;estén a gran velocitat</a>, la legislació avança lentament i les empreses i els cossos de seguretat trepitgen totes les línies vermelles. El reconeixement facial fa possible, per primer cop, que ens identifiquin des de qualsevol lloc, amb o sense el nostre consentiment, o que usurpin les nostres dades biomètriques. Un problema que no resoldrem canviant la contrasenya.  </p>
+
+
+
+<p>Cal tenir en compte que la informació que es pot treure d&#8217;un rostre és immensa. Per exemple, si ens graven sortint d&#8217;una botiga de roba alternativa, el sistema pot pressuposar que tindrem determinada ideologia. Si ens trobem a una manifestació, sabrà quina és la nostra posició política i també com ens vestim, si tenim una aparença saludable o no, entre moltes altres dades. Les empreses que empren sistemes biomètrics <a href="https://www.ccma.cat/324/pagar-amb-la-cara-un-comerc-de-barcelona-primer-despanya-amb-reconeixement-facial/noticia/2948475/" target="_blank" rel="noreferrer noopener" aria-label="diuen que no guarden les imatges (s'obre en una nova pestanya)">diuen que no guarden les imatges</a>, sinó dades xifrades i codificades. D&#8217;aquesta manera, si algú pirateja el sistema i obté les dades, les haurà de descodificar per a utilitzar-les, i fer-ho no és fàcil.</p>
+
+
+
+<p>Alguns diuen que la tecnologia del reconeixement facial no és ni bona ni dolenta en sí mateixa, i que la qüestió és l&#8217;ús que se&#8217;n fa. <a rel="noreferrer noopener" aria-label="El problema arriba quan la informació es transmet a un servidor central (s'obre en una nova pestanya)" href="https://elpais.com/tecnologia/2019/05/21/actualidad/1558455279_966010.html" target="_blank">El gran problema arriba quan la informació es transmet a un servidor central</a> sense el nostre consentiment i es combina amb altres dades nostres, així com els rastres que anem deixant per Internet. Amb aquesta informació combinada es pot saber quasi tot sobre nosaltres. I tot fa pensar que les empreses ho utilitzaran per als seus interessos, mentre els cossos policials ja l&#8217;ha introduït en el seu dia a dia per arrestar delinqüents o sospitosos.  </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="1088" height="726" src="/wp-content/uploads/2019/10/170518-D-DB155-006.jpg" alt="" class="wp-image-83" srcset="/wp-content/uploads/2019/10/170518-D-DB155-006.jpg 1088w, /wp-content/uploads/2019/10/170518-D-DB155-006-300x200.jpg 300w, /wp-content/uploads/2019/10/170518-D-DB155-006-1024x683.jpg 1024w, /wp-content/uploads/2019/10/170518-D-DB155-006-768x512.jpg 768w" sizes="(max-width: 1088px) 100vw, 1088px" /><figcaption>Imatge del Departament de Defensa dels EUA.</figcaption></figure>
+
+
+
+<p><a href="/2019/10/09/reconeixement-facial/">Dins les fronteres d&#8217;Europa</a>, França vol llançar enguany el seu sistema d’identificació per reconeixement facial i no en descarta el seu ús per a la vigilància. El govern alemany experimenta amb aquesta tecnologia en una concorreguda estació de tren per caçar terroristes. Les furgones policials de Gran Bretanya s&#8217;han equipat amb càmeres de reconeixement facial i, utilitzant aquest sistema, ja s&#8217;han detingut desenes de persones. Un home denuncià la Policia de Gal·les per fotografiar el seu rostre amb un sistema de reconeixement facial automàtic <a rel="noreferrer noopener" href="https://www.bbc.com/news/uk-48315979" target="_blank">mentre feia compres nadalenques</a>. </p>
+
+
+
+<h5>Errors i biaixos</h5>
+
+
+
+<p>Malgrat tot, els sistemes d&#8217;identificació facial acumulen una extensa llista d&#8217;errades. Durant la final de la Champions League del 2017, la tecnologia de la policia gal·lesa <a rel="noreferrer noopener" aria-label="va fallar a l'hora d'identificar a nou de cada deu (s'obre en una nova pestanya)" href="https://www.wired.co.uk/article/face-recognition-police-uk-south-wales-met-notting-hill-carnival" target="_blank">va fallar a l&#8217;hora d&#8217;identificar a nou de cada deu</a> persones. Alguns entesos advertiren que els sistemes utilitzats pel cos gal·lès i altres forces de seguretat manquen de supervisió normativa i de transparència.</p>
+
+
+
+<p>El 2018, l&#8217;eina de reconeixement facial d&#8217;Amazon, Rekognition, va confondre 28 congressistes amb sospitosos de la policia. El problema és que la manca de precisió pot costar-nos la llibertat o fins i tot la vida, tenint en compte que la gent de color es veu més perjudicada per les pràctiques policials. Fins i tot el director executiu del gegant del comerç electrònic, Jeff Bezos, <a rel="noreferrer noopener" aria-label="va mostrar-se preocupat per les conseqüències negatives (s'obre en una nova pestanya)" href="https://www.aclu.org/blog/privacy-technology/surveillance-technologies/amazons-face-recognition-falsely-matched-28" target="_blank">va mostrar-se preocupat per les conseqüències negatives</a> de la vigilància facial en el cas de les persones de color, els migrants sense documentació o els manifestants.</p>
+
+
+
+<p>A més, la <a rel="noreferrer noopener" aria-label="investigació acadèmica també ha demostrat (s'obre en una nova pestanya)" href="http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf" target="_blank">investigació acadèmica ha demostrat</a> que el reconeixement facial és menys precís per als rostres de pell fosca i les dones. Els conjunts massius de dades amb què els algoritmes són entrenats estan condicionats pels nostres coneixements i prejudicis, i solen incloure un percentatge molt menor d&#8217;imatges de dones i persones de pell fosca. El sistema utilitzat per la policia del comtat de Broward, Florida, va cometre greus errors en considerar que la gent de color era més probable que cometés un delicte. Una disparitat que <a rel="noreferrer noopener" aria-label="no s'explicava pels delictes previs (s'obre en una nova pestanya)" href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing" target="_blank">no s&#8217;explicava ni per les estadístiques, ni pels delictes previs</a> dels acusats. </p>
+
+
+
+<h5>Ciutats pioneres </h5>
+
+
+
+<p>L’Ajuntament de San Francisco va ser el primer en considerar que la tecnologia del reconeixement facial no era fiable i, al juny, esdevenia la primera ciutat nordamericana que prohibia l&#8217;ús policial del reconeixement facial. La van seguir Oakland (Califòrnia) i Somerville (Massachussets). Alguns membres del Congrés volen limitar-ne l’ús a tots els Estats Units. El màxim republicà del Comitè de Supervisió de la Cambra va comparar la tecnologia amb el “1984” de George Orwell i, a l’agost, el senador Bernie Sanders va convertir-se en el primer candidat a la presidència a demanar la prohibició total d’aquest software.&nbsp;</p>
+
+
+
+<figure class="wp-block-gallery columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img loading="lazy" width="970" height="492" src="/wp-content/uploads/2019/10/security-wall-graffiti-black-wallpaper-preview.jpg" alt="" data-id="11" data-link="/2019/10/07/reconeixement-facial/security-wall-graffiti-black-wallpaper-preview/" class="wp-image-11" srcset="/wp-content/uploads/2019/10/security-wall-graffiti-black-wallpaper-preview.jpg 970w, /wp-content/uploads/2019/10/security-wall-graffiti-black-wallpaper-preview-300x152.jpg 300w, /wp-content/uploads/2019/10/security-wall-graffiti-black-wallpaper-preview-768x390.jpg 768w" sizes="(max-width: 970px) 100vw, 970px" /><figcaption class="blocks-gallery-item__caption">Obra de Banksy.</figcaption></figure></li></ul></figure>
+
+
+
+<p>Malgrat tot, hi ha qui no hi veu el problema. La mare d’un alumne de l’institut públic Enric Borràs, que ha utilitzat des del 2012 un sistema de reconeixement facial per controlar l&#8217;assistència, defensava la tecnologia que &#8220;<a rel="noreferrer noopener" aria-label="allò que fa és ajudar els pares (s'obre en una nova pestanya)" href="https://www.businessinsider.es/instituto-catalan-usa-reconocimiento-facial-asistencia-484683" target="_blank">allò que fa és ajudar els pares</a>&#8220;. A Cardiff, la ciutat més gran de Gal·les, les furgonetes policials amb càmeres de reconeixement facial s’han <a rel="noreferrer noopener" aria-label="visió comuna durant l’últim any (s'obre en una nova pestanya)" href="https://www.brookings.edu/wp-content/uploads/2017/10/safe-city-innovation_final.pdf" target="_blank">normalitzat durant l’últim any</a>. El cos va defensar els sistemes de reconeixement facial com a mesura per compensar els pressupostos del govern durant anys. Als Estats Units, una enquesta recent mostra que la meitat dels enquestats donen suport al seu ús si existeixen garanties de privadesa, i un&nbsp;<a rel="noreferrer noopener" aria-label="nou informe de Pew Research (s'obre en una nova pestanya)" href="https://href.li/?https://www.pewinternet.org/2019/09/05/more-than-half-of-u-s-adults-trust-law-enforcement-to-use-facial-recognition-responsibly/" target="_blank">nou informe de Pew Research</a>&nbsp;demostra que més de la meitat dels nord-americans confien en la policia per fer-lo servir. Per al 2022, es preveu que el mercat global de la tecnologia del reconeixement facial arribi als 7.000 bilions de dòlars, segons&nbsp;<a rel="noreferrer noopener" href="https://href.li/?https://www.marketsandmarkets.com/PressReleases/facial-recognition.asp" target="_blank">va predir Markets and Markets</a>. </p>
+
+
+
+<h5>Legislació</h5>
+
+
+
+<p>A Europa, les dades biomètriques estan&nbsp;<a href="https://href.li/?https://eugdpr.org/">més protegides per llei</a>&nbsp;que en altres indrets, i només poden utilitzar-se en situacions excepcionals. El Reglament General de Protecció de Dades (RGPD) prohibeix de manera general el seu tractament, però contempla excepcions. Per exemple, en les cerques policials de delinqüents i terroristes a nivell internacional o quan l&#8217;usuari ha donat el seu consentiment. </p>
+
+
+
+<p>Mentrestant, la legislació espanyola és minsa: dins la Llei de Protecció de Dades de caràcter personal, la recopilació de dades biomètriques només s’hi esmenta un cop. Això sí, deixa ben clar que abans de donar algú d’alta a qualsevol sistema de reconeixement facial, l’empresa ha d’informar l’usuari i <a rel="noreferrer noopener" aria-label="rebre’n el seu consentiment exprés (s'obre en una nova pestanya)" href="https://www.boe.es/boe_catalan/dias/2018/12/06/pdfs/BOE-A-2018-16673-C.pdf" target="_blank">rebre’n el seu consentiment exprés</a>.&nbsp;</p>
+
+
+
+<p>Amb tot, el Parlament Europeu ha aprovat la creació d&#8217;una base de dades biomètriques d&#8217;empremtes dactilars o cares dels habitants i els visitants de la Unió Europea, <a rel="noreferrer noopener" href="https://www.eldiario.es/tecnologia/UE-datos-identidades-faciales-biometricosUE-acuerda-europeos-fichados-deportar_0_891711413.html" target="_blank">l&#8217;anomenat DNI biomètric</a>. Una informació que estarà disponible per a totes les forces de seguretat.  </p>
+
+
+
+<p>Davant l&#8217;imparable estesa del reconeixement facial, el desenvolupament d’una legislació específica és urgent, com ho és l&#8217;obertura d&#8217;un debat públic. Tot plegat, fa pensar que ens trobem davant d&#8217;un instrument que amenaça les llibertats civils, a banda de ser una eina policial perillosament inexacta. D&#8217;aquesta manera, és lògic que no s&#8217;utilitzi fins que no es valorin els possibles els danys i es prenguin totes les precaucions per evitar perjudicar les comunitats vulnerables o els drets civils. A més, com va apuntar Edward Snowden&nbsp;<a rel="noreferrer noopener" href="https://href.li/?https://www.eldiario.es/internacional/gobiernos-empezando-autoridad-plataformas-tecnologicas_0_942806555.html" target="_blank">en una entrevista al diario.es</a>, Apple, Amazon, Google o Facebook no tenen un país, però sí molts diners. I els governs intenten beneficiar-se del poder d’aquestes empreses i les empreses entenen que poden beneficiar-se amb menys regulació i l’habilitat d’influir directament sobre la legislació.  </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/10/13/els-perills-del-reconeixement-facial/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">51</post-id>	</item>
+	</channel>
+</rss>

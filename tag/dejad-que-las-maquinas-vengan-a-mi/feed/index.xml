@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Dejad que las máquinas vengan a mí &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/dejad-que-las-maquinas-vengan-a-mi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Dejad que las máquinas vengan a mí &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Una antropologia del futur</title>
+		<link>/2020/05/23/una-antropologia-del-futur/</link>
+					<comments>/2020/05/23/una-antropologia-del-futur/#comments</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Fri, 22 May 2020 22:53:13 +0000</pubDate>
+				<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Dejad que las máquinas vengan a mí]]></category>
+		<category><![CDATA[Editorial Enclave]]></category>
+		<category><![CDATA[Luis Montero]]></category>
+		<guid isPermaLink="false">/?p=1250</guid>
+
+					<description><![CDATA[A Dejad que las máquinas vengan a mí, de l'Editorial Enclave, el filòsof Luis Montero es capbussa en l'imaginari simbòlic de la ciència ficció per intentar respondre què és l'ésser humà un cop les màquines ja han penetrat en tots els àmbits de la nostra existència. I per a fer-ho, se serveix del nucli dur de la Filosofia com Descartes, Leibniz, Kant, Hegel o Nietzsche. ]]></description>
+										<content:encoded><![CDATA[
+<p><strong>A <em>Dejad que las máquinas vengan a mí</em>, de l&#8217;Editorial Enclave, el filòsof Luis Montero, <a rel="noreferrer noopener" href="/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/" target="_blank">a qui recentment hem entrevistat</a>, es capbussa en la ciència ficció per intentar respondre què és l&#8217;ésser humà un cop les màquines ja han ancorat a tots els racons de la nostra existència. I, pel camí, se serveix del nucli dur de la Filosofia com Descartes, Leibniz, Kant, Hegel o Nietzsche. </strong></p>
+
+
+
+<p><strong>Montero, a més d&#8217;escriptor, ha estat guia turístic, creatiu publicitari i consultor estratègic. Ha viscut a Madrid, Nova York, Londres, Frankfurt, Marràqueix i Benarés. Ara resideix a Palma. Ha escrit les novel·les de ciència-ficció <em>Artrópodos</em>, <em>Feliz Año Nuevo</em> i <em>Clon</em>, i els assajos d&#8217;ontotecnologia <em>Mundo-hecho</em> i <em><a href="https://www.enclavedelibros.com/libro/dejad-que-las-maquinas-vengan-a-mi_29502" target="_blank" rel="noreferrer noopener">Dejad que las máquinas vengan a mí</a></em>. Per cortesia de l&#8217;Editorial Enclave, us oferim el principi d&#8217;aquest últim llibre.</strong></p>
+
+
+
+<p class="has-text-align-center">En <a rel="noreferrer noopener" href="/una-antropologia-del-futuro/" target="_blank">AQUEST ENLLAÇ</a> el trobareu en castellà, versió original.</p>
+
+
+
+<p></p>
+
+
+
+<hr class="wp-block-separator is-style-dots"/>
+
+
+
+<h3 class="has-text-align-center">PREFACI</h3>
+
+
+
+<p>Fa uns anys van presentar-me com un escriptor de filosofia ficció. Alguna cosa com un autor de ciència-ficció amb vel·leïtats filosòfiques. O com un filòsof prou mandrós com per a centrar-se en la ficció, entesa com el lloc de l&#8217;especulació sense argumentació. I tothom sap que allò complicat de la teoria no és tenir bones idees, aquestes estan pertot arreu, en qualsevol cantonada, en qualsevol text, en qualsevol comentari fugaç sentit pel carrer; no, el complicat de la teoria és compartir les raons que t&#8217;han conduït a una idea. Eludir l&#8217;instintiu que té el coneixement per a traduir-ho en una argumentació que pugui ser compartida. Per què? Perquè a les conclusions&nbsp;de l&#8217;instint d&#8217;un altre és impossible arribar. Però tornant a l&#8217;origen d&#8217;aquest llibre, si haig de justificar-lo per la confluència entre la meva afecció per la ficció científica o per la&nbsp;mandra&nbsp;que justifica prou atreviment com per a construir sobre el treball d&#8217;altres, només puc dir que potser totes dues raons són certes. I, a més, que les dues raons són la mateixa. Un no escriu&nbsp;ficcions&nbsp;en el buit, de la mateixa manera que no té idees especulatives en el buit. I potser per això vaig decidir aprofitar les ficcions que havien escrit uns altres, aquest cop en format pel·lícula, per a introduir les meves idees i els meus arguments. A vegades millors que les mateixes pel·lícules, a vegades no tant.</p>
+
+
+
+<p>Per què el cine? Perquè el cine és una tecnologia intermèdia entre la literatura i la Realitat Virtual (RV). Però, a diferència de la&nbsp;RV, el cine és una tecnologia madura, mentre que l&#8217;altre no va més enllà de promeses inacabades. De fet, aquest aforisme que obre aquest paràgraf no feia referència a l&#8217;origen a la RV sinó als videojocs: el cine, aleshores, era una tecnologia&nbsp;intermèdia entre la literatura i els videojocs. El cine és una tecnologia intermèdia entre la literatura i tot allò que projecti imatges i sigui immersiu, ja siguin aquests els videojocs, les projeccions en 360° o la&nbsp;RV -o&nbsp;allò que vingui després&#8230; El cine és el pont entre avui i el futur i, tot i que mai assolirà aquest futur, sempre l&#8217;atrapa i el sobreviu amb una solvència sorprenent. Avui molta més gent consumeix cine que&nbsp;videojocs, projeccions de 360° o Realitat Virtual. Però no només hi ha un motiu quantitatiu, també n&#8217;hi ha un de qualitatiu. De fet, és la versió a la pantalla gran allò que acredita l&#8217;èxit dels&nbsp;diferents&nbsp;formats: és la superproducció de Hollywood, ben saturada d&#8217;efectes digitals i bandes sonores&nbsp;bombàstiques, la qual cosa confirma el videojoc, la projecció en 3D o la&nbsp;RV&nbsp;com a productes culturals de referència. I és que, com es veurà més endavant, els cadàvers d&#8217;aquest segle&nbsp;XXI gaudeixen d&#8217;una salut excel·lent.</p>
+
+
+
+<p>Per què ciència-ficció? Aquesta pregunta és fàcil de respondre. Perquè la ciència-ficció és un magnífic planter d&#8217;experiments mentals. Molts dels personatges, situacions i mons descrits al cine de ciència-ficció obren infinites possibilitats especulatives que no són altra cosa que experiments mentals. I, des de sempre, aquests escenaris hipotètics que són els&nbsp;experiments&nbsp;mentals han tingut un pes fonamental en la història de la filosofia, i no sols en l&#8217;occidental. Un pes que no ha fet altra cosa que augmentar amb l&#8217;auge de la filosofia analítica. Avui, quasi pot afirmar-se, l&#8217;experiment mental és la forma primera d&#8217;argumentació.</p>
+
+
+
+<p>Per què cinema de ciència-ficció? Perquè, i aquesta és la base&nbsp;fonamental&nbsp;que explica aquest llibre, quan parlem de màquines estem parlant ineludiblement de nosaltres, els humans. I quan ho fem a través del cine, més que parlar, cridem. Tot argument que apareix en format cinematogràfic, que ja ve avalat per una certa popularitat, assoleix una&nbsp;audiència&nbsp;molt major que les novel·les o els videojocs, per exemple. I així, una altra vegada la mandra, els experiments mentals ja han estat explicats a audiències immenses prèviament. Així, molts dels temes i tesis d&#8217;aquest llibre ja han estat discutits abans per moltes persones, la qual cosa sens dubte simplifica l&#8217;esforç&nbsp;argumentatiu&nbsp;a l&#8217;hora de plantejar les meves idees. Sí, sóc mandrós.</p>
+
+
+
+<p>De tot això pot entendre&#8217;s que aquest no és un llibre de crítica cultural. No, és un <em>cultural&nbsp;study</em>. Amb tots els meus respectes cap a aquesta disciplina, que compta amb magnífics autors extremadament&nbsp;rellevants, les seves tesis sempre em resulten una mica arbitràries, perquè podrien donar-se o no independentment del producte&nbsp;cultural&nbsp;analitzat; no, aquest és un llibre d&#8217;allò que podria denominar-se&nbsp;<em>ontologia&nbsp;cultural</em>, l&#8217;intent de respondre a la pregunta «Què sóc?» a través de productes culturals. I no, no és un invent meu. Aquest intent d&#8217;explicar allò que som a través de productes&nbsp;culturals&nbsp;és una cosa que sempre ha fet la metafísica, però passa que aquells productes culturals solien ser altres llibres de metafísica. Perquè sí, aquest és un llibre de metafísica.</p>
+
+
+
+<p>I és que, i aquesta és la tesi que suporta tot el llibre, les màquines són la millor forma d&#8217;autoexploració&nbsp;que ha creat l&#8217;humà. Molt millor que la filosofia. Són un exercici, sovint extremadament candorós, d&#8217;autoconeixement. De fet, incomptables teories de la ment han sorgit a partir d&#8217;arquitectures de <em>hardware</em> i <em>software</em>, especialment durant el segle&nbsp;XX. El llistat d&#8217;influències recíproques entre un i un altre camp, la ciència-ficció i la teoria de la ment, és immens. Les màquines són l&#8217;encarnació d&#8217;aquest experiment mental que som per a nosaltres mateixos. Però no només això. Són una idea de nosaltres mateixos amb capacitat per a transformar-nos a nosaltres mateixos i el món que habitem. Estem en aquest moment en què l&#8217;experiment mental, això que nosaltres creiem sobre nosaltres mateixos, està deixant de ser <em>mental</em> per a convertir-se en <em>real</em>. Són temps interessants aquests.</p>
+
+
+
+<p>És allò que jo he anomenat <em>Mundo-hecho</em> en un altre lloc.</p>
+
+
+
+<p>I, finalment, un breu comentari sobre la selecció de les pel·lícules de ciència-ficció tractades. Tot i que potser la ciència-ficció és el gènere cinematogràfic l&#8217;inici del qual és més fàcil d&#8217;assenyalar, aquell pioner&nbsp;<em>Le&nbsp;Voyage&nbsp;dans&nbsp;la&nbsp;Lune</em>&nbsp;(1902) de&nbsp;Méliès, aquí s&#8217;ha optat per un altre criteri, encara que l&#8217;obra&nbsp;mestra&nbsp;francesa és un magnífic exemple de cine polític. Atès que es tracta de parlar de les màquines com un <em>altre-nosaltres</em>, un tema que no es tracta en l&#8217;obra francesa, la selecció no podia sinó començar amb la també pionera&nbsp;<em>Metropolis</em>&nbsp;(1927) de&nbsp;Lang&nbsp;i acabar amb&nbsp;<em>Blade&nbsp;Runner</em>&nbsp;(2017) de&nbsp;Villeneuve, i no perquè aquesta última és especialment pionera, sinó (1) perquè en introduir la natalitat dins de l&#8217;univers robot sembla que tanca un cercle relatiu a la fusió entre humà i màquina i (2), més pragmàtic, perquè en algun lloc havia d&#8217;acabar la selecció i aquesta fallida continuació del primer&nbsp;<em>Blade&nbsp;Runner</em>&nbsp;(1982) de Scott semblava un punt culminant en la història del gènere. En general he intentat mantenir-me dins de les fronteres del gènere, però a vegades he acabat acostant-me a altres obres que si bé no són directament atribuïbles a la ciència-ficció no estan tan lluny, almenys com a plantejament d&#8217;experiments mentals. Així, al llarg del text apareixeran autors com&nbsp;Buñuel&nbsp;o Lynch. Però, excepte aquestes comptades excepcions, he intentat mantenir-me dins dels límits reconeixibles del gènere. Això sí, les pel·lícules són utilitzades moltes vegades no tant pel que expliquen sinó pel que projecten. Més que pel·lícules vistes, són pel·lícules llegides, si és que això és possible, per a connectar-les amb alguns dels principals problemes metafísics que ens aguaiten des de l&#8217;aparició de les màquines a la nostra vida. Problemes que, d&#8217;altra banda,&nbsp;tampoc han canviat tant.</p>
+
+
+
+<p>Per això <em>Dejad que las máquinas vengan a mi</em> no tracta tant de màquines com de nosaltres. S&#8217;utilitza a les màquines com a mirall d&#8217;allò que som molt més que per a parlar de les màquines en si. I de com les màquines i la transformació del món que provoquen obren un espai especular on veure&#8217;ns reflectits. Poden les màquines promoure aquesta reflexió ontològica? Jo crec que sí. I no només perquè les màquines defineixen un món i a nosaltres, els seus habitants. També perquè les màquines, la seva&nbsp;constitució&nbsp;i fonament, són una projecció del que pensem, són la nostra constitució i fonament. Les màquines, que primer eren una projecció nostra, ara ens reflecteixen. I aquesta imatge és la que es vol analitzar en aquest llibre. Una anàlisi que també és una obligació, les màquines comencen a estar tan prop de nosaltres que ens trobem davant la disjuntiva de rendir-nos al seu assalt contra la idea d&#8217;allò humà o bé de redefinir-nos. El primer capítol investiga aquest assalt en allò que he anomenat el <em>desplaçament ontològic</em> i explora els diferents escenaris en què es pot plantejar aquesta redefinició. El segon analitza les bases per a aquesta nova definició d&#8217;allò que som a partir del <em>Principi de raó suficient</em>, això -sigui el que sigui, i al llarg del llibre es proposen i destil·len diferents alternatives- que ens constitueix com a humans i ens fa diferents de les màquines. El tercer capítol descriu el <em>gir metafísic</em> al qual ens obliga el món&nbsp;maquinitzat, o com les estratègies de definició d&#8217;allò humà, sobretot el llenguatge i els afectes, han estat desmantellades a causa de l&#8217;avanç de la metafísica, fonamentalment des de la meitat del segle passat. El quart explora l&#8217;impacte ontològic de la màquina, a través del qual es redefineixen dos vells debats però no connectats, la relació <em>jo-alteritat</em>&nbsp;d&#8217;una banda i la diatriba entre realisme i&nbsp;antirealisme&nbsp;per una altra, els plantejaments tradicionals del qual&nbsp;han estat superats per la formalització del món a la qual ens ha obligat la màquina, ja que aquesta només pot operar en un món altament formalitzat -allò que a un altre lloc he anomenat <em>món-fet</em>, davant del món donat on fins avui s&#8217;ha mogut tant el món com la metafísica. El cinquè narra l&#8217;assalt de la màquina a l&#8217;últim bastió de l&#8217;humà, la vida i les seves vivències; i com aquest assalt ha estat provocat pel mateix&nbsp;humà en generar allò que he anomenat l&#8217;<em>estrenyiment ontològic</em> d&#8217;això que hi ha, motor inicial de la formalització del món i principal responsable de l&#8217;aparèixer del món avui. I, en l&#8217;últim, esbosso alguna cosa que podria considerar-se un contra-Test de&nbsp;Turing, és a dir, la prova d&#8217;humanitat, una vegada vençuts tots els bastions que ens feien humans i per tant diferents de la resta d&#8217;allò donat, recau en les màquines. Ja no és la nostra feina decidir si una màquina és humana o no sinó que és la màquina la que ha de decidir si som humans o no.</p>
+
+
+
+<p>És cert que molts dels escenaris que es discuteixen al llarg de les pàgines de&nbsp;<em>Dejad&nbsp;que las máquinas vengan a mí</em> estan succeint ara mateix, per la qual cosa la seva definició conceptual moltes vegades és nebulosa. Per aquest motiu, aquest és un assaig que parla d&#8217;allò que som però que no es nega a arriscar-se i parlar d&#8217;allò que podríem ser una vegada ens trobem cara a cara amb una màquina tan capaç com un humà. És per això que és una antropologia del futur, un avançament d&#8217;allò que potser ens espera com a espècie. Una antropologia que busca pensar el demà per a repensar l&#8217;avui, si és que aquestes categories temporals segueixen conservant algun sentit. <em>Dejad&nbsp;que las máquinas vengan a mí</em> és un viatge en el temps, a vegades milers d&#8217;anys cap endarrere i a vegades uns quants cap endavant, per a arribar fins avui. Dit això, m&#8217;agradaria passar als agraïments. En primer lloc, voldria agrair el suport tant afectiu com logístic que m&#8217;ha ofert Laura Durán per a la confecció d&#8217;aquest llibre.</p>
+
+
+
+<p>A més, no puc oblidar-me de les meves filles, amb les qui he vist moltes de les pel·lícules aquí esmentades i els comentaris de les quals moltes vegades m&#8217;han obert els ulls a noves interpretacions i&nbsp;arguments. Sense la seva ajuda moltes de les tesis d&#8217;aquest llibre haurien estat unes altres. I, segurament, pitjors.</p>
+
+
+
+<p>També haig d&#8217;agrair a Albano Cruz la seva participació en les nostres sessions de&nbsp;<em>Tamagotchi</em>, un cicle de conferències que donàvem al voltant del concepte d&#8217;allò humà i les seves modificacions&nbsp;a través de la tecnologia. Moltes de les idees que es plantegen aquí estan estretament vinculades amb allò que vam explicar en aquells&nbsp;CSR&nbsp;de Madrid, Valladolid, Burgos, Vigo&#8230; així com en la mateixa Llibreria Enclave i al Medialab. De fet, aquest llibre és la meva versió d&#8217;aquelles xerrades. O, més ben dit, part d&#8217;aquest llibre és la meva versió d&#8217;aquelles xerrades. D&#8217;allò que vaig aprendre en aquelles xerrades. Des d&#8217;aquí el meu agraïment a tots els qui van suportar les 18 hores de discurs, les tres sessions de 6 hores cadascuna durant les quals Albano i jo tractàvem la fusió de l&#8217;home amb la tecnologia des d&#8217;un prisma lògic, ontològic i ètic; i no sols això: malgrat la nostra retòrica encara tenien ànims per a&nbsp;preguntar, qüestionar i refutar el nostre discurs. Aquest llibre és, en bona mesura, un homenatge a tots aquells assistents. Estic segur que tard o d&#8217;hora Albano escriurà el seu.</p>
+
+
+
+<p>I, per a acabar, vull agrair la perseverança i la fe en mi mateix, moltes vegades superior a les meves pròpies, dels meus editors, María i Pino, cor i pulmó, cervell i sang de l&#8217;Editorial Enclave. Sense ells aquest llibre mai hauria assolit el format llibre i mai ho hauria fet d&#8217;aquesta manera.</p>
+
+
+
+<p>I, per a acabar, gràcies al lector. Perquè, a partir d&#8217;aquest moment, tot el que llegeixi aquí li pertany, ho vulgui o no.</p>
+
+
+
+<p style="font-size:14px">Nota: La traducció és nostra.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/05/23/una-antropologia-del-futur/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1250</post-id>	</item>
+		<item>
+		<title>Luis Montero: &#8220;Les màquines reflecteixen la nostra lògica occidental, masculina i de domini del món&#8221;</title>
+		<link>/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/</link>
+					<comments>/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2020 15:43:13 +0000</pubDate>
+				<category><![CDATA[Diàlegs]]></category>
+		<category><![CDATA[Antropologia del futur]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Dejad que las máquinas vengan a mí]]></category>
+		<category><![CDATA[Filosofia]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Llibres]]></category>
+		<category><![CDATA[Luis Montero]]></category>
+		<category><![CDATA[Màquines]]></category>
+		<category><![CDATA[Societat]]></category>
+		<guid isPermaLink="false">/?p=1011</guid>
+
+					<description><![CDATA[El filòsof Luis Montero desxifra la humanitat del futur. Al seu últim assaig introdueix les màquines al debat metafísic. I és que les màquines no són només un producte nostre: també són allò que volem ser. I són un reflex de nosaltres mateixos amb la capacitat de transformar-nos. Aleshores, qui és el producte de qui?]]></description>
+										<content:encoded><![CDATA[
+<p>El filòsof Luis Montero desxifra la humanitat del futur. Al seu darrer assaig, <em>Dejad que las máquinas vengan a mí</em> (Editorial Enclave), introdueix la tecnologia al debat metafísic. És una bona manera d’autoexplorar-nos, perquè les màquines no són només un producte nostre: també són allò que volem ser. I són un reflex de nosaltres mateixos amb la capacitat de transformar-nos. Aleshores, qui és el producte de qui? Montero parla del somni humà de voler dominar el món i de com l’home acaba dominat per aquest. Parla d&#8217;éssers humans cada cop menys humans que fabriquen màquines cada cop més humanes. Què en quedarà, doncs, de nosaltres? Amb tot, les màquines poden reduir la nostra estructura categorial ja raquítica. Però potser també poden fer tot el contrari.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="De humanos, máquinas y otros seres sentientes. Conversaciones pandémicas #3." width="1160" height="653" src="https://www.youtube.com/embed/AxJTBdztc3g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>Vídeo de l&#8217;entrevista sencera: <em>D&#8217;humans, màquines i altres éssers que senten. Converses pandèmiques número 3</em>. </figcaption></figure>
+
+
+
+<p><strong>A&nbsp;<em>Dejad&nbsp;que las máquinas vengan a mí, </em>dius que estem en procés de deshumanització a causa de la irrupció de les màquines. En quin sentit és així? El llibre és un cant a la tecnologització de la vida?</strong></p>
+
+
+
+<p>El títol és un joc de paraules. “Deixeu que els nens vinguin a mi”, diu Jesús a la Bíblia. Però aquesta no és una frase neutra. Els nens són el futur de l&#8217;església. Són els qui cal convertir. Llavors, “deixeu que les màquines vinguin a mi” significa que cal convertir a les màquines. D&#8217;altra banda, pot dir-se que Jesús era un marrec amb&nbsp;superpoders. Segons els evangelis apòcrifs, que conten la infància de Jesús, un nen l&#8217;empeny i ell respon “Tant de bo caiguis mort”. I el nen cau mort immediatament. És a dir, de sobte, el llenguatge de Jesús adopta una fórmula&nbsp;tèlica. Els verbs&nbsp;tèlics&nbsp;inclouen el seu final, tal com passa amb “acabar”. I, en certa manera, els algorismes també ho són. Això sempre ha impregnat la imatge de déu: un ésser que pot fer complir allò que anuncia. Però nosaltres, amb les màquines, també donem ordres que s&#8217;executen. Ordenem tota l&#8217;estona com ens comportem respecte als altres i respecte al món. El que passa és que a força de dibuixar-nos a través de les màquines, ens hem dibuixat com a màquines. I cada vegada ens hi assemblem més.</p>
+
+
+
+<p><strong>La veritat és que a mesura que les màquines adquireixen atributs humans, com la intel·ligència o la creativitat, cada vegada és més difícil separar allò humà d&#8217;allò artificial. Introduint les màquines a l&#8217;equació, què queda de nosaltres i què ens defineix com a humans?</strong></p>
+
+
+
+<p>Jo parlo del Principi d&#8217;Humanitat Suficient, fent un altre joc de paraules amb el Principi de Raó Suficient de&nbsp;Leibniz. En realitat no ens estem deshumanitzant perquè mai no hem tingut clar què és ser humà. Sempre ens hem aferrat a l&#8217;excepció: som allò que els altres éssers no són. El problema -o potser la virtut- és que, amb les màquines, tot allò que ens feia excepcionals s&#8217;ha anat erosionant. Quan&nbsp;Leibniz&nbsp;va fabricar una calculadora, les màquines van saber sumar. Fins llavors, podríem haver pensat que el càlcul numèric era allò que ens feia humans. Però, al final, això de la humanitat s&#8217;ha convertit en una mena de carxofa i anem perdent fulles. I què en queda, de nosaltres? En realitat és igual l&#8217;atribut, perquè l&#8217;important és que ens preguntem què som. Aquesta pregunta no té cap sentit per a una màquina. El que passa és que la tecnologia ha contribuït a fer petit el món. El problema són les lògiques que hi ha darrere de les màquines, que beuen de la tradició aristotèlica i passen per Ramon Llull,&nbsp;Leibniz, &#8230; Però les màquines també podrien ajudar-nos a ampliar els punts de vista i les maneres d&#8217;estar en el món. Per a això caldria repensar la tecnologia des de zero. I caldria utilitzar altres aparells lògics subjacents que poden obrir camps estadístics més complexos.</p>
+
+
+
+<p><strong>Deixar de perseguir el Principi d&#8217;Humanitat Suficient seria una forma de llibertat?</strong></p>
+
+
+
+<p>Clar, és un llast. Trenquem les categories que ens impedeixen pensar-nos d&#8217;altres maneres. Les màquines reflecteixen la nostra lògica occidental, masculina i, en termes d&#8217;Adorno, de domini de la realitat, d&#8217;administració de la realitat i de la vida, que en realitat és l&#8217;exclusió de la vida. La vida és molt difícil de formalitzar i, no obstant això, totes les estructures estan&nbsp;super&nbsp;formalitzades. Comencem a trencar aquestes lògiques binàries que divideixen el món entre el jo i l&#8217;altre, entre home i dona, entre animal humà i animal no humà, entre persona capacitada i no capacitada, etcètera. Trenquem aquestes dicotomies que tanquen el món en capsetes que, al seu torn, ens tanquen a nosaltres. Perquè així és com perdem maneres de viure i d&#8217;experimentar una realitat que és més rica que nosaltres. Sobretot perquè, en general, a la realitat no li importem gaire.</p>
+
+
+
+<p><strong>Barrejant filosofia i etnografia, has traçat mapes del futur per a empreses com Ikea; mentre que <em>Dejad que las máquinas vengan a mí</em> es diu que és una antropologia del futur. Cap a on anem?</strong></p>
+
+
+
+<p>Els treballs per a empreses solen ser més banals, perquè aquestes quantifiquen la realitat amb els diners. Els escenaris més o menys especulatius que els presento són relativament fàcils de dibuixar. Però en les antropologies, afortunadament, no tot és quantificable i hi ha molta part d&#8217;inferència. Quan parlem de la condició humana, tot és més complicat perquè és molt més obert. Jo no tinc massa clar cap a on anem, però si continuem escoltant als homes blancs occidentals, en els quals m&#8217;incloc, tal com ho hem fet durant els últims 2.500 anys, continuarem retallant una gran quantitat de mirades possibles a nosaltres mateixos i al món. Per tant, els homes blancs occidentals hem de fer un pas enrere i deixar que altres entitats parlin. I això passa per escoltar les dones, com a gènere i com a institució política, i no opinar. Passa per eliminar aquesta construcció de domini sobre la dona, sobre els animals, sobre el planeta i sobre nostre estar en el món.</p>
+
+
+
+<p>D&#8217;altra banda, sempre havíem pensat que la intel·ligència ens feia superherois i, de sobte, amb les màquines, ha quedat en no-res. Però en aquest no-res hi ha moltíssimes virtuts. En el&nbsp;<em>Zarathustra</em>, Nietzsche diu que al nostre cos hi ha molta més intel·ligència que en cap de les idees que generi mai el nostre cervell. I té raó. Diem intel·ligents a les màquines quan en realitat la intel·ligència és un resultat de la vida i no de quantificacions o formalitzacions alienes a ella. Intel·ligència és acceptar-nos com a entitats vives, tenint en compte que nosaltres no vivim la vida, sinó que la interpretem. El llenguatge ens separa de la vida i ens fa interpretar el que som&nbsp;contínuament.</p>
+
+
+
+<p><strong>Els dibuixos del futur que hem plasmat en la ciència-ficció -com&nbsp;<em>Blade&nbsp;Runner</em>, <em>District 9</em> o&nbsp;<em>Matrix</em>&#8211;&nbsp;són quasi sempre distòpics. Hi ha lloc per a l&#8217;esperança?</strong></p>
+
+
+
+<p>Sí que n&#8217;hi ha. Ens hem vist en pitjors situacions. Sempre ens hem sentit excepcionals i per això hem imaginat per a nosaltres un final de l&#8217;hòstia: l&#8217;apocalipsi, la destrucció del planeta, &#8230; Però, com deia Gramsci, les narratives d&#8217;allò nou estan una mica esgotades. Allò nou no acaba de sorgir i ens fa por. Però no perdem la perspectiva històrica.&nbsp;Locke, el pare de moltes de les nostres idees polítiques actuals, va haver de fer front a una realitat molt més fotuda, la de les monarquies absolutistes. I per a això va caldre matar a Déu. I, de la mateixa manera, segurament nosaltres hem de matar els diners, que li donen valor i sentit a la realitat. Ara fem coses que per als nostres avis era impensable, com llogar les nostres tasses del vàter a Airbnb. Ho hem ficat tot al mercat. Però hi ha espais on els diners no poden entrar. El gran fracàs de la pandèmia no és només el sistema liberal anglosaxó, sinó també la idea que les multinacionals anaven a substituir l&#8217;estat-nació. Però allò que ens guarirà és una vacuna subministrada per un Estat.</p>
+
+
+
+<p>A més, amb la pandèmia s&#8217;ha produït una reducció del món inesperada. Ens hem cenyit als mínims possibles de producció i consum. De sobte, han desaparegut la indústria cultural, el disseny i un munt d&#8217;indústries col·laterals que abans eren importants i ara sembla que no serveixen per a res. Perquè no van a favor de la vida. Perquè formen part d&#8217;aquesta capa ideològica que ens havíem&nbsp;construït, on els diners eren molt valuosos. Però no necessitem els diners per a explicar la realitat. Potser ara crearem nous espais aliens al mercat, perquè hem vist que el mercat&nbsp;peta. Que la realitat governada pel mercat no existeix; era una ficció. Hem de començar a pensar-nos més enllà de la transacció, més enllà del valor econòmic i d&#8217;un&nbsp;<em>business&nbsp;plan</em>.</p>
+
+
+
+<p><strong>La situació actual és una mica distòpica. A més, amb el distanciament social ha passat una cosa curiosa. Com dius als </strong><em><strong>Tres apuntes morales sobre la pandemia</strong></em><strong>, nosaltres ens hem convertit en amenaça per als altres i viceversa i, a més, construïm comunitat allunyant-nos els uns dels altres.</strong></p>
+
+
+
+<p>Sí, és com una mena d&#8217;antinòmia. Però em sembla molt bonica. Sartre deia que l&#8217;infern són els altres. Que els ulls dels altres poden veure&#8217;ns cometent una falta. Que els altres poden denunciar-nos. I, de sobte, amb la pandèmia, l&#8217;infern som nosaltres. El vector de transmissió som nosaltres. De cop i volta, ens reconeixem com a lesius. Però l&#8217;home blanc occidental mai s&#8217;ha sentit amenaça, i quan s&#8217;ha sentit amenaça en realitat és perquè l&#8217;ha executat. Això erosiona la seva posició de poder perquè ha de desplaçar-se cap a un territori que mai ha ocupat: el de l&#8217;altre. I això trenca una mica les lectures tradicionals del jo, la masculinitat, els masclismes. Vindrà una crisi econòmica brutal i el sistema en sortirà&nbsp;malferit, però em sembla que ens pot fer pensar-nos de maneres diferents.</p>
+
+
+
+<p><strong>Continuant amb les distopies,&nbsp;<em>Matrix</em>&nbsp;introdueix la gestació en úters artificials -allò que es coneix com&nbsp;a <em>ectogènesi</em>&#8211;&nbsp;mentre la nova de&nbsp;<em>Blade&nbsp;Runner</em>&nbsp;(2017) introdueix la natalitat dins de l&#8217;univers robot. Si això acaba succeint, quines conseqüències tindrà per a les dones? Les podria alliberar o tot just al contrari?</strong></p>
+
+
+
+<p>Una de les idees dels projectes feministes que han quallat més enllà del feminisme és que la biologia no és destí. És a dir, que no tenim per què fer cas als dictats dels nostres cossos. Crec que qualsevol cosa que permeti superar el destí, perquè possibilita ampliar les maneres d&#8217;ocupar la realitat, és bo. Aleshores, si l&#8217;ectogènesi&nbsp;allibera la dona de ser l&#8217;esclava de tenir fills -i dic esclava perquè de moment és l&#8217;única que pot fer-ho-, em sembla perfecte. Que després hi haurà dones que decidiran tenir fills&nbsp;per via intrauterina? Doncs fantàstic. Després podríem plantejar-nos si l&#8217;ectogènesi dins d&#8217;un aparell capitalista beneficiaria o no a les dones, però estaríem qüestionant més l&#8217;aparell capitalista i no tant la tecnologia <em>per se</em>. Encara que també és cert que no hi ha tecnologies neutres, però això és un altre debat.</p>
+
+
+
+<p>I, per altra banda, hi ha la qüestió de la maternitat a&nbsp;<em>Blade&nbsp;Runner</em>. De sobte, si els robots poden tenir fills, sorgeix la pregunta de què passa si la capacitat d&#8217;engendrar vida tampoc ens defineix com a humans. Encara que jo no sóc més humà per ser fill intrauterí de la meva mare. La dependència de la carn és una estupidesa. Allò perillós és que la filla robot sigui digital i no analògica. I el nostre cos -aquesta intel·ligència de la qual parlava Nietzsche- és&nbsp;super&nbsp;analògic. Perquè és la nostra integració amb el món, una continuació del món. I algunes tecnologies són una mena d&#8217;exclusió de la vida. Estem inventant un tercer estat entre la vida i la mort, que és allò que jo anomeno&nbsp;infravida.&nbsp;Infravida&nbsp;també és l&#8217;estat de les gallines amuntegades en els inferns de les granges avícoles. És una culminació del domini de la vida. És l&#8217;epítom de la lògica que va d&#8217;Aristòtil a l&#8217;algorísmia dels ordinadors, i no un reconeixement a la vida com allò inesperat, diferent, obert.</p>
+
+
+
+<p><strong>Entre altres coses ets assessor ètic d&#8217;empreses. Com evitar que el teu treball es quedi en el blanqueig ètic d&#8217;un&nbsp;<em>business&nbsp;plan</em>?</strong></p>
+
+
+
+<p>Jo intento definir els marcs ètics en què operen les companyies i, clar, sempre intento que no quedi en un blanqueig ètic. Un marc ètic és un conjunt de pràctiques que l&#8217;empresa pot fer abans de generar danys a tercers. I això no ha de confondre&#8217;s amb una forma de consol. En primer lloc, l&#8217;ètica no pot venir donada des de fora. Són les mateixes companyies les que han de descobrir quin és el seu marc ètic. No m&#8217;interessa tant fer-los un decàleg com plantejar-los com poden fer bé allò que fan. Després, cal definir el “bé”, i molts solen anomenar-lo “impacte positiu”. Perquè aquest impacte positiu sigui real, cal veure a qui afecta i de qui depèn. I per a això cal analitzar tota la cadena d&#8217;involucrats, on sempre s&#8217;amaguen sectors o poblacions més desfavorides, més mal pagades, menys qualificades, … Hi ha una llei que, en aquest moment polític actual, pot ajudar-nos amb això: “Sempre del costat del perdedor”. És a dir, tenir en compte que sempre hi ha un perjudicat. Intentar definir qui és el perjudicat en la cadena de valor per a perjudicar-lo el mínim o, si és possible, empoderar-lo. I, a partir d&#8217;aquí, ampliar aquest cercle virtuós als treballadors, a les persones, a la comunitat on treballes, etcètera. La idea és evitar que només quedi en un&nbsp;<em>business&nbsp;plan</em> i, perquè això passi, han de donar-se dues condicions: la primera és que les persones facin seu aquest marc ètic i, la segona, i la més important, és construir polítiques que obliguin a executar-lo. No hi ha res pitjor que tenir una visió moral d&#8217;allò que fas i no ho compleixis.</p>
+
+
+
+<p><strong>El món està molt fragmentat i tenim un camp de visió molt estret. En el terreny empresarial, hi ha manera d&#8217;evitar ser esclau del sistema i no convertir-te en un engranatge més?</strong></p>
+
+
+
+<p>Sobre això s&#8217;ha escrit molt. La construcció seriada de la realitat parcel·la la nostra capacitat d&#8217;actuació i la nostra responsabilitat moral. Imaginem que hi ha un milió de torturadors amb un milió de dispositius que només emeten un volt. Cap d&#8217;ells, aïlladament, electrocuta el torturat. Allò que mata és la suma dels volts. Què és allò que els faria moralment responsables d&#8217;aquesta mort? El fet de saber que, si tots apreten el botó al mateix temps, provoquen una mort. Potser cal tornar a perseguir la majoria d&#8217;edat kantiana, i assimilar que si seguim comprant segons quina roba estem fotent a algú. Però d&#8217;allò que no ens podem alienar responsablement és de no mirar. No podem dir que no ho sabíem, perquè tots sabem quina és la realitat. Quan&nbsp;Amancio&nbsp;Ortega regala milions d&#8217;euros en material sanitari està comprant l&#8217;aprovació moral de la societat. Però en realitat el seu problema moral és no haver respectat als perjudicats de la cadena de valor de les seves empreses.</p>
+
+
+
+<p>Llavors, com fer que aquest marc ètic no quedi en pur blanqueig? Cal posar límits a les nostres accions, perquè potser els nostres guanys no compensen el mal que fem. És un pensament una mica&nbsp;antiutilitarista. La idea que el benefici de les majories val més que el perjudici de les minories és mentida. Si el benefici es crea matant a algú, mai podrà compensar-se el mal. Per això, com ha passat amb la pandèmia, la clau és prendre consciència que som amenaça.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/04/28/luis-montero-maquines-logica-occidental-masculina-domini/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1011</post-id>	</item>
+		<item>
+		<title>Luis Montero: “Las máquinas reflejan nuestra lógica occidental, masculina y de dominio del mundo”</title>
+		<link>/2020/04/28/luis-montero-maquinas-logica-occidental-masculina-dominio/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2020 14:55:00 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Dejad que las máquinas vengan a mí]]></category>
+		<category><![CDATA[Editorial Enclave]]></category>
+		<category><![CDATA[Filosofia]]></category>
+		<category><![CDATA[Luis Montero]]></category>
+		<category><![CDATA[Tecnologia]]></category>
+		<guid isPermaLink="false">/?p=1030</guid>
+
+					<description><![CDATA[El filósofo Luis Montero descifra la humanidad del futuro. Su último ensayo, Dejad que las máquinas vengan a mí, introduce las máquinas al debate metafísico. ]]></description>
+										<content:encoded><![CDATA[
+<p>El filósofo Luis Montero descifra la humanidad del futuro. Su último ensayo, <em>Dejad que las máquinas vengan a mí</em> (Editorial Enclave), introduce la tecnología al debate metafísico. Una buena forma de autoexplorarnos, porque las máquinas no son solo un producto nuestro: también son aquello que anhelamos ser. Un reflejo de nosotros mismos con el poder de transformarnos. Entonces, quién es el producto de quién? Montero habla del sueño humano de querer dominar el mundo y de cómo el hombre termina dominado por éste. Habla de seres humanos cada vez menos humanos que fabrican máquinas cada vez más humanas. Qué quedará, pues, de nosotros? Con todo, las máquinas pueden reducir nuestra estructura categorial ya raquítica. Pero tal vez también pueden hacer todo el contrario.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="De humanos, máquinas y otros seres sentientes. Conversaciones pandémicas #3." width="1160" height="653" src="https://www.youtube.com/embed/AxJTBdztc3g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>La entrevista en bruto. De humanos, máquinas y otros seres sentientes. Conversaciones pandémicas.</figcaption></figure>
+
+
+
+<p><strong>En <em>Dejad que las máquinas vengan a mí</em> sostienes que el mundo está en proceso de deshumanización a causa de la irrupción de las máquinas. En qué sentido es así? Es el libro un canto a la tecnologización?&nbsp;</strong></p>
+
+
+
+<p>El título es un juego de palabras. “Dejad que los niños se acerquen a mí”, dice Jesús en la Biblia. Pero esta no es una frase neutra. Los niños son el futuro de la iglesia, a los que hay que convertir. Entonces, “dejad que las máquinas vengan a mí” significa que vamos a convertir a las máquinas. Por otro lado, puede decirse que Jesús era un chaval con superpoderes. Según los evangelios apócrifos, que relatan la infancia de Jesús, un niño lo empuja y él responde “Ojalá te caigas muerto”. Y el niño cae muerto inmediatamente. Es decir, de pronto, el lenguaje de Jesús adopta una fórmula télica. Los verbos télicos tienen incluído su final, como ocurre con “terminar”. Y, en cierto modo, los algoritmos también lo son. Esta siempre ha sido la imagen de dios: un ser que puede hacer cumplir lo que anuncia. Pero nosotros, con las máquinas, también damos órdenes que se ejecutan. Ordenamos todo el rato cómo nos comportamos respecto a otros y respecto al mundo. Lo que ocurre es que a base de dibujarnos a través de las máquinas, nos hemos dibujado como máquinas. Y cada vez nos parecemos más a ellas.&nbsp;</p>
+
+
+
+<p><strong>Lo cierto es que a medida que las máquinas adquieren atributos humanos, como la inteligencia o la creatividad, cada vez es más difícil delimitar lo humano y lo artificial. Introduciendo las máquinas en la ecuación, qué queda de nosotros y qué nos define como humanos?</strong></p>
+
+
+
+<p>Yo hablo del <em>Principio de Humanidad Suficiente</em>, en otro juego de palabras con el <em>Principio de Razón Suficiente</em> de Leibniz. En realidad no nos estamos deshumanizando porque nunca hemos sabido muy bien qué es ser humano. Siempre nos hemos agarrado a la excepción: somos lo que los otros seres no son. El problema -o tal vez la virtud- es que, con las máquinas, todo lo que nos hacía excepcionales se ha ido erosionando. Cuando Leibniz fabricó una calculadora, las máquinas supieron sumar. Hasta entonces, podríamos haber pensado que el cálculo numérico era lo que nos hacía humanos. Pero, al final, eso de la humanidad se ha convertido en una especie de alcachofa y vamos perdiendo hojas. Y qué queda de nosotros? En realidad da igual el atributo, porque lo importante es que nos preguntarnos qué somos. Plantearse esto no tiene ningún sentido para una máquina. Lo que ocurre es que la tecnología ha ayudado a estrechar el mundo. El problema son las lógicas que hay detrás de las máquinas, que beben de la tradición aristotélica y pasan por Ramon Llull, Leibniz, &#8230; Pero las máquinas también podrían ayudarnos a ampliar los puntos de vista y los modos de estar en el mundo. Aunque para eso habría que repensar la tecnología desde cero y usar otros aparatos lógicos subyacentes que podrían abrir campos estadísticos más complejos.</p>
+
+
+
+<p><strong>Dejar de perseguir el <em>Principio de Humanidad Suficiente</em> sería una forma de libertad?</strong></p>
+
+
+
+<p>Claro, es un lastre. Rompamos las categorías que nos impiden pensarnos de otras formas. Las máquinas reflejan nuestra lógica occidental, masculina y, en términos de Adorno, de dominio del mundo, de administración de la realidad y de la vida, que en realidad es la exclusión de la vida. La vida es muy difícil de formalizar y, sin embargo, todas las estructuras están super formalizadas. Empecemos a romper esas lógicas binarias que dividen el mundo entre el yo y el otro, entre hombre y mujer, entre animal humano y animal no humano, entre capacitado y no capacitado, etcétera. Rompamos estas dicotomías que encierran el mundo en cajitas que, a su vez, nos encierran a nosotros. Porque así perdemos modos de vivir y de experimentar una realidad que es más rica que nosotros. Sobretodo porque, en general, a la realidad le damos bastante igual.</p>
+
+
+
+<p><strong>Mezclando filosofía y etnografía, has trazado mapas del futuro para empresas como Ikea; mientras que </strong><strong><em>Dejad que las máquinas vengan a mí</em></strong><strong> se dice que es una antropología del futuro. Hacia dónde vamos?</strong></p>
+
+
+
+<p>Los trabajos para empresas suelen ser más banales, porque éstas cuantifican la realidad con el dinero. Los escenarios más o menos especulativos que se les presentan son relativamente fáciles de dibujar. Pero en las antropologías, afortunadamente, no todo es cuantificable y hay mucha parte de inferencia. Cuando hablamos de la condición humana, todo es más complicado porque es mucho más abierto. Yo no sé muy bien hacia dónde vamos, pero si continuamos escuchando a los varones blancos occidentales, en los que me incluyo, tal como lo hemos hecho durante los últimos 2.500 años, seguiremos cercenando una gran cantidad de miradas posibles a nosotros mismos y al mundo. Por lo tanto, los varones blancos occidentales tenemos que dar un paso atrás y dejar que otras entidades hablen. Y esto pasa por dejar hablar a las mujeres, como género y como institución política, y no opinar. Pasa por eliminar esa construcción de dominio sobre la mujer, sobre los animales, sobre el planeta y sobre nuestro estar en el mundo.&nbsp;</p>
+
+
+
+<p>Por otro lado, siempre habíamos pensado que la inteligencia nos hacía superhéroes y, de pronto, con las máquinas, ha quedado en nada. Pero en esa nada hay muchísimas virtudes. En el <em>Zarathustra</em>, Nietzsche dice que en nuestro cuerpo hay mucha más inteligencia que en ninguna de las ideas que vaya a generar jamás nuestro cerebro. Y tiene razón. Llamamos inteligentes a las máquinas cuando en realidad la inteligencia es un resultado de la vida y no de cuantificaciones o formalizaciones ajenas a ella. Inteligencia es aceptarnos como entes vivos, teniendo en cuenta que nosotros no vivimos la vida, sino que la interpretamos. El lenguaje nos separa de la vida y nos hace interpretar lo que somos contínuamente.&nbsp;</p>
+
+
+
+<p><strong>Los dibujos del futuro que hemos plasmado en la ciencia ficción -como </strong><strong><em>Blade Runner</em></strong><strong>, </strong><strong><em>Distrito 9</em></strong><strong> o </strong><strong><em>Matrix</em></strong><strong>&#8211; son casi siempre distópicos. Hay sitio para la esperanza?</strong></p>
+
+
+
+<p>Sí que la hay. Hemos estado en peores. Siempre nos hemos sentido excepcionales y por esto hemos imaginado para nosotros un final de la hostia: el apocalipsis, la destrucción del planeta, &#8230; Pero, como decía Gramsci, las narrativas de lo nuevo están un poco agotadas. Lo nuevo no acaba de surgir y nos da miedo. Pero no perdamos la perspectiva histórica. Locke, el padre de muchas de nuestras ideas políticas actuales, tuvo que enfrentarse a una realidad mucho más jodida que la nuestra, la de las monarquías absolutistas. Y para eso hubo que matar a Dios. Y, de la misma forma, seguramente nosotros tenemos que matar el dinero, que le da valor y sentido a la realidad. Ahora hacemos cosas que para nuestros abuelos era impensable. Alquilamos nuestros retretes en <em>Airbnb</em>. Lo hemos metido todo en el mercado. Pero hay espacios en los que no puede entrar el dinero. El gran fracaso de la pandemia no es solo el sistema liberal anglosajón, sino también la idea de que las multinacionales iban a sustituir el Estado-nación. Pero lo que nos va a curar es la vacuna suministrada por un Estado.&nbsp;</p>
+
+
+
+<p>Además, con la pandemia se ha producido una reducción del mundo insospechada. Nos hemos reducido a los mínimos posibles de producción y consumo. De pronto, han desaparecido la industria cultural, el diseño y un montón de industrias colaterales que antes eran importantes y ahora parece que no sirven para nada. Porque no van a favor de la vida. Porque forman parte de esa capa ideológica que nos habíamos construído, donde el dinero era muy valioso. Pero no necesitamos el dinero para explicar la realidad. Tal vez crearemos nuevos espacios ajenos al mercado, porque hemos visto que el mercado peta. Que la realidad regida por el mercado no existe; era una ficción. Debemos empezar a pensarnos más allá del dinero, más allá de la transacción, más allá del valor económico y de un <em>business plan</em>.</p>
+
+
+
+<p><strong>La situación actual es un poco distópica. Además, con el distanciamiento social ha pasado algo curioso. Como dices en los </strong><strong><em>Tres apuntes morales sobre la pandemia</em></strong><strong>, nosotros nos hemos convertido en amenaza para los otros y viceversa y, además, construimos comunidad alejándonos los unos de los otros.&nbsp;</strong></p>
+
+
+
+<p>Sí, es como una especie de antinomia. Pero me parece muy bonita. Sartre decía que el infierno son los otros. Que los ojos de los otros pueden vernos cometiendo una falta, que los otros pueden denunciarnos. Y, de repente, con la pandemia, el infierno soy yo, el vector de transmisión soy yo. De pronto, nos reconocemos como lesivos. Pero el varón blanco occidental nunca se ha sentido amenaza, y cuando se ha sentido amenaza en realidad la ha ejecutado. Esto corroe su situación del poder porque tiene que desplazarse hacia un territorio que nunca ha ocupado: el del otro. Y eso rompe un poco las lecturas tradicionales del yo, la masculinidad, los machismos. Vendrá una crisis económica brutal y el sistema va a salir super dañado, pero me parece que posibilita la apertura a pensarnos de formas distintas.</p>
+
+
+
+<p><strong>Continuando con las distopías, </strong><strong><em>Matrix</em></strong><strong> introduce la gestación en úteros artificiales -lo que se conoce como ectogénesis- mientras la nueva de </strong><strong><em>Blade Runner (2017)</em></strong><strong> introduce la natalidad dentro del universo robot. Si esto termina sucediendo, qué consecuencias tendría para las mujeres? Las liberaría o justo lo contrario?</strong></p>
+
+
+
+<p>Una de las ideas de los proyectos feministas que han cuajado más allá del feminismo es que la biología no es destino. Es decir, que no tenemos por qué cumplir con los dictados de nuestros cuerpos. Creo que cualquier cosa que permita superar el destino, porque posibilita ampliar los modos de ocupar la realidad, es bueno. Entonces, si la ectogénesis libera la mujer de ser la esclava de tener hijos -y digo esclava porque de momento es la única que puede hacerlo-, me parece fenomenal. Que luego habrá mujeres que decidirán tener hijos intrauterinamente, pues fantástico.&nbsp;Luego podríamos plantearnos si la ectogénesis realizada dentro de un aparato capitalista beneficiaría o no a las mujeres, pero estaríamos cuestionando más el aparato capitalista y no tanto la tecnología <em>per se</em>. Aunque también es cierto que no hay tecnologías neutras, pero esto es otro dilema.</p>
+
+
+
+<p>Por otro lado, está la cuestión de la maternidad en <em>Blade Runner</em>. De pronto, si los robots pueden tener hijos, surge la pregunta de qué ocurre si la capacidad de engendrar vida tampoco nos define como humanos. Aunque yo no soy más humano por ser hijo intrauterino de mi madre. La dependencia de la carne es una estupidez. Lo peligroso es que la hija robot sea digital y no analógica. Y nuestro cuerpo -esa inteligencia de la que hablaba Nietzsche- es super analógico. Porque es nuestra integración con el mundo, una continuación del mundo. Y algunas tecnologías son una especie de exclusión de la vida. Estamos inventando un tercer estado entre la vida y la muerte, que es lo que yo normalmente llamo infravida. Infravida también es el estado de las gallinas amontonadas en los infiernos de las granjas avícolas. Es una culminación del dominio de la vida. Es el epítome de la lógica que va de Aristóteles a la algoritmia y no un reconocimiento a la vida como lo inesperado, lo diferente, lo abierto.&nbsp;</p>
+
+
+
+<p><strong>Entre otras cosas eres asesor ético de empresas. Cómo evitar que tu trabajo se quede en el blanqueo ético de un business plan?&nbsp;</strong></p>
+
+
+
+<p>Yo intento definir los marcos éticos en los que operan las compañías y, claro, siempre intento que no quede en un blanqueo ético. Un marco ético es un conjunto de prácticas que la empresa puede hacer antes de generar daños a terceros. Y esto no debe confundirse con una forma de consuelo. En primer lugar, la ética no puede venir dada desde fuera. Son las propias compañías las que deben descubrir cuál es su marco ético. No me interesa tanto hacerles un decálogo como plantearles cómo pueden hacer bien lo que hacen. Luego, habría que definir “bien”, y muchos suelen llamarlo “impacto positivo”. Para que ese impacto positivo sea real, hay que ver a quién afecta y de quién depende. Y para eso hay que analizar toda la cadena de involucrados, donde siempre se esconden sectores o poblaciones más desfavorecidas, peor pagadas, peor calificadas, … Hay una ley que, en el momento político actual, puede ayudarnos en esto: “Siempre del lado del perdedor”. Es decir, tener en cuenta que siempre hay un perjudicado. Intentar definir quién es el perjudicado en la cadena de valor para perjudicarle lo mínimo o, si es posible, empoderarle. Y, a partir de ahí, ampliar ese círculo virtuoso a los trabajadores, a las personas, a la comunidad en la que trabajas, etcétera. La idea es evitar que solo quede en un business plan y, para que eso ocurra, tienen que darse dos condiciones: la primera es que las personas hagan suyo el marco ético y, la segunda y la más importante, es construir políticas que obliguen a ejecutar ese marco ético. No hay nada peor que tener una visión moral de lo que haces y no lo cumplas.&nbsp;</p>
+
+
+
+<p><strong>El mundo está muy fragmentado y tenemos un campo de visión muy estrecho. En el terreno empresarial, hay forma de evitar ser esclavo del sistema y no convertirte en un engranaje más?</strong></p>
+
+
+
+<p>Sobre esto se ha escrito mucho. La construcción seriada de la realidad parcela nuestra capacidad de actuación y nuestra responsabilidad moral. Imaginemos que hay un millón de torturadores con un millón de dispositivos que solo emiten un voltio. Ninguno mata al torturado. Lo que mata es la suma de los voltios. Qué es lo que les hace moralmente responsables de esa muerte? El saber que, si todos lo ejecutan al mismo tiempo, matan. A lo mejor hace falta volver a perseguir la mayoría de edad kantiana. Entender que si seguimos comprando según qué ropa estoy jodiendo a alguien. Pero de lo que no nos podemos enajenar responsablemente es de no mirar. No podemos decir que no lo sabíamos, porque todos sabemos lo que ocurre. Cuando Amancio Ortega regala millones de euros en material sanitario está comprando un salvoconducto moral. Pero en realidad su problema moral es no haber respetado a los perjudicados de la cadena de valor de sus empresas.</p>
+
+
+
+<p>Entonces, cómo hacer que ese marco ético no quede en puro blanqueo? Hay que poner límites a nuestras acciones, porque a lo mejor nuestras ganancias no compensan el daño que hacemos. Es un poco antiutilitarista. La idea de que el beneficio de las mayorías vale más que el perjuicio de las minorías es mentira. Si el beneficio se crea matando a alguien, jamás podrá compensarse el daño. Por esto, como ha ocurrido con la pandemia,<strong> </strong>la clave es tomar consciencia de que somos amenaza.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1030</post-id>	</item>
+	</channel>
+</rss>

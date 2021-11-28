@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: Ètica per blanquejar la Intel·ligència Artificial	</title>
+	<atom:link href="/2020/02/15/etica-inteligencia-artificial-maquillatge/feed/" rel="self" type="application/rss+xml" />
+	<link>/2020/02/15/etica-inteligencia-artificial-maquillatge/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Mon, 29 Jun 2020 17:59:35 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Per: Neix l’observatori d’Ètica en Intel·ligència Artificial de Catalunya &#8211; La Tecnòloga		</title>
+		<link>/2020/02/15/etica-inteligencia-artificial-maquillatge/#comment-102</link>
+
+		<dc:creator><![CDATA[Neix l’observatori d’Ètica en Intel·ligència Artificial de Catalunya &#8211; La Tecnòloga]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2020 17:59:35 +0000</pubDate>
+		<guid isPermaLink="false">/?p=747#comment-102</guid>
+
+					<description><![CDATA[[&#8230;] Metzinger, que va formar part del grup d’experts, va denunciar al diari Der Tagesspiegel que “el relat de la Intel·ligència Artificial confiable pretén eixamplar els mercats futurs i utilitzar els debats sobre Ètica com un bell decorat públic per a una estratègia d’inversió [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] Metzinger, que va formar part del grup d’experts, va denunciar al diari Der Tagesspiegel que “el relat de la Intel·ligència Artificial confiable pretén eixamplar els mercats futurs i utilitzar els debats sobre Ètica com un bell decorat públic per a una estratègia d’inversió [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

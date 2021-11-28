@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Peter Suechting &#8211; La Tecnòloga</title>
+	<atom:link href="/author/peter-suechting/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:04 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Peter Suechting &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Art i robots</title>
+		<link>/2020/08/10/art-i-robots/</link>
+		
+		<dc:creator><![CDATA[Peter Suechting]]></dc:creator>
+		<pubDate>Mon, 10 Aug 2020 16:26:09 +0000</pubDate>
+				<category><![CDATA[Anàlisis]]></category>
+		<category><![CDATA[Art]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Deepfakes]]></category>
+		<category><![CDATA[Destacat]]></category>
+		<category><![CDATA[Falsificacions]]></category>
+		<category><![CDATA[GAN]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Robots]]></category>
+		<category><![CDATA[Xarxes Generatives Antagòniques]]></category>
+		<guid isPermaLink="false">/?p=1554</guid>
+
+					<description><![CDATA[Durant els darrers dos anys, investigadors del Laboratori de Dades per a la Intel·ligència Artificial (Data-to-AI Lab) de l’Institut Tecnològic de Massachusetts (MIT) ha estat experimentant amb GANs per resoldre un grapat de problemes socialment rellevants, que van des de transmetre -i detectar- missatges secrets i protegir vídeos amb una marca d’aigua fins a identificar anomalies i preservar la privacitat. Al DAI Lab li complau compartir alguns dels seus projectes més engrescadors amb les comunitats de l’aprenentatge automàtic i la ciència de dades amb l’esperança de generar debat i col·laboració. ]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">Foto: Retrat de Belamy. Imatge cortesia de <a href="https://art.art/blog/christies-first-ai-artwork">Christie’s</a>.</p>
+
+
+
+<p><em>Nota dels editors:</em> <em>Aquest article és el primer d&#8217;una sèrie que ha impulsat el Laboratori de Dades per a la Intel·ligència Artificial (Data-to-AI Lab) de l’Institut Tecnològic de Massachusetts (MIT), amb qui La Tecnòloga col·labora, i que vol generar debat i cooperació en les comunitats de l’aprenentatge automàtic (machine learning) i la ciència de dades.</em> <em>Podeu llegir l&#8217;article original en <a rel="noreferrer noopener" href="https://medium.com/mit-data-to-ai-lab/art-robots-661b7ad86411" target="_blank">aquest enllaç</a>.</em> <em>Traducció d&#8217;Anna Schnabel.</em></p>
+
+
+
+<hr class="wp-block-separator is-style-wide"/>
+
+
+
+<h2>Sobre les Xarxes Generatives Antagòniques i el seu potencial creatiu</h2>
+
+
+
+<p>Les estimacions inicials del valor del retrat <a rel="noreferrer noopener" href="https://www.christies.com/Lotfinder/lot_details.aspx?hdnSaleID=27814&amp;LN=363&amp;intsaleid=27814&amp;sid=41bfe836-b0c1-4afa-9298-09cc909345ee" target="_blank">Edmond de Belamy</a> van situar el seu preu entre els 7.000 i els 10.000 dòlars. En realitat, la pintura en si no és res de l’altre món. Pinzellades barroeres de color marró, negre, blanc i gris esbossen un home més aviat desdibuixat mirant lúgubrement i confusa fora del quadre. Però el 25 d’octubre de 2018, quan va tornar la calma a la casa de subhastes Christie’s, a Nova York, <a rel="noreferrer noopener" href="https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans" target="_blank">el retrat s’havia venut per 432.500 dòlars</a>.&nbsp;</p>
+
+
+
+<h3><strong>L’art d’artificial&nbsp;</strong></h3>
+
+
+
+<p>Què va provocar el frenesí per apostar per part dels participants presents aquella tarda a la sala de subhastes? El fet que la tela havia estat ‘pintada’ per una màquina. La <a rel="noreferrer noopener" href="https://obvious-art.com/gallery-obvious/" target="_blank">sèrie de retrats de Belamy</a> és obra d’<a rel="noreferrer noopener" href="http://obvious-art.com/" target="_blank"><em>Obvious</em></a>, un grup de tres artistes i programadors francesos que produïren la peça utilitzant <a rel="noreferrer noopener" href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/" target="_blank">Xarxes Generatives Antagòniques</a>, o GANs, a partir d’un conjunt de dades de 15.000 retrats europeus¹. El resultat? Onze obres úniques, incloent-hi el retrat Edmond de Belamy, amb trets característics de les obres que van nodrir i entrenar el model.</p>
+
+
+
+<p>El projecte atribueix potencialment a l&#8217;art produït per intel·ligència artificial (AI) el mateix mèrit que a l&#8217;art fruit de la mà humana. Al cap i a la fi, el que els d&#8217;<em>Obvious</em> van fer és imprimir el resultat de l&#8217;algorisme que els va agradar més amb una impressora d’injecció i, posteriorment, van posar-hi un marc daurat i van signar l&#8217;obra amb un fragment del codi de l’algorisme. Res té d’especial l’objecte en si mateix; es podria imprimir i emmarcar un miler de vegades més. Així doncs, la guerra d&#8217;ofertes per aconseguir el retrat de Belamy sembla respondre més aviat a la voluntat de fer-se amb una peça clau de la història contemporània: el moment en què les màquines esdevenen artistes.</p>
+
+
+
+<p>Les màquines creen, però poden ser creatives? Aquesta és la pregunta que fa sorgir l’aparició dels GANs. Per a programadors com els d’<em>Obvious</em>, els GANs poden convertir-se en una eina molt poderosa a l&#8217;hora de prendre part en el debat sobre l’autenticitat. Com a tal, el projecte de Belamy és només un fragment d’un debat molt més ampli al voltant de la definició de la creativitat i sobre si els humans poden encara considerar-se els seus practicants exclusius.</p>
+
+
+
+<h3><strong>Fallar és generatiu</strong></h3>
+
+
+
+<p>Des de la seva concepció dins de la ment d’Ian Goodfellow, els GANs s’han aplicat a una gran varietat de tasques ‘creatives’. D’acord amb <a href="https://arxiv.org/pdf/1406.2661.pdf">l&#8217;article de Goodfellow et. al. del 2014</a>, les Xarxes Generatives Antagòniques entrenen dos models -un generador i un discriminador- al mateix temps. Un conjunt de dades original (imatges, text, etc.) es presenta als dos algorismes, cadascun dels quals separa les dades i avalua com es relacionen els seus components entre ells. Aquesta és una aplicació típica d’una xarxa neuronal. Però el que ve a continuació és la clau del procés. La mitologia del moment dibuixa a Goodfellow plantejant-se una pregunta: &#8220;què passaria si les xarxes neuronals poguessin competir entre elles?&#8221;</p>
+
+
+
+<p>Dins dels GANs, el concepte de les xarxes antagòniques està vinculat a una operació anomenada &#8216;retropropagació&#8217;, que és un component crític del procés d’aprenentatge. Així, la wiki de Skymind.AI compara:</p>
+
+
+
+<p><em>“&#8230; una xarxa neuronal amb una gran peça d’artilleria que intenta colpejar un objecte llunyà amb un projectil. Quan la xarxa neuronal fa una suposició sobre un punt de les dades, dispara, un núvol de pols emergeix a l’horitzó, i el tirador intenta esbrinar on impacta el projectil i la distància que la separa de l’objectiu. I aquesta distància és la mesura de l’error. La mesura de l’error és aleshores aplicada a l’angle i la direcció de l’arma, abans que dispari de nou. La retropropagació pren l’error associat amb una suposició incorrecta d’una xarxa neuronal, i utilitza aquest error per ajustar els paràmetres de la xarxa neuronal en la direcció en què es redueix l&#8217;error”.&nbsp;</em></p>
+
+
+
+<p>En aquest sentit, la retropropagació és similar a la cognició humana. Un operador d’artilleria, disparant uns quants projectils per provar i refinar la seva punteria abans de fer diana, aprèn què funciona i què necessita ajustar i automàticament fa aquests canvis cada cop que dispara. Però així com l’operador ha de confiar en els propis ulls per comprovar el seu grau d’èxit o fracàs, els GANs tenen un algorisme discriminador que indica si el simulacre és discerniblement fals o no. A més a més, una màquina pot disparar milers de trets en el mateix temps en què un humà dispara un sol cop. La potència iterativa de càlcul de la màquina permet, doncs, que ambdues xarxes coevolucionin ràpidament.</p>
+
+
+
+<p>En resum, la retropropagació crea un entorn en el qual un algorisme generador s’entrena de manera ràpida i eficaç competint contra un algorisme discriminador. L’algorisme generador no té límits pel que fa a les habilitats que pot assolir amb relació al discriminador. A través d’aquest procés, la falsificació s’acosta asimptòticament a la realitat fins al punt que distingir entre els dos deixa de ser possible, fins i tot per a les màquines. Així, després de l’entrenament apropiat, l’algorisme generador esdevé capaç de produir simulacres que poden enganyar l’ull digital del discriminador i, conseqüentment, l’ull humà observant el resultat.</p>
+
+
+
+<h3><strong>Remesclant la realitat</strong></h3>
+
+
+
+<p>Hi ha nombrosos exemples d’eines basades en GANs en els últims anys, que van des de les populars i depredadores aplicacions per a crear <a href="https://www.bbc.com/news/technology-42912529">deepfakes</a> fins a d’altres més il·lustrades com el <a href="https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html">DeepDream</a>, eines basades en GANs per generar inquietants imatges al·lucinògenes a partir de fotografies reals. <a href="https://magenta.tensorflow.org/">Project Magenta</a>, un grup d’investigadors afiliats a Google, desenvolupen i acullen una llibreria d’eines basades en GANs per augmentar la producció de música digital, proporcionant una altra aplicació fascinant per a la manipulació i la millora del so. (Podeu escoltar els resultats de la col·laboració entre Magenta i el grup musical de Los Angeles YACHT a l’àlbum que llançaren el setembre del 2019 <a href="https://magenta.tensorflow.org/chain-tripping">aquí</a>. I a sota hi trobareu un exemple d’interpolació de vídeo utilitzant eines basades en GANs per a projectar cossos en moviment, <a href="https://arxiv.org/pdf/1808.07371.pdf">presentat en un article recent de Caroline Chan</a>.)</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Everybody Dance Now" width="1160" height="653" src="https://www.youtube.com/embed/mSaIrz8lM1U?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
+
+<p>Però no creguem que els investigadors en IA inverteixen el seu temps en deixar sense feina a artistes ja famolencs, perquè aquestes aplicacions artístiques encara no estan preparades per competir amb els grans mestres. Continuen sent eines per ser emprades pels humans en àmbits molt diversos i en diferents graus d’utilitat. Això sí, a banda d’aplicacions artístiques, les eines basades en GANs estan fent ruta cap a altres reialmes, un tema que s’explorarà en una altra publicació.&nbsp;</p>
+
+
+
+<p><em>Durant els darrers dos anys, investigadors del Laboratori de Dades per a la Intel·ligència Artificial (Data-to-AI Lab) de l’Institut Tecnològic de Massachusetts (MIT) ha estat experimentant amb GANs per resoldre un grapat de problemes socialment rellevants, que van des de transmetre -i detectar- missatges secrets i protegir vídeos amb una marca d’aigua fins a identificar anomalies i preservar la privacitat. Al DAI Lab li complau compartir alguns dels seus projectes més engrescadors amb les comunitats de l’aprenentatge automàtic i la ciència de dades amb l’esperança de generar debat i col·laboració. Amb aquesta intenció, aquest article és el primer d’una sèrie de publicacions sobre els projectes de xarxes generatives antagòniques del laboratori per a incloure mostres de la nostra feina, tutorials, comentaris i llibreries de codi obert. Planegem publicar aquests articles cada dues setmanes, alternant-los amb una sèrie de tutorials dedicats a varis dels nostres últims projectes relacionats amb GANs. Torneu aviat a la nostra pàgina de Medium i seguiu-nos a Twitter.</em></p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">A commentary on GANs by Peter Suechting. With this article, we are launching a multipart bi-weekly series on the lab’s GAN-related projects, to include demonstrations of our work, tutorials, commentary essays, and open-source libraries.  <a href="https://t.co/sLICz5FA3a">https://t.co/sLICz5FA3a</a></p>&mdash; MIT &#8211; Data to AI Lab (@lab_dai) <a href="https://twitter.com/lab_dai/status/1291043188052918278?ref_src=twsrc%5Etfw">August 5, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>[1]: El debat persisteix sobre l’origen del codi que <em>Obvious</em> va utilitzar per produir el retrat de Belamy. El programador Robbie Barat, artista d&#8217;IA no afiliat a <em>Obvious</em>, és responsable, segons algunes fonts, del 90% del codi utilitzat en el projecte, tot i que originalment havia publicat el codi sota la llicència <a href="https://creativecommons.org/">creative commons</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1554</post-id>	</item>
+	</channel>
+</rss>

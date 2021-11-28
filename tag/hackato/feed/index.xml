@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Hackató &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/hackato/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Hackató &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>El voluntariat digital triomfa en la competició catalana d&#8217;apps per al confinament</title>
+		<link>/2020/04/16/el-voluntariat-digital-triomfa-en-la-competicio-catalana-dapps-per-al-confinament/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2020 16:33:11 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Ajudem.cat]]></category>
+		<category><![CDATA[Alex Párraga]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Coronatíquets]]></category>
+		<category><![CDATA[Departament de Polítiques Digitals]]></category>
+		<category><![CDATA[Digital Future Society]]></category>
+		<category><![CDATA[Edukiapp]]></category>
+		<category><![CDATA[Fundació i2CAT]]></category>
+		<category><![CDATA[Hackató]]></category>
+		<category><![CDATA[Hacker]]></category>
+		<category><![CDATA[Hackovid]]></category>
+		<category><![CDATA[Humbert Blanco]]></category>
+		<category><![CDATA[Jordi Puigneró]]></category>
+		<category><![CDATA[Juan Irache]]></category>
+		<category><![CDATA[Lucía Román]]></category>
+		<category><![CDATA[Marc Aymerich]]></category>
+		<category><![CDATA[Marc Celeiro]]></category>
+		<category><![CDATA[Mobile World Capital Barcelona]]></category>
+		<category><![CDATA[Nebots]]></category>
+		<category><![CDATA[Pau Riba]]></category>
+		<category><![CDATA[Regalocal]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Toti Moragas]]></category>
+		<category><![CDATA[Trick-troc]]></category>
+		<category><![CDATA[UPCoders]]></category>
+		<category><![CDATA[Voluntariat digital]]></category>
+		<guid isPermaLink="false">/?p=961</guid>
+
+					<description><![CDATA[La &#8216;Hackovid&#8217; dona un impuls a la tecnologia ètica per a la quarentena &#8220;Tot granet de sorra compta&#8221; a l&#8217;hora d&#8217;encarar els reptes socials que&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>La &#8216;Hackovid&#8217; dona un impuls a la tecnologia ètica per a la quarentena</h2>
+
+
+
+<p>&#8220;Tot granet de sorra compta&#8221; a l&#8217;hora d&#8217;encarar els reptes socials que planteja la pandèmia. Així ho pensa l&#8217;Humbert Blanco que, al costat del Marc Celeiro i el Pau Riba -d&#8217;entre 17 i 21 anys- aquest dimecres han recollit virtualment el primer guardó de la &#8216;<a rel="noreferrer noopener" href="https://hackovid.cat/solutions" target="_blank">Hackovid</a>&#8216;, un concurs d&#8217;aplicacions innovadores per trobar solucions als entrebancs del confinament i el post-confinament. </p>
+
+
+
+<p>La proposta de Blanco, Celeiro i Riba és la plataforma <a rel="noreferrer noopener" href="https://ajudem.cat/" target="_blank">Ajudem.cat</a>, que facilita el voluntariat entre veïns. Així, la pàgina és un punt de trobada entre els qui volen ajudar i els qui necessiten un cop de mà, tenint en compte la proximitat geogràfica. I no només això. També ofereix informació i consells sobre la Covid-19 i compta amb una plataforma de videotrucades de programari lliure i de codi obert. &#8220;Hem utilitzat la infraestructura que tenim, de manera que els servidors són nostres i no suposa cap risc per a la privacitat”, subratlla Blanco a La Tecnòloga. I tot això ha estat desenvolupat en només 12 dies. &#8220;Hem treballat moltíssim i hem dormit poc&#8221;, admet. Però al final l&#8217;esforç ha valgut la pena i ara, gràcies al premi, el projecte compta amb 7.000 euros de pressupost.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2049.png" alt="⁉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Què és i com funciona <a href="https://t.co/PiKxBhLiQ1">https://t.co/PiKxBhLiQ1</a>? T&#39;ho expliquem en aquest vídeo! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4f9.png" alt="📹" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/SomAix%C3%AD?src=hash&amp;ref_src=twsrc%5Etfw">#SomAixí</a> <a href="https://t.co/frhBfujfDY">pic.twitter.com/frhBfujfDY</a></p>&mdash; Ajudem.cat (@ajudem_cat) <a href="https://twitter.com/ajudem_cat/status/1249283199282425861?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div><figcaption>Ajudem.cat facilita el voluntariat entre veïns.</figcaption></figure>
+
+
+
+<p>La &#8216;Hackovid&#8217;, impulsada pel Departament de Polítiques Digitals i la <a rel="noreferrer noopener" href="https://www.i2cat.net/about-us/" target="_blank">Fundació i2CAT</a>, amb el suport de la Mobile World Capital Barcelona, ha aconseguit reunir en aquesta primera &#8216;hackató&#8217; -o sigui, una marató de persones vinculades a la informàtica- més de 300 participants i més de 50 mentors per fer realitat una seixantena de solucions tecnològiques per a fer més digerible la quarantena. </p>
+
+
+
+<p>&#8220;S&#8217;han plantejat propostes genials i demostren que el sector tecnològic aporta un gran valor a la societat; ara més que mai&#8221;, afirma Blanco. Un valor que també ha subratllat el conseller de Polítiques Digitals i Administracions Públiques, Jordi Puigneró, durant la cerimònia virtual: &#8220;La crisi de la Covid-19 ha evidenciat fins a quin punt les tecnologies poden ser unes grans aliades no només per sortir de la crisi sanitària, sinó també per construir un futur amb més progrés i oportunitats&#8221;.</p>
+
+
+
+<h3>Tecnologia per a tothom</h3>
+
+
+
+<p>Enmig dels aplaudiments virtuals, també han rebut el premi de la Digital Future Society, dotat amb 5.000 euros, <a rel="noreferrer noopener" href="https://nebots.cat/" target="_blank">pel servei web i telefònic d&#8217;assistència tècnica voluntària &#8216;Nebots&#8217;</a>, desenvolupat per Juan Irache i Lucía Román, que són programador i metgessa. La pàgina pretén posar en contacte gent gran amb dificultats per entendre temes tècnics d’informàtica amb voluntaris entesos aquests àmbits -els anomenats &#8216;nebots&#8217;-. </p>
+
+
+
+<p>Irache explica a La Tecnòloga que la hackató ha servit per materialitzar una idea que ja existia abans d&#8217;arrencar la competició. &#8220;Tenim una piràmide poblacional cada cop més invertida i, per tant, no hi ha una persona jove que pugui ajudar a cada persona gran&#8221;, comenta. &#8220;La clau de Nebots -continua el programador- és que es basa en noves tecnologies però no requereix que els seus usuaris les utilitzin ja que poden, simplement, marcar un número de telèfon&#8221;.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="nebots — assistència tècnica humana" width="1160" height="653" src="https://www.youtube.com/embed/aiAxYJSkrPM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>Nebots és un servei web i telefònic d&#8217;assistència tècnica voluntària. NEBOTS</figcaption></figure>
+
+
+
+<p>Una empenta a la reactivació del comerç local va ser una de les necessitats més votades per la ciutadania, durant la fase inicial, i també és allò que ha donat forma als projectes dels qui s&#8217;han fet amb el segon, el tercer i el quart premi de la Hackovid. </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://upcoders.eebe.upc.edu/" target="_blank">Coronatíquets</a>, que s&#8217;ha endut 4.000 euros de pressupost, és un servei de tíquets per demanar hora per anar a les botigues i, d&#8217;aquesta manera, evitar que hi coincideixin més persones amb l&#8217;objectiu d&#8217;eludir aglomeracions i contagis. &#8220;Creiem que l&#8217;aplicació pot ser&nbsp;útil&nbsp;per estalviar patiment a molts petits comerços durant la desacceleració econòmica&#8221;, explica Tomàs Gea, que és enginyer electrònic. Ell i els seus companys d&#8217;equip -Toti Moragas, Marc Aymerich i Alex Párraga- formen part dels <a rel="noreferrer noopener" href="https://www.instagram.com/upcoders/" target="_blank">UPCoders</a>, una associació de programadors de la UPC. &#8220;Amb l&#8217;ajuda de la nostra app, els petits comerços que s&#8217;han vist forçats a tancar podran tornar a obrir les botigues de forma moderada, reduint així els impactes econòmics que puguin patir&#8221;, afegeix Gea.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Anunci Coronatiquets Hackovid" width="1160" height="653" src="https://www.youtube.com/embed/rAhCFlJ26Xo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>Coronatíquets és un servei de tíquets per demanar hora per anar a les botigues. CORONATÍQUETS</figcaption></figure>
+
+
+
+<p>Per la seva banda, <a rel="noreferrer noopener" href="https://www.regalocal.com/" target="_blank">Regalocal</a> ha obtingut 3.000 euros per desenvolupar un servei web gratuït&nbsp;que permet comprar cupons de regal en comerços locals per poder bescanviar un cop aquests tornin a obrir. </p>
+
+
+
+<p>Mentrestant, <a rel="noreferrer noopener" href="https://www.tricktroc.cat/home" target="_blank">Trick-troc</a> ha fet realitat una plataforma de comerç electrònic per promoure i millorar l’accessibilitat de la venda online i la distribució de productes de comerç local amb una finalitat social gràcies a una moneda virtual, el Troc, amb què es poden obtenir descomptes en comerços locals o fer donatius a entitats benèfiques de productes de comerços locals. Els ha valgut un premi de 2.000 euros. </p>
+
+
+
+<p>El cinquè premi de la Hackovid ha estat per als creadors de <a rel="noreferrer noopener" href="https://apps.apple.com/us/app/edukiapp/id1507658309?l=ca&amp;ls=1" target="_blank">l&#8217;Edukiapp</a>, una aplicació d&#8217;educació a distància per a professors i alumnes d&#8217;Infantil i Primària. </p>
+
+
+
+<h3>La solidaritat es propaga</h3>
+
+
+
+<p>Tot va començar el 3 d&#8217;abril, amb una fase de participació ciutadana. <a rel="noreferrer noopener" href="https://hackovid.cat/solutions" target="_blank">Les 60 solucions que s&#8217;hi han plantejat</a> donen resposta a alguns dels reptes més votats per la ciutadania d’entre les 175 necessitats socials identificades com aprendre des de casa, l&#8217;aprovisionament d’aliments, l&#8217;atenció especial a col·lectius de risc, tornar al mercat laboral, la solidaritat entre veïns o teletreballar.</p>
+
+
+
+<p>Però la Hackovid és només una gota de la pluja d&#8217;esforços col·laboratius que s&#8217;han propagat amb la pandèmia. Alguns d&#8217;aquests projectes han agafat una dimensió exponencial des de la seva creació, com és el cas de <a rel="noreferrer noopener" href="/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/" target="_blank">Coronawhy, una organització de tecnòlegs voluntaris</a> que treballen per fer digerible amb Intel·ligència Artificial la col·lecció d’articles científics vinculats a l&#8217;epidèmia per facilitar la recerca mèdica. D&#8217;altra banda, la setmana que ve la Comissió Europea acull una hackató per connectar la societat civil i tecnòlegs i inversors de tot el continent per desenvolupar solucions innovadores per combatre el virus que ha posat en pausa el món.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">We will host on 24-26 April a pan-European Hackathon to connect civil society, innovators, partners and buyers across Europe to develop innovative solutions to <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a>.<br><br>Register now and be part of the solution! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/27a1.png" alt="➡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/yUexZYLB55">https://t.co/yUexZYLB55</a> <a href="https://twitter.com/hashtag/EUvsVirus?src=hash&amp;ref_src=twsrc%5Etfw">#EUvsVirus</a> <a href="https://t.co/I5qbDJnTl3">pic.twitter.com/I5qbDJnTl3</a></p>&mdash; European Commission <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ea-1f1fa.png" alt="🇪🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@EU_Commission) <a href="https://twitter.com/EU_Commission/status/1250095573908312067?ref_src=twsrc%5Etfw">April 14, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">961</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>FBI &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/fbi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:25:19 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>FBI &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>La Faceapp suposa una amenaça per a la contraintel·ligència, segons l&#8217;FBI</title>
+		<link>/2019/12/03/faceapp-amenaca-seguretat-fbi/</link>
+					<comments>/2019/12/03/faceapp-amenaca-seguretat-fbi/#respond</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Tue, 03 Dec 2019 20:00:28 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[FaceApp]]></category>
+		<category><![CDATA[Facial Recognition]]></category>
+		<category><![CDATA[FBI]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Reconeixement Facial]]></category>
+		<guid isPermaLink="false">/?p=497</guid>
+
+					<description><![CDATA[La Faceapp, l&#8217;aplicació mòbil que al juliol va farcir les xarxes socials de cares envellides i rejovenides, suposa &#8220;una amenaça per a la contraintel·ligència&#8221;, diu&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>La Faceapp, l&#8217;aplicació mòbil que al juliol va farcir les xarxes socials de cares envellides i rejovenides, suposa &#8220;una amenaça per a la contraintel·ligència&#8221;, diu l&#8217;FBI en una carta dirigida al senador nord-americà Chuck Schumer, que ell mateix ha publicat a Twitter. Així és la resposta de l&#8217;oficina federal d&#8217;investigació dels Estats Units després que el senador demanés investigar la famosa app: </p>
+
+
+
+<p>&#8220;<em>Qualsevol aplicació mòbil o producte similar desenvolupat a Rússia, com la FaceApp, és una amenaça potencial per a la contraintel·ligència, segons les dades que el producte recol·lecta, les seves polítiques de privacitat i termes d&#8217;ús i els mecanismes legals que permeten al govern de Rússia accedir a totes les dades dins les seves fronteres</em>&#8220;.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">A warning to share with your family &amp; friends:<br><br>This year when millions were downloading <a href="https://twitter.com/hashtag/FaceApp?src=hash&amp;ref_src=twsrc%5Etfw">#FaceApp</a>, I asked the FBI if the app was safe.<br><br>Well, the FBI just responded.<br><br>And they told me any app or product developed in Russia like FaceApp is a potential counterintelligence threat. <a href="https://t.co/ioMzpp2Xi5">pic.twitter.com/ioMzpp2Xi5</a></p>&mdash; Chuck Schumer (@SenSchumer) <a href="https://twitter.com/SenSchumer/status/1201607736900964353?ref_src=twsrc%5Etfw">December 2, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>La viralització de l&#8217;aplicació va anar acompanyada d&#8217;un cert alarmisme perquè, tal com <a rel="noreferrer noopener" href="https://www.ara.cat/media/FaceApp-al-centre-polemica-exagerada_0_2272572906.html" target="_blank">va explicar Albert Cuesta al diari ARA</a>, FaceApp no transforma la imatge dins el telèfon mòbil, sinó que l&#8217;envia a uns servidors externs per a fer les modificacions i, tot seguit, descarrega el resultat al dispositiu. Però les imatges no van a parar a servidors russos, com molts van pensar-se, sinó que són enviades als servidors d&#8217;Amazon Web Services i de Google Cloud. A més, FaceApp va dir públicament que suprimeix la major part de fotografies dels seus servidors al cap de 48 hores.</p>
+
+
+
+<p>Tot i així, l&#8217;FBI alerta a la carta que els Serveis d’Intel·ligència russos tenen “una gran capacitat d’explotació cibernètica” i, segons les lleis locals, poden “accedir de forma remota a totes les comunicacions i servidors de les xarxes russes sense haver de fer cap sol·licitud als proveïdors d&#8217;Internet”. </p>
+
+
+
+<p>Cal tenir en compte que aquests comentaris de l&#8217;FBI s&#8217;emmarquen en la creixent preocupació dels Estats Units envers els productes tecnològics estrangers. De fet, més recentment li ha tocat el rebre a <a href="/2019/11/27/el-video-duna-jove-que-alerta-sobre-els-camps-de-concentracio-de-la-xina-i-esquiva-per-ara-la-censura/">TikTok, una plataforma de compartició de vídeos</a> propietat de la companyia xinesa ByteDance que es creu que té aproximadament mig milió d&#8217;usuaris actius a tot el món. En aquest sentit, <a rel="noreferrer noopener" aria-label="segons diversos mitjans (s'obre en una nova pestanya)" href="https://www.bbc.com/news/business-50639443" target="_blank">segons diversos mitjans com la BBC</a>, Schumer també va demanar a l&#8217;octubre una avaluació de riscos de seguretat nacional per a TikTok i altres plataformes de propietat xinesa. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/12/03/faceapp-amenaca-seguretat-fbi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">497</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>OpenAI &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/openai/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:34:08 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>OpenAI &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>OpenAI allibera un generador intel·ligent de text que considerava massa perillós</title>
+		<link>/2019/11/12/openai-allibera-un-generador-intelligent-de-text-que-considerava-massa-perillos/</link>
+					<comments>/2019/11/12/openai-allibera-un-generador-intelligent-de-text-que-considerava-massa-perillos/#comments</comments>
+		
+		<dc:creator><![CDATA[Carles Sala]]></dc:creator>
+		<pubDate>Tue, 12 Nov 2019 12:13:44 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Fake News]]></category>
+		<category><![CDATA[Generador de text]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Notícies Falses]]></category>
+		<category><![CDATA[OpenAI]]></category>
+		<category><![CDATA[Text generator]]></category>
+		<guid isPermaLink="false">/?p=312</guid>
+
+					<description><![CDATA[L’empresa de recerca OpenAI ha fet pública aquesta setmana la versió més completa del seu sistema GPT-2 de generació de text sintètic, que inicialment havia&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>L’empresa de recerca OpenAI ha fet pública aquesta setmana <a href="https://openai.com/blog/gpt-2-1-5b-release/" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">la versió més completa del seu sistema GPT-2</a> de generació de text sintètic, que inicialment havia decidit no fer accessible al públic per evitar usos malintencionats.&nbsp;</p>
+
+
+
+<p>Al febrer, la companyia del propietari de Tesla, Elon Musk, <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://openai.com/blog/better-language-models/" target="_blank">anunciava la creació d’un generador intel·ligent de text model d’Intel·ligència Artificial</a> capaç de generar escrits artificials pràcticament indistingibles dels que hauria escrit un humà. Al mateix article, però, els autors mostraven preocupació per la possibilitat que l&#8217;eina es fes servir de manera maliciosa, i van considerar que era “massa perillosa” per alliberar-la. Segons els investigadors, podia utilitzar-se per generar ràpidament grans quantitats de text de tota mena com notícies falses o propaganda ideològica, i fins i tot imitar un estil de redacció i fer-se passar per algú en concret. </p>
+
+
+
+<p>Per aquest motiu, durant els últims mesos, OpenAI ha seguit una estratègia de publicació per etapes, alliberant-ne versions reduïdes cada pocs mesos, i observant l’ús que se’n feia. La publicació d&#8217;aquesta setmana ha estat la darrera d’aquest procés i, en un comunicat, els autors deixen clar que no han observat “cap mal ús evident” dels models alliberats fins ara.</p>
+
+
+
+<h2>Una nova generació de models</h2>
+
+
+
+<p>El polèmic model forma part d’una nova família de generadors de text basats en un concepte anomenat ‘Transformer’, que han demostrat ser altament efectius a l’hora de produir textos coherents rebent ben poca informació d’entrada. Per entrenar-lo, s’ha fet servir el text de més de 8 milions de pàgines web (és a dir, 40GB de text), optimitzant internament més de 1.500 milions de paràmetres en un procés d’Aprenentatge Profund (Deep Learning, en anglès). El model sencer ha estat publicat <a href="https://github.com/openai/gpt-2" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">al repositori de GitHub d’OpenAI</a>, on hi trobem tant el codi font com els seus paràmetres optimitzats, amb instruccions detallades de com fer-lo servir.</p>
+
+
+
+<p>Però no només els programadors poden utilitzar-lo. Existeix, a més, una versió de prova en línia al web <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://talktotransformer.com/" target="_blank">TalkToTransformer.com</a>. En aquesta versió, l’usuari introdueix les primeres paraules o frases d’un text i el sistema és capaç de completar-lo de manera creativa, tot mantenint la coherència i l’estil de redacció. D’aquesta manera, si proporcionem les primeres paraules d’una història, el model n’escriu la continuació. Si escrivim un fragment de diàleg, l&#8217;eina estén la conversa i fins i tot hi introdueix nous personatges.</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="/wp-content/uploads/2019/11/image-2.png" alt="" class="wp-image-318" width="557" height="497" srcset="/wp-content/uploads/2019/11/image-2.png 626w, /wp-content/uploads/2019/11/image-2-300x268.png 300w" sizes="(max-width: 557px) 100vw, 557px" /><figcaption>GPT-2 és capaç d&#8217;entendre el context i fins i tot continuar el diàleg entre personatges</figcaption></figure></div>
+
+
+
+<p>Però, tot i que el model pot produir grans resultats, no és perfecte. Després de diverses proves, alguns errors afloren i s’acaben produïnt diàlegs incoherents o sobtats canvis de tema.<br></p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="/wp-content/uploads/2019/11/image-1.png" alt="" class="wp-image-315" width="496" height="383" srcset="/wp-content/uploads/2019/11/image-1.png 605w, /wp-content/uploads/2019/11/image-1-300x232.png 300w, /wp-content/uploads/2019/11/image-1-520x400.png 520w" sizes="(max-width: 496px) 100vw, 496px" /><figcaption>GPT-2 és fins i tot capaç de generar codi font amb una certa coherència, però sense cap utilitat real.</figcaption></figure></div>
+
+
+
+<h2>Una publicació polèmica</h2>
+
+
+
+<p>Quan OpenAI va anunciar fa nou mesos que no faria públic el model definitiu, es <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://anima-ai.org/2019/02/18/an-open-and-shut-case-on-openai/" target="_blank">va aixecar una gran polèmica, sobretot a les xarxes socials</a>. Per un cantó, alguns argumentaven que no tenia sentit mantenir-lo en privat després de publicar els resultats, ja que qualsevol altre equip podia reproduir-los. Per contra, <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://thegradient.pub/openai-please-open-source-your-language-model/" target="_blank">mantenir-lo en secret impedia que altres investigadors aprofundissin en la manera de pal·liar el possible mal ús de l’eina</a>. Mentrestant, altres defensaven que en realitat s’havia presentat com a perillosa per seguir una estratègia de <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="http://deliprao.com/archives/314" target="_blank">publicitat mitjançant la polèmica</a>.</p>
+
+
+
+<p>També n’hi havia que consideraven justificats <a href="https://thegradient.pub/openai-shouldnt-release-their-full-language-model/" target="_blank" rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)">els motius d’OpenAI per limitar la publicació</a>, sobretot per la recent proliferació de <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://ca.wikipedia.org/wiki/Deepfake" target="_blank">DeepFakes</a> i el seu ús maliciós. Al cap i a la fi, <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.youtube.com/watch?v=4GdWD0yxvqw" target="_blank">les disculpes de Jon Snow per la sisena temporada de Joc de Trons</a> semblaven inofensives, però el vídeo d’<a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.youtube.com/watch?v=cQ54GDm1eL0" target="_blank">Obama insultant Trump</a> o el <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.forbes.com/sites/jessedamiani/2019/09/03/a-voice-deepfake-was-used-to-scam-a-ceo-out-of-243000/#78eb3c2f2241" target="_blank">robatori de 220.000€ a una empresa alemanya per mitjà de la falsificació de la veu del director executiu</a> resultaven més preocupants.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="You Won’t Believe What Obama Says In This Video! &#x1f609;" width="1160" height="653" src="https://www.youtube.com/embed/cQ54GDm1eL0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>Demostració del possible mal ús dels DeepFakes</figcaption></figure>
+
+
+
+<h2>Conclusions d’OpenAI</h2>
+
+
+
+<p>Juntament amb el model GPT-2, OpenAI ha fet públiques les conclusions de l’estudi que ha desenvolupat durant els últims mesos, a mesura que anava publicant les diferents versions:</p>
+
+
+
+<ol><li><strong>GPT-2 produeix resultats convincents.</strong> A mida que s’alliberaven les versions, la Universitat de Cornell feia enquestes per comprovar si els textos generats resultaven prou convincents. El model complet té una credibilitat de 6.91 sobre 10, mentre que les versions anteriors, més reduïdes, van tenir puntuacions d’entre 6.07 i 6.72.</li><li><strong>GPT-2 pot ser modificat per fer-ne un mal ús.</strong> Investigadors del Middlebury Institute of International Studies’ Center on Terrorism, Extremism, and Counterterrorism (CTEC) han demostrat que el sistema es pot modificar per tal de generar massivament propaganda sintètica convincent enfocada a ideologies extremistes, com la supremacia blanca o el gihadisme islàmic. Tot i així, malgrat que els sistemes de detecció automàtics encara no són prou robustos, asseguren que el desenvolupament d&#8217;eines que assisteixin als humans a detectar textos sintètics és viable.</li><li><strong>És difícil de detectar.</strong> OpenAI ha desenvolupat un altre model especialitzat en la detecció de textos generats per GPT-2. Aquest assoleix un encert del 95%, però els investigadors consideren que aquest resultat encara no és prou bo com per considerar que té prous garanties. Per aquest motiu, també <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://github.com/openai/gpt-2-output-dataset/tree/master/detector" target="_blank">han publicat el model de detecció</a>, així com les dades que han fet servir per al seu desenvolupament, amb l’esperança que altres investigadors puguin millorar els seus resultats.</li><li><strong>Encara no han detectat cap mal ús.</strong> Tot i que consideren que el sistema podria utilitzar-se amb males intencions, encara no han observat cap cas. A més, admeten que, tot i no fer públic el model complet, qualsevol interessat en fer-ne un mal ús podria reproduir els seus passos i generar la seva pròpia versió.</li><li><strong>Cal estandaritzar l’estudi del biaix.</strong> OpenAI ha estat intentant avaluar si el model està esbiaixat i, per tant, pot generar <a href="/2019/11/11/algoritmes-esbiaixats-maquines-que-no-fan-justicia/">textos amb desviacions ètiques per raons de gènere, raça o religió</a>. Els investigadors han fet públics els resultats d’aquesta anàlisi, però també subratllen que és insuficient degut a l’absència de metodologies i marcs de treball estandarditzats per fer aquest tipus d’avaluacions.</li></ol>
+
+
+
+<p>Finalment, OpenAI remarca la necessitat de seguir treballant amb la comunitat científica per garantir una publicació responsable dels resultats, de cara a no facilitar el mal ús de models d’Intel·ligència Artificial com GPT-2.</p>
+
+
+
+<h5>Referències: </h5>
+
+
+
+<ul><li><a href="https://www.theverge.com/2019/11/7/20953040/openai-text-generation-ai-gpt-2-full-model-release-1-5b-parameters">https://www.theverge.com/2019/11/7/20953040/openai-text-generation-ai-gpt-2-full-model-release-1-5b-parameters</a></li><li><a href="https://openai.com/blog/gpt-2-1-5b-release/">https://openai.com/blog/gpt-2-1-5b-release/</a></li><li><a href="https://openai.com/blog/better-language-models/">https://openai.com/blog/better-language-models/</a></li><li><a href="https://talktotransformer.com/">https://talktotransformer.com/</a></li><li><a href="https://github.com/openai/gpt-2">https://github.com/openai/gpt-2</a></li><li><a href="https://github.com/openai/gpt-2-output-dataset">https://github.com/openai/gpt-2-output-dataset</a></li></ul>
+
+
+
+<p><br></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/12/openai-allibera-un-generador-intelligent-de-text-que-considerava-massa-perillos/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">312</post-id>	</item>
+	</channel>
+</rss>

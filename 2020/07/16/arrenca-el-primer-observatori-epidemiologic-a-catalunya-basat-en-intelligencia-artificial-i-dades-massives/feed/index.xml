@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: Presenten el primer observatori epidemiològic a Catalunya basat en intel·ligència artificial i dades massives	</title>
+	<atom:link href="/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/feed/" rel="self" type="application/rss+xml" />
+	<link>/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Per: Document - Butlletí del COBDC		</title>
+		<link>/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/#comment-252</link>
+
+		<dc:creator><![CDATA[Document - Butlletí del COBDC]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2020 11:55:31 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1484#comment-252</guid>
+
+					<description><![CDATA[[&#8230;] primera activitat que van dur a terme al juliol va ser la coordinació del primer observatori per detectar i preveure futures epidèmies, basat en dades massives (big data) i intel·ligència [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] primera activitat que van dur a terme al juliol va ser la coordinació del primer observatori per detectar i preveure futures epidèmies, basat en dades massives (big data) i intel·ligència [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

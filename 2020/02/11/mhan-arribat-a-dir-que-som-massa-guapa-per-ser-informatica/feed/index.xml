@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comentaris a: “M’han arribat a dir que sóc massa guapa per ser informàtica”	</title>
+	<atom:link href="/2020/02/11/mhan-arribat-a-dir-que-som-massa-guapa-per-ser-informatica/feed/" rel="self" type="application/rss+xml" />
+	<link>/2020/02/11/mhan-arribat-a-dir-que-som-massa-guapa-per-ser-informatica/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 18 Sep 2020 17:40:14 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>
+		Per: Teresa López-Pellisa, ensorrant el masclisme des de la cultura digital &#8211; La Tecnòloga		</title>
+		<link>/2020/02/11/mhan-arribat-a-dir-que-som-massa-guapa-per-ser-informatica/#comment-224</link>
+
+		<dc:creator><![CDATA[Teresa López-Pellisa, ensorrant el masclisme des de la cultura digital &#8211; La Tecnòloga]]></dc:creator>
+		<pubDate>Fri, 18 Sep 2020 17:40:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=729#comment-224</guid>
+
+					<description><![CDATA[[&#8230;] què hi ha encara tan poques tecnòlogues dones amb relació als homes? A la UIB, les dones no arriben al 8,5% del total de matriculats a Enginyeria Informàtica a la Unive&#8230;. Què cal fer per empènyer les dones a intervenir-hi, tenint en compte que la tecnologia tindrà [&#8230;]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] què hi ha encara tan poques tecnòlogues dones amb relació als homes? A la UIB, les dones no arriben al 8,5% del total de matriculats a Enginyeria Informàtica a la Unive&#8230;. Què cal fer per empènyer les dones a intervenir-hi, tenint en compte que la tecnologia tindrà [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

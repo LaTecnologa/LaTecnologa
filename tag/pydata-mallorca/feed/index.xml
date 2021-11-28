@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>PyData Mallorca &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/pydata-mallorca/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:14:49 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>PyData Mallorca &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>PyData: La comunitat que impulsa el Software Científic Lliure també es reuneix a Mallorca</title>
+		<link>/2020/01/23/pydata-mallorca-2020-software-lliure-cientific/</link>
+					<comments>/2020/01/23/pydata-mallorca-2020-software-lliure-cientific/#comments</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 23 Jan 2020 13:07:23 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Codi Obert]]></category>
+		<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Free Software Movement]]></category>
+		<category><![CDATA[Open Source]]></category>
+		<category><![CDATA[Programari]]></category>
+		<category><![CDATA[PyData]]></category>
+		<category><![CDATA[PyData Mallorca]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Software Lliure]]></category>
+		<guid isPermaLink="false">/?p=675</guid>
+
+					<description><![CDATA[Aquest dimecres cinquanta persones s'han trobat al 21è PyData Mallorca, la branca mallorquina d'un popular esdeveniment que ja se celebra a més de 60 ciutats del món. ]]></description>
+										<content:encoded><![CDATA[
+<p>Unes cinquanta persones s&#8217;han trobat aquest dimecres al <strong>21è PyData Mallorca</strong>, la branca mallorquina d&#8217;<a rel="noreferrer noopener" aria-label="un popular esdeveniment que ja se celebra a més de 60 ciutats del món (opens in a new tab)" href="https://pydata.org/" target="_blank">un popular esdeveniment que ja es fa a més de 60 ciutats del món</a>. PyData és un programa divulgatiu de <a rel="noreferrer noopener" href="https://numfocus.org/" target="_blank">NumFOCUS, una entitat sense ànim de lucre</a> que promou l&#8217;ús del Programari Lliure (el codi del qual és obert i de domini públic, i per tant accessible per a ser examinat o modificat per qualsevol persona) en l&#8217;àmbit científic. A Mallorca, es reuneixen cada dos mesos des del 2016.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1019" height="619" src="/wp-content/uploads/2020/01/image.png" alt="" class="wp-image-676" srcset="/wp-content/uploads/2020/01/image.png 1019w, /wp-content/uploads/2020/01/image-300x182.png 300w, /wp-content/uploads/2020/01/image-768x467.png 768w" sizes="(max-width: 1019px) 100vw, 1019px" /></figure>
+
+
+
+<p>Els esdeveniments PyData, organitzats per la mateixa comunitat de desenvolupadors i usuaris, es fan amb l&#8217;objectiu de compartir el coneixement i plantejar idees. A més, la xarxa global PyData promou la discussió de bones pràctiques, nous enfocaments i tecnologies emergents per a la gestió de dades en el camp de la recerca i les ciències de la computació. Per això, els PyData constitueixen un fòrum ideal per debatre obertament el cantó positiu i el cantó fosc de les disciplines vinculades amb les Dades Massives (<em>Big Data</em>). </p>
+
+
+
+<h3>La Cultura del Software Lliure</h3>
+
+
+
+<p>El terme de &#8216;Programari Lliure&#8217; (que prové de l&#8217;anglès <em>Free Software</em>) va ser encunyat el 1985 per Richard Stallman, aleshores investigador del MIT, que potseriorment va crear l&#8217;ONG <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.fsf.org/" target="_blank">Free Software Foundation</a>. L&#8217;organització té l&#8217;objectiu de garantir la llibertat d&#8217;executar el programari, estudiar-lo i modificar-lo sense impediments. Independentment de la llicència i el llenguatge, els desenvolupadors de programari lliure creen, comparteixen i modifiquen el codi font junts. I treballar un codi de manera conjunta significa moltes coses: transparència, franquesa i cooperació són paraules que sovint esmenten els desenvolupadors. A diferència de les aplicacions privades, que impedeixen verificar si el seu funcionament real es correspon de manera exacta amb allò exposat en la descripció, el codi obert permet la seva revisió per part de la comunitat.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/01/23/pydata-mallorca-2020-software-lliure-cientific/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">675</post-id>	</item>
+	</channel>
+</rss>

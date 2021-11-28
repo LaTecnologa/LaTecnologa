@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>General &#8211; La Tecnòloga</title>
+	<atom:link href="/category/general/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>General &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Luis Montero: “Las máquinas reflejan nuestra lógica occidental, masculina y de dominio del mundo”</title>
+		<link>/2020/04/28/luis-montero-maquinas-logica-occidental-masculina-dominio/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Tue, 28 Apr 2020 14:55:00 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<category><![CDATA[Dejad que las máquinas vengan a mí]]></category>
+		<category><![CDATA[Editorial Enclave]]></category>
+		<category><![CDATA[Filosofia]]></category>
+		<category><![CDATA[Luis Montero]]></category>
+		<category><![CDATA[Tecnologia]]></category>
+		<guid isPermaLink="false">/?p=1030</guid>
+
+					<description><![CDATA[El filósofo Luis Montero descifra la humanidad del futuro. Su último ensayo, Dejad que las máquinas vengan a mí, introduce las máquinas al debate metafísico. ]]></description>
+										<content:encoded><![CDATA[
+<p>El filósofo Luis Montero descifra la humanidad del futuro. Su último ensayo, <em>Dejad que las máquinas vengan a mí</em> (Editorial Enclave), introduce la tecnología al debate metafísico. Una buena forma de autoexplorarnos, porque las máquinas no son solo un producto nuestro: también son aquello que anhelamos ser. Un reflejo de nosotros mismos con el poder de transformarnos. Entonces, quién es el producto de quién? Montero habla del sueño humano de querer dominar el mundo y de cómo el hombre termina dominado por éste. Habla de seres humanos cada vez menos humanos que fabrican máquinas cada vez más humanas. Qué quedará, pues, de nosotros? Con todo, las máquinas pueden reducir nuestra estructura categorial ya raquítica. Pero tal vez también pueden hacer todo el contrario.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="De humanos, máquinas y otros seres sentientes. Conversaciones pandémicas #3." width="1160" height="653" src="https://www.youtube.com/embed/AxJTBdztc3g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>La entrevista en bruto. De humanos, máquinas y otros seres sentientes. Conversaciones pandémicas.</figcaption></figure>
+
+
+
+<p><strong>En <em>Dejad que las máquinas vengan a mí</em> sostienes que el mundo está en proceso de deshumanización a causa de la irrupción de las máquinas. En qué sentido es así? Es el libro un canto a la tecnologización?&nbsp;</strong></p>
+
+
+
+<p>El título es un juego de palabras. “Dejad que los niños se acerquen a mí”, dice Jesús en la Biblia. Pero esta no es una frase neutra. Los niños son el futuro de la iglesia, a los que hay que convertir. Entonces, “dejad que las máquinas vengan a mí” significa que vamos a convertir a las máquinas. Por otro lado, puede decirse que Jesús era un chaval con superpoderes. Según los evangelios apócrifos, que relatan la infancia de Jesús, un niño lo empuja y él responde “Ojalá te caigas muerto”. Y el niño cae muerto inmediatamente. Es decir, de pronto, el lenguaje de Jesús adopta una fórmula télica. Los verbos télicos tienen incluído su final, como ocurre con “terminar”. Y, en cierto modo, los algoritmos también lo son. Esta siempre ha sido la imagen de dios: un ser que puede hacer cumplir lo que anuncia. Pero nosotros, con las máquinas, también damos órdenes que se ejecutan. Ordenamos todo el rato cómo nos comportamos respecto a otros y respecto al mundo. Lo que ocurre es que a base de dibujarnos a través de las máquinas, nos hemos dibujado como máquinas. Y cada vez nos parecemos más a ellas.&nbsp;</p>
+
+
+
+<p><strong>Lo cierto es que a medida que las máquinas adquieren atributos humanos, como la inteligencia o la creatividad, cada vez es más difícil delimitar lo humano y lo artificial. Introduciendo las máquinas en la ecuación, qué queda de nosotros y qué nos define como humanos?</strong></p>
+
+
+
+<p>Yo hablo del <em>Principio de Humanidad Suficiente</em>, en otro juego de palabras con el <em>Principio de Razón Suficiente</em> de Leibniz. En realidad no nos estamos deshumanizando porque nunca hemos sabido muy bien qué es ser humano. Siempre nos hemos agarrado a la excepción: somos lo que los otros seres no son. El problema -o tal vez la virtud- es que, con las máquinas, todo lo que nos hacía excepcionales se ha ido erosionando. Cuando Leibniz fabricó una calculadora, las máquinas supieron sumar. Hasta entonces, podríamos haber pensado que el cálculo numérico era lo que nos hacía humanos. Pero, al final, eso de la humanidad se ha convertido en una especie de alcachofa y vamos perdiendo hojas. Y qué queda de nosotros? En realidad da igual el atributo, porque lo importante es que nos preguntarnos qué somos. Plantearse esto no tiene ningún sentido para una máquina. Lo que ocurre es que la tecnología ha ayudado a estrechar el mundo. El problema son las lógicas que hay detrás de las máquinas, que beben de la tradición aristotélica y pasan por Ramon Llull, Leibniz, &#8230; Pero las máquinas también podrían ayudarnos a ampliar los puntos de vista y los modos de estar en el mundo. Aunque para eso habría que repensar la tecnología desde cero y usar otros aparatos lógicos subyacentes que podrían abrir campos estadísticos más complejos.</p>
+
+
+
+<p><strong>Dejar de perseguir el <em>Principio de Humanidad Suficiente</em> sería una forma de libertad?</strong></p>
+
+
+
+<p>Claro, es un lastre. Rompamos las categorías que nos impiden pensarnos de otras formas. Las máquinas reflejan nuestra lógica occidental, masculina y, en términos de Adorno, de dominio del mundo, de administración de la realidad y de la vida, que en realidad es la exclusión de la vida. La vida es muy difícil de formalizar y, sin embargo, todas las estructuras están super formalizadas. Empecemos a romper esas lógicas binarias que dividen el mundo entre el yo y el otro, entre hombre y mujer, entre animal humano y animal no humano, entre capacitado y no capacitado, etcétera. Rompamos estas dicotomías que encierran el mundo en cajitas que, a su vez, nos encierran a nosotros. Porque así perdemos modos de vivir y de experimentar una realidad que es más rica que nosotros. Sobretodo porque, en general, a la realidad le damos bastante igual.</p>
+
+
+
+<p><strong>Mezclando filosofía y etnografía, has trazado mapas del futuro para empresas como Ikea; mientras que </strong><strong><em>Dejad que las máquinas vengan a mí</em></strong><strong> se dice que es una antropología del futuro. Hacia dónde vamos?</strong></p>
+
+
+
+<p>Los trabajos para empresas suelen ser más banales, porque éstas cuantifican la realidad con el dinero. Los escenarios más o menos especulativos que se les presentan son relativamente fáciles de dibujar. Pero en las antropologías, afortunadamente, no todo es cuantificable y hay mucha parte de inferencia. Cuando hablamos de la condición humana, todo es más complicado porque es mucho más abierto. Yo no sé muy bien hacia dónde vamos, pero si continuamos escuchando a los varones blancos occidentales, en los que me incluyo, tal como lo hemos hecho durante los últimos 2.500 años, seguiremos cercenando una gran cantidad de miradas posibles a nosotros mismos y al mundo. Por lo tanto, los varones blancos occidentales tenemos que dar un paso atrás y dejar que otras entidades hablen. Y esto pasa por dejar hablar a las mujeres, como género y como institución política, y no opinar. Pasa por eliminar esa construcción de dominio sobre la mujer, sobre los animales, sobre el planeta y sobre nuestro estar en el mundo.&nbsp;</p>
+
+
+
+<p>Por otro lado, siempre habíamos pensado que la inteligencia nos hacía superhéroes y, de pronto, con las máquinas, ha quedado en nada. Pero en esa nada hay muchísimas virtudes. En el <em>Zarathustra</em>, Nietzsche dice que en nuestro cuerpo hay mucha más inteligencia que en ninguna de las ideas que vaya a generar jamás nuestro cerebro. Y tiene razón. Llamamos inteligentes a las máquinas cuando en realidad la inteligencia es un resultado de la vida y no de cuantificaciones o formalizaciones ajenas a ella. Inteligencia es aceptarnos como entes vivos, teniendo en cuenta que nosotros no vivimos la vida, sino que la interpretamos. El lenguaje nos separa de la vida y nos hace interpretar lo que somos contínuamente.&nbsp;</p>
+
+
+
+<p><strong>Los dibujos del futuro que hemos plasmado en la ciencia ficción -como </strong><strong><em>Blade Runner</em></strong><strong>, </strong><strong><em>Distrito 9</em></strong><strong> o </strong><strong><em>Matrix</em></strong><strong>&#8211; son casi siempre distópicos. Hay sitio para la esperanza?</strong></p>
+
+
+
+<p>Sí que la hay. Hemos estado en peores. Siempre nos hemos sentido excepcionales y por esto hemos imaginado para nosotros un final de la hostia: el apocalipsis, la destrucción del planeta, &#8230; Pero, como decía Gramsci, las narrativas de lo nuevo están un poco agotadas. Lo nuevo no acaba de surgir y nos da miedo. Pero no perdamos la perspectiva histórica. Locke, el padre de muchas de nuestras ideas políticas actuales, tuvo que enfrentarse a una realidad mucho más jodida que la nuestra, la de las monarquías absolutistas. Y para eso hubo que matar a Dios. Y, de la misma forma, seguramente nosotros tenemos que matar el dinero, que le da valor y sentido a la realidad. Ahora hacemos cosas que para nuestros abuelos era impensable. Alquilamos nuestros retretes en <em>Airbnb</em>. Lo hemos metido todo en el mercado. Pero hay espacios en los que no puede entrar el dinero. El gran fracaso de la pandemia no es solo el sistema liberal anglosajón, sino también la idea de que las multinacionales iban a sustituir el Estado-nación. Pero lo que nos va a curar es la vacuna suministrada por un Estado.&nbsp;</p>
+
+
+
+<p>Además, con la pandemia se ha producido una reducción del mundo insospechada. Nos hemos reducido a los mínimos posibles de producción y consumo. De pronto, han desaparecido la industria cultural, el diseño y un montón de industrias colaterales que antes eran importantes y ahora parece que no sirven para nada. Porque no van a favor de la vida. Porque forman parte de esa capa ideológica que nos habíamos construído, donde el dinero era muy valioso. Pero no necesitamos el dinero para explicar la realidad. Tal vez crearemos nuevos espacios ajenos al mercado, porque hemos visto que el mercado peta. Que la realidad regida por el mercado no existe; era una ficción. Debemos empezar a pensarnos más allá del dinero, más allá de la transacción, más allá del valor económico y de un <em>business plan</em>.</p>
+
+
+
+<p><strong>La situación actual es un poco distópica. Además, con el distanciamiento social ha pasado algo curioso. Como dices en los </strong><strong><em>Tres apuntes morales sobre la pandemia</em></strong><strong>, nosotros nos hemos convertido en amenaza para los otros y viceversa y, además, construimos comunidad alejándonos los unos de los otros.&nbsp;</strong></p>
+
+
+
+<p>Sí, es como una especie de antinomia. Pero me parece muy bonita. Sartre decía que el infierno son los otros. Que los ojos de los otros pueden vernos cometiendo una falta, que los otros pueden denunciarnos. Y, de repente, con la pandemia, el infierno soy yo, el vector de transmisión soy yo. De pronto, nos reconocemos como lesivos. Pero el varón blanco occidental nunca se ha sentido amenaza, y cuando se ha sentido amenaza en realidad la ha ejecutado. Esto corroe su situación del poder porque tiene que desplazarse hacia un territorio que nunca ha ocupado: el del otro. Y eso rompe un poco las lecturas tradicionales del yo, la masculinidad, los machismos. Vendrá una crisis económica brutal y el sistema va a salir super dañado, pero me parece que posibilita la apertura a pensarnos de formas distintas.</p>
+
+
+
+<p><strong>Continuando con las distopías, </strong><strong><em>Matrix</em></strong><strong> introduce la gestación en úteros artificiales -lo que se conoce como ectogénesis- mientras la nueva de </strong><strong><em>Blade Runner (2017)</em></strong><strong> introduce la natalidad dentro del universo robot. Si esto termina sucediendo, qué consecuencias tendría para las mujeres? Las liberaría o justo lo contrario?</strong></p>
+
+
+
+<p>Una de las ideas de los proyectos feministas que han cuajado más allá del feminismo es que la biología no es destino. Es decir, que no tenemos por qué cumplir con los dictados de nuestros cuerpos. Creo que cualquier cosa que permita superar el destino, porque posibilita ampliar los modos de ocupar la realidad, es bueno. Entonces, si la ectogénesis libera la mujer de ser la esclava de tener hijos -y digo esclava porque de momento es la única que puede hacerlo-, me parece fenomenal. Que luego habrá mujeres que decidirán tener hijos intrauterinamente, pues fantástico.&nbsp;Luego podríamos plantearnos si la ectogénesis realizada dentro de un aparato capitalista beneficiaría o no a las mujeres, pero estaríamos cuestionando más el aparato capitalista y no tanto la tecnología <em>per se</em>. Aunque también es cierto que no hay tecnologías neutras, pero esto es otro dilema.</p>
+
+
+
+<p>Por otro lado, está la cuestión de la maternidad en <em>Blade Runner</em>. De pronto, si los robots pueden tener hijos, surge la pregunta de qué ocurre si la capacidad de engendrar vida tampoco nos define como humanos. Aunque yo no soy más humano por ser hijo intrauterino de mi madre. La dependencia de la carne es una estupidez. Lo peligroso es que la hija robot sea digital y no analógica. Y nuestro cuerpo -esa inteligencia de la que hablaba Nietzsche- es super analógico. Porque es nuestra integración con el mundo, una continuación del mundo. Y algunas tecnologías son una especie de exclusión de la vida. Estamos inventando un tercer estado entre la vida y la muerte, que es lo que yo normalmente llamo infravida. Infravida también es el estado de las gallinas amontonadas en los infiernos de las granjas avícolas. Es una culminación del dominio de la vida. Es el epítome de la lógica que va de Aristóteles a la algoritmia y no un reconocimiento a la vida como lo inesperado, lo diferente, lo abierto.&nbsp;</p>
+
+
+
+<p><strong>Entre otras cosas eres asesor ético de empresas. Cómo evitar que tu trabajo se quede en el blanqueo ético de un business plan?&nbsp;</strong></p>
+
+
+
+<p>Yo intento definir los marcos éticos en los que operan las compañías y, claro, siempre intento que no quede en un blanqueo ético. Un marco ético es un conjunto de prácticas que la empresa puede hacer antes de generar daños a terceros. Y esto no debe confundirse con una forma de consuelo. En primer lugar, la ética no puede venir dada desde fuera. Son las propias compañías las que deben descubrir cuál es su marco ético. No me interesa tanto hacerles un decálogo como plantearles cómo pueden hacer bien lo que hacen. Luego, habría que definir “bien”, y muchos suelen llamarlo “impacto positivo”. Para que ese impacto positivo sea real, hay que ver a quién afecta y de quién depende. Y para eso hay que analizar toda la cadena de involucrados, donde siempre se esconden sectores o poblaciones más desfavorecidas, peor pagadas, peor calificadas, … Hay una ley que, en el momento político actual, puede ayudarnos en esto: “Siempre del lado del perdedor”. Es decir, tener en cuenta que siempre hay un perjudicado. Intentar definir quién es el perjudicado en la cadena de valor para perjudicarle lo mínimo o, si es posible, empoderarle. Y, a partir de ahí, ampliar ese círculo virtuoso a los trabajadores, a las personas, a la comunidad en la que trabajas, etcétera. La idea es evitar que solo quede en un business plan y, para que eso ocurra, tienen que darse dos condiciones: la primera es que las personas hagan suyo el marco ético y, la segunda y la más importante, es construir políticas que obliguen a ejecutar ese marco ético. No hay nada peor que tener una visión moral de lo que haces y no lo cumplas.&nbsp;</p>
+
+
+
+<p><strong>El mundo está muy fragmentado y tenemos un campo de visión muy estrecho. En el terreno empresarial, hay forma de evitar ser esclavo del sistema y no convertirte en un engranaje más?</strong></p>
+
+
+
+<p>Sobre esto se ha escrito mucho. La construcción seriada de la realidad parcela nuestra capacidad de actuación y nuestra responsabilidad moral. Imaginemos que hay un millón de torturadores con un millón de dispositivos que solo emiten un voltio. Ninguno mata al torturado. Lo que mata es la suma de los voltios. Qué es lo que les hace moralmente responsables de esa muerte? El saber que, si todos lo ejecutan al mismo tiempo, matan. A lo mejor hace falta volver a perseguir la mayoría de edad kantiana. Entender que si seguimos comprando según qué ropa estoy jodiendo a alguien. Pero de lo que no nos podemos enajenar responsablemente es de no mirar. No podemos decir que no lo sabíamos, porque todos sabemos lo que ocurre. Cuando Amancio Ortega regala millones de euros en material sanitario está comprando un salvoconducto moral. Pero en realidad su problema moral es no haber respetado a los perjudicados de la cadena de valor de sus empresas.</p>
+
+
+
+<p>Entonces, cómo hacer que ese marco ético no quede en puro blanqueo? Hay que poner límites a nuestras acciones, porque a lo mejor nuestras ganancias no compensan el daño que hacemos. Es un poco antiutilitarista. La idea de que el beneficio de las mayorías vale más que el perjuicio de las minorías es mentira. Si el beneficio se crea matando a alguien, jamás podrá compensarse el daño. Por esto, como ha ocurrido con la pandemia,<strong> </strong>la clave es tomar consciencia de que somos amenaza.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1030</post-id>	</item>
+	</channel>
+</rss>

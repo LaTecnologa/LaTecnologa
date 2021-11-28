@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>GNU &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/gnu/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Wed, 20 May 2020 17:59:11 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>GNU &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Les veritats incòmodes del negoci del software</title>
+		<link>/2020/02/09/les-veritats-incomodes-del-negoci-del-software/</link>
+					<comments>/2020/02/09/les-veritats-incomodes-del-negoci-del-software/#respond</comments>
+		
+		<dc:creator><![CDATA[Carles Sala i Anna Schnabel]]></dc:creator>
+		<pubDate>Sun, 09 Feb 2020 11:03:38 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[Free Software Movement]]></category>
+		<category><![CDATA[GNU]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Obsolescència programada]]></category>
+		<category><![CDATA[Programari]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Software Lliure]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows 7]]></category>
+		<guid isPermaLink="false">/?p=712</guid>
+
+					<description><![CDATA[L’obsolescència programada s’ha convertit en una especialitat de Microsoft, i té molt a veure amb la posició hegemònica de l'empresa]]></description>
+										<content:encoded><![CDATA[
+<p class="has-small-font-size">Foto: El fundador de Microsoft, Bill Gates, en un dinar a la 32ena trobada anual del Forum Econòmic Mundial. Nova York, 3 de febrer del 2002. <em>Wikimedia Commons</em></p>
+
+
+
+<h2>L’obsolescència programada s’ha convertit en una especialitat de Microsoft, i té molt a veure amb la posició hegemònica de l&#8217;empresa</h2>
+
+
+
+<p>El 14 de gener, Microsoft anunciava la fi del suport per a un dels seus sistemes operatius més exitosos, Windows 7. Des d’aleshores, ja no es reparen els errors que es descobreixen i, per tant, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="/2019/11/05/com-evitar-el-ransomware-el-virus-que-recorre-europa/" target="_blank">ja no és segur continuar utilitzant-lo</a>. Per això, Windows ofereix dues opcions: <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.genbeta.com/windows/microsoft-extendera-soporte-windows-7-tres-anos-a-quienes-paguen" target="_blank">o bé pagar pel suport durant tres anys més</a>, o bé <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.xataka.com/basics/fin-soporte-windows-7-que-significa-que-implicaciones-tiene-como-actualizar-gratis-a-windows-10" target="_blank">actualitzar de manera gratuïta a Windows 10</a>. De fet, els sistemes operatius de Microsoft són, amb gran diferència, els més habituals del planeta -quasi un 90% dels usuaris fan servir alguna variant de Windows, com es pot comprovar a la gràfica de Stadista. Però aquest gegant tecnològic no té el quasi-monopoli dels sistemes operatius per casualitat. Ni tan sols per la qualitat del seu <em>software</em>. Si el seu fundador, Bill Gates, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://www.forbes.com/billionaires/#702e5e42251c" target="_blank">és un habitual de la llista dels més rics del món</a>, es deu més aviat a l’ús de pràctiques èticament qüestionables -i algunes sancionades- per atrapar a milions d’usuaris i ofegar la competència.</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh3.googleusercontent.com/MVSDDovaksaRCvcJQH6V_HE3Q4YJoyWSwLYL_jvC_X5CaThyJzv3lNmB_lE-zpB_TvVFj0cICV_E6OMbZdD8JFlPkuAl-Rwrm4qs5mHwdxRY9w6lvWWZJ_dbRrmpv6wc7fg_nug" alt=""/></figure>
+
+
+
+<p>La versió oficial diu que Windows ha evolucionat gràcies a haver llançat noves versions cada pocs anys, i que mantenir-les totes seria logísticament impossible. Per això, amb el pas del temps, Microsoft abandona les versions més antigues per centrar els esforços en les actuals. Però també hi ha veus crítiques, com l’investigador informàtic Roberto Di Cosmo, que també és&nbsp;director de l’<em>Innovation and Research Initiative for Free Software</em> (IRILL). Des de fa dues dècades, ha dedicat diversos estudis i un llibre al sistema operatiu més popular, a qui qualifica d’especialista en l’obsolescència programada. A les pàgines de <em>Hijacking the World: The Dark Side of Microsoft</em>, Di Cosmo vincula la caducitat del seu programari amb la posició hegemònica que ha aconseguit.</p>
+
+
+
+<h3>Les tàctiques de Microsoft</h3>
+
+
+
+<p>Segons l’investigador, els editors de <em>software</em> com Microsoft tenen dues maneres de fer créixer els beneficis: o incrementar la quota de mercat o, quan el mercat ja està saturat pels seus productes, intentar vendre més i més, sovint als mateixos clients. “Per això necessiten crear noves versions dels seus programes tan sovint com sigui possible i que han de semblar diferents, tot i que continguin poques novetats realment útils”, escriu. I afegeix: “Pitjor encara, per assegurar-se que els seus usuaris no baixen del tren, Microsoft manté com a ostatges les seves dades: això vol dir que simplement han de comprar les versions més noves dels seus programes si volen continuar intercanviant informació amb altres persones”.</p>
+
+
+
+<p>Bill Gates s’ha presentat sempre com la veu de la competitivitat, però Microsoft ha utilitzat totes les armes per eliminar qui podia fer-li ombra. La tàctica més coneguda va ser la imposició per contracte d’oferir només els seus productes als grans fabricants d’ordinadors com Compaq, Dell o Gateaway. La companyia fins i tot va requerir a tots els distribuïdors d’ordinadors IBM o compatibles amb IBM que preinstalessin els seus programes a tots els equips que venien: primer, amb MS-DOS i, després, amb Windows.&nbsp;</p>
+
+
+
+<p>A més, la mena de contracte que va signar amb els grans fabricants de <em>hardware</em> implicava una taxa de llicència per processador. Així, IBM o Compaq havien de pagar un cànon fixat per cada equip que venien, tant si l’usuari final volia tenir-hi o no instal·lat DOS o Windows. En conseqüència, al distribuïdor li interessava instal·lar Windows enlloc d’un altre sistema operatiu més car. I, per tant, a l’usuari final tampoc li resultava pràctic desinstal·lar DOS o Windows, perquè, tanmateix, ja l’havia pagat.</p>
+
+
+
+<p>Cap a l’any 2000, Microsoft va intentar controlar el mercat no només acaparant els sistemes operatius de tots els ordinadors, sinó també conquerint les activitats estratègiques, com navegar per Internet. L’autor recorda que els navegadors rivals, com <em>Netscape Navigator</em>, no funcionaven bé perquè el contingut <em>online</em> estava optimitzat només per a <em>Internet Explorer</em>, el seu propi. “Microsoft va aconseguir convèncer els proveïdors que el seu navegador és l’estàndard i que és del seu interès adaptar totes les webs només per a aquest navegador”, escriu Di Cosmo.&nbsp;</p>
+
+
+
+<p>La companyia també s’ha desfet de petits potencials competidors assumint la seva tecnologia, per exemple, copiant-la descaradament per integrar-la a les pròpies solucions. Això va succeir amb Stac, que va dissenyar el <em>software</em> de compressió de disc dur Stacker. Va aconseguir demostrar que era així i va guanyar una demanda contra Microsoft.&nbsp;</p>
+
+
+
+<h3>La Comissió Europea sanciona Microsoft</h3>
+
+
+
+<p>Les pràctiques monopolistes de Microsoft també van arribar a la Comissió Europea (CE), que el 2000 va començar a investigar el gegant tecnològic per dos motius: la manca d’informació per assegurar la interoperabilitat -o sigui, la compatibilitat d’aquest sistema operatiu amb altres components de <em>hardware</em>-, i la incorporació del Windows Media Player, que requeria un esquema de llicències incompatible amb el <em><a href="/2020/01/23/pydata-mallorca-2020-software-lliure-cientific/">Software Lliure</a></em>. Va caler esperar quatre anys perquè la CE resolgués que la companyia de Bill Gates havia comès, efectivament, tots dos abusos i <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://fsfe.org/activities/ms-vs-eu/timeline.en.html" target="_blank">li va imposar una multa de 497,2 milions de dòlars</a>.</p>
+
+
+
+<p>Segons Di Cosmo, a més, en aquell temps era pràcticament impossible comprar un ordinador sense Windows, tenint en compte que els fabricants de <em>hardware</em> no tenien marges de benefici gaire alts. Allò cert és que la majoria dels seus guanys derivaven del <em>software</em>, que pràcticament no té cost de fabricació, tenint en compte que un cop fet un programa -amb un cost que pot ser relativament alt-, es pot copiar de manera gratuïta o descarregar-se per Internet. L’investigador també subratllava les sospites d’alguns fabricants que Microsoft amenaçava amb represàlies a aquells qui volien anar per lliure.&nbsp;</p>
+
+
+
+<h3>L’alternativa: el <em>software</em> lliure</h3>
+
+
+
+<p>El terme de ‘Programari Lliure’ (que prové de l’anglès <em>Free Software</em>) va ser encunyat el 1985 per Richard Stallman, aleshores investigador del MIT, que potseriorment va crear l’ONG <em>Free Software Foundation</em>. L’organització té l’objectiu de garantir la llibertat d’executar el programari, estudiar-lo i modificar-lo sense impediments. Per això va crear el sistema operatiu GNU (l’acrònim de ‘<em>GNU is Not Unix</em>’) i la Llicència Pública GNU, donant protecció legal a aquest model de <em>software</em> i, d’aquesta manera, fent possible la creació de Linux, el sistema operatiu de codi obert més conegut i usable. El programari lliure implica que els usuaris tenen quatre llibertats essencials: la d’executar el programa, la d’estudiar i modificar-ne el codi font, la de redistribuir còpies exactes i la de distribuir versions modificades.</p>
+
+
+
+<p>A Mallorca, <a rel="noreferrer noopener" aria-label="l’associació Bulma difón l’esperit del software lliure (opens in a new tab)" href="https://bulma.eu/blog/" target="_blank">l’associació Bulma difón l’esperit del <em>software</em> lliure</a> i la seva idea fonamental: “El coneixement ha de ser per tots”. El president de l’entitat, Daniel Ripoll, defensa la ‘cultura hacker’, és a dir, del repte intel·lectual de superar creativament les limitacions dels sistemes operatius. Entre altres accions, Bulma ha fet <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://bulma.eu/blog/blog/2019/12/15/portatiles-con-linux/#more-2529" target="_blank">un recopilatori de distribuïdors de <em>hardware</em> compatible amb el <em>software</em> lliure</a>. “Fer servir un o altre sistema operatiu ha de ser una decisió teva”, subratlla Ripoll.</p>
+
+
+
+<p>Però Bulma no defensa Windows, ni tampoc l’altra gran companyia de <em>software</em> privatiu: “Apple es va apropiar un poc de la ‘cultura hacker’, però mai ha arribat a alliberar el codi realment”. Amb tot, segons Ripoll, fins i tot és més privatiu que Windows amb les llicències: “Si tens una aplicació mòbil i vols publicar-la a l&#8217;<em>Apple Store</em> amb una llicència GPL [de l’anglès <em>General Public Licence</em>], que és una de les més lliures que hi ha, no la publiquen”, es queixa Ripoll, que opta pel Linux.</p>
+
+
+
+<p>De fet, <a rel="noreferrer noopener" aria-label="Apple acaba de ser sancionada per un cas flagrant d'obsolescència programada (opens in a new tab)" href="https://www.xataka.com/moviles/apple-llega-a-acuerdo-francia-pagara-25-millones-euros-ralentizar-iphone-2017" target="_blank">Apple acaba de ser sancionada per un cas flagrant d&#8217;obsolescència programada</a>. La Direcció General de Competència, Consum i Prevenció de Frau a França ha multat la firma nord-americana amb 25 milions d&#8217;euros fer més lents els iPhones més antics. És més, la pròpia companyia va reconèixer el 2017 que alentia alguns models antics d&#8217;iPhone amb la finalitat de prolongar la vida útil dels aparells. Tot i així, França ha resolt que els consumidors no n&#8217;estaven informats i ha avalat les sospites d&#8217;aquells qui creien que Apple ho feia perquè es compressin un mòbil nou.</p>
+
+
+
+<h3>L&#8217;evolució de Linux</h3>
+
+
+
+<p>El 1991, Linus Torvalds, estudiant de la Universitat de Hèlsinki, de només 21 anys, va utilitzar les eines GNU per escriure Linux. A mesura que el seu projecte avançava, Torvalds va publicar en línia el seu codi font, de manera que va poder ser acabat i revisat pels millors programadors del món. Aquest programari gratuït, que avui dia està disponible per a PC, Mac i altres tipus d&#8217;equips, ha anat guanyant reputació.&nbsp;</p>
+
+
+
+<p>Linux ha creat els efectes especials de <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="http://www.dicosmo.org/HoldUp/English/hijacking_the_world/" target="_blank">pel·lícules com Titanic i gestiona la distribució de correspondència</a> a l’Oficina de Correus dels Estats Units des de fa més de vint anys. Segons Stadista, ja es fa servir a un 13% dels servidors de tot el món, <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://en.wikipedia.org/wiki/Usage_share_of_operating_systems" target="_blank">tot i que altres fonts eleven la xifra i compten que Linux manté una posició dominant als servidors d’Internet públics</a>. I no només això. Aquest sistema operatiu ja s’utilitza de manera habitual en disciplines tècniques <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://en.wikipedia.org/wiki/List_of_Linux_adopters" target="_blank">a universitats i centres d’investigació de tot el planeta</a>. Administracions públiques d’Amèrica del Nord i de la Unió Europea estan fent la transició a Linux per la seva estabilitat i obertura del codi font que, al seu torn, és més segur. Espanya va atrevir-se a implementar les distribucions LinEx i Guadalinux el 2003 i 2004, mentre <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://computerhoy.com/noticias/software/barcelona-cambiara-windows-linux-antes-2019-74335" target="_blank">Barcelona va anunciar el 2018 que passaria tota la seva infrastructura a Linux</a>.&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/09/les-veritats-incomodes-del-negoci-del-software/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">712</post-id>	</item>
+	</channel>
+</rss>

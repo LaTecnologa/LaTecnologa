@@ -1,0 +1,832 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>Apuntes para una ética de la tecnología &#8211; La Tecnòloga</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//www.googletagmanager.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="La Tecnòloga &raquo; canal d&#039;informació" href="/feed/">
+<link rel="alternate" type="application/rss+xml" title="La Tecnòloga &raquo; Canal dels comentaris" href="/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="/wp-includes/css/dist/block-library/style.min.css?ver=5.8.2" type="text/css" media="all">
+<style id="wp-block-library-inline-css" type="text/css">.has-text-align-justify{text-align:justify;}</style>
+<link rel="stylesheet" id="mediaelement-css" href="/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.16" type="text/css" media="all">
+<link rel="stylesheet" id="wp-mediaelement-css" href="/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=5.8.2" type="text/css" media="all">
+<link rel="stylesheet" id="ctf_styles-css" href="/wp-content/plugins/custom-twitter-feeds/css/ctf-styles.min.css?ver=1.8.4" type="text/css" media="all">
+<link rel="stylesheet" id="type-fonts-css" href="https://fonts.googleapis.com/css?family=Lato%3A400%2C700%7CLato%3A400%2C700%2C400italic%2C700italic&#038;subset=latin%2Clatin-ext&#038;display=fallback" type="text/css" media="all">
+<link rel="stylesheet" id="type-material-icons-css" href="https://fonts.googleapis.com/icon?family=Material+Icons&#038;display=swap" type="text/css" media="all">
+<link rel="stylesheet" id="type-social-icons-css" href="/wp-content/themes/type-plus/fonts/socicon.min.css?ver=3.5.2" type="text/css" media="all">
+<link rel="stylesheet" id="type-style-css" href="/wp-content/themes/type-plus/style.css?ver=1.2.3" type="text/css" media="all">
+<style id="type-style-inline-css" type="text/css">body, button, input, select, textarea {font-family: Lato, sans-serif;}h1, h2, h3, h4, h5, h6, .entry-title {font-family: Lato, sans-serif;}.site-title {font-family: Lato, sans-serif;}html, body {font-size: 16px;}
+			@media screen and (max-width: 599px) {
+			.site-logo {max-width: 800px;}
+			}
+			@media screen and (min-width: 600px) {
+			.site-logo {max-width: 800px;}
+			}.header-image {padding-top: 20px;padding-bottom: 20px;}
+		a, a:hover, .site-info a:hover, .entry-content .has-accent-color,
+		.site-credits a:hover, .widget a:hover, .widget-area ul li a:hover, .comment-metadata a:hover, .entry-header .comments-link a:hover,
+		.site-title a:hover, .entry-title a:hover, .category-title a:hover, .entry-footer .material-icons, .posts-navigation a:hover, .large-post .read-more,
+		.main-navigation li:hover > a, .main-navigation li:focus > a, .main-navigation .current_page_item > a, .main-navigation .current-menu-item > a,
+		.footer-menu li a:hover, .category-title .view-all:hover, .site-footer .col-12 #sb_instagram .sbi_follow_btn a:hover,
+		.dropdown-toggle:hover, .dropdown-toggle:focus, .related-posts h4 a:hover, .shop-products .category a, .shop-products .category a:hover {
+		color: #aa0033;
+		}
+		button, input[type='button'], input[type='reset'], input[type='submit'], .entry-content .has-accent-background-color, .page-links > a,
+		.large-post .read-more:hover, .sidebar .widget_tag_cloud a:hover, .reply a:hover, .main-navigation > ul > li.current-menu-item:before,
+		.slick-dots li.slick-active button:before, .slider-classic .read-more:hover, #scroll-up, .pagination a.page-numbers:hover,
+		.hero-button, .shop-category a:hover span, .button-link, .shop-products figure .onsale, .shop-slider .slider-item .onsale {
+		background-color: #aa0033;
+		}
+		blockquote {border-left-color: #aa0033;}
+		.large-post .read-more, .reply a, .posts-loop .entry-thumbnail:hover img, .list-vertical .entry-thumbnail:hover, .slider-classic .read-more {
+		border-color: #aa0033;
+		}
+		.format-audio .entry-thumbnail:after, .format-gallery .entry-thumbnail:after, .format-image .entry-thumbnail:after, .format-quote .entry-thumbnail:after, .format-video .entry-thumbnail:after {
+		border-top-color: #aa0033;
+		}
+		@media screen and (min-width: 960px) {
+		.main-navigation > ul > li > a {color: #888888;}
+		}
+		@media screen and (min-width: 960px) {
+		.social-menu a, .social-menu a[href]:hover {color: #ffffff;}
+		.has-header-image .header-image .social-menu a {background-color: #ffffff;}
+		.social-menu a[href]:hover {opacity: .7;}
+		}
+		@media screen and (min-width: 960px) {
+		.top-search-button {color: #888888;}
+		.top-search-button:hover {opacity: .7;}
+		}
+		@media screen and (min-width: 960px) {
+		.woo-cart-link a{color: #888888;}
+		.woo-cart-link a:hover {opacity: .7;}
+		}.site-header {background-color: #000000;}
+		@media screen and (min-width: 960px) {
+		.main-navbar {background-color: #1b2126;}
+		}.site-footer {background-color: #800033;}
+			.site-info, .site-credits, .site-footer .social-menu a {
+			color: rgba(255,255,255,.8);
+			}
+			.site-info a, .site-credits a, .footer-menu li a,
+			.site-info a:hover, .site-credits a:hover, .footer-menu li a:hover, .site-footer .social-menu a:hover {
+			color: #ffffff;
+			}
+			.footer-menu li a:hover {
+			text-decoration: underline;
+			}.page-template-ecommerce .hero-header {background-color: #eeeeee;}.page-template-ecommerce .hero-header h2 {color: #000000;}.page-template-ecommerce .hero-content, .page-template-ecommerce .hero-content a, .page-template-ecommerce .hero-content a:hover {color: #666666;}
+	@media screen and (min-width: 720px) {
+	.shop-promo {padding: 30px;}
+	}.shop-promo {background-color: #f4f4f4;}.shop-promo h2 {color: #000000;}.promo-content, .promo-content a, .promo-content a:hover {color: #666666;}</style>
+<link rel="stylesheet" id="type-slider-css-css" href="/wp-content/themes/type-plus/inc/slick/slick.min.css?ver=1.6.0" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="/wp-content/plugins/jetpack/css/jetpack.css?ver=10.3" type="text/css" media="all">
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+<script type="text/javascript" src="/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=UA-151345385-1" id="google_gtagjs-js" async></script>
+<script type="text/javascript" id="google_gtagjs-js-after">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["tecnologa.cat"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-151345385-1", {"anonymize_ip":true});
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="/wp-json/">
+<link rel="alternate" type="application/json" href="/wp-json/wp/v2/pages/1518">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.8.2">
+<link rel="canonical" href="/apuntes-etica-de-la-tecnologia-luis-montero/">
+<link rel="shortlink" href="/?p=1518">
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fapuntes-etica-de-la-tecnologia-luis-montero%2F">
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=https%3A%2F%2F%2Fapuntes-etica-de-la-tecnologia-luis-montero%2F&#038;format=xml">
+<meta name="generator" content="Site Kit by Google 1.46.0">
+<style type="text/css">img#wpstats{display:none}</style>
+		<meta name="description" content="Pie de foto: La ‘máquina humana’, de la película&nbsp;Metropolis (1927), fue el primer robot representado en el cine. Le dio ‘vida’ la actriz&nbsp;Brigitte&nbsp;Helm. Luis Montero El canal de Filosofía y Diseño de Telegram nació como un cuaderno de notas en el que apuntar las nociones básicas sobre las que debería girar el curso de introducción&hellip;">
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="Apuntes para una ética de la tecnología">
+<meta property="og:url" content="/apuntes-etica-de-la-tecnologia-luis-montero/">
+<meta property="og:description" content="Pie de foto: La ‘máquina humana’, de la película&nbsp;Metropolis (1927), fue el primer robot representado en el cine. Le dio ‘vida’ la actriz&nbsp;Brigitte&nbsp;Helm. Luis Montero El canal de Filos…">
+<meta property="article:published_time" content="2020-07-17T17:31:41+00:00">
+<meta property="article:modified_time" content="2021-11-27T21:23:34+00:00">
+<meta property="og:site_name" content="La Tecnòloga">
+<meta property="og:image" content="/wp-content/uploads/2020/07/02onthesetofFritzLang’sMetropolis—theactressinsidetheMariarobottakingabreather.jpg">
+<meta property="og:image:width" content="1000">
+<meta property="og:image:height" content="707">
+<meta property="og:image:alt" content="Imatge">
+<meta property="og:locale" content="ca_ES">
+<meta name="twitter:site" content="@latecnologa">
+<meta name="twitter:text:title" content="Apuntes para una ética de la tecnología">
+<meta name="twitter:image" content="/wp-content/uploads/2020/07/02onthesetofFritzLang’sMetropolis—theactressinsidetheMariarobottakingabreather.jpg?w=640">
+<meta name="twitter:image:alt" content="Imatge">
+<meta name="twitter:card" content="summary_large_image">
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="/wp-content/uploads/2019/10/icona_64_fons_trans.png" sizes="32x32">
+<link rel="icon" href="/wp-content/uploads/2019/10/icona_64_fons_trans.png" sizes="192x192">
+<link rel="apple-touch-icon" href="/wp-content/uploads/2019/10/icona_64_fons_trans.png">
+<meta name="msapplication-TileImage" content="/wp-content/uploads/2019/10/icona_64_fons_trans.png">
+		<style type="text/css" id="wp-custom-css">.site-description {
+	font-size: 1.3em;
+	text-align: center;
+}
+.site-title-centered .site-description {
+    max-width: 760px;
+    margin: 15px auto 0;
+    padding: 0 20px;
+    text-align: center;
+    font-size: 1.3em;
+    text-transform: uppercase;
+}
+#eu-cookie-law {
+    margin: 0 auto;
+    max-width: 1100px;
+    text-align: center;
+}
+
+h2.entry-title {
+	text-transform: none;
+	font-size: 1.4em !important;
+}
+
+#content > div > div > div > div > nav > ul > li.tribe-events-c-nav__list-item.tribe-events-c-nav__list-item--next > button > span {
+	text-transform: none;
+}
+
+#content > div > div > div > div > nav > ul > li.tribe-events-c-nav__list-item.tribe-events-c-nav__list-item--prev > button > span
+{
+	text-transform: none;
+}
+
+#tribe-events-list-widget-2 > ol
+{
+	padding: 0;
+}
+
+/*
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 900 !important;
+}
+*/
+
+/*
+h2.entry-title {
+    font-size: 1.5rem;
+    font-weight: 300;
+    text-transform: none;
+}
+.featured-large h4 {
+    font-size: 2.5rem;
+}
+.featured-small h4 {
+    font-size: 1.5rem;
+}
+*/</style>
+		</head>
+<body class="page-template-default page page-id-1518 wp-custom-logo group-blog header-layout2 fimg-fullwidth content-sidebar">
+
+
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#main">Anar al contingut</a>
+
+	<div class="mobile-navbar clear">
+		<a id="menu-toggle" class="menu-toggle" href="#mobile-navigation" title="Menu"><span class="button-toggle"></span></a>
+					</div>
+	<div id="mobile-sidebar" class="mobile-sidebar">
+		<nav id="mobile-navigation" class="main-navigation mobile-navigation" aria-label="Main Menu"></nav>
+	</div>
+
+	<header id="masthead" class="site-header ">
+		
+	<div class="site-title-centered">
+		
+		<div class="site-branding">
+						<p class="site-title site-logo"><a href="/" class="custom-logo-link" rel="home"><img width="2000" height="405" src="/wp-content/uploads/2019/11/LT_2000x405_fons_trans.png" class="custom-logo" alt="La Tecnòloga" srcset="/wp-content/uploads/2019/11/LT_2000x405_fons_trans.png 2000w, /wp-content/uploads/2019/11/LT_2000x405_fons_trans-300x61.png 300w, /wp-content/uploads/2019/11/LT_2000x405_fons_trans-1024x207.png 1024w, /wp-content/uploads/2019/11/LT_2000x405_fons_trans-768x156.png 768w, /wp-content/uploads/2019/11/LT_2000x405_fons_trans-1536x311.png 1536w" sizes="(max-width: 2000px) 100vw, 2000px"></a></p>
+									<p class="site-description">La revista tecnològica digital en català</p>
+					</div>
+		
+			
+		<div class="main-navbar navbar-left">
+			<div class="container">
+				
+	<nav id="site-navigation" class="main-navigation" aria-label="Main Menu">
+		<ul id="main-menu" class="main-menu">
+<li id="menu-item-464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-464"><a href="/">Portada</a></li>
+<li id="menu-item-1086" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1086"><a href="/category/noticies/">Notícies</a></li>
+<li id="menu-item-1088" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1088"><a href="/category/analisis/">Anàlisis</a></li>
+<li id="menu-item-1087" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1087"><a href="/category/a-fons/">A fons</a></li>
+<li id="menu-item-1089" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1089"><a href="/category/dialegs/">Diàlegs</a></li>
+<li id="menu-item-466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-466">
+<a>Temes</a>
+<ul class="sub-menu">
+	<li id="menu-item-1090" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1090"><a href="/tag/intelligencia-artificial/">Intel·ligència Artificial</a></li>
+	<li id="menu-item-1091" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1091"><a href="/tag/ciberseguretat/">Ciberseguretat</a></li>
+	<li id="menu-item-1092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1092"><a href="/tag/privadesa/">Privadesa</a></li>
+	<li id="menu-item-1093" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1093"><a href="/tag/fake-news/">Notícies Falses</a></li>
+	<li id="menu-item-1094" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1094"><a href="/tag/societat/">Societat</a></li>
+	<li id="menu-item-1095" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1095"><a href="/tag/software/">Programari</a></li>
+	<li id="menu-item-1096" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1096"><a href="/tag/recerca/">Recerca</a></li>
+	<li id="menu-item-1097" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1097"><a href="/tag/filosofia/">Filosofia</a></li>
+	<li id="menu-item-1099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1099"><a href="/tag/llibres/">Llibres</a></li>
+</ul>
+</li>
+<li id="menu-item-1154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1154"><a href="/qui-som/">Qui som?</a></li>
+</ul>	</nav>
+												
+	<nav class="social-links">
+		<ul id="menu-social-menu" class="social-menu">
+<li id="menu-item-131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="http://twitter.com/latecnologa"><span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-567"><a href="https://www.instagram.com/latecnologa/"><span class="screen-reader-text">Instagram</span></a></li>
+</ul>	</nav>
+			</div>
+		</div>
+		
+	</div>
+		</header><!-- #masthead -->
+
+	
+	<div id="content" class="site-content">
+		<div class="container">
+			<div class="inside">
+
+
+	
+			<div class="featured-image">
+			<div class="entry-header">
+				<h1 class="entry-title"><span>Apuntes para una ética de la tecnología</span></h1>			</div>
+							<figure class="entry-thumbnail">
+					<img width="1000" height="580" src="/wp-content/uploads/2020/07/02onthesetofFritzLang’sMetropolis—theactressinsidetheMariarobottakingabreather-1000x580.jpg" class="attachment-type-fullwidth size-type-fullwidth wp-post-image" alt="Imatge" loading="lazy">				</figure>
+					</div>
+	
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+			
+<article id="post-1518" class="post-1518 page type-page status-publish has-post-thumbnail hentry">
+	
+		
+	<div class="entry-content">
+		
+<p style="font-size:14px">Pie de foto: La ‘máquina humana’, de la película&nbsp;<em>Metropolis</em> (1927), fue el primer robot representado en el cine. Le dio ‘vida’ la actriz&nbsp;Brigitte&nbsp;Helm.</p>
+
+
+
+<p class="has-text-color has-medium-gray-color">Luis Montero</p>
+
+
+
+<p>El canal de <a rel="noreferrer noopener" href="https://t.me/filosofiaydiseno" target="_blank">Filosofía y Diseño de Telegram</a> nació como un cuaderno de notas en el que apuntar las nociones básicas sobre las que debería girar el curso de introducción a la filosofía del diseño&nbsp;<em>El diseño de nosotros mismos,&nbsp;</em>cuya primera edición iba a impartir en octubre de 2019. Pero se me fue de las manos. Las meras notas se convirtieron en semillas de las que florecieron argumentos filosóficos alrededor del diseño. Y esos argumentos se injertaron unos a otros hasta enramar en un mismo tronco: lo que empezó como meros apuntes a vuela pluma había acabado constituyendo el eje centrar de una lectura filosófica del diseño. Había nacido el libro homónimo&nbsp;<em>El diseño de nosotros mismos. Una lectura filosófica del diseño.</em>&nbsp;Un tratado que intenta trazar puentes entre dos disciplinas que tradicionalmente se han dado la espalda, cuando no se han despreciado. Una sima que había que salvar. Que era urgente salvar. Porque la filosofía cuenta con una larga tradición de herramientas analíticas que nos permiten un mejor entendimiento del diseño, su práctica y su resultado. Y porque el diseño rompe con muchos postulados filosóficos previos que se consideraban inamovibles y, si algo alumbra la filosofía, es el cuestionamiento.</p>
+
+
+
+<p>Estas notas son el recuerdo de un viaje de ida y vuelta. Un viaje que parte de la tecnología y su uso para terminar en la tecnología y su expresión, el diseño. Y vuelta otra vez. Y otra vez. Y otra… Estas notas que aquí aparecen publicadas se abren también a la crítica de la tecnología, dado que el diseño es ininteligible sin ella. De forma que se ajustan mejor a la audiencia de <em>La Tecnòloga</em>, a quienes me gustaría agradecer sus esfuerzos y ánimos incansables para su publicación. Aunque en el canal se entiende el diseño como la expresión de la tecnología, entre otras cosas. Y es que el diseño sin tecnología deja de serlo para ser otra cosa, un mal recuerdo de la artesanía. Así que allí se habla ahora mucho de tecnología. Es el viaje de vuelta…&nbsp;</p>
+
+
+
+<p>Un viaje de vuelta también a una antigua pasión mía, la ética. Porque en esta selección que se presenta ahora aparecen&nbsp;algunos apuntes acerca de los avances de la IA, la biotecnología, reconocimiento facial… y cómo esas tecnologías están comenzando a despertar fantasmas éticos que creíamos superados. Y, lo más interesante, es que se propone una solución.</p>
+
+
+
+<p>Otra cosa es que nadie haga caso.</p>
+
+
+
+<hr class="wp-block-separator is-style-dots">
+
+
+
+<p class="has-small-font-size">Sobre el autor:</p>
+
+
+
+<p class="has-small-font-size">Luis<strong> </strong>Montero&nbsp;nació en el 65. Estudió filosofía en la UNED y publicidad en la Complutense. Ha sido guía turístico, creativo publicitario y consultor estratégico. Ha vivido en Madrid, Nueva York, Londres, Frankfurt, Marrakech, Benarés y ahora en Palma. Ha escrito las novelas de ciencia ficción&nbsp;<em>Artrópodos, Feliz Año Nuevo</em>&nbsp;y&nbsp;<em>Clon</em> y los ensayos sobre ontotecnología&nbsp;<em>Mundo-hecho</em>&nbsp;y&nbsp;<em>Dejad que las máquinas vengan a mí</em>. En dos semanas aparece&nbsp;<em>El diseño de nosotros mismos. Una lectura filosófica del diseño.</em>&nbsp;Libro que complementa y profundiza en algunas de las notas aquí publicadas. Además ha publicado en diversos medios, <em>La Tecnòloga</em> entre ellos, en la que apareció en el diálogo&nbsp;<em><a href="/2020/04/28/luis-montero-maquinas-logica-occidental-masculina-dominio/">De humanos, máquinas y otros seres sintientes</a></em>. Últimamente procura disfrutar de la vida y montar en bicicleta.</p>
+
+
+
+<hr class="wp-block-separator is-style-dots">
+
+
+
+<p class="has-text-align-center has-large-font-size"><strong>Notas sobre tecnología</strong></p>
+
+
+
+<p>1.- La discusión sobre la ética de las IAs está fatal enfocada. Todo dios teme que nos maten cuando lo que debíamos temer es que no nos maten. Como especie históricamente hemos demostrado muy baja tolerancia a los exterminios masivos pero altísima a las formas de tiranía que mantienen la vida, por malas que sean sus condiciones.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<p>2.- Hay un fondo político efecto de la producción tecnológica de la realidad sobre el que se piden respuestas éticas.</p>
+
+
+
+<p>2.1.- Se pretende buscar una buena vida en un entorno político que ignora –cuando no imposibilita– esa buena vida (al contrario de lo que sucedía en, por ejemplo, Aristóteles, cuya ética también está levantada sobre un fondo político que la sustentaba y hacía posible; pero, quizá al contrario de lo que sucede ahora, aquella política sustentaba la ética de quienes vivían las condiciones políticas de Aristóteles –el varón propietario y, por tanto, libre– y no de la mayoría. Aquella ética estaba igual de secuestrada, pero la hemos romantizado. ¿Por qué la hemos romantizado? Aparte del argumento de autoridad, ¡hey, que es Aristóteles!, está la contradicción entre aquella ética y la política que la hacía posible y la relación entre nuestra política y la imposibilidad de la ética). La ética sufre un secuestro, el secuestro de la política, que la reduce a la redención personal de los actos y sus consecuencias. La vida se reduce a cada uno de los actos, a su suma quizá, pero una suma que no tiene un resultado final o cuyo resultado final se limita a la enumeración de los actos, como ese pase de diapositivas mítico que dicen antesala de la muerte. Es una vida estrecha, algebraica. De la ética reducida a las consecuencias de los actos no resulta una vida buena. Una vida se compone de actos, sí, pero no solo. Y ni siquiera los actos tienen que ser el componente fundamental: de ser así alguien impedido a realizar acto alguno ya sea por discapacidad o por encierro no podría calificarse como capaz de vivir una vida plena. Aquí el todo es mayor que la suma de las partes. Casi incluso se podría decir que podría decir que de esa reducción o secuestro ni siquiera resulta una vida.</p>
+
+
+
+<p>La teleología utilitarista es <em>peanuts</em> frente a la teleología aristotélica. La ética de este no trataba de evaluar un acto concreto sino levantar una vida.</p>
+
+
+
+<p>2.2.- Por eso el problema del diseño es más político que ético. O dicho de otro modo: La producción tecnológica de la realidad es una estructura política y una ética no puede ser más que un sistema. Y un sistema no puede ir a contracorriente de la estructura que lo soporta. El sistema no puede negar la estructura que lo sostiene.</p>
+
+
+
+<p>2.3.- Y, sin embargo, la generalidad –que no abstracción– del imperativo kantiano aleja lo moral tantísimo de nuestras vidas, de cualquier vida, que es impracticable por inaplicable. Si el consecuencialismo se diluye en la inmediatez hasta perder de vista ese horizonte que es la vida, el kantianismo funciona si, al contrario, la vida se subyuga y diluye en ese sistema reglado. Y con esa disolución se pierde la vida. También.</p>
+
+
+
+<p>De hecho, y como apunto en <em>Dejad que las máquinas vengan a mí,</em> la tecnología –y por tanto el proceso de producción industrial de la realidad– parte de lo que allí llamo un «error metafísico» ya que toda máquina –y más las IA– es kantiana por definición: lleva incrustada en sí la definición del mundo en el que opera, la <em>ontología</em>. Así pues sobre ese fondo kantiano se pretende pensar una ética que posibilite una vida buena y al mismo tiempo esté sujeta a ese tejido legiforme kantiano de la tecnología.</p>
+
+
+
+<p>2.4.- En este sentido de la aceptación de lo político como sustrato sobre lo que florece –el hoy tan de moda <em>flourish</em> sajón– lo ético se comprende el resurgir de la llamada ética de las virtudes. Lo ético reside en el carácter del sujeto que vive privilegiado por lo político. Tal como sucedía con Aristóteles, quien podía achacar al carácter –y por tanto al sujeto– las virtudes morales, virtudes morales que partían de uno y revertían en uno, entre otras cosas porque el otro que también disponía de carácter era igual que el uno, esto es, estaba en la misma situación política. Pero entonces como ahora esa situación no siempre es compartida por todos. De hecho, casi nunca. Si bien esas éticas de la virtud toman constancia de los diferentes caracteres de cada uno de nosotros suponen que todos partimos de una misma situación política desde la cual la distancia y dificultades para llegar al acto moral es el mismo.</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="t8hHmNSd3b"><a href="/2020/04/28/luis-montero-maquinas-logica-occidental-masculina-dominio/">Luis Montero: “Las máquinas reflejan nuestra lógica occidental, masculina y de dominio del mundo”</a></blockquote>
+<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;Luis Montero: “Las máquinas reflejan nuestra lógica occidental, masculina y de dominio del mundo”&#8221; &#8212; La Tecnòloga" src="/2020/04/28/luis-montero-maquinas-logica-occidental-masculina-dominio/embed/#?secret=t8hHmNSd3b" data-secret="t8hHmNSd3b" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p>3.- Ante las críticas estereotipadas de los perfiles más conservadores al cambio en el espacio público, antes solía decir medio en broma medio en serio que no es que ahora estemos peor educados, es que tenemos más oportunidades de molestar. Y muchas de esas oportunidades vienen dadas por objetos de diseño (altavoces inalámbricos, envases portátiles, vehículos eléctricos omnipresentes, etc.). Muchos de los problemas que genera el diseño no son tanto existenciales –que requieren soluciones éticas– sino de convivencia –que requieren una reformulación de lo que significa vivir en comunidad–. La educación en su acepción disciplinaria, no pedagógica, se nos ha hecho mayor. Lo que no está mal y algo por lo que hemos suspirado en innúmeras ocasiones por aquello hipócrita que había detrás del saludo desapegado, pero que ahora nos enfrenta a unos mores (sí, la antesala de lo moral) que no sabemos redefinir sin recaer en una moralidad de nuevo castradora. De pronto el chaval que escucha trap a todo volumen en la plaza nos ha retratado a todos.</p>
+
+
+
+<p>Y no nos gusta cómo salimos en la foto.</p>
+
+
+
+<p>3.1.- La convivencia no se basaba tanto en la costumbre como en la aceptación de esa costumbre. El diseño, gran productor de objetos que quiebran e inhiben esa convivencia, o al menos la cuestionan, podría producir el benéfico efecto insospechado de obligar a las comunidades a tener que negociar las pautas de convivencia cada con cada nuevo objeto que la desequilibra. Pero aquí se anticipan dos problemas: por un lado la incapacidad de la comunidad de articular esas negociaciones –incapacidad que explica la aceptación sumisa a la costumbre– y por otro la cortísima shell life que impone el mercado a la producción de la realidad. Aunque el primer problema no se diera y la sociedad fuera capaz de negociar al tiempo que aparecen nuevos objetos disvenientes –que amenazan la convivencia–, la creciente velocidad de aparición de esos objetos, que no es de extrañar se viera impulsada por esa capacidad de aceptación, puesto que el objeto de diseño tiene que chocar para no ser fondo, esa creciente velocidad empujaría a la sociedad hacia dos extremos, ambos extenuantes pero por distintas razones. O bien la comunidad se convertiría únicamente en el espacio de la negociación, una negociación eterna y acelerada dada la aparición eterna y acelerada de objetos que, a su vez, se viera impedida a aceptar esos objetos por falta de tiempo, todo él dedicado a una agotadora negociación. O, en el extremo opuesto, que mandara a tomar por culo la educación y, con ella, la convivencia.</p>
+
+
+
+<p>Que es donde parece que estamos. O hacia dónde nos dirigimos.</p>
+
+
+
+<p>3.2.- Pero con una diferencia. Esa negación de la negociación –y por tanto del cambio: no olvidemos que la historia de la humanidad es la historia de la negociación para la aceptación del cambio, un cambio que ha llevado 25 siglos en occidente para que acabemos aquí– no parte de una decisión voluntaria de los miembros de la comunidad –que es el óptimo buscado cuando desde la tradición se critica la costumbre: aquel denunciar la educación como un sistema de control y coerción– sino que es una condición exógena a la comunidad a la que no sabe reaccionar. A la que no puede reaccionar. Porque, ya se sabe, sin negociación no hay aceptación.</p>
+
+
+
+<p>3.3.- Si Thatcher dijo «No existe la sociedad, existe el individuo», hoy podríamos afirmar «No existe sociedad ni individuo, existe el objeto».</p>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<p>4.- Abundan –o empiezan a abundar– los libros de tecnólogos y diseñadores proponiendo soluciones éticas para la tecnología y el diseño. Y a mí siempre me chocan. Y no sólo porque me parece que la solución ética no puede venir de la parte que genera el problema, nadie tiene esa ecuanimidad –ni siquiera Moore cuando afirmaba que en todo acto hay un punto de vista objetivo, que es el del otro afectado… que es cierto que lo hay, pero pretender que el patrón moral sea ese es pretender que seamos santos: no siempre puedo actuar con la mirada del otro, entre otras cosas porque desconozco su mirada, es impenetrable–, sino porque esos libros de tecnólogos y diseñadores escribiendo éticas de tecnología y diseño me suenan a ejercicio de curillas. Son libros en cierta medida redentores. Un «venga, ánimo, chicos, que no somos tan malos, que podemos hacerlo bien», quizá necesario, pero que tiene muy poco que ver con la ética, tienen que ver con el consuelo –un consuelo injusto, porque el tecnólogo y el diseñador están en un espacio de poder, y no sólo político–.</p>
+
+
+
+<p>4.1.- Pero no me chocan por eso, me chocan por algo más denso. El diseño es un ejercicio de creación. Y los discursos redentores lo son precisamente porque todo ejercicio de creación es fallido. Y voy con un ejemplo más grande. No nay creador más grande que dios, que en su teoría lo ha hecho todo. Bien, aceptémosla por un segundo y como experimento mental. ¿Si lo ha hecho todo porque nos tiene que mandar un redentor (que siempre nos impone una moral, por cierto)? Porque la creación es imperfecta tenemos que ajustarnos a ese patrón moral para salvarnos. Hay salvación condicionada, y sólo condicionada. La salvación es un condicional fuerte, si y sólo si. Pero para quienes no tenemos muchas ganas de salvarnos, porque tampoco pensemos que haya que salvarnos de nada, es decir, para quienes no pertenecemos al marco, esa salvación coercitiva en realidad no manifiesta otra cosa que la imperfección ontológica de lo creado y, por ende, del creador. El tecnólogo o el diseñador metido en la piel del ético ocupa para mí ese espacio. En vez de mirar el problema primero, el problema fundamental del diseño, intenta excusarlo con una ética. Como las religiones, que para salvar la creación condenan a media humanidad (de ahí el magnífico problema de las teodiceas, que como ejercicio son preciosos, pero insalvables), el tecnólogo/diseñador-ético, para salvar la disciplina condena la honestidad intelectual.</p>
+
+
+
+<p>4.2.- Hay que desconfiar siempre de los tratados éticos escritos a favor del <em>P&amp;L</em> de quien los escribe. Ya sea de curas contando qué buena es la catequesis para la moral o de tecnólogos y diseñadores contando qué buenas son las prácticas para la consecución del objetivo que le pide el cliente.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<p>5.- Si la moral tuviera una base biológica que dependiera de la morfología cerebral, como sí sucede con la cognición (de entrada sólo percibimos aquellos estímulos que nuestro aparato cognitivo percibe como fenómenos, que no son más que una muestra ínfima del total de posibles estímulos que produce el mundo), entonces, decía, podríamos disponer de algo así como una moralidad aumentada. Y no me refiero a contar con una BBDD de casos resueltos o no, no con programas para desarrollar la lógica inherente a un árbol de decisiones, por ejemplo, sino a ampliar las fuentes de nuestros sentimientos morales más allá de nuestras fisiologías-cuerpos. Poder, por ejemplo, participar de los sentimientos morales de otro. Un dispositivo que te lo enganchas a la oreja, algo así como un audífono,&nbsp; que te ofreciera la visión moral de una tercera persona en una determinada situación. Algo así como aquel imperativo de objetividad –ante toda decisión moral siempre debemos tener en cuenta la perspectiva objetiva, exterior a nosotros, que dictaminaba Moore–, pero generado por un dispositivo.</p>
+
+
+
+<p>Lo que me lleva a pensar que ese dispositivo ya existe, es la plaza del pueblo. Donde una comunidad vivía sus mores compartidos.</p>
+
+
+
+<p>No hacía falta tecnología, sino convivencia.</p>
+
+
+
+<p>Pero quizá esta última sea una salida facilona. ¿Acaso la plaza pública no es una forma de tecnología? Más allá de que sea tecnología o no, que es una disquisición que ahora no es necesaria, lo que sí es es el lugar que propicia la convivencia. Llegados a este punto aparece la pregunta: ¿podríamos crear otros dispositivos que ampliaran el registro-sentimiento moral, ya fuera mediante la ampliación de la convivencia, su simulación o representación, o cualquier otro modo de abrirnos, de sacarnos de nuestro punto de vista moral subjetivo?</p>
+
+
+
+<p>¿Lo aceptaríamos?</p>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<p>6.- El aluvión de noticias que anuncian capacidades tecnológicas milagrosas dejan poco espacio para la scifi especulativa más allá de la política. Y es tan abrumador que casi la única lectura posible es la distopía.</p>
+
+
+
+<p>Y la distopía, la falta de relatos de cielos abiertos y cierta esperanza, nos está matando. Y no, no hablo de esos relatos prefabricados por la industria de producción del todo, como el diseño de futuros, Hollywood o los casos de éxito de las consultoras estratégicas –que en el fondo son tres formas de lo mismo– sino de las posibilidades de leernos a nosotros mismos de formas alternativas, aperturistas, esplendorosas.</p>
+
+
+
+<p>Un aluvión que nos llega en el peor momento –todas las crisis siempre llegan en el peor momento–, cuando además parece que a base de relatarlo todo hemos agotado el diccionario y no hacemos sino balbucear.</p>
+
+
+
+<p>Quizá, y aquí lo uno con tecnología y diseño, tiene que ver con la pérdida de peso ilocutivo del lenguaje frente a la capacidad realizativa del diseño y la tecnología. Me explico, un poco. Se suponía desde Austin que había enunciados que tenían un impacto directo en la realidad, que eran como los mandatos de un dios: se cumplían. «¡Que inaugurado este pantano!» significaba que efectivamente ese pantano había sido inaugurado –obviamente la referencia franquista es aposta, el fascismo es extremadamente ilocutivo–. Ese efecto era lo perlocutivo del acto ilocutivo. Lo perlocutivo es lo que sucedía en el mundo cuando se emitía un enunciado ilocutivo. Bien, pues el diseño y la tecnología pueden entenderse como actos perlocutivos que no necesitan actos ilocutivos. Y si la economía rige los usos del lenguaje, esa no-necesidad de enunciados es un ahorro magnífico que parecería hacer el acto lingüístico superfluo.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<p>7.- Una prueba, o quizá un mero delator, del revolcón causal provocado por la tecnología y aupado por el diseño –donde los efectos son las causas– es que el proceso de denominación de un nuevo artilugio, artefacto, disciplina o herramienta muchas veces viene derivado de un efecto. El GUI se llama así por lo que produce: la interacción con objetos es más inmediata que la línea de comandos. Chromecast se llama así por lo que produce: emitir en la pantalla de la tele lo reproducido en Chrome. UX se acronomiza así por lo que produce: una vivencia en el usuario. Los ejemplos son muchísimos, y es una tendencia que viene de lejos: el teléfono o el lavavajillas ya llevaba impreso ese modo de atribución –atribución que quizá también responda al entorno doméstico donde se despliegan esos objetos; al menos al principio, puesto que ahora son sobre todo de uso profesional (aunque esta diferencia ya casi carece de sentido)–. En este sentido el diseño es una excepción, casi nada de lo que mencionamos es nombrado por el efecto que produce. La relación entre el nombre y la cosa nombrada rara vez era identificable. Incluso tirando de etimologías, aunque retrocedamos al latín o al griego, hay un momento en el que esa relación nombre-cosa nombrada aparece como aleatoria. Indescifrable. No así en el diseño. Es aquel remitir de Heidegger en <em>Ser y tiempo</em> propio de toda herramienta tecnológica.</p>
+
+
+
+<p>7.1.- En cierta medida el efecto es el sentido (el efecto que debería ser contingente pasa así a universal).</p>
+
+
+
+<p>7.2.- Ese universal impide la resignación de lo diseñado, acción política propuesta muchas veces como forma de reapropiación. Ejemplos de esas propuestas hay muchos.&nbsp;</p>
+
+
+
+<p>7.3.- Sin embargo, cualquier reapropiación es imposible cuando no hay distancia ninguna en la relación entre significante y significado y cuando este, además, se ha convertido en universal, siempre el mismo.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<p>8.- La inteligencia responde a la vida y no al contrario. Lo mismo debería suceder con la IA, si no queremos que se vuelva contra la vida. Ahora bien, para eso la IA debería estar viva. Y eso es poco probable que de –y no sólo porque estamos más lejos todavía de emular la vida que de emular la inteligencia–.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<p>9.- El impacto de la cuarentena en la interintimidad. Hoy pensaba que si la cuarentena tiene alguna virtud es que nos permite centrarnos en cuidar a quienes están cerca, a quienes estamos más cercanos. De quienes en <em>Dejad que las máquinas vengan a mí</em> definí como el otro-yo, aquellos que están a este lado del palo del selfie. La excepcionalidad de la situación nos ha hecho conscientes de la importancia de los cuidados de esos otro-yo. Pero esa cercanía con el otro-yo, sobre la que se construye esa interintimidad que se expresa en selfie común –el self compartido como expresión visual del otro-yo–, no es la cercanía física de la distancia. El confinamiento de cada uno se amplía en el alejamiento y distribución de esos otro-yo. Es la presencia ausente que nos permiten las tecnologías, que por algo todas se denominan con el prefijo tele: telé-fono, tele-visión, tele-conferencia… Tecnologías que nos permiten ser sin estar. Es la presencia ausente. Y hoy, confinados, estamos más presentes-ausentes que nunca. Cuando llamamos por videoconferencia grupal a nuestros cuatro seres más queridos. Cuando nos ponemos de acuerdo en un grupo de Telegram que vamos a prestar especial atención a alguien que no está en el grupo porque está en una situación delicada, ya sea laboral o de salud o de lo que sea. Esa intimidad extendida que es la interintimidad con el otro-yo quizá también pueda ser llamada la tele-intimidad. La intimidad del compartir desde la presencia ausente.</p>
+
+
+
+<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-la-tecnologa"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="y4jIoRWHYc"><a href="/2020/05/23/una-antropologia-del-futur/">Una antropologia del futur</a></blockquote>
+<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;Una antropologia del futur&#8221; &#8212; La Tecnòloga" src="/2020/05/23/una-antropologia-del-futur/embed/#?secret=y4jIoRWHYc" data-secret="y4jIoRWHYc" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<p>10.- El diseño –y la tecnología con él– parten de una premisa equivocada: que uno sólo puede habitar un mundo. Es decir, que la vivencia está limitada al mundo en&nbsp; que se da esa vivencia. Lo que bien puede ser cierto dicho de cada vivencia. Pero no lo es cuando las vivencias se entienden como un continuo no determinista. No hay –o no hay razón para que lo haya más allá de la imposición de un mundo producido por el diseño– para pensar que mi siguiente vivencia sea dependiente del mundo en el que se da esta. No hay un historicismo de la vivencia. El confinamiento es una prueba de ello. ¿Quién nos hubiera dicho que íbamos a pasarnos 6 semanas en casa? ¿Y quién hubiera dicho que nos iba a parecer mal? Sin embargo esa relación unívoca mundo-vivencia que fundamenta el diseño –como proceso de producción de ese mundo y su vivencia dado su carácter fenoménico– empieza a resquebrajarse.</p>
+
+
+
+<p>10.1.- Es tarea del diseño, si quiere sobrevivir a la pandemia, en la que se ha demostrado como superfluo, dado que el mundo que proponía ha devenido inhabitable, en explotar esas nuevas grietas en sí mismo para permitir la aparición de nuevas realidades. De nuevos mundos. Romper esa ecuación es el nuevo imperativo del diseño.</p>
+
+
+
+<p>10.2.- El diseño, últimamente centrado en los fundamentos de ese mundo previo, se ha empecinado en bucear en los P&amp;L de sus clientes (los casos de éxito siempre se explican como éxitos de negocio), va a morir arrastrado por esos mismos P&amp;L que ya están muriendo. El diseño tiene que aprender que su futuro no está ahí sino en otros lugares. En la vida. Me explico. Como otras industrias culturales, el diseño tiene que buscar su inspiración en el resto de fenómenos culturales que lo acompañan. Así como la música pop siempre se renueva gracias a los experimentos musicales de minorías racializadas o los videojuegos a la reinterpretación de clásicos de la literatura, el diseño tiene encontrar otras fuentes ajenas a él pero que lo enriquezcan. Tiene que salir de los despachos y los indesigns de turno y salir a la calle. Tiene que bajar al barrio si es que quiere sobrevivir. Hay, por ejemplo, más futuro del diseño en el bombing grafitero que en los estudios de diseño estratégico, que ya huelen a formol.</p>
+
+
+
+<p>10.3.- Y lo mismo es aplicable a tecnologías creadoras de mundos como la IA, la VR o los videojuegos.</p>
+
+
+
+<p>10.4.- Pero una de las razones en la diferencia de cuerpo es que la tarea del diseñador y del ideo-CEO es la creación del mundo, pero no su mantenimiento (dios, como aclaración, es lo que es porque es capaz de crear el mundo/universo, sí, pero también de mantenerlo. En el modelo producción industrial de la realidad, que incluiría esas dos tareas: creación y mantenimiento, ambas tareas aparecen como desligadas). El mantenimiento de eso creado aún sigue estando estrechamente ligado al cuerpo –de ahí que los procesos de automatización y robotización estén centrados fundamentalmente en los sectores de producción industrial de lo que ya hay: cadenas de montaje, ERPs, etc.</p>
+
+
+
+<p>10.5.-Reflexión que me lleva a otra, relacionada con la ausencia presente del cuerpo –en este caso el cerebro– en las IAs. ¿La tarea de la IA es la creación o el mantenimiento de lo que hay? De momento yo diría que es el del mantenimiento, entre otras cosas por la <a href="https://t.me/filosofiaydiseno/725" target="_blank" rel="noreferrer noopener">no permisibilidad de falibilidad de la que hablaba</a>. Pero, y este es una tesis que creo interesante, porque es fácil preveer que si la IA interviniera en la creación nosotros, como humanos, no entenderíamos muchas veces ese acto como un acto creador y lo entenderíamos, sin embargo, como un acto aleatorio, resultado del azar (o de la locura de la máquina, que es otra forma de azar).</p>
+
+
+
+<p>Así, por ejemplo, sucedió con el famoso movimiento 37 de la segunda partida de AlphaGo, que todos los expertos interpretaron como aleatorio, por inexplicable, pero que como se dio dentro de un mundo ya creado (ahí la IA no hacía otra cosa sino que mantener el mundo que es el juego de Go), termino por relevarse como inteligente y, por tanto, inteligible.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<p>11.- En relación a la disyuntiva instrumentalismo vs sustancialismo de lo tecnológico (y al diseño) nacida a partir de lo que se llamó el <em>empirical turn</em> de los 70s –cuando la filosofía de la tecnología empezó a aceptar de una forma menos crítica la tecnología, aceptando que estaba aquí para quedarse–, quizá convendría recordar a Platón y su Fedro, donde rechazaba la escritura alegando que acabaría con la memoria. Pero el ataque no era un ataque oral, es un ataque escrito. Escribía para atacar a la escritura. Una vez que Platón decidió empezar a escribir ya nunca pudo dejar de hacerlo –porque lo no tecnológico, precisamente porque deja una huella deleble, se pierde en y para la memoria: por eso no sabemos qué dijo en su Academia–. Y nosotros con él. Por eso, al continuar escribiendo definía un modo de humano, un humano cuya memoria quizá no se viera reemplazada por la escritura, pero sí se vería aumentada. Un humano cuya memoria quedaría para siempre mediada por la escritura. Que hoy aún leamos a Platón lo demuestra.</p>
+
+
+
+<p>Las interpretaciones instrumentalista vs sustancialista se han leído hasta ahora como contrapuestas, como dos formas de entender lo tecnológico (y el diseño), contradictorios, pero en realidad conforman un mismo discurso, una dialéctica, que a base de negarse amplían el ámbito de lo definido por ese discurso, que es el todo.&nbsp; Esa es la dialéctica que subyace en la dialéctica de la filosofía de la tecnología, que en cada nuevo pensar se cimienta el tecnograma à la Latour y Borgmann como continuación interesada de sus cadenas cosmológicas (que es como denomina Latour a los tres modos de estar en el mundo que Borgmann denominaría Naturaleza, Cultura y Tecnología):</p>
+
+
+
+<p class="has-text-align-center">Cosmograma -&gt; Cultugrama -&gt; Tecnograma</p>
+
+
+
+<p>sobre el que se construye un mundo tecnologizado al que ya no puede renunciar, en un proceso semejante al sistema que se expande a base de negarse recursivamente, eso que Hofstadter llamó gödelización. Por eso cuando se supera un estadío, una forma de estar en el mundo, cuando, por ejemplo, se supera el cosmograma para adentrarse en el culturgrama, el cosmograma puede vislumbrarse, pero no se puede volver a ocupar. Queda como recuerdo, pero como los recuerdos es inasible. Y en ese todo estamos nosotros. El tecnograma aparece cada vez más como más afianzado y el culturgrama se nos asoma tenue y cada vez mas desvalido. Del cosmogama no tenemos ya ni noticias. Ese todo que transformamos no puede serlo sin nuestra propia transformación.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<p>12.- Una de los atributos que distinguen a la inteligencia es que no contamos con su infalibilidad. De hecho, todo lo contrario, entendemos lo inteligente como algo que puede o bien fallar o bien producir soluciones (es cierto que definir el producto de la inteligencia como «soluciones» ya denota un sesgo que cercena lo posible inteligente, pero para que nos entendamos), soluciones, decía, inesperadas. Y ninguna de las dos resultantes descalifican eso como inteligente. ¿Ejemplo de resultas inteligentes fallidas? Pondré uno que tiene que ver con el diseño. Las plazas duras de Madrid. Esas plazas que se diseñaron no para la convivencia, que es para lo que se diseñaron, pero que suele ser estática, convivir requiere tiempo, sino que se diseñaron para el tránsito. Así son plazas sin bancos, árboles o sombras. Es más, no son plazas, son explanadas. Solares. Tierra baldía. «Tierra baldía», como el poema de Eliot (para quien no lo conozca, está aquí:</p>
+
+
+
+<p><a href="https://www.poetryfoundation.org/poems/47311/the-waste-land">https://www.poetryfoundation.org/poems/47311/the-waste-land</a></p>
+
+
+
+<p>Más parecidas a patios de cárcel, otro espacio «abierto» en el que no se convive sino que se deambula, que a una plaza de pueblo. Una solución arquitectónica inteligente cuando lo que pretendes es transformar las ciudades en espacios Centros Comerciales abiertos, como el proyecto de Gallardón para el centro de Madrid. Una solución perfecta, además, para la explotación comercial de esas explanadas: en todas cabe un kiosko de Nokia, una terraza de cafetería o un <em>stand</em> de Movistar.</p>
+
+
+
+<p>Pero la solución dejó de ser inteligente el 15M. De pronto aquella solución de plaza dura resultó tremendamente fácil de ocupar. Lo que estaba diseñado para el tránsito resultó perfecto para la inmovilización. Y de ahí el doble impacto de esa ocupación, porque no sólo redefinía el espacio sino también su uso. Pero ese sub-uso, digamos, no quiere decir que la propuesta de diseño no fuera inteligente para el modelo de ciudad que se pretendía. Es sólo que la ciudad en algún momento no lo entendió así.</p>
+
+
+
+<p>Eso como ejemplo de resulta inteligente fallida; porque ejemplos de resultas inteligentes que generan respuestas alternativas hay muchos y son fáciles de encontrar.</p>
+
+
+
+<p>Sin embargo, con la IA esperamos infalibilidad. Si falla ya no es inteligencia. Y si genera soluciones divergentes (más allá de la divergencia pautada dentro de lo ontologico-posible de esa IA) tampoco. Lo que abre dos problemas, uno epistemológico a la hora de definir qué es IA; otro ético, a la hora de definir cómo nos relacionamos con las IA.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<p>13.- No paramos de culpar a la IA de sesgos que no son sino nuestros. De miopías ontológicas que no son sino nuestras. De decisiones perniciosas que no son sino las que llevamos 2.500 años tomando. De hecho la IA está a punto de convertirse en el chivo expiatorio moral para las decisiones que no queremos tomar. Cumpliendo así el papel de chivo expiatorio positivo. Se come la culpa para redimirnos. Incluso esta denuncia sucumbe ante ese argumento: al denunciar el desplazamiento de la culpa no hace otra cosa que afianzar ese desplazamiento. Nuestra relación con la IA es tremendamente cristiana.</p>
+
+
+
+<hr class="wp-block-separator is-style-wide">
+
+
+
+<p>14.- «Dejad de hacer» quizá sea el único mantra ético válido hoy para el diseño y la tecnología. Quizá el único trabajo moralmente justificado de diseñadores y tecnólogos sea dejar de hacer y, sobre todo, convencer a sus clientes para que no hagan.</p>
+
+
+
+<p>Me cuesta mucho encontrar un argumento contra esta propuesta mínimamente bien fundamentado. Se admiten contribuciones.</p>
+
+
+
+<p>Ejemplo, no perfecto, pero ejemplo:</p>
+
+
+
+<p><a href="https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/">https://techcrunch.com/2020/06/08/ibm-ends-all-facial-recognition-work-as-ceo-calls-out-bias-and-inequality/</a> </p>
+
+
+
+<p>Otro ejemplo de «Dejad de hacer», pero esta vez desde un sitio problemático: Amazon. Sin embargo, es sintomático que las compañías de tecnología se auto-regulen –en lo que no es sino una expresión de su miedo a las regulaciones gubernamentales que vendrán– mientras los diseñadores siguen empujando a hacer:</p>
+
+
+
+<p><a href="https://venturebeat.com/2020/06/10/amazon-imposes-one-year-moratorium-on-police-use-of-its-facial-recognition-technology/amp/?__twitter_impression=true">https://venturebeat.com/2020/06/10/amazon-imposes-one-year-moratorium-on-police-use-of-its-facial-recognition-technology</a></p>
+
+
+
+<p>En los años 70 Putnam (el lógico matemático-filósofo) propuso algo así como un axioma ético, el punto mínimo moral desde el que decidir actuar. Decía <em>«Always stick to the loser»</em>, estáte siempre con el perdedor. Y aunque no siempre es fácil saber quién es el perdedor–en <em>Dejad que las máquinas vengan a mí</em> cuento el caso de una persona cuyas profundas creencias católicas hacían que confundiera el perdedor en el caso de una chica violada fecundada– el axioma aún sigue resonando en mi cabeza. Primero porque tiene eso de analítico formal de base kantiana, que no obliga a algo concreto sino que es <em>context-irrelevant</em>. Aspira así a una cierta universalidad que lo hace estrictamente atractivo. Segundo, y derivado de eso analítico, porque aunque no propone soluciones, ese «stick» no es actuar, tampoco es una forma de inacción, que siempre es una forma de apoyo al agresor. Nada es tan poco equidistante como la equidistancia , que diría Benjamin de los alemanes «neutrales» ante el ascenso nazi.</p>
+
+
+
+<p>Hoy ese «Dejad de hacer» retoma esas virtudes del axioma putmaniano y hace de la inacción acción. Y lo hace mediante una inacción no equidistante. Lo hace con la conciencia clara de los peligros políticos del objeto de diseño y tecnológico. No hacer es un reforzar lo bueno que aún nos queda y, al mismo tiempo, estarnos con los perdedores de eso tecnosocial que estamos producido diseñadores y tecnólogos, nosotros. Todos. Todos nosotros.</p>
+
+
+
+<p>Además, y por si fuera poco, ataca ese dogma neoliberal que no hace reforzar privilegios del aprendizaje a través del error –recordemos que sólo los ricos pueden permitirse fallar porque cuentan con una red de soporte tejida con la plusvalía expropiada a sus trabajadores (si esto ha sonado marxista no os extrañe, lo es); los pobres no pueden probar, porque no tiene la oportunidad de volverse a levantar: ¿cómo se van a levantar una segunda vez si no pueden levantarse una primera?–, una tesis, la del error como catapulta hacia el éxito final, derivada de esa otra propuesta moral de ricos, el pragmatismo à la Dewey, que es extremadamente dañina porque determina que todo hacer redunda en el poder establecido. Y ahora que el poder establecido está desbocado dotado de un hacer cuasi-milagroso, el hacer tiene que parar. Ya no podemos permitirnos eslóganes –todos deweyanos, por cierto– tipo «aprender haciendo» o «relatar mediante actos» (storydoing) porque todo hacer nos convierte en perdedores. A base de tanto hacer hemos perdido el sentido, y el hacer sin sentido es prerrogativa del tirano, como decía el nazi de Schmitt.</p>
+
+
+
+<p>14.1- ¿Por qué «Dejad de hacer»?</p>
+
+
+
+<p>A comienzos del siglo pasado la filosofía se partió por la mitad, y no me refiero a la segregación analítica vs continental, que en el fondo hablaban de lo mismo pero en distintos términos, el lenguaje y lo que puede ser enunciado con propiedad, sino al hecho de que la interpretación del mundo se abría en dos: o lenguaje o acción. Y mientras ambas corrientes optaron por el lenguaje el mundo, cada vez más producido por la industria, optó por la acción.</p>
+
+
+
+<p>Y la acción, gracias a la incorporación de los avances lingüísticos de la analítica, terminó por devorar al lenguaje. La programación ha hecho saltar por los aires todo lo pensado sobre el lenguaje porque lo ha convertido en performativo. Todo lenguaje de programación es performativo. Por télico.</p>
+
+
+
+<p>Llevamos 120 años pensando lo que no es. Lo que no tocaba.</p>
+
+
+
+<p>Por eso hoy toca «Dejar de hacer» y empezar a pensar eso que hacemos.</p>
+	</div>
+<!-- .entry-content -->
+
+	<footer class="entry-footer">
+			</footer><!-- .entry-footer -->
+	
+</article><!-- #post-## -->
+
+		</main><!-- #main -->
+	</div>
+<!-- #primary -->
+
+
+
+<aside id="secondary" class="sidebar widget-area">
+	
+		<section id="custom_html-9" class="widget_text widget widget_custom_html"><h3 class="widget-title"><span>ESCAPE WEB</span></h3>
+<div class="textwidget custom-html-widget">
+<p><strong>
+	Heu fet mai en un Escape Room sense moure-us de casa?
+</strong></p>
+<p>
+	Un atac informàtic està amenaçant el web d'<a href="https://estrambotic.cat/">Estrambotic.cat</a>. Intenta frenar-lo i descobreix allò que pot canviar el curs de la història. T'hi atreveixes?
+</p>
+<a href="https://estrambotic.cat/malware" target="_blank" rel="noopener">
+	<img src="/wp-content/uploads/2020/05/Estrambotic4.png">
+</a>
+</div></section><section id="custom-twitter-feeds-widget-5" class="widget widget_custom-twitter-feeds-widget"><h3 class="widget-title"><span>Piulades</span></h3>
+<!-- Custom Twitter Feeds by Smash Balloon --><div id="ctf" class="ctf ctf-type-usertimeline  ctf-styles" style="width: 100%;" data-ctfshortcode="{}" data-ctfintents="1" data-postid="1518" data-feed-id="ctf__latecnologa2" data-ctfneeded="-1">
+<div class="ctf-header"><a href="https://twitter.com/latecnologa" target="_blank" rel="noopener noreferrer" title="@latecnologa" class="ctf-header-link"><div class="ctf-header-text">
+<p class="ctf-header-user" style=""><span class="ctf-header-name">La Tecnòloga</span><span class="ctf-header-follow"><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" aria-label="twitter logo" data-fa-processed="" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg>Follow</span></p>
+<p class="ctf-header-bio" style="">La revista tecnològica digital en català.
+✉️ redaccio@tecnologa.cat</p>
+</div>
+<div class="ctf-header-img">
+<div class="ctf-header-img-hover"><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" aria-label="twitter logo" data-fa-processed="" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></div>
+<img src="https://pbs.twimg.com/profile_images/1190724885221462017/rW-2taCt_normal.png" alt="La Tecnòloga" width="48" height="48">
+</div></a></div>
+<div class="ctf-tweets">
+<div class="ctf-item ctf-author-latecnologa ctf-new ctf-retweet" id="1450350284966875136">
+<div class="ctf-context">
+<a href="https://twitter.com/intent/user?screen_name=latecnologa" target="_blank" rel="noopener noreferrer" class="ctf-retweet-icon"><svg class="svg-inline--fa fa-w-16" viewbox="0 0 24 24" aria-hidden="true" aria-label="retweet" role="img"><path fill="currentColor" d="M23.77 15.67c-.292-.293-.767-.293-1.06 0l-2.22 2.22V7.65c0-2.068-1.683-3.75-3.75-3.75h-5.85c-.414 0-.75.336-.75.75s.336.75.75.75h5.85c1.24 0 2.25 1.01 2.25 2.25v10.24l-2.22-2.22c-.293-.293-.768-.293-1.06 0s-.294.768 0 1.06l3.5 3.5c.145.147.337.22.53.22s.383-.072.53-.22l3.5-3.5c.294-.292.294-.767 0-1.06zm-10.66 3.28H7.26c-1.24 0-2.25-1.01-2.25-2.25V6.46l2.22 2.22c.148.147.34.22.532.22s.384-.073.53-.22c.293-.293.293-.768 0-1.06l-3.5-3.5c-.293-.294-.768-.294-1.06 0l-3.5 3.5c-.294.292-.294.767 0 1.06s.767.293 1.06 0l2.22-2.22V16.7c0 2.068 1.683 3.75 3.75 3.75h5.85c.414 0 .75-.336.75-.75s-.337-.75-.75-.75z"></path></svg><span class="ctf-screenreader">Retweet on Twitter</span></a><a href="https://twitter.com/latecnologa" target="_blank" rel="noopener noreferrer" class="ctf-retweet-text">La Tecnòloga ha retuitat</a>
+</div>
+<div class="ctf-author-box">
+<div class="ctf-author-box-link">
+<a href="https://twitter.com/enricb" class="ctf-author-avatar" target="_blank" rel="noopener noreferrer"><img src="https://pbs.twimg.com/profile_images/1404142403657867265/E48nMBzN_normal.jpg" alt="enricb" width="48" height="48"></a><a href="https://twitter.com/enricb" target="_blank" rel="noopener noreferrer" class="ctf-author-name">Enric Borràs Abelló</a><span class="ctf-verified"><svg class="svg-inline--fa fa-check-circle fa-w-16" aria-hidden="true" aria-label="verified" data-fa-processed="" data-prefix="fa" data-icon="check-circle" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><path fill="currentColor" d="M504 256c0 136.967-111.033 248-248 248S8 392.967 8 256 119.033 8 256 8s248 111.033 248 248zM227.314 387.314l184-184c6.248-6.248 6.248-16.379 0-22.627l-22.627-22.627c-6.248-6.249-16.379-6.249-22.628 0L216 308.118l-70.059-70.059c-6.248-6.248-16.379-6.248-22.628 0l-22.627 22.627c-6.248 6.248-6.248 16.379 0 22.627l104 104c6.249 6.249 16.379 6.249 22.628.001z"></path></svg></span><a href="https://twitter.com/enricb" class="ctf-author-screenname" target="_blank" rel="noopener noreferrer">@enricb</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/enricb/status/1450126962966634512" class="ctf-tweet-date" target="_blank" rel="noopener noreferrer">18 oct.</a></div>
+</div>
+<div class="ctf-corner-logo"><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" aria-label="twitter logo" data-fa-processed="" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></div>
+</div>
+<div class="ctf-tweet-content"><p class="ctf-tweet-text" style="">Busco empreses, entitats i institucions que hagin estat víctimes d'atacs de ransomware i vulguin explicar-nos la seva experiència, per fer un reportatge a l'ARA. Em podeu contactar per DM i a eborras@ara.cat. <br>
+Gràcies per ajudar-nos a explicar un problema cada vegada més greu!</p></div>
+<div class="ctf-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1450126962966634512&related=enricb" class="ctf-reply" target="_blank" rel="noopener noreferrer"><svg class="svg-inline--fa fa-w-16" viewbox="0 0 24 24" aria-label="reply" role="img" xmlns="http://www.w3.org/2000/svg"><g><path fill="currentColor" d="M14.046 2.242l-4.148-.01h-.002c-4.374 0-7.8 3.427-7.8 7.802 0 4.098 3.186 7.206 7.465 7.37v3.828c0 .108.044.286.12.403.142.225.384.347.632.347.138 0 .277-.038.402-.118.264-.168 6.473-4.14 8.088-5.506 1.902-1.61 3.04-3.97 3.043-6.312v-.017c-.006-4.367-3.43-7.787-7.8-7.788zm3.787 12.972c-1.134.96-4.862 3.405-6.772 4.643V16.67c0-.414-.335-.75-.75-.75h-.396c-3.66 0-6.318-2.476-6.318-5.886 0-3.534 2.768-6.302 6.3-6.302l4.147.01h.002c3.532 0 6.3 2.766 6.302 6.296-.003 1.91-.942 3.844-2.514 5.176z"></path></g></svg><span class="ctf-screenreader">Reply on Twitter 1450126962966634512</span></a><a href="https://twitter.com/intent/retweet?tweet_id=1450126962966634512&related=enricb" class="ctf-retweet" target="_blank" rel="noopener noreferrer"><svg class="svg-inline--fa fa-w-16" viewbox="0 0 24 24" aria-hidden="true" aria-label="retweet" role="img"><path fill="currentColor" d="M23.77 15.67c-.292-.293-.767-.293-1.06 0l-2.22 2.22V7.65c0-2.068-1.683-3.75-3.75-3.75h-5.85c-.414 0-.75.336-.75.75s.336.75.75.75h5.85c1.24 0 2.25 1.01 2.25 2.25v10.24l-2.22-2.22c-.293-.293-.768-.293-1.06 0s-.294.768 0 1.06l3.5 3.5c.145.147.337.22.53.22s.383-.072.53-.22l3.5-3.5c.294-.292.294-.767 0-1.06zm-10.66 3.28H7.26c-1.24 0-2.25-1.01-2.25-2.25V6.46l2.22 2.22c.148.147.34.22.532.22s.384-.073.53-.22c.293-.293.293-.768 0-1.06l-3.5-3.5c-.293-.294-.768-.294-1.06 0l-3.5 3.5c-.294.292-.294.767 0 1.06s.767.293 1.06 0l2.22-2.22V16.7c0 2.068 1.683 3.75 3.75 3.75h5.85c.414 0 .75-.336.75-.75s-.337-.75-.75-.75z"></path></svg><span class="ctf-screenreader">Retweet on Twitter 1450126962966634512</span><span class="ctf-action-count ctf-retweet-count">48</span></a><a href="https://twitter.com/intent/like?tweet_id=1450126962966634512&related=enricb" class="ctf-like" target="_blank" rel="noopener noreferrer"><svg class="svg-inline--fa fa-w-16" viewbox="0 0 24 24" aria-hidden="true" aria-label="like" role="img" xmlns="http://www.w3.org/2000/svg"><g><path fill="currentColor" d="M12 21.638h-.014C9.403 21.59 1.95 14.856 1.95 8.478c0-3.064 2.525-5.754 5.403-5.754 2.29 0 3.83 1.58 4.646 2.73.814-1.148 2.354-2.73 4.645-2.73 2.88 0 5.404 2.69 5.404 5.755 0 6.376-7.454 13.11-10.037 13.157H12zM7.354 4.225c-2.08 0-3.903 1.988-3.903 4.255 0 5.74 7.034 11.596 8.55 11.658 1.518-.062 8.55-5.917 8.55-11.658 0-2.267-1.823-4.255-3.903-4.255-2.528 0-3.94 2.936-3.952 2.965-.23.562-1.156.562-1.387 0-.014-.03-1.425-2.965-3.954-2.965z"></path></g></svg><span class="ctf-screenreader">Like on Twitter 1450126962966634512</span><span class="ctf-action-count ctf-favorite-count">35</span></a><a href="https://twitter.com/enricb/status/1450126962966634512" class="ctf-twitterlink" target="_blank" rel="noopener noreferrer">Obre&#039;l a Twitter <span class="ctf-screenreader">1450126962966634512</span></a>
+</div>
+</div>
+<div class="ctf-item ctf-author-latecnologa ctf-new ctf-retweet" id="1440284062426361861">
+<div class="ctf-context">
+<a href="https://twitter.com/intent/user?screen_name=latecnologa" target="_blank" rel="noopener noreferrer" class="ctf-retweet-icon"><svg class="svg-inline--fa fa-w-16" viewbox="0 0 24 24" aria-hidden="true" aria-label="retweet" role="img"><path fill="currentColor" d="M23.77 15.67c-.292-.293-.767-.293-1.06 0l-2.22 2.22V7.65c0-2.068-1.683-3.75-3.75-3.75h-5.85c-.414 0-.75.336-.75.75s.336.75.75.75h5.85c1.24 0 2.25 1.01 2.25 2.25v10.24l-2.22-2.22c-.293-.293-.768-.293-1.06 0s-.294.768 0 1.06l3.5 3.5c.145.147.337.22.53.22s.383-.072.53-.22l3.5-3.5c.294-.292.294-.767 0-1.06zm-10.66 3.28H7.26c-1.24 0-2.25-1.01-2.25-2.25V6.46l2.22 2.22c.148.147.34.22.532.22s.384-.073.53-.22c.293-.293.293-.768 0-1.06l-3.5-3.5c-.293-.294-.768-.294-1.06 0l-3.5 3.5c-.294.292-.294.767 0 1.06s.767.293 1.06 0l2.22-2.22V16.7c0 2.068 1.683 3.75 3.75 3.75h5.85c.414 0 .75-.336.75-.75s-.337-.75-.75-.75z"></path></svg><span class="ctf-screenreader">Retweet on Twitter</span></a><a href="https://twitter.com/latecnologa" target="_blank" rel="noopener noreferrer" class="ctf-retweet-text">La Tecnòloga ha retuitat</a>
+</div>
+<div class="ctf-author-box">
+<div class="ctf-author-box-link">
+<a href="https://twitter.com/NLPComuniCat" class="ctf-author-avatar" target="_blank" rel="noopener noreferrer"><img src="https://pbs.twimg.com/profile_images/1438499979362852869/ypOjbBD1_normal.jpg" alt="NLPComuniCat" width="48" height="48"></a><a href="https://twitter.com/NLPComuniCat" target="_blank" rel="noopener noreferrer" class="ctf-author-name">NLP ComuniCat</a><a href="https://twitter.com/NLPComuniCat" class="ctf-author-screenname" target="_blank" rel="noopener noreferrer">@NLPComuniCat</a><span class="ctf-screename-sep">&middot;</span><div class="ctf-tweet-meta"><a href="https://twitter.com/NLPComuniCat/status/1440277681925328897" class="ctf-tweet-date" target="_blank" rel="noopener noreferrer">21 set.</a></div>
+</div>
+<div class="ctf-corner-logo"><svg class="svg-inline--fa fa-twitter fa-w-16" aria-hidden="true" aria-label="twitter logo" data-fa-processed="" data-prefix="fab" data-icon="twitter" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"></path></svg></div>
+</div>
+<div class="ctf-tweet-content">
+<p class="ctf-tweet-text" style="">Hem nascut! Som una comunitat sobre el desenvolupament de les tecnologies del llenguatge en català: NLP ComuniCat! T'hi apuntes? #NLP #catalanAI #nlpcomunicat </p>
+<a href="https://twitter.com/NLPComuniCat/status/1440277681925328897" target="_blank" rel="noopener noreferrer" class="ctf-tweet-text-media-wrap"><svg aria-hidden="true" aria-label="video in tweet" focusable="false" data-prefix="far" data-icon="file-video" role="img" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 384 512" class="svg-inline--fa fa-file-video fa-w-12 fa-9x ctf-tweet-text-media"><path fill="currentColor" d="M369.941 97.941l-83.882-83.882A48 48 0 0 0 252.118 0H48C21.49 0 0 21.49 0 48v416c0 26.51 21.49 48 48 48h288c26.51 0 48-21.49 48-48V131.882a48 48 0 0 0-14.059-33.941zM332.118 128H256V51.882L332.118 128zM48 464V48h160v104c0 13.255 10.745 24 24 24h104v288H48zm228.687-211.303L224 305.374V268c0-11.046-8.954-20-20-20H100c-11.046 0-20 8.954-20 20v104c0 11.046 8.954 20 20 20h104c11.046 0 20-8.954 20-20v-37.374l52.687 52.674C286.704 397.318 304 390.28 304 375.986V264.011c0-14.311-17.309-21.319-27.313-11.314z" class=""></path></svg></a>
+</div>
+<div class="ctf-tweet-actions">
+<a href="https://twitter.com/intent/tweet?in_reply_to=1440277681925328897&related=NLPComuniCat" class="ctf-reply" target="_blank" rel="noopener noreferrer"><svg class="svg-inline--fa fa-w-16" viewbox="0 0 24 24" aria-label="reply" role="img" xmlns="http://www.w3.org/2000/svg"><g><path fill="currentColor" d="M14.046 2.242l-4.148-.01h-.002c-4.374 0-7.8 3.427-7.8 7.802 0 4.098 3.186 7.206 7.465 7.37v3.828c0 .108.044.286.12.403.142.225.384.347.632.347.138 0 .277-.038.402-.118.264-.168 6.473-4.14 8.088-5.506 1.902-1.61 3.04-3.97 3.043-6.312v-.017c-.006-4.367-3.43-7.787-7.8-7.788zm3.787 12.972c-1.134.96-4.862 3.405-6.772 4.643V16.67c0-.414-.335-.75-.75-.75h-.396c-3.66 0-6.318-2.476-6.318-5.886 0-3.534 2.768-6.302 6.3-6.302l4.147.01h.002c3.532 0 6.3 2.766 6.302 6.296-.003 1.91-.942 3.844-2.514 5.176z"></path></g></svg><span class="ctf-screenreader">Reply on Twitter 1440277681925328897</span></a><a href="https://twitter.com/intent/retweet?tweet_id=1440277681925328897&related=NLPComuniCat" class="ctf-retweet" target="_blank" rel="noopener noreferrer"><svg class="svg-inline--fa fa-w-16" viewbox="0 0 24 24" aria-hidden="true" aria-label="retweet" role="img"><path fill="currentColor" d="M23.77 15.67c-.292-.293-.767-.293-1.06 0l-2.22 2.22V7.65c0-2.068-1.683-3.75-3.75-3.75h-5.85c-.414 0-.75.336-.75.75s.336.75.75.75h5.85c1.24 0 2.25 1.01 2.25 2.25v10.24l-2.22-2.22c-.293-.293-.768-.293-1.06 0s-.294.768 0 1.06l3.5 3.5c.145.147.337.22.53.22s.383-.072.53-.22l3.5-3.5c.294-.292.294-.767 0-1.06zm-10.66 3.28H7.26c-1.24 0-2.25-1.01-2.25-2.25V6.46l2.22 2.22c.148.147.34.22.532.22s.384-.073.53-.22c.293-.293.293-.768 0-1.06l-3.5-3.5c-.293-.294-.768-.294-1.06 0l-3.5 3.5c-.294.292-.294.767 0 1.06s.767.293 1.06 0l2.22-2.22V16.7c0 2.068 1.683 3.75 3.75 3.75h5.85c.414 0 .75-.336.75-.75s-.337-.75-.75-.75z"></path></svg><span class="ctf-screenreader">Retweet on Twitter 1440277681925328897</span><span class="ctf-action-count ctf-retweet-count">51</span></a><a href="https://twitter.com/intent/like?tweet_id=1440277681925328897&related=NLPComuniCat" class="ctf-like" target="_blank" rel="noopener noreferrer"><svg class="svg-inline--fa fa-w-16" viewbox="0 0 24 24" aria-hidden="true" aria-label="like" role="img" xmlns="http://www.w3.org/2000/svg"><g><path fill="currentColor" d="M12 21.638h-.014C9.403 21.59 1.95 14.856 1.95 8.478c0-3.064 2.525-5.754 5.403-5.754 2.29 0 3.83 1.58 4.646 2.73.814-1.148 2.354-2.73 4.645-2.73 2.88 0 5.404 2.69 5.404 5.755 0 6.376-7.454 13.11-10.037 13.157H12zM7.354 4.225c-2.08 0-3.903 1.988-3.903 4.255 0 5.74 7.034 11.596 8.55 11.658 1.518-.062 8.55-5.917 8.55-11.658 0-2.267-1.823-4.255-3.903-4.255-2.528 0-3.94 2.936-3.952 2.965-.23.562-1.156.562-1.387 0-.014-.03-1.425-2.965-3.954-2.965z"></path></g></svg><span class="ctf-screenreader">Like on Twitter 1440277681925328897</span><span class="ctf-action-count ctf-favorite-count">60</span></a><a href="https://twitter.com/NLPComuniCat/status/1440277681925328897" class="ctf-twitterlink" target="_blank" rel="noopener noreferrer">Obre&#039;l a Twitter <span class="ctf-screenreader">1440277681925328897</span></a>
+</div>
+</div>
+</div>
+<a href="javascript:void(0);" id="ctf-more" class="ctf-more"><span>Carrega&#039;n més</span></a>
+</div></section>
+	</aside><!-- #secondary -->
+			</div>
+<!-- .inside -->
+		</div>
+<!-- .container -->
+	</div>
+<!-- #content -->
+
+	<footer id="colophon" class="site-footer">
+
+					<aside class="widget-area">
+				<div class="container">
+					<div class="row">
+						<div class="col-4 col-md-4" id="footer-area-1">
+							<aside id="text-5" class="widget widget_text"><h3 class="widget-title"><span>La Tecnòloga</span></h3>			<div class="textwidget">
+<p><span class="r-18u37iz">La Tecnòloga</span><span class="css-901oao css-16my406 r-1qd0xha r-ad9z0x r-bcqeeo r-qvutc0"> escriu el present mirant l&#8217;endemà. Es capbussa en la vida que batega a la xarxa. Desxifra un món en constant transformació, mentre les lleis, l’ètica i el debat públic no li segueixen el ritme. Informa i, alhora, planteja preguntes fonamentals: cap a on anem? I, sobretot, cap a on volem anar?</span></p>
+</div>
+		</aside>						</div>
+						<div class="col-4 col-md-4" id="footer-area-2">
+							<aside id="nav_menu-10" class="widget widget_nav_menu"><h3 class="widget-title"><span>Seccions</span></h3>
+<div class="menu-seccions-container"><ul id="menu-seccions" class="menu">
+<li id="menu-item-1147" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1147"><a href="/category/noticies/">Notícies</a></li>
+<li id="menu-item-1148" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1148"><a href="/category/a-fons/">A fons</a></li>
+<li id="menu-item-1149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1149"><a href="/category/analisis/">Anàlisis</a></li>
+<li id="menu-item-1150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1150"><a href="/category/dialegs/">Diàlegs</a></li>
+</ul></div></aside>						</div>
+						<div class="col-4 col-md-4" id="footer-area-3">
+							<aside id="designlab_social-5" class="widget widget_designlab_social"><h3 class="widget-title"><span>Segueix-nos</span></h3>
+<ul class="designlab-social-links">
+<li><a href="https://twitter.com/latecnologa" class="twitter-link" target="_blank"><span class="social-icon socicon-twitter"></span></a></li>
+<li><a href="https://instagram.com/latecnologa" class="instagram-link" target="_blank"><span class="social-icon socicon-instagram"></span></a></li>
+</ul></aside>						</div>
+					</div>
+				</div>
+<!-- .container -->
+			</aside><!-- .widget-area -->
+		
+		
+		<div class="footer-copy">
+			<div class="container">
+				<div class="row">
+					<div class="col-6 col-sm-12">
+						<div class="site-credits">
+							© 2020 La Tecnòloga - La revista tecnològica digital en català - <a href="/apuntes-etica-de-la-tecnologia-luis-montero/avis-legal">Avís Legal</a>						</div>
+						
+	<nav class="social-links">
+		<ul id="menu-social-menu-1" class="social-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="http://twitter.com/latecnologa"><span class="screen-reader-text">Twitter</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-567"><a href="https://www.instagram.com/latecnologa/"><span class="screen-reader-text">Instagram</span></a></li>
+</ul>	</nav>
+					</div>
+					<div class="col-6 col-sm-12">
+											</div>
+				</div>
+			</div>
+<!-- .container -->
+		</div>
+<!-- .footer-copy -->
+
+	</footer><!-- #colophon -->
+
+			<a href="#masthead" id="scroll-up"><i class="material-icons md-20 md-middle">&#xE5CE;</i></a>
+	
+</div>
+<!-- #page -->
+
+		<!-- Quantcast Tag -->
+		<script type="text/javascript">
+			var _qevents = _qevents || [];
+
+			(function() {
+				var elem = document.createElement('script');
+				elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+				elem.async = true;
+				elem.type = "text/javascript";
+				var scpt = document.getElementsByTagName('script')[0];
+				scpt.parentNode.insertBefore(elem, scpt);
+			})();
+
+			_qevents.push({
+				qacct:"p-AsX2SX7n-BykJ",
+				source:"wp"
+			});
+		</script>
+
+		<noscript>
+		<div style="display:none;">
+			<img src="//pixel.quantserve.com/pixel/p-AsX2SX7n-BykJ.gif" border="0" height="1" width="1" alt="Quantcast">
+		</div>
+		</noscript>
+		<!-- End Quantcast tag -->
+		<script type="text/javascript" src="/wp-content/themes/type-plus/js/main.js?ver=20171204" id="type-script-js"></script>
+<script type="text/javascript" src="/wp-content/themes/type-plus/inc/slick/slick.min.js?ver=1.6.0" id="type-slider-js-js"></script>
+<script type="text/javascript" src="/wp-includes/js/wp-embed.min.js?ver=5.8.2" id="wp-embed-js"></script>
+<script type="text/javascript" id="ctf_scripts-js-extra">
+/* <![CDATA[ */
+var ctf = {"ajax_url":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="/wp-content/plugins/custom-twitter-feeds/js/ctf-scripts.min.js?ver=1.8.4" id="ctf_scripts-js"></script>
+<script src="https://stats.wp.com/e-202147.js" defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:10.3',blog:'177489427',post:'1518',tz:'1',srv:'tecnologa.cat'} ]);
+	_stq.push([ 'clickTrackerInit', '177489427', '1518' ]);
+</script>
+
+</body>
+</html>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>TIC &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/tic/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:04 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>TIC &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Què és la mineria de dades?</title>
+		<link>/2020/09/28/que-es-la-mineria-de-dades/</link>
+		
+		<dc:creator><![CDATA[Termcat]]></dc:creator>
+		<pubDate>Mon, 28 Sep 2020 08:40:12 +0000</pubDate>
+				<category><![CDATA[Tecnologia en català]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Català]]></category>
+		<category><![CDATA[Cercaterm]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Data Mining]]></category>
+		<category><![CDATA[Mineria de Dades]]></category>
+		<category><![CDATA[Mineria Web]]></category>
+		<category><![CDATA[Termcat]]></category>
+		<category><![CDATA[TIC]]></category>
+		<category><![CDATA[Web Mining]]></category>
+		<guid isPermaLink="false">/?p=1615</guid>
+
+					<description><![CDATA[Totes les organitzacions disposen de grans bases de dades on s’emmagatzemen dades massives (big data, en anglès) sobre l’activitat pròpia i sobre aspectes que hi&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>Totes les organitzacions disposen de grans bases de dades on s’emmagatzemen <a rel="noreferrer noopener" href="https://tic.termcat.cat/ca/cercaterm/fitxa/MzU0NTMwNw%3D%3D" target="_blank">dades massives</a> (<em>big data</em>, en anglès) sobre l’activitat pròpia i sobre aspectes que hi poden tenir impacte, i el gran repte és organitzar-les amb efectivitat, per a identificar nous productes, oportunitats de negoci, racionalitzar recursos o conèixer millor l&#8217;usuari.</p>
+
+
+
+<p>La tècnica clau en aquesta organització és la <a rel="noreferrer noopener" href="https://tic.termcat.cat/ca/cercaterm/fitxa/MjA3ODM4" target="_blank">mineria de dades</a> (<em>data mining</em>, en anglès), que consisteix a analitzar un gran volum d&#8217;informació emmagatzemada en diferents bases de dades, de manera automàtica o semiautomàtica, a fi de deduir patrons de coneixement i algoritmes que puguin generar aplicacions pràctiques i treure’n rendiment. Aquests patrons es poden trobar utilitzant estadístiques o algoritmes de cerca propers a la intel·ligència artificial i a les xarxes neuronals.  </p>
+
+
+
+<p>La mineria de dades va néixer amb la intenció d’ajudar a comprendre una enorme quantitat de dades, i que se n’extraguessin conclusions per contribuir a la millora i el creixement de les empreses, sobretot pel que fa a les vendes i la fidelització de clients. Fora de l’àmbit empresarial, en les institucions també té un gran camp per recórrer, ja que aquesta tècnica s’ha incorporat en governs, universitats, hospitals i altres organitzacions que volen treure el màxim rendiment de les dades que acumulen, i fer que reverteixin de manera positiva en l’activitat.</p>
+
+
+
+<p>Un altre concepte relacionat és la <a rel="noreferrer noopener" href="https://tic.termcat.cat/ca/cercaterm/fitxa/MzM0NzY0MA%3D%3D" target="_blank">mineria web</a> (<em>web mining</em>, en anglès): és la tècnica informàtica de mineria de dades aplicada específicament a extreure informació del contingut de pàgines web, de la seva estructura de relacions i enllaços i dels registres de navegació dels usuaris.</p>
+
+
+
+<p>Podeu consultar al <a href="https://www.termcat.cat/ca/cercaterm" target="_blank" rel="noreferrer noopener">Cercaterm</a>, el cercador terminològic del TERMCAT, les fitxes d’aquests termes catalans, i també trobareu al <a href="https://tic.termcat.cat/ca" target="_blank" rel="noreferrer noopener">canal Terminologia de les TIC</a> altres recursos d’aquest àmbit.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1615</post-id>	</item>
+	</channel>
+</rss>

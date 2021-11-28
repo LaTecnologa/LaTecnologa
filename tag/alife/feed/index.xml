@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Alife &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/alife/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Alife &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Dol virtual en temps de quarantena</title>
+		<link>/2020/04/04/dol-virtual-en-temps-de-quarantena/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 04 Apr 2020 10:17:49 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Alife]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Bel Ferrer]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[dol virtual]]></category>
+		<category><![CDATA[Jordi Martínez]]></category>
+		<category><![CDATA[Nara Jeevan]]></category>
+		<category><![CDATA[Psicologia]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Societat]]></category>
+		<guid isPermaLink="false">/?p=930</guid>
+
+					<description><![CDATA[Es disparen els usuaris de l’aplicació Alife, que permet vetllar online els difunts &#8220;Per ara, és com si la mare no hagués mort&#8221;, escriu el&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Es disparen els usuaris de l’aplicació <em>Alife</em>, que permet vetllar online els difunts</h2>
+
+
+
+<p>&#8220;Per ara, és com si la mare no hagués mort&#8221;, escriu el filòsof Albert Camús a <em>L&#8217;Estrany</em>, quan li arriba per telegrama la notícia. L&#8217;inici d&#8217;aquesta obra ens evoca als qui, en aquests temps anòmals, perden familiars i amics des de la distància. Aquest divendres s&#8217;han extingit 173 vides a Catalunya, i 12 a les Balears. I molt probablement ho han fet sense el consol del contacte físic. Potser sí virtual. En època de quarentena per la Covid-19, són sovint els professionals sanitaris qui fan costat als malalts terminals i intenten una comunicació telemàtica amb la família. Les xarxes són el mirall d&#8217;aquesta situació insòlita i angoixant. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr">Ahir vaig haver d’aguantar el telèfon a la orella d’un pacient mentre la filla es despedia del seu pare. Dur, molt dur. I està passant. Quedeu-vos a casa siusplau. <a href="https://twitter.com/hashtag/Covid_19?src=hash&amp;ref_src=twsrc%5Etfw">#Covid_19</a></p>&mdash; Violeta Torrent Pinart (@violetatorrent) <a href="https://twitter.com/violetatorrent/status/1241300859612475393?ref_src=twsrc%5Etfw">March 21, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr">Darrera de cada xifra hi ha un nom i una família destrossada. Avui li ha tocat a la meva. El nostre nom és el de Marina. Tothom l’estimava i no era la seva hora. El virus se l’ha emportat en sis dies. Gràcies a la gent de <a href="https://twitter.com/Mutua_Terrassa?ref_src=twsrc%5Etfw">@Mutua_Terrassa</a> per cuidar-la i per acostar-li el telèfon.</p>&mdash; Xavi Coral (@xavicoral) <a href="https://twitter.com/xavicoral/status/1244698345932808197?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>L&#8217;Hospital de Son Espases, a Palma, ha aconseguit tauletes per posar en contacte els pacients per coronavirus i les famílies. El Grup d&#8217;Educadors de Carrer i Treball amb Menors (GREC) hi col·labora &#8220;<a rel="noreferrer noopener" href="https://www.facebook.com/558552354191268/photos/rpp.558552354191268/2935280143185132/?type=3&amp;theater" target="_blank">perquè les persones majors, gent sense recursos ni connexió a Internet</a> o inexperts tecnològics també puguin beneficiar-se del servei&#8221;, amb paraules de l&#8217;educador de l&#8217;entitat Iñaki Vega. A l&#8217;Hospital de Sant Pau, a Barcelona, els infermers també han muntat un <a rel="noreferrer noopener" href="https://www.ccma.cat/324/els-hospitals-estableixen-protocols-per-poder-acomiadar-se-dels-malalts-mes-greus/noticia/2999699/" target="_blank">sistema per fer arribar missatges a una pantalla</a> que poden veure els malalts, i la Societat Catalana de Tecnologia ha <a rel="noreferrer noopener" href="https://www.iec.cat/activitats/noticiasencera.asp?id_noticies=2758" target="_blank">impulsat la donació de dispositius electrònics per connectar famílies i pacients</a> en l&#8217;últim tram de la vida. </p>
+
+
+
+<p>Però amb el distanciament social també s&#8217;han prohibit vetlles i funerals per a tothom (i no només pels afectats del coronavirus). Per això, <a rel="noreferrer noopener" href="https://alife.social/es/" target="_blank">l&#8217;aplicació <em>Alife</em></a>, que permet crear el perfil d&#8217;una persona que ha mort i, d&#8217;aquesta manera, homenatjar-la i facilitar el dol dels qui l&#8217;han estimat, ha multiplicat per nou la seva activitat des del 15 de març, segons Jordi Martínez, el CEO d&#8217;<em>Alife</em>, que compta de mitjana un miler de nous usuaris cada tres dies. </p>
+
+
+
+<p>&#8220;Mai oblidaré cada cop que obries la porta i em deies que havia crescut molt des de l&#8217;última vegada que ens vam veure. T&#8217;estimo i no t&#8217;oblidaré!&#8221;, escriu una usuària d&#8217;<em>Alife</em> per rememorar algú que ja no hi és. Aquest missatge es llegeix a la <a rel="noreferrer noopener" href="https://alife.social/es/" target="_blank">pàgina d&#8217;inici del web de l&#8217;aplicació</a>, però no tot el contingut que s&#8217;hi introdueix és públic. &#8220;Hi ha diversos nivells de privacitat. En un lloc s&#8217;hi comparteix la informació de la cerimònia funerària i, en un altre, que pot ser més reduït, recrea un espai més íntim i respecta al màxim la privacitat&#8221;, explica Martínez. D&#8217;aquesta manera, l&#8217;app permet compartir fotografies, vídeos, escrits, cites i anècdotes amb el cercle social del difunt, i permet fer-ho &#8220;amb un clic, en qualsevol moment, amb el mòbil i des de casa&#8221;, afegeix el director. </p>
+
+
+
+<p>Fins fa unes setmanes, l&#8217;aplicació es comercialitzava a través de les funeràries. Però davant de l&#8217;estat d&#8217;alarma, <em>Alife</em> ha obert la seva aplicació i actualment qualsevol la pot fer servir sense intermediaris. Per a fer-ho, només cal escriure un correu a info@alife.social perquè les famílies puguin recrear un espai virtual de vetlla i dol compartit en cas que els tanatoris no l&#8217;hagin proporcionat. A més, l&#8217;app és totalment gratuïta per als usuaris i l&#8217;únic cost es troba en la creació del perfil del difunt.</p>
+
+
+
+<h3>Bel Ferrer, psicòloga: &#8220;L&#8217;afecte no entén de fronteres físiques&#8221;</h3>
+
+
+
+<p><em>La Tecnòloga</em> ha demanat l&#8217;opinió sobre la vetlla virtual a una psicòloga especialitzada en processos de dol, Bel Ferrer, que valora molt positivament les possibilitats que ofereix aquesta eina. &#8220;Tot allò que serveix per compartir, elaborar i gestionar el dol em sembla fantàstic&#8221;, afirma Ferrer, que recolza l&#8217;opció d&#8217;acomiadar els familiars per telèfon. &#8220;Per nosaltres és important el tacte i la vista, però en aquesta situació, allò més important és l&#8217;afecte, i l&#8217;afecte no entén de fronteres físiques&#8221;, assegura la psicòloga, que encapçala l&#8217;associació <a rel="noreferrer noopener" href="https://www.facebook.com/Nava-Jeevan-acompanyament-emocional-als-processos-de-malaltia-mort-i-dol-1339453789398104/" target="_blank">Nava Jeevan, dedicada a l&#8217;acompanyament emocional als processos de malaltia, mort i dol</a> (s&#8217;hi pot contactar escrivint al correu associacionavajeevan@gmail.com o telefonant al 695 250 240, i aquests dies ofereixen la seva assistència per videoconferència).</p>
+
+
+
+<p>Ferrer recomana decididament comunicar-se amb la persona que és a punt de morir: &#8220;Podem donar les gràcies per tot allò que ha fet, dir-li que l&#8217;estimam i donar significat a la seva vida, que senti que pot tancar el cercle vital&#8221;. Després de la mort, l&#8217;especialista aconsella donar-se permís per viure el dol: &#8220;És bo parlar amb naturalitat de la persona estimada que ha partit, plorar la seva absència, expressar les emocions i compartir-les&#8221;. Afegeix, a més, que &#8220;la ritualització de la pèrdua és important&#8221; independentment de les creences dels qui viuen l&#8217;òbit. I, d&#8217;alguna manera, ara tot això es pot fer <em>online</em>. En la mateixa línia, la Societat Funerària Catalana i el Col·legi Oficial de Psicologia de Catalunya han elaborat un <a rel="noreferrer noopener" href="https://www.copc.cat/adjuntos/adjunto_15309/v/Recomanacions%20per%20afrontar%20la%20mort%20d%E2%80%99una%20persona%20estimada%20durant%20el%20confinament%20per%20l%E2%80%99epid%C3%A8mia%20de%20COVID-19.pdf?tm=1585304549" target="_blank">manual per fer front a la mort d&#8217;una persona estimada durant el confinament</a>. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">930</post-id>	</item>
+	</channel>
+</rss>

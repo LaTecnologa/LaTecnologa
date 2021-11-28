@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Twitter &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/twitter/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Twitter &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Twitter fa una prova per fer canviar als usuaris les respostes ofensives</title>
+		<link>/2020/05/06/twitter-experiment-canviar-usuaris-respostes-ofensives/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 06 May 2020 17:35:29 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">/?p=1057</guid>
+
+					<description><![CDATA[La companyia està provant un nou sistema per calmar els ànims abans que algú hi obri foc]]></description>
+										<content:encoded><![CDATA[
+<p>&#8220;Quan les coses s&#8217;escalfen, potser dius coses que no volies dir&#8221;, ha piulat Twitter aquest dimarts. I continua: &#8220;Estem posant en marxa un experiment a iOS amb un sistema que et dona l&#8217;opció de revisar la teva resposta abans que sigui publicada en cas d&#8217;utilitzar un llenguatge que pot ser ofensiu&#8221;. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">When things get heated, you may say things you don&#39;t mean. To let you rethink a reply, we’re running a limited experiment on iOS with a prompt that gives you the option to revise your reply before it’s published if it uses language that could be harmful.</p>&mdash; Twitter Support (@TwitterSupport) <a href="https://twitter.com/TwitterSupport/status/1257717113705414658?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Davant les habituals batalles verbals que es despleguen a Twitter, la plataforma vol oferir una segona oportunitat als tuitaires més agressius. Així, la companyia està provant un nou sistema per calmar els ànims abans que algú hi obri foc: quan els algorismes detecten una resposta amb llenguatge &#8220;ofensiu&#8221;, hi apareix una finestra amb una suggerència per canviar el text abans de ser publicat. Una mesura que ha sembrat la desconfiança a diversos usuaris de Twitter: &#8220;La llibertat d&#8217;expressió existeix perquè la gent pugui dir coses que no t&#8217;agraden. Al final és una companyia la que decideix què és apropiat i què no, que no és cap poder moral superior&#8221;, diu un usuari.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Freedom of speech is there to protect the speech you hate, always consider it that way. Also ultimately its a company thats deciding whats appropriate and whats not, not some higher moral power. Keep that in mind</p>&mdash; Professer_finesser (@Akwardgaming) <a href="https://twitter.com/Akwardgaming/status/1257820677836603395?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>L&#8217;any passat, Instagram va fer una prova similar. &#8220;Els resultats han estat positius. Veiem que aquests tocs d&#8217;atenció poden animar la gent a reconsiderar les seves paraules&#8221;, <a rel="noreferrer noopener" href="https://about.instagram.com/blog/announcements/our-progress-on-leading-the-fight-against-online-bullying" target="_blank">va escriure al desembre la companyia al seu blog</a>. D&#8217;aquesta manera, avui, quan els algorismes d&#8217;aquesta xarxa social detecten que un usuari és a punt de publicar un comentari potencialment lesiu, se li apareix un avís com el de la imatge, i l&#8217;informa de que frases similars ja han estat denunciades abans.  </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2048" height="1387" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n.png?fit=1024%2C694&amp;ssl=1" alt="" class="wp-image-1059" srcset="/wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n.png 2048w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-300x203.png 300w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-1024x694.png 1024w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-768x520.png 768w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-1536x1040.png 1536w" sizes="(max-width: 2048px) 100vw, 2048px" /><figcaption>Instagram.</figcaption></figure>
+
+
+
+<p>Cal tenir en compte que, amb Twitter, ja són totes les grans xarxes socials les que han mostrat la seva confiança en la Intel·ligència Artificial a l&#8217;hora de moderar continguts. I això és especialment cert quan la pandèmia ha fet retallar temporalment molts llocs de feina, <a rel="noreferrer noopener" href="https://techcrunch.com/2020/05/05/twitter-harmful-replies-prompt-harassment-test-feature/" target="_blank">segons Tech Crunch</a>. Tot i així, és evident que es tracta d&#8217;una mesura que ha vingut per quedar-se. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1057</post-id>	</item>
+	</channel>
+</rss>

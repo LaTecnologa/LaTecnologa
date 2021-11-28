@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Pensament Crític &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/pensament-critic/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:40:52 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Pensament Crític &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Decàleg per enxampar notícies falses</title>
+		<link>/2019/10/14/enxampa-les-fake-news/</link>
+					<comments>/2019/10/14/enxampa-les-fake-news/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Mon, 14 Oct 2019 15:02:57 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Critical Thinking]]></category>
+		<category><![CDATA[Fake News]]></category>
+		<category><![CDATA[Notícies Falses]]></category>
+		<category><![CDATA[Pensament Crític]]></category>
+		<guid isPermaLink="false">/?p=48</guid>
+
+					<description><![CDATA[Espanya té el dubtós honor de ser el país d&#8217;Europa on més proliferen les &#8216;fake news&#8217; Si no fos per les notícies falses, potser Donald&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h3>Espanya té el dubtós honor de ser el país d&#8217;Europa on més proliferen les &#8216;fake news&#8217;</h3>
+
+
+
+<p>Si no fos per les notícies falses, potser Donald Trump no seria president i Gran Bretanya no estaria a un pas d&#8217;abandonar la Unió Europea. Així ho mostra <a rel="noreferrer noopener" aria-label="el documental The Great Hack (s'obre en una nova pestanya)" href="https://www.netflix.com/title/80117542" target="_blank">el documental The Great Hack</a>, que explica el paper de l&#8217;empresa Cambridge Analytica al tauler polític: va accedir a les dades de milions d&#8217;usuaris de Facebook i les va utilitzar per crear continguts a mida, sovint falsos, amb la intenció de manipular els votants. D&#8217;aquesta manera, primer predien la personalitat i les inclinacions dels usuaris i, després, els enviaven missatges personalitzats, per exemple qualificant a Hillary Clinton de corrupta, encara que no fos veritat.</p>
+
+
+
+<p>I tot això passa a l&#8217;alba de la redacció intel·ligent, quan es multipliquen els sistemes de generació automàtica de text capaços de crear continguts d&#8217;allò més plausibles. <a rel="noreferrer noopener" href="https://www.dail.es/leorobot/" target="_blank">LeoRobot</a> és el primer del mercat que processa el llenguatge natural en castellà. I n&#8217;hi ha molts més, com <a rel="noreferrer noopener" href="https://textio.com/" target="_blank">Textio</a>, <a rel="noreferrer noopener" href="https://www4.ax-semantics.com/" target="_blank">AX Semantics</a> o<a rel="noreferrer noopener" href="https://talktotransformer.com/" target="_blank"> Talktotransformer, d&#8217;OpenAI</a>, que originalment va ser considerat massa perillós per ser utilitzat pel públic.  </p>
+
+
+
+<p>De moment, Espanya té el dubtós honor de ser el país d&#8217;Europa on més proliferen les notícies falses. <a rel="noreferrer noopener" aria-label="Segons un estudi (s'obre en una nova pestanya)" href="https://www.ipsos.com/sites/default/files/ct/news/documents/2018-09/fake-news-filter-bubbles-post-truth-and-trust.pdf" target="_blank">Segons un estudi</a>, el 57% d&#8217;espanyols admet haver-se cregut alguna vegada una informació falsa, cosa que ens situa a la cinquena posició del marcador mundial. <a rel="noreferrer noopener" aria-label="Un altre estudi  (s'obre en una nova pestanya)" href="https://www.gartner.com/en/newsroom/press-releases/2017-10-03-gartner-reveals-top-predictions-for-it-organizations-and-users-in-2018-and-beyond" target="_blank">Un altre estudi </a>sosté que, al 2022, la majoria consumirem més &#8216;fake news&#8217; que informacions certes. </p>
+
+
+
+<h5>El decàleg</h5>
+
+
+
+<p>No ens ho posen fàcil ni l&#8217;allau d&#8217;informació diària que ens arriba, ni la impossibilitat de contrastar totes les dades, ni la rapidesa amb què tot circula a les xarxes socials, per on discorre un flux continu de notícies d&#8217;aparença neutre. En un escenari que és brou de cultiu per a les decisions basades en mentides, mantenir una mirada crítica és essencial:</p>
+
+
+
+<ol><li>Llegeix la notícia sencera i no et quedis amb el titular. No et creguis cap notícia immediatament, ni la comparteixis tan bon punt l&#8217;has rebuda.</li><li>Dubta de les notícies amb faltes d&#8217;ortografia o que no estan firmades.</li><li>Desconfia de les notícies que et produeixin un gran impacte emocional.</li><li>Descobreix la font. Desenvolupa l&#8217;hàbit d&#8217;investigar d&#8217;on ha sortit la informació. Quan una notícia és certa, és més probable que citi fonts, inclogui enllaços i citi documents oficials.</li><li> Esbrina l&#8217;autoria. Busca el nom del mitjà o l&#8217;autor a Google per veure què més ha escrit aquesta persona. </li><li>Busca el titular a Google. Si la notícia és certa, és probable que altres mitjans també l&#8217;hagin publicat. Si no hi és, cerca les paraules clau o el titular seguit de la paraula &#8220;bola&#8221;, &#8220;bulo&#8221; o &#8220;hoax&#8221; (en català, en castellà o en anglès, respectivament). Si es tracta d&#8217;una bola coneguda, apareixerà immediatament a la cerca. </li><li>Busca les dades que cita.</li><li>Verifica el context, com la data de publicació. Descontextualitzar una informació també és desinformar. </li><li>Si t&#8217;han enviat la notícia, pregunta a qui te l&#8217;ha fet arribar d&#8217;on l&#8217;ha tret. </li><li>Has rebut una imatge que conta una història? <a rel="noreferrer noopener" aria-label="Fes una cerca inversa d'imatges (s'obre en una nova pestanya)" href="https://images.google.com/" target="_blank">Fes una cerca inversa d&#8217;imatges</a> i comprova si altres llocs l&#8217;han publicat. </li></ol>
+
+
+
+<p>Per altra banda, existeixen algunes eines per detectar continguts falsos. Per exemple, podem utilitzar <a rel="noreferrer noopener" aria-label="'Fets o Fakes', el propi servei de 'fact-checking' (verificació de fets) de Catalunya Ràdio (s'obre en una nova pestanya)" href="https://www.ccma.cat/catradio/catalunya-migdia/fetsofakes/fitxa/6393/" target="_blank">&#8216;Fets o Fakes&#8217;, que és el propi servei de &#8216;fact-checking&#8217; (verificació de fets) de Catalunya Ràdio</a>. Està format per un equip transversal de periodistes del departament d&#8217;Informatius que cerquen les fonts primàries de la informació i qualsevol hi pot contactar enviant una petició al correu fetsofakes@ccma.cat o escrivint un WhatsApp al 677070940. Per altra banda, també <a rel="noreferrer noopener" href="http://www.verificat.cat/" target="_blank">trobem Verificat, una altra plataforma de &#8216;fact-checkin&#8217;</a> catalana. Davant d&#8217;una sospita, els ciutadans poden contactar-hi per Whatsapp al 666382694. Aleshores, Verificat busca l&#8217;origen de la notícia, pregunta a la font original, consulta fonts alternatives i contextualitza la informació. I encara tenim més eines al nostre abast. També ens pot ser útil la pàgina de denúncia de notícies falses <a rel="noreferrer noopener" href="https://maldita.es/" target="_blank">Maldita.es</a>, que fins i tot ofereix una <a rel="noreferrer noopener" href="https://maldita.es/descarga-la-extension-de-maldito-bulo-para-google-chrome-y-firefox/" target="_blank">extensió per alertar l&#8217;usuari</a> quan navega per una pàgina poc fiable. A més, <a rel="noreferrer noopener" href="https://es.wikitribune.com/" target="_blank">Wikitribune</a> és un web de notícies on periodistes investiguen i informen sobre notícies i els voluntaris supervisen els articles. El <a rel="noreferrer noopener" aria-label="Fake News Detector (s'obre en una nova pestanya)" href="https://fakenewsdetector.org/en" target="_blank">Fake News Detector</a> permet detectar i marcar les notícies falses, els <a rel="noreferrer noopener" aria-label="pescaclics (s'obre en una nova pestanya)" href="https://ca.wikipedia.org/wiki/Pescaclics" target="_blank">pescaclics</a> o les notícies extremadament esbiaixades. I el <a rel="noreferrer noopener" aria-label="News Cracker (s'obre en una nova pestanya)" href="https://chrome.google.com/webstore/detail/newscracker/lmpfanpnpoaegbafkodbifallmfcncpb" target="_blank">News Cracker</a> és una tecnologia d&#8217;<a rel="noreferrer noopener" aria-label="aprenentatge automàtic (s'obre en una nova pestanya)" href="https://ca.wikipedia.org/wiki/Aprenentatge_autom%C3%A0tic" target="_blank">aprenentatge automàtic</a> que permet puntuar de l&#8217;1 al 10 la qualitat de qualsevol article, contingut o publicació, en funció de la seva veracitat. </p>
+
+
+
+<h5>Pensament crític</h5>
+
+
+
+<p>Un pensament crític també és clau per evitar que ens colin mentides o mitges veritats. Però, per començar, hem de tenir en compte els nostres propis biaixos, i hem d&#8217;entendre que podem estar equivocats. Per això, és recomanable consultar diferents mitjans i no sempre el mateix, per evitar estancar-nos en una bombolla informativa. Al cap i a la fi, el nostre punt de vista pot no ser objectiu, ni l&#8217;únic vàlid al món. També pot ser útil valorar si una notícia afavoreix determinats interessos, i si l&#8217;argumentació està ben fonamentada o, al contrari, si amaga algun <a rel="noreferrer noopener" aria-label="tipus de fal·làcia (s'obre en una nova pestanya)" href="http://www.xtec.cat/~lvallmaj/preso/fal-logi.htm" target="_blank">tipus de fal·làcia</a>. </p>
+
+
+
+<p>Som, en teoria, més lliures que mai i, no obstant, en la pràctica, som blancs d&#8217;intents constants de manipulació. &#8220;L’element principal del control social és l’estratègia de distracció, desviar l’atenció del públic de les qüestions determinants per les elits polítiques i econòmiques&#8221;, sostenia <a rel="noreferrer noopener" aria-label="Noam Chomsky, que sintetitzà en un decàleg (s'obre en una nova pestanya)" href="https://noam-chomsky.tumblr.com/post/13867896307/noam-chomsky-10-strategies-of-manipulation-by" target="_blank">Noam Chomsky, que sintetitzà en un decàleg</a> les estratègies més comunes dels mitjans de comunicació per modelar l&#8217;opinió pública. Velles tècniques que, malgrat tot, continuen fent-nos caure en l&#8217;engany.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/10/14/enxampa-les-fake-news/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">48</post-id>	</item>
+	</channel>
+</rss>

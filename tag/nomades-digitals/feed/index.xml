@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Nòmades digitals &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/nomades-digitals/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:31:27 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Nòmades digitals &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Mallorca, oficina d’estrangers que no fan turisme</title>
+		<link>/2019/11/16/mallorca-oficina-destrangers-que-no-fan-turisme/</link>
+					<comments>/2019/11/16/mallorca-oficina-destrangers-que-no-fan-turisme/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 16 Nov 2019 22:44:01 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Bed and Desk]]></category>
+		<category><![CDATA[Digital nomads]]></category>
+		<category><![CDATA[Nòmades digitals]]></category>
+		<guid isPermaLink="false">/?p=820</guid>
+
+					<description><![CDATA[Es multipliquen els nòmades digitals, treballadors amb portàtil i sense residència fixa que viuen als indrets més atractius del planeta Fred Joho viatja pel món&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Es multipliquen els nòmades digitals, treballadors amb portàtil i sense residència fixa que viuen als indrets més atractius del planeta</h2>
+
+
+
+<p>Fred Joho viatja pel món treballant com a usuari remot. Té passaport francès, però s’identifica com a nòmada digital. És autònom i supervisa una web d’apostes esportives des de qualsevol punt del planeta. “Les úniques coses essencials per a mi són la crema de cacauet i l’ordinador”, diu fent broma. Però també ho és la connexió a internet, que li permet escollir segons el clima: “M’he decantat sempre per la mar”, diu, i confessa que se sent molt atret per les Illes. Ha viscut a Jersey, l’illa banyada per la costa de Normandia. També ha passat dos mesos a Creta (Grècia), i mig any a Eivissa. Després, s’ha estat a l’Arenal un mes i mig, allotjat a Bed and Desk: el primer espai de les Balears i de tot Espanya que ofereix als nòmades digitals un lloc compartit de treball i residència. Amb Joho, a l’agost hi feien vida una desena de persones més que, com ell, evoquen la idea més romàntica del viatger. Més de la meitat conta que no té casa fixa i quasi tots van d’un país a l’altre amb un ordinador sota el braç. La seva idea bàsica, com repeteixen, és “treballar amb llibertat”.</p>
+
+
+
+<p class="has-text-align-center"><strong>Llegeix <a href="https://www.arabalears.cat/economia/Mallorca-oficina-estrangers-que-turisme_0_2345165627.html" target="_blank" rel="noreferrer noopener" aria-label="el reportatge complet a l'ARA Balears (opens in a new tab)">el reportatge complet a l&#8217;ARA Balears</a>.</strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/16/mallorca-oficina-destrangers-que-no-fan-turisme/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">820</post-id>	</item>
+	</channel>
+</rss>

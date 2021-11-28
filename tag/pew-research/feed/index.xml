@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Pew Research &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/pew-research/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:30:33 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Pew Research &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>La majoria de nord-americans se senten constantment vigilats</title>
+		<link>/2019/11/20/estats-units-vigilancia-ine-espanya/</link>
+					<comments>/2019/11/20/estats-units-vigilancia-ine-espanya/#respond</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 20 Nov 2019 11:08:48 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Cambridge Analytica]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[INE]]></category>
+		<category><![CDATA[Pew Research]]></category>
+		<category><![CDATA[Privacy]]></category>
+		<category><![CDATA[Privadesa]]></category>
+		<category><![CDATA[Simona Levi]]></category>
+		<category><![CDATA[Surveillance]]></category>
+		<category><![CDATA[Vigilància]]></category>
+		<guid isPermaLink="false">/?p=391</guid>
+
+					<description><![CDATA[L’estudi de mobilitat de l’Institut Nacional d’Estadística ha fet saltar l’alarma a l’Estat espanyol]]></description>
+										<content:encoded><![CDATA[
+<h2>L&#8217;estudi de mobilitat de l&#8217;Institut Nacional d&#8217;Estadística ha fet saltar l&#8217;alarma a l&#8217;Estat espanyol</h2>
+
+
+
+<p>Arrenca el tercer dia en què l&#8217;Institut Nacional d&#8217;Estadística (INE) pren nota de la localització dels mòbils de Vodafone, Movistar i Orange per estudiar els moviments habituals a les zones més concorregudes. L&#8217;INE diu que no obté dades personals dels mòbils i que no sap ni el número, ni el nom dels propietaris. Alguns científics, com Núria Oliver, que també és assessora de Vodafone i membre de la Comissió Europea sobre Compartició de Dades entre Govern i Empresa, han defensat la necessitat d&#8217;aquesta iniciativa. Oliver considera que la recopilació de dades <a rel="noreferrer noopener" aria-label="han defensat la necessitat d'aquesta iniciativa per &quot;generar valor&quot; (s'obre en una nova pestanya)" href="https://elpais.com/tecnologia/2019/11/18/actualidad/1574070599_681970.html?prod=REGCRART&amp;o=cerrado&amp;event=okregistro&amp;event_log=oklogin" target="_blank">&#8220;genera valor&#8221; i sosté que s&#8217;ha creat un &#8220;alarmisme innecessari&#8221;</a>. Però això no ha tranquil·litzat a molts ciutadans, ni els activistes de drets digitals, ni les associacions de consumidors, que denuncien que, en la pràctica, se sotmetrà la gent a una vigilància massiva.</p>
+
+
+
+<p>A l&#8217;altre costat de l&#8217;Atlàntic, la sensació de viure sota una vigilància permanent està avalada per les xifres d&#8217;<a rel="noreferrer noopener" href="https://www.pewresearch.org/internet/2019/11/15/americans-and-privacy-concerned-confused-and-feeling-lack-of-control-over-their-personal-information/" target="_blank">un estudi recent del Pew Research Center</a>, segons el qual més del 60% dels nord-americans creuen que no és possible viure al marge del seguiment de les empreses o el govern. D&#8217;acord amb la recerca, la majoria d&#8217;enquestats pensen que les seves activitats en línia i fora de línia són rastrejades i controlades amb certa regularitat. </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="324" height="446" src="/wp-content/uploads/2019/11/image-4.png" alt="" class="wp-image-417" srcset="/wp-content/uploads/2019/11/image-4.png 324w, /wp-content/uploads/2019/11/image-4-218x300.png 218w" sizes="(max-width: 324px) 100vw, 324px" /></figure>
+
+
+
+<p><strong>Sense control</strong></p>
+
+
+
+<p>Per altre costat, el 80% dels nord-americans considera que tenen poc o cap control sobre la gestió de la seva informació personal per part de les empreses. De fet, no només pensen, encertadament, que certes companyies recol·lecten les seves dades. No els agrada. Els productes i serveis basats en dades es comercialitzen sovint amb l&#8217;argument d&#8217;estalviar temps i diners als usuaris. Tot i així, gran part dels adults dels Estats Units no creuen que se&#8217;n beneficiaran: al voltant d&#8217;un 81% afirmen que els riscos superen els avantatges i un 66% diu el mateix sobre el govern. </p>
+
+
+
+<p>A més a més, el 79% dels participants en l&#8217;estudi pensen que les empreses no admetran errors ni es faran responsables d&#8217;un mal ús de la informació personal, mentre que el 69% afirma que té aquesta mateixa manca de confiança pel que fa al govern.</p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="436" height="463" src="/wp-content/uploads/2019/11/image-5.png" alt="" class="wp-image-418" srcset="/wp-content/uploads/2019/11/image-5.png 436w, /wp-content/uploads/2019/11/image-5-283x300.png 283w" sizes="(max-width: 436px) 100vw, 436px" /></figure>
+
+
+
+<p>La recerca de Pew Research també plasma el sentiment col·lectiu que la seguretat de les dades es veu més compromesa ara que en el passat.&nbsp;Quan es pregunta als enquestats si pensen que la seva informació personal és més o menys segura que fa cinc anys, el 70% dels adults es decanten per la segona opció, i només el 6% per la primera.</p>
+
+
+
+<p><strong>L&#8217;origen de la desconfiança</strong></p>
+
+
+
+<p>Als Estats Units, les alarmes van saltar amb l&#8217;escàndol de <a rel="noreferrer noopener" aria-label="Cambridge Analytica, que va accedir a les dades de milions d’usuaris de Facebook (s'obre en una nova pestanya)" href="https://www.netflix.com/es-en/title/80117542" target="_blank">Cambridge Analytica, que va accedir a les dades de milions d’usuaris de Facebook</a> i les va utilitzar per crear continguts a mida per manipular els votants. La setmana passada, <a rel="noreferrer noopener" href="https://www.ccma.cat/catradio/alacarta/popap/google-te-acces-a-les-dades-mediques-de-milions-de-nord-americans/audio/1054666/" target="_blank">Google va accedir a les dades mèdiques de milions de nord-americans</a>. Però aquí també passa. Les nostres aplicacions coneixen la nostra ubicació i no la mantenen en secret. Recullen dades sobre el pes, <a aria-label="els cicles menstruals i l'estat de l'embaràs i comparteixen informació sensible (s'obre en una nova pestanya)" rel="noreferrer noopener" href="https://www.eldiario.es/tecnologia/Hola-app-menstruacion-vendiendo_0_940706659.html" target="_blank">els cicles menstruals i l&#8217;estat de l&#8217;embaràs i comparteixen informació sensible</a> a empreses. La tecnologia del reconeixement facial ja ha entrat als <a aria-label="Google va accedir a les dades mèdiques de milions de nord-americans (s'obre en una nova pestanya)" href="/2019/10/07/reconeixement-facial/">aeroports de tot el món i a les escoles catalanes</a>. I aquests són només alguns exemples.  </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="419" height="403" src="/wp-content/uploads/2019/11/image-6.png" alt="" class="wp-image-420" srcset="/wp-content/uploads/2019/11/image-6.png 419w, /wp-content/uploads/2019/11/image-6-300x289.png 300w" sizes="(max-width: 419px) 100vw, 419px" /></figure>
+
+
+
+<p>Malgrat la desconfiança s&#8217;ha instal·lat al cor dels ciutadans, s&#8217;han fet alguns moviments per protegir la privacitat. La recopilació d&#8217;informació sanitària de Google <a rel="noreferrer noopener" aria-label="ha disparat una investigació federal (s'obre en una nova pestanya)" href="https://www.wsj.com/articles/behind-googles-project-nightingale-a-health-data-gold-mine-of-50-million-patients-11573571867" target="_blank">ha disparat una investigació federal</a>. El fiscal general de Califòrnia ha estat <a rel="noreferrer noopener" aria-label="investigant Facebook per infraccions de privacitat (s'obre en una nova pestanya)" href="https://www.cnbc.com/2019/11/06/california-ag-says-facebook-failed-to-comply-with-privacy-investigation.html" target="_blank">investigant Facebook per infraccions de privacitat</a>. </p>
+
+
+
+<p>Més a prop, activistes com Simona Levi, fundadora d&#8217;Xnet, treballen per <a rel="noreferrer noopener" aria-label="evitar que s'utilitzi a la gent com a conillets d'Índies (s'obre en una nova pestanya)" href="https://www.vilaweb.cat/noticies/moviments-rastrejats-opinio-simona-levi/" target="_blank">evitar que s&#8217;utilitzi a la gent &#8220;com a conillets d&#8217;Índies</a>&#8221; en allò que consideren experiments de vigilància massiva. La privadesa de les nostres dades és més que mai sobre la taula. Tot i així, és cert que el consumidor mitjà no pot actuar sobre la recollida d&#8217;informació personal i tot fa pensar que passarà un temps abans que això no canviï. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/11/20/estats-units-vigilancia-ine-espanya/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">391</post-id>	</item>
+	</channel>
+</rss>

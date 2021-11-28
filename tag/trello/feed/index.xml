@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Trello &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/trello/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Tue, 08 Sep 2020 11:30:21 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Trello &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>“A CoronaWhy s’obren per a les Dades Massives nous horitzons en la recerca mèdica”</title>
+		<link>/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/</link>
+					<comments>/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2020 20:05:16 +0000</pubDate>
+				<category><![CDATA[Diàlegs]]></category>
+		<category><![CDATA[Allen Institute for Artificial Intelligence]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Artur Kiulian]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[CoronaWhy]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Kaggle]]></category>
+		<category><![CDATA[Manuel Álvarez]]></category>
+		<category><![CDATA[Recerca]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[SARS]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Slack]]></category>
+		<category><![CDATA[Trello]]></category>
+		<category><![CDATA[Zoom]]></category>
+		<guid isPermaLink="false">/?p=902</guid>
+
+					<description><![CDATA[Manuel Álvarez és voluntari d&#8217;aquesta comunitat virtual que ja ha aconseguit reunir prop de 550 experts per lluitar contra la Covid-19 Aquests dies, la ciència&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Manuel Álvarez és voluntari d&#8217;aquesta comunitat virtual que ja ha aconseguit reunir prop de 550 experts per lluitar contra la Covid-19</h2>
+
+
+
+<p>Aquests dies, la ciència treballa a contrarellotge per frenar una pandèmia que ha colpejat els cinc continents. Però, amb el coronavirus, també es propaguen els estudis científics. L’objectiu és comú: accelerar el lent camí cap a una vacuna i frenar els contagis per evitar més morts. I els esforços no ens queden lluny. A tall d’exemple, per iniciativa d’una professora de la Universitat Politècnica de Catalunya (UPC), Montserrat Alsina, s&#8217;ha impulsat <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://fme.upc.edu/ca/noticies/nova-iniciativa-de-lambit-de-les-matematiques-per-contribuir-en-lanalisi-del-covid-19-crida-a-la-participacio" target="_blank">l’elaboració urgent de models matemàtics predictius</a> d’infeccions i ingressos hospitalaris, així com la proposta de millores logístiques en els serveis d&#8217;urgències. Mentrestant, <a rel="noreferrer noopener" aria-label="la comunitat virtual CoronaWhy (opens in a new tab)" href="https://www.coronawhy.org/" target="_blank">la comunitat virtual CoronaWhy</a>, creada fa menys de dues setmanes, ja ha aconseguit reunir prop de 550 voluntaris provinents de diferents branques del coneixement. Són més de mig miler de persones dedicades a pensar, coordinar i elaborar estratègies per ajudar la comunitat mèdica a respondre els interrogants vitals que planteja la malaltia. <em>La Tecnòloga</em> ha entrevistat un voluntari d’aquesta organització: el científic de dades Manuel Álvarez.</p>
+
+
+
+<p><strong>Primer de tot, què és CoronaWhy?</strong></p>
+
+
+
+<p>CoronaWhy és un esforç comunitari per fer digerible la col·lecció d’articles científics vinculats a la pandèmia més extensa que existeix, l’anomenat <a rel="noreferrer noopener" aria-label=" (opens in a new tab)" href="https://pages.semanticscholar.org/coronavirus-research" target="_blank">CORD-19 [Covid-19 Open Research Dataset]</a>, que ja reuneix més de 45.000 publicacions. L’expert en sistemes d’intel·ligència artificial Artur Kiulian va fer una crida a l’acció <a rel="noreferrer noopener" aria-label="utilitzant la plataforma Kaggle (opens in a new tab)" href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks" target="_blank">utilitzant la plataforma Kaggle</a>, on va començar a reunir-se gent amb ganes de fer alguna cosa, fa dues setmanes. I el projecte ha agafat una dimensió exponencial. A més, CoronaWhy va néixer en el si d’una competició. Inicialment, l’<em>Allen Institute for Artificial Intelligence</em> oferia 1.000 dòlars per al guanyador de cada tasca plantejada. Cal tenir en compte que normalment s’hi ofereixen més diners i aquest és, en realitat, un preu simbòlic. Així, aquest cop ha desaparegut l’incentiu del guany personal però, donada la urgència de la situació, hi ha hagut una col·laboració molt bèstia.&nbsp;</p>
+
+
+
+<p><strong>Com s’organitza un grup tan gran i multidisciplinar per treballar i, després, reunificar esforços?&nbsp;</strong></p>
+
+
+
+<p>Aquest problema encara s’està intentant resoldre. La comunitat es veu una mica superada pel seu propi creixement. Per això fem una separació cada cop més acotada de les diferents tasques. Per comunicar-nos internament utilitzem el servei de missatgeria Slack. Fem una videotrucada diària amb Zoom per coordinar-nos i fer una actualització dels diferents equips de treball. I amb <a href="https://trello.com/b/y4odX7yZ/covid-19-global-team" target="_blank" rel="noreferrer noopener" aria-label=" (opens in a new tab)">Trello gestionem les diferents tasques</a>, on el moviment és frenètic i cada grup de feina té el seu propi tauler.</p>
+
+
+
+<p><strong>Quin són els problemes que intenta resoldre CoronaWhy?</strong></p>
+
+
+
+<p>Amb base al conjunt massiu d’articles, els científics de dades filtrem, sintetitzem i estructurem el coneixement. L’objectiu és que els especialistes mèdics puguin tenir accés a <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks">la informació resumida i agrupada al voltant de preguntes</a> com, per exemple, “què en sabem dels factors de risc de la Covid-19?” o “què sabem sobre les vacunes i els fàrmacs?”. Sobre tot això s’ha investigat i escrit moltíssim. Nosaltres recopilem la informació i la processem. A més, elaborem una guia amb l’objectiu de, posem per cas, fer polítiques de prevenció. Cada dia entren nous articles i es plantegen noves preguntes, mentre d’altres es reformulen. Al mateix temps, alguns especialistes mèdics revisen la feina que fem.&nbsp;&nbsp;</p>
+
+
+
+<p><strong>La Intel·ligència Artificial s’ha convertit en una de les especialitats per intentar predir l’avançament de la Covid-19. Com s’està fent servir, en aquest cas?&nbsp;</strong></p>
+
+
+
+<p>La principal tasca de la intel·ligència artificial a CoronaWhy és el processament del llenguatge natural per identificar similituds i confluències entre els articles científics. Això permet als investigadors crear un <em>feed</em> de cerca personalitzat en funció dels seus interessos. D’aquesta manera, estem entrenant uns models capaços de processar i entendre els llenguatge mèdic, amb les seves particularitats, i en qualsevol idioma. Passa el mateix quan fem una cerca a Google, i aquest ens retorna una resposta sintètica a partir dels diferents continguts que ha trobat a la xarxa. O sigui, que a partir de tots els textos, la intel·ligència artificial en resumeix la informació més rellevant. També s’utilitza el processament del llenguatge natural per vectoritzar els textos, de manera que s’identifiquen i es relacionen diferents paraules que són sinònimes i, així, es fa una relació i una classificació d’articles.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="683" src="/wp-content/uploads/2020/04/DSC_0054-1024x683.jpg" alt="" class="wp-image-904" srcset="/wp-content/uploads/2020/04/DSC_0054-1024x683.jpg 1024w, /wp-content/uploads/2020/04/DSC_0054-300x200.jpg 300w, /wp-content/uploads/2020/04/DSC_0054-768x512.jpg 768w, /wp-content/uploads/2020/04/DSC_0054-1536x1024.jpg 1536w, /wp-content/uploads/2020/04/DSC_0054-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Manuel Álvarez és científic de dades i voluntari de CoronaWhy.</figcaption></figure>
+
+
+
+<p><strong>I quina és la teva tasca principal?</strong></p>
+
+
+
+<p>Jo estic a l’equip <em>Task-Geo</em>. Ens dediquem a la recopilació de dades geogràfiques i a l’estudi de la influència dels elements geogràfics, com poden ser la meteorologia o la densitat de població, en la transmissió del virus. Concretament, jo em dedico a recopilar dades empíriques com la temperatura, la humitat, la incidència del tabaquisme o la diabetis, que es troben repartides en mil fonts i formats diferents. La idea és estructurar aquesta informació d’una manera unificada per reentrenar els models matemàtics amb dades actualitzades dia a dia. Així, podrem veure quines hipòtesis es mantenen i quines altres no.&nbsp;</p>
+
+
+
+<p><strong>Qui pot participar a CoronaWhy? Fa falta més gent?</strong></p>
+
+
+
+<p>Qualsevol persona hi pot participar. Paral·lelament als grups de treball dels àmbits científics, se’n formen d’altres de caràcter transversal, dedicats a la comunicació o a la gestió de projectes. Si no es té un perfil tècnic, es pot participar en l&#8217;organització, la coordinació de l’equip, la comunicació interna o la divulgació. Ara tenim moltes mans. Si som capaços de canalitzar tot aquest esforç i el que pugui arribar, podem fer que la feina avanci més ràpid. I això pot ajudar a salvar vides.&nbsp;</p>
+
+
+
+<p><strong>Respostes com la de CoronaWhy poden canviar la manera de fer recerca?&nbsp;</strong></p>
+
+
+
+<p>Aquest esforç no seria possible sense <a href="/2020/01/23/pydata-mallorca-2020-software-lliure-cientific/">el pes de la comunitat del Software Lliure</a> i plataformes com <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge/tasks"><em>Kaggle</em></a>, que canalitzen aquesta iniciativa. Desconec si això tindrà una influència en el món acadèmic i canviarà la manera d’investigar, però sí que s’obren per a les Dades Massives (en anglès, <em>Big Data</em>) nous horitzons en la recerca mèdica. És a dir, sobre el coronavirus s’ha fet recerca, i nosaltres fem recerca sobre la recerca. Dit d’una altra manera: busquem quins resultats de la investigació són més o menys influents. Molts equips científics s’han adonat que els mateixos estudis no arriben als mateixos resultats o, directament, són difícils o impossibles de replicar o reproduir. La ciència de dades també pot ajudar a resoldre aquesta mena de problemes que s’han convertit en sistemàtics en el món de la recerca.</p>
+
+
+
+<p><strong>Normalment, els científics de dades treballeu amb problemes més ben definits, i en aquest cas, en canvi, les preguntes no estan del tot plantejades&#8230;</strong></p>
+
+
+
+<p>Sí, habitualment treballem amb problemes molt més acotats. Per exemple, ens demanen que predim el preu d’un pis en funció d’unes variables com els metres quadrats, els anys que té, la il·luminació o la localització. És un problema tancat. A CoronaWhy també tenim clar l’objectiu: aturar l’epidèmia. Però això no és una pregunta, sinó un conjunt de preguntes molt obertes. Per això, la nostra primera feina és intentar acotar al màxim els interrogants. Quina és la millor manera d’evitar noves transmissions és una pregunta molt oberta. En canvi, no ho és tant demanar-nos si els Estats que han mantingut el transport públic han tingut menys èxit que els que l’han tancat. Aquesta darrera pregunta és més fàcil de respondre amb ciència de dades.</p>
+
+
+
+<p><a href="/2020/03/23/el-govern-espanyol-utilitzara-els-nostres-mobils-per-monitoritzar-la-quarentena/"><strong>L’Estat utilitzarà les dades de les teleoperadores per rastrejar els moviments anonimitzats dels ciutadans</strong></a><strong> amb la finalitat de monitoritzar l’avanç de la Covid-19. Què n’opines?&nbsp;</strong></p>
+
+
+
+<p>Fa uns dies vaig llegir en algun lloc que, abans d’una tragèdia, totes les prevencions semblen innecessàries i, després, totes les mesures pal·liatives semblen insuficients. Al gener, ningú podia saber que això explotaria d’aquesta manera. També és cert que l’Estat ha badat i ha flaquejat a l’hora d’implementar determinades mesures. No tenia sentit mantenir el transport públic i la indústria en funcionament mentre es tancaven tots els bars. Opino que la mesura de monitoritzar els moviments de la població arriba tard i és insuficient, perquè ja hi ha hospitals col·lapsats i falta material. Tot i així, com a mesura em sembla vàlida. Una llei que no és capaç de forçar el seu compliment no serveix per a res. Aquesta sembla una mica orwelliana, però té sentit que es controli la quarentena perquè és una situació molt extremada. També espero que quan tot això passi, el control s’aturi. I això sospito que no passarà, perquè lamentablement trobaran nous motius per fer-ho. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">902</post-id>	</item>
+	</channel>
+</rss>

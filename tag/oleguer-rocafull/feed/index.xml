@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Oleguer Rocafull &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/oleguer-rocafull/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:22:57 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Oleguer Rocafull &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Onada de segrestos informàtics a empreses</title>
+		<link>/2020/02/02/onada-de-segrestos-informatics-a-empreses/</link>
+					<comments>/2020/02/02/onada-de-segrestos-informatics-a-empreses/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sun, 02 Feb 2020 22:09:00 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Agència de Ciberseguretat de Catalunya]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Mossos Esquadra]]></category>
+		<category><![CDATA[Nico Castellano]]></category>
+		<category><![CDATA[No Con Name]]></category>
+		<category><![CDATA[Oleguer Rocafull]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[Virus]]></category>
+		<guid isPermaLink="false">/?p=807</guid>
+
+					<description><![CDATA[Els virus informàtics de tipus ransomware s’han convertit en un gran perill per a les empreses: impliquen despeses milionàries i rescats cada cop més alts, tal com indica un informe. N'hem parlat amb els consultors en ciberseguretat Nico Castellano i Oleguer Rocafull, Albert Álvarez dels Mossos d'Esquadra i l'Agència de Ciberseguretat de Catalunya.]]></description>
+										<content:encoded><![CDATA[
+<h2>Els ciberatacs dissenyats a mida es van disparar un 365% durant el segon trimestre del 2019</h2>
+
+
+
+<p>Els virus informàtics de tipus&nbsp;<em>ransomware</em>&nbsp;s’han convertit en “un gran perill per a les empreses: impliquen despeses milionàries i rescats cada cop més alts”. Així ho indica un informe de l’Agència de Ciberseguretat de Catalunya. El&nbsp;<em>ransomware</em>&nbsp;és un programa maliciós que infecta tots els sistemes connectats a una xarxa local i xifra tots els seus arxius. Després els autors de l’atac demanen un rescat per les claus de desxifrat. Segons fonts de l’Agència, el cost mitjà dels segrestos informàtics no para de créixer: el gener del 2019 rondava els 6.000 dòlars i a finals d’any els 40.000.</p>
+
+
+
+<p class="has-text-align-center"><strong>Llegeix l&#8217;<a href="https://www.ara.cat/economia/Onada-segrestos-informatics-empreses_0_2392560744.html" target="_blank" rel="noreferrer noopener" aria-label="article complet al diari ARA (opens in a new tab)">article complet al diari ARA</a>.</strong></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/02/02/onada-de-segrestos-informatics-a-empreses/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">807</post-id>	</item>
+		<item>
+		<title>Quatre dies negociant amb ciberdelinqüents</title>
+		<link>/2019/12/20/ciberdelinquents-ransomware-empresa-catalana/</link>
+					<comments>/2019/12/20/ciberdelinquents-ransomware-empresa-catalana/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 20 Dec 2019 19:53:24 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Dark web]]></category>
+		<category><![CDATA[Deep web]]></category>
+		<category><![CDATA[Hacker]]></category>
+		<category><![CDATA[INCIBE]]></category>
+		<category><![CDATA[Institut Nacional de Ciberseguretat]]></category>
+		<category><![CDATA[Malware]]></category>
+		<category><![CDATA[Mossos Esquadra]]></category>
+		<category><![CDATA[Nico Castellano]]></category>
+		<category><![CDATA[No Con Name]]></category>
+		<category><![CDATA[Oleguer Rocafull]]></category>
+		<category><![CDATA[Ransomware]]></category>
+		<category><![CDATA[The Tor Project]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[Virus]]></category>
+		<guid isPermaLink="false">/?p=543</guid>
+
+					<description><![CDATA[El consultor en ciberseguretat José Nicolás Castellano detecta una onada creixent d’atacs per ransomware durant les últimes setmanes Una multinacional de Barcelona es despertava el&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>El consultor en ciberseguretat José Nicolás Castellano detecta una onada creixent d’atacs per ransomware durant les últimes setmanes</h2>
+
+
+
+<p>Una multinacional de Barcelona es despertava el dijous amb l’aigua al coll, els ordinadors bloquejats i un missatge anònim a les pantalles: o pagaven un rescat de més de mig milió d&#8217;euros o abaixaven la persiana. Un virus informàtic els havia agafat per sorpresa i, de cop i volta, totes les dades estaven xifrades. Des d’un xat anònim, algú els reclamava 540.000 euros si volien recuperar-les.&nbsp;</p>
+
+
+
+<p>A la tarda, la companyia va denunciar-ho als Mossos d’Esquadra. En aquest cas, però, feia falta alguna cosa més que la intervenció policial per dissuadir uns criminals d’identitat i parador desconeguts. L’única opció de rescatar les dades passava per seure i negociar amb gent que utilitzava les mateixes tàctiques que els segrestadors de persones. La conversa, però, s’havia de mantenir a través d’un xat anònim i sempre utilitzant <a href="/2019/11/16/edward-snowden-project-tor/">Tor, que permet navegar d’incògnit per la Xarxa</a>.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="964" height="724" src="/wp-content/uploads/2019/12/Nico_Oleguer_separats.jpg" alt="" class="wp-image-553" srcset="/wp-content/uploads/2019/12/Nico_Oleguer_separats.jpg 964w, /wp-content/uploads/2019/12/Nico_Oleguer_separats-300x225.jpg 300w, /wp-content/uploads/2019/12/Nico_Oleguer_separats-768x577.jpg 768w" sizes="(max-width: 964px) 100vw, 964px" /><figcaption>El consultor en ciberseguretat, José Nicolás Castellano, i l&#8217;analista d&#8217;Intel·ligència, Oleguer Rocafull.</figcaption></figure>
+
+
+
+<p>L’operació va allargar-se quatre dies. Va ser clau la intermediació d’Oleguer Rocafull, analista d&#8217;Intel·ligència, i el consultor en ciberseguretat José Nicolás Castellano, que també és el president i organitzador del congrés de ciberseguretat més veterà de l’Estat, <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.noconname.org/" target="_blank">el NoConName</a>. “Vam començar a negociar, però vam veure que a l’altra banda no es movien. Sabien que tenien el poder”, recorda Castellano. En aquest cas, la companyia, assistida pel consultor, va atrevir-se a discutir el preu que demanaven per a la informació menys crítica i va dir als <em>hackers</em> ‘Això és el que tenim. No demaneu més. Ho voleu?’. I ho van acceptar.&nbsp;</p>
+
+
+
+<p>No obstant això, l’empresa va veure’s obligada a pagar sense regatejar per les dades vitals. “Era qüestió de vida o mort”, explica Castellano, i afegeix que “la majoria d’empreses que han patit un atac semblant han hagut de tancar”. D’aquesta manera, després de moltes hores de tensió, el rescat va saldar-se amb el pagament de 142.000 euros -lluny dels 540.000 que demanaven al principi- i, això sí, la supervivència de l’empresa.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-image"><img src="https://lh6.googleusercontent.com/hoARGhEhjjJSc4soQqw6RNofWx_E2xeaAP-KI-0H7s6qTq90A0bbALEbRpZw46ZmD2VqXZmwcU35zP6G0xJAVA3AxpPanymsq2TEEwCEPhymgM5Dni0xD62zE1TKmVXFAYCI1fk" alt=""/><figcaption>Moment en què l’empresa rebia les últimes tres claus de desxifrat a través del xat anònim. </figcaption></figure>
+
+
+
+<p>Escenes com aquesta no són una excepció a Catalunya, on Castellano detecta una onada creixent d’infeccions per <em>ransomware </em>(de l&#8217;anglès <em>ransom</em>, ‘rescat’, i <em>ware</em>, de &#8216;programari&#8217;), que xifra els arxius i infecta els sistemes connectats a la mateixa xarxa. Una vegada instal·lat a l’ordinador, bloqueja l’accés i demana un rescat que oscil·la entre els centenars i els milers d’euros a canvi de les claus de desxifrat. “Aquest darrer mes hem vist moltes, moltes, empreses catalanes afectades. Els atacants van a sac”, assegura.&nbsp;</p>
+
+
+
+<p>A escala mundial, <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://resources.malwarebytes.com/resource/cybercrime-tactics-techniques-2019-q1-report/" target="_blank">l’últim estudi de la companyia de ciberseguretat <em>Malwarebytes</em></a> diu que, en comparació amb el primer trimestre del 2018, les incidències registrades per <em>ransomware</em> s’han incrementat un 500% durant els primers tres mesos d&#8217;enguany. A Nord-Amèrica, aquests virus ja han bloquejat desenes d’administracions senceres, i <a href="/2019/12/16/el-ransomware-ja-ha-apagat-els-ordinadors-a-varis-governs/">alguns Estats i ciutats fins i tot han declarat l’estat d’emergència</a>. A l’Estat espanyol, el Centre Criptològic Nacional (CCN) no atura de plantar cara a una allau d&#8217;incidències informàtiques semblants que han deixat <a href="/2019/11/05/com-evitar-el-ransomware-el-virus-que-recorre-europa/">víctimes com la Cadena SER o la consultora Everis, entre moltes altres empreses espanyoles</a>.&nbsp;</p>
+
+
+
+<h5>&#8216;<strong>Malware as a service</strong>&#8216;</h5>
+
+
+
+<p>Segons l’Institut Nacional de Ciberseguretat (INCIBE) de l’Estat espanyol, es tracta d’<a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://www.incibe.es/protege-tu-empresa/herramientas/servicio-antiransomware" target="_blank">un atac cada cop més freqüent perquè resulta molt lucratiu pels delinqüents</a> (es calcula que els creadors de WannaCry, un tipus de <em>ransomware</em> que afectà milers d’ordinadors el 2017, guanyaven uns 360.000 dòlars mensuals). A més, cada cop és més fàcil segrestar la informació degut als avenços de la criptografia. Igualment, els <em>hackers</em> poden ocultar la seva identitat i utilitzar sistemes internacionals de pagament anònim i que la Policia no pot rastrejar, com la criptomoneda ‘Bitcoin’.</p>
+
+
+
+<p>La majoria d’atacs recents provenen de <em>malwares</em> diferents, tot i que formen part de la família del <em>ransomware</em>. Els <em>hackers</em> funcionen com una empresa amb una organització interna, on cadascú té el seu paper: “s’anomena <em>Malware</em> as a service”, explica Castellano. D’aquesta manera, un primer grup es dedica a fer un estudi de mercat de l’empresa víctima i esbrina el seu poder adquisitiu, els pressupostos que mou, els ordinadors que utilitza, els programes que fa servir i els correus dels directius o dels qui gestionen les finances. I tota aquesta informació s’extreu per mitjà d’Internet. “Ho saben quasi tot”, comenta. Mentrestant, uns altres es fan càrrec de desenvolupar el programari de xifrat, uns altres ho venen a través del <a rel="noreferrer noopener" aria-label=" (s'obre en una nova pestanya)" href="https://ca.wikipedia.org/wiki/Web_profund" target="_blank">Web profund</a>, i uns altres fan l’atac.</p>
+
+
+
+<p>El vector d’infecció més típic és un correu amb un document adjunt. Quan algú l’obre per error, el <em>ransomware</em> penetra dins un ordinador i es replica en totes les màquines possibles per mitjà dels anomenats ‘moviments laterals’, que dispersen el virus. Aleshores, es comencen a xifrar les dades utilitzant sovint més d’una clau, cadascuna amb el seu preu. D’aquesta manera, l’empresa víctima ha de pagar certa quantitat per cada paquet d’informació encriptada.&nbsp;</p>
+
+
+
+<h5><strong>Punts febles</strong></h5>
+
+
+
+<p>El <em>ransomware</em> afecta sobretot les grans empreses, més propenses a pagar el rescat per evitar la pèrdua d’informació permanent, la interrupció de l’activitat normal i danys econòmics i reputacionals. Però també són objectius temptadors les petites i mitjanes empreses amb el <em>software</em> desactualitzat -les que utilitzen Microsoft Office 2007 o 2010, per exemple-, que manquen d’antivirus, mesures de seguretat, o disposen de contrasenyes febles. Castellano adverteix que “les empreses no es preparen per uns atacs informàtics cada cop més freqüents, i són aquestes les víctimes”. A més, no n’hi ha prou amb fer còpies de seguretat: “El sistema de còpies d’aquesta empresa no estava pensat per esquivar un atac, perquè el <em>ransomware</em> també ataca les còpies”. Evitar ensurts passa per fer anàlisis de riscos de ciberseguretat, formar el personal i fer proves de penetració, per exemple. “Les companyies s’han de plantejar ja que la ciberseguretat és una inversió i no una despesa”, conclou a Twitter.&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="es" dir="ltr">Estos días he vivido de cerca una situación MUY delicada en empresas donde estaba en juego la existencia de la empresa. Ha sido “La pasta a cambio de la empresa” <a href="https://twitter.com/hashtag/negociacion?src=hash&amp;ref_src=twsrc%5Etfw">#negociacion</a> <a href="https://twitter.com/hashtag/ransomware?src=hash&amp;ref_src=twsrc%5Etfw">#ransomware</a> <a href="https://twitter.com/hashtag/bcn?src=hash&amp;ref_src=twsrc%5Etfw">#bcn</a> Deben plantearse YA que la ciberseguridad es una inversión y no un gasto.</p>&mdash; Nico (@niconname) <a href="https://twitter.com/niconname/status/1206391719387906048?ref_src=twsrc%5Etfw">December 16, 2019</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/12/20/ciberdelinquents-ransomware-empresa-catalana/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543</post-id>	</item>
+	</channel>
+</rss>

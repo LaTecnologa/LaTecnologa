@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Carme Torras &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/carme-torras/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Carme Torras &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Neix l’Observatori d’ètica en intel·ligència artificial de Catalunya</title>
+		<link>/2020/06/29/observatori-etica-intelligencia-artificial-catalunya/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2020 16:44:41 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[ADA]]></category>
+		<category><![CDATA[Algoritmes de Decisió Automatitzada]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Carme Torras]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Karma Peiró]]></category>
+		<guid isPermaLink="false">/?p=1463</guid>
+
+					<description><![CDATA[“L’evolució tecnològica és tan àmplia, profunda i veloç que els éssers humans no som capaços d’anticipar com s&#8217;incorporarà a les nostres vides”, afirmava Maria Àngels&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>“L’evolució tecnològica és tan àmplia, profunda i veloç que els éssers humans no som capaços d’anticipar com s&#8217;incorporarà a les nostres vides”, afirmava Maria Àngels Barbarà, directora de l’Autoritat Catalana de Protecció de Dades, a l’informe <a rel="noreferrer noopener" href="https://apdcat.gencat.cat/web/.content/04-actualitat/noticies/documents/INFORME-INTELLIGENCIA-ARTIFICIAL-FINAL-WEB-OK.pdf" target="_blank"><em>Intel·ligència Artificial. Decisions Automatitzades a Catalunya</em></a>. La periodista Karma Peiró recull a l’estudi més de cinquanta exemples d’usos d’algorismes de decisió automatitzada (ADA) a Catalunya i que, <a href="/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/">en molts casos, han passat desapercebuts per a la majoria de la població tot i intervenir en decisions sovint sensibles</a>: per exemple, extradir migrants, concedir ajuts socials, predir el risc de reincidència d’un pres o advertir què ha après i què no ha après un alumne a l’escola. El que passa és que si les màquines s’entrenen amb prou dades fiables, els ADA poden facilitar-nos enormement la vida; però si es nodreixen amb informació deficient i esbiaixada, <a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">els resultats poden conduir a errors o a decisions discriminatòries</a>. Per això el naixement, aquest dilluns, de l&#8217;Observatori d&#8217;Ètica en Intel·ligència Artificial de Catalunya és una bona notícia.</p>
+
+
+
+<p>La iniciativa neix del Govern i la Universitat de Girona (UdG) i pren la forma d’una càtedra amb seu a la facultat. <a rel="noreferrer noopener" href="http://politiquesdigitals.gencat.cat/ca/detalls/Noticia/200629_Observatori_IA" target="_blank">Segons una nota de la Generalitat</a>, l’Observatori té la missió d’estudiar els impactes ètics i legals de la implantació de la IA en la vida diària, de vetllar perquè la tecnologia s’apliqui de manera segura i justa, d’establir unes directrius ètiques i, en definitiva, de desenvolupar al país “una intel·ligència artificial ètica i confiable”. Per aconseguir-ho, l’observatori vol analitzar l’evolució del desenvolupament de la IA a Catalunya, impulsar jornades i tallers per debatre sobre ètica, regulació i IA, promoure la conscienciació ciutadana entorn la IA i les decisions automatitzades i crear un consell assessor format per experts d’àmbits diversos -acadèmic, tecnològic, humanístic, legal, econòmic, etc.</p>
+
+
+
+<p>La iniciativa compta amb un pressupost de 250.000 euros per al període 2020–2022, finançats principalment pel Departament de Polítiques Digitals en el marc de l’estratègia <a rel="noreferrer noopener" href="http://politiquesdigitals.gencat.cat/ca/tic/catalonia-ai" target="_blank">Catalonia.AI, l’Estratègia d’Intel·ligència Artificial de Catalunya</a>, aprovada el 18 de febrer, i el pla estratègic de la <a rel="noreferrer noopener" href="https://www.udg.edu/ca/Portals/63/Escenaris/PE_2030_SumaIntel_20190306.pdf" target="_blank">Universitat de Girona ‘2030: La suma d’Intel·ligències’</a>, que vol buscar el millor encaix de la intel·ligència artificial amb la intel·ligència natural i la intel·ligència col·lectiva.</p>
+
+
+
+<p>El tret de sortida de l’Observatori l’han donat aquest matí el conseller de Polítiques Digitals, Jordi Puigneró, i el rector de la UdG, Quim Salvi, entre altres representants del Govern i la universitat, que han presentat el nou organisme en un acte telemàtic amb la intervenció de Karma Peiró i de la <a href="/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/">professora d’Investigació de l’Institut de Robòtica (CSIC-UPC) i escriptora Carme Torras</a>.</p>
+
+
+
+<h3>La necessitat d’una mirada ètica</h3>
+
+
+
+<p>Els intents de regular la intel·ligència artificial des d’una mirada ètica persegueixen l’evolució tecnològica, però de moment no l’atrapen. El febrer, la presidenta de la Comissió Europea (CE), Ursula Von der Leyen, va presentar un pla per regular la IA i recuperar la sobirania digital davant els gegants tecnològics, tot i que les veus crítiques li van retreure poca concreció. A l’abril del 2019, un grup d’experts d’alt nivell de la CE havia fet públiques unes Directrius Ètiques per a una IA Confiable (<em>Ethics Guidelines for Trustworthy AI</em>). Poc després, el professor de filosofia de la Universitat de Mainz (Alemanya) Thomas Metzinger, que va formar part del grup d’experts, va denunciar al diari <em>Der Tagesspiegel</em> que “<a href="/2020/02/15/etica-inteligencia-artificial-maquillatge/">el relat de la Intel·ligència Artificial confiable pretén eixamplar els mercats futurs</a> i utilitzar els debats sobre Ètica com un bell decorat públic per a una estratègia d’inversió a gran escala”. Per això, cal prendre consciència que la revisió ètica de la IA necessita molt més que una declaració de bones intencions.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1463</post-id>	</item>
+	</channel>
+</rss>

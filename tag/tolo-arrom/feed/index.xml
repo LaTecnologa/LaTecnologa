@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Tolo Arrom &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/tolo-arrom/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Fri, 08 May 2020 16:26:42 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Tolo Arrom &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Blockchain per guardar secrets</title>
+		<link>/2019/12/01/blockchain-tecnologia-secret-empresarial/</link>
+					<comments>/2019/12/01/blockchain-tecnologia-secret-empresarial/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sun, 01 Dec 2019 17:37:00 +0000</pubDate>
+				<category><![CDATA[A fons]]></category>
+		<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Parc Bit]]></category>
+		<category><![CDATA[Secret empresarial]]></category>
+		<category><![CDATA[Tolo Arrom]]></category>
+		<guid isPermaLink="false">/?p=692</guid>
+
+					<description><![CDATA[La imatge d&#8217;un notari segellant fulls grapats i prenent notes és a punt de caducar. Les empreses han eliminat el paper i el coneixement s&#8217;emmagatzema&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>La imatge d&#8217;un notari segellant fulls grapats i prenent notes és a punt de caducar. Les empreses han eliminat el paper i el coneixement s&#8217;emmagatzema al núvol. I la tecnologia Blockchain -&#8216;Cadena de Blocs&#8217;, en català- pot substituir el funcionari que fins ara acreditava la titularitat d&#8217;una idea. Fins fa poc, per protegir un secret d&#8217;empresa calia anar a l&#8217;oficina de Propietat Intel·lectual del país corresponent amb la documentació impresa. Però això, amb el Blockchain, ja no és necessari. &#8220;Et legitimes a tu mateix com a titular dels drets d&#8217;autor, dins la pròpia companyia, i això té validesa a qualsevol part del món&#8221; va explicar dimecres Tolo Arrom, advocat i director de Balears i Canàries de Clarke Modet, <a rel="noreferrer noopener" aria-label="en un Parc Bit Inspira (opens in a new tab)" href="http://drtic.fundaciobit.org/2020/01/la-idoneidad-del-blockchain-para-la-aplicacion-de-la-ley-de-secreto-empresarial/" target="_blank">en un Parc Bit Inspira</a>.</p>
+
+
+
+<h5>Què és el Blockchain?</h5>
+
+
+
+<p>El Blockchain -que es tradueix com a &#8216;Cadena de blocs&#8217;- és la tecnologia que el 2009 va fer possible la creació del Bitcoin, la primera criptomoneda que es va inventar, i que ha captat l&#8217;atenció de col·lectius diversos, des de banquers fins a creadors de videojocs. Les cadenes de blocs permeten emmagatzemar informació de manera segura i immutable a la xarxa, en una base de dades descentralitzada que es replica en cadascun dels ordinadors que hi estan connectats. La clau d&#8217;aquesta tecnologia és el consens: si tothom té la mateixa informació, aquesta és dona per certa.</p>
+
+
+
+<p><a rel="noreferrer noopener" aria-label="Clarke Modet ha dissenyat -de la mà de Minsait- (opens in a new tab)" href="https://www.clarkemodet.com/news-posts/blockchain-y-secreto-empresarial-los-amigos-improbables/" target="_blank">Clarke Modet ha dissenyat -de la mà de Minsait-</a> una aplicació que, fent ús d&#8221;hashes&#8217; (algoritmes matemàtics que redueixen qualsevol conjunt de dades a una nova sèrie de caràcters única i irrepetible) i claus criptogràfiques, permet als clients desar en una cadena de blocs evidències segures, immutables i confidencials de l&#8217;activitat que fan, eliminant el risc a posar els documents a disposició de tercers.</p>
+
+
+
+<h5>Una tecnologia a l&#8217;alça</h5>
+
+
+
+<p>Segons <a rel="noreferrer noopener" aria-label="una enquesta de Deloitte (opens in a new tab)" href="https://www2.deloitte.com/content/dam/Deloitte/se/Documents/risk/DI_2019-global-blockchain-survey.pdf" target="_blank">una enquesta de Deloitte</a> del 2019, es fa negoci amb l&#8217;ús de Blockchain en almenys 74% de les empreses, mentre el 34% està enmig d&#8217;alguna forma d&#8217;implementació d&#8217;aquesta tecnologia dins la seva organització. </p>
+
+
+
+<p>L&#8217;irrupció del Blockchain també és palpable a l&#8217;estat espanyol. A Catalunya, l&#8217;ecosistema Blockchain compta actualment amb 76 empreses, que és un 117% més que a finals del 2018. És una de les principals conclusions de <a rel="noreferrer noopener" aria-label="l’estudi ‘Les tecnologies de registre distribuït. El Blockchain a Catalunya’ (opens in a new tab)" href="http://smartcatalonia.gencat.cat/ca/detalls/noticia/Lecosistema-blockchain-catala-es-duplica-en-nomes-un-any-i-arriba-als-95M-de-facturacio-segons-un-estudi-de-la-Generalitat-00002" target="_blank">l’estudi ‘Les tecnologies de registre distribuït. El Blockchain a Catalunya’</a>, elaborat per l’agència per a la competitivitat de l’empresa de la Generalitat. A escala global, l’informe diu que la inversió en el sector del Blockchain s’ha disparat en els darrers anys i que la despesa en solucions basades en aquesta tecnologia no ha parat de créixer. </p>
+
+
+
+<p>L’estudi identifica les diverses aplicacions que té aquesta eina. Per exemple, més enllà de les criptomonedes, s&#8217;hi diu que el Blockchain ja s&#8217;està utilitzant en sectors com el comerç -per fer més transparent l’etiquetatge-, l’atenció sanitària -per xifrar dades-, l’administració pública -per millorar la seguretat del vot electrònic, per exemple-, o per protegir secrets empresarials sense la intermediació d&#8217;un notari. </p>
+
+
+
+<h5>La Llei del Secret Empresarial</h5>
+
+
+
+<p>En un mercat on els treballadors es mouen sense fronteres, els llocs de feina es relacionen, i interactuen i negocien; en un temps on les noves tecnologies encapçalen la cursa de la competitivitat, l&#8217;escletxa oberta a l&#8217;<a rel="noreferrer noopener" aria-label="espionatge empresarial (opens in a new tab)" href="https://www.arabalears.cat/societat/espionatge-empresarial-dispara-seguretat-informacio_0_2202379871.html" target="_blank">espionatge empresarial</a> i el robatori de dades s&#8217;ha volgut abordar amb una llei que protegeix els interessos dels creadors del coneixement. Una llei per protegir els secrets d&#8217;empresa durant un procés judicial, que abans requerien posar allò que es volia protegir sobre la taula, a la vista de qualsevol. &#8220;La Llei del Secret Empresarial espanyola (1/2019) pretén protegir el coneixement de les empreses d’una manera més àgil, efectiva, barata i que es gestiona dins la pròpia companyia&#8221;, va explicar Arrom durant la xerrada. </p>
+
+
+
+<p>Segons la llei, un secret empresarial és allò que no està disponible per tots els treballadors o membres de l’empresa, que pot tenir un avantatge competitiu, unes mesures de protecció d’aquesta informació -per exemple, l&#8217;ús de PIN o empremta dactilar. Més enllà d&#8217;això, la normativa permet protegir qualsevol informació: bases de dades de clients, mètodes innovadors, programari propi, algoritmes, especificacions tècniques o un model de negoci en són només alguns casos.</p>
+
+
+
+<h5>Validesa jurídica</h5>
+
+
+
+<p>El Blockchain pot ser utilitzat com a eina a l&#8217;abast d&#8217;aquells que volen constituir una prova de l&#8217;existència de certa informació en un moment determinat. Però, quina validesa jurídica se li dona en un procediment judicial?</p>
+
+
+
+<p>En alguns països com el Japó, Corea del Sud o la Xina ja existeixen jutjats especialitzats en Blockchain, on accepten aquesta tecnologia quan la veracitat de les dades electròniques pot demostrar-se. De fet, <a href="https://cincodias.elpais.com/cincodias/2019/06/12/legal/1560355225_617197.html" target="_blank" rel="noreferrer noopener" aria-label="segons Cinco Días (opens in a new tab)">segons Cinco Días</a>, la Xina ja ha acceptat el Blockchain com a mitjà de prova vàlid en un cas d&#8217;infracció de drets d&#8217;autor. Les proves presentades pel demandant van ser admeses i valorades pel tribunal, que va concloure que el sistema guarda la informació de manera que no pot ser manipulada i que, per tant, és fiable i segur.</p>
+
+
+
+<p>A Espanya encara no es disposa de jurisprudència rellevant. &#8220;Cal tenir en compte que aquesta aplicació del Blockchain és molt nova, i per tant, cal esperar les primeres sentències&#8221;, apunta Arrom que, tanmateix, es mostra convençut que els tribunals de l&#8217;Estat admetran la validesa d&#8217;aquest sistema revolucionari.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2019/12/01/blockchain-tecnologia-secret-empresarial/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">692</post-id>	</item>
+	</channel>
+</rss>

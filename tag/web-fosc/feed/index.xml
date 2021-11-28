@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Web fosc &#8211; La Tecnòloga</title>
+	<atom:link href="/tag/web-fosc/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Web fosc &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>La pandèmia dispara l’activitat il·legal al web fosc</title>
+		<link>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/</link>
+					<comments>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2020 16:10:16 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Agència de Ciberseguretat de Catalunya]]></category>
+		<category><![CDATA[Cibercrim]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Dark web]]></category>
+		<category><![CDATA[Edward Snowden]]></category>
+		<category><![CDATA[Silvia Puglisi]]></category>
+		<category><![CDATA[The Tor Project]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[Web fosc]]></category>
+		<guid isPermaLink="false">/?p=1446</guid>
+
+					<description><![CDATA[Vacunes i cures falses, drogues, més material pedòfil i credencials d’accés a entorns corporatius: el coronavirus desplaça la criminalitat al món virtual ]]></description>
+										<content:encoded><![CDATA[
+<h2>Vacunes i cures falses, drogues, més material pedòfil i credencials d’accés a entorns corporatius: el coronavirus desplaça la criminalitat al món virtual </h2>
+
+
+
+<p>La Covid-19 ha omplert Internet d’ofertes de cures, proves de diagnòstic, respiradors i equips de protecció personal a preus desorbitats, productes teòricament miraculosos i vacunes falses. Segons <a rel="noreferrer noopener" href="https://www.anu.edu.au/news/all-news/pandemic-profiting-vaccines-and-ppe-on-the-dark-web" target="_blank">una recerca de l’<em>Australian National University</em></a>, que a l’abril va investigar vint mercats clandestins d’Internet, s’hi ha arribat a vendre un fals vaccí per 24.598 dòlars, distribuït des dels Estats Units, mentre el preu mitjà d’aquest producte no baixa dels 575. D’acord amb l’estudi, es tracta de substàncies “probablement robades o distribuïdes il·legalment des de laboratoris d’assaig amb animals o humans o, fins i tot, amb pacients recuperats del coronavirus”.&nbsp;</p>
+
+
+
+<p>Productes com aquests s’han comercialitzat al llarg del confinament al <a href="https://www.termcat.cat/ca/actualitat/apunts/que-samaga-la-xarxa-web-profund-i-web-fosc">web fosc (en anglès, <em>dark web</em>)</a>, on habitualment hi ha lloc per a la venda il·legal d&#8217;armes, drogues, material pedòfil, targetes de crèdit robades, programari maliciós, documents falsificats i tota mena d’activitats que defugen la llei. Els abismes d’Internet no són accessibles des d’un navegador normal i, per a entrar, cal un programari especial. Un exemple és la xarxa d’anonimat TOR (<em>The Onion Router</em>; o, en català, L’Enrutador Ceba), composta per milers de servidors i estructurada en forma de capes, que fa pràcticament impossible identificar els usuaris. “Allò que et dona el web fosc és un anonimat quasi absolut”, expliquen fonts de l’Agència de Ciberseguretat de Catalunya. Tot això ho converteix en un espai molt atractiu per als cibercriminals.</p>
+
+
+
+<p>Les dades de <em>The Tor Project</em>, que és l’entitat d’administració de la xarxa Tor, evidencien un creixement molt significatiu d’usuaris durant la quarantena. Així, si el dia previ a l’anunci del decret d’alarma, el 12 de març, es van registrar a Espanya 23.703 usuaris, <a rel="noreferrer noopener" href="https://metrics.torproject.org/userstats-relay-country.html?start=2020-01-01&amp;end=2020-06-17&amp;country=es&amp;events=off" target="_blank">el 7 de maig es van assolir els 43.495</a>; o sigui, que el trànsit ha arribat a créixer més d’un 180% durant el confinament. Des d’aleshores, l’activitat ha minvat lleugerament, tot i que a l’últim mes s’han continuat veient xifres elevades: 38.169 usuaris l’11 de juny. Un increment que no té res a veure amb l’any passat, que amb prou feines va arribar als 29.481 usuaris.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="615" height="327" src="/wp-content/uploads/2020/06/image.png" alt="" class="wp-image-1447" srcset="/wp-content/uploads/2020/06/image.png 615w, /wp-content/uploads/2020/06/image-300x160.png 300w" sizes="(max-width: 615px) 100vw, 615px" /><figcaption>The Tor Project.</figcaption></figure>
+
+
+
+<h3>Espanya, el sisè estat més atacat per amenaces relacionades amb la Covid-19</h3>
+
+
+
+<p>El Covid-19 també s’ha popularitzat als fòrums de ciberdelinqüents especialitzats en el robatori de dades. Segons <a rel="noreferrer noopener" href="https://www.bitdefender.es/news/espa%C3%B1a-se-sit%C3%BAa-entre-los-seis-pa%C3%ADses-del-mundo-m%C3%A1s-atacados-por-ciberamenazas-relacionadas-con-el-coronavirus-3839.html" target="_blank">l’empresa de ciberseguretat Bitdefender</a>, Espanya s’ha convertit en el sisè país més atacat per amenaces relacionades amb la Covid-19. Al març, les ciberamenaces vinculades amb la crisi ja s’havien multiplicat per cinc, i a l’abril el creixement va ser encara major. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Una investigació de la consultora Digital Shadows</a> mostra un debat en un xat de la <em>dark web</em> sobre &#8220;Com treure el màxim partit de la quarantena&#8221;.&nbsp;</p>
+
+
+
+<p>Segons l’Agència de Ciberseguretat de Catalunya, l’activitat criminal que més ha crescut és la venda de credencials d’accés a entorns corporatius. Amb la implantació del teletreball a correcuita s’ha ampliat la bretxa de seguretat informàtica als sectors menys acostumats a aquesta modalitat laboral: “Ara els usuaris naveguen molt més i es compten moltes més víctimes de pesca per correu electrònic (<em>phishing</em>) utilitzant d&#8217;esquer la Covid-19”, explica una font de l’agència. “Algunes contrasenyes acaben sent venudes al web fosc i algú altre les compra per demanar rescats mentre altres amenacen la víctima amb filtrar la informació”, hi afegeix.&nbsp;</p>
+
+
+
+<p>La Covid-19 també ha donat un impuls sense precedents a la pederàstia. <a rel="noreferrer noopener" href="https://diariodetransporte.com/2020/04/informe-de-europol-sobre-cibercrimen-y-desinformacion-en-medio-de-la-crisis-sanitaria/" target="_blank">Un estudi de l’Europol sobre cibercrim durant la pandèmia</a> alerta que l’intercanvi de material pedòfil va disparar-se un 25% durant l’estat d’alarma, arribant a les 21.100 descàrregues entre el 17 i el 24 de març. Dues setmanes després, la Guàrdia Civil detectà a Espanya un nou rècord de la circulació de vídeos pedòfils quan l’augment va assolir el 507% durant l’estat d’alarma, <a rel="noreferrer noopener" href="https://elpais.com/sociedad/2020-04-27/el-trafico-de-videos-pedofilos-se-dispara-en-redes-un-507-durante-el-estado-de-alarma.html" target="_blank">segons una investigació de la Unitat Central Operativa (UCO) de la Guàrdia Civil que va fer públic <em>El País</em></a> i tal com ha pogut confirmar <em>La Tecnòloga</em>. L’Europol alerta que els pedòfils han aprofitat la pandèmia per buscar noves víctimes i reprodueix alguns dels seus missatges: “Hola, amb aquesta quarantena creieu que hi haurà més nens a Omegle [un lloc web per a xatejar amb persones anònimes] traient ‘<em>packs</em>’ [de fotografies íntimes]?”, es demana algú en un fòrum d&#8217;Internet, mentre algú altre encara va més enllà: “Imagina estar tancat a casa en tot moment. Aquells que tenen un fill a casa o els que passen més temps amb els seus fills, jajaja, m’agradaria tenir aquesta situació”.&nbsp;</p>
+
+
+
+<p>El confinament també ha provocat un augment de visites al web fosc per comprar droga. Amb la restricció dels moviments, els consumidors l’han anat a buscar al mercat negre d’Internet. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Com ho reflecteix Digital Shadows</a>, un venedor de cànnabis promet un bon servei als seus clients oferint-los “uns cogolls de laboratori densos i ensucrats, enviats a domicili per un venedor dedicat del web fosc”.</p>
+
+
+
+<p>L’increment de la venda de productes relacionats amb la Covid-19 al web fosc s’explica en part per la interrupció de l’activitat habitual dels ciberdelinqüents. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Digital Shadows reprodueix</a> les preocupacions d’alguns usuaris que temen els efectes de la pandèmia sobre els seus models de negoci. En un fòrum del web fosc, algú s’hi anuncia: “Un vell busca feina”. A la mateixa publicació explica que treballava des del 2012 en el frau orientat al turisme, hotels, vols i excursions, i hi afegeix: “(&#8230;) però des que va començar l’estafa del coronavirus m’he quedat indefinidament sense ingressos”.&nbsp;</p>
+
+
+
+<h3>El web fosc i la llibertat d’expressió</h3>
+
+
+
+<p>Perseguir els delinqüents del web fosc és una cursa d’obstacles quan l’anonimat s’interposa entre aquests i la policia, que normalment disposa de pocs recursos si no compta amb l’ajuda d’organismes internacionals com l’Europol o empreses privades de seguretat. Per això, governs de tot el món han intentat prohibir els servidors xifrats; un fet al qual s’hi oposen activistes, alertadors, periodistes o persones que, simplement, volen evitar que les dades de navegació caiguin en mans dels governs o les grans corporacions: &#8220;La privacitat sempre és prioritària. És un dret que ens permet desenvolupar les nostres idees, saber qui som i com volem presentar-nos al món&#8221;, <a href="/2020/06/14/silvia-puglisi-the-tor-project/">remarcava l&#8217;enginyera informàtica Silvia Puglisi, de <em>The Tor Project</em>, en una entrevista recent a <em>La Tecnòloga</em></a>.</p>
+
+
+
+<p>Així, en un país amb llibertats restringides, utilitzar el web fosc permet esquivar la censura, tot i que, segons l’investigador especialitzat en aquest àmbit Eric Jardine, els navegadors anònims també s’han popularitzat a les democràcies liberals arran d’una creixent preocupació per la privacitat. De fet, el pic més alt d’usuaris de Tor va coincidir amb l’inici de les revelacions sobre l&#8217;<a href="/2019/11/16/edward-snowden-project-tor/">espionatge massiu de l&#8217;Agència de Seguretat Nacional (NSA) d’Edward Snowden</a>, passant en tan sols un mes d’<a rel="noreferrer noopener" href="https://metrics.torproject.org/userstats-relay-country.html?start=2013-01-01&amp;end=2014-06-08&amp;country=all&amp;events=off" target="_blank">uns 800 mil usuaris a gairebé sis milions, el 18 de setembre del 2013</a>.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="608" height="325" src="/wp-content/uploads/2020/06/image-1.png" alt="" class="wp-image-1448" srcset="/wp-content/uploads/2020/06/image-1.png 608w, /wp-content/uploads/2020/06/image-1-300x160.png 300w" sizes="(max-width: 608px) 100vw, 608px" /><figcaption>The Tor Project.</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1446</post-id>	</item>
+	</channel>
+</rss>

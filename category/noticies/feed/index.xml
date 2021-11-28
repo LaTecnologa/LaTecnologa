@@ -1,0 +1,764 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Notícies &#8211; La Tecnòloga</title>
+	<atom:link href="/category/noticies/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>La revista tecnològica digital en català</description>
+	<lastBuildDate>Sat, 27 Nov 2021 21:24:05 +0000</lastBuildDate>
+	<language>ca</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/10/icona_64_fons_trans.png</url>
+	<title>Notícies &#8211; La Tecnòloga</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">177489427</site>	<item>
+		<title>Xnet denuncia que Educació esquiva l&#8217;acord contra la &#8216;googleització&#8217; de les aules catalanes</title>
+		<link>/2020/07/29/xnet-denuncia-que-educacio-esquiva-lacord-contra-la-googleitzacio-de-les-aules-catalanes/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 29 Jul 2020 17:48:40 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Suite]]></category>
+		<category><![CDATA[Xnet]]></category>
+		<guid isPermaLink="false">/?p=1537</guid>
+
+					<description><![CDATA[L&#8217;acord per buscar una alternativa al paquet d&#8217;aplicacions de Google Suite a les aules que va signar el juny el Departament d&#8217;Educació de la Generalitat&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>L&#8217;acord per buscar una alternativa al paquet d&#8217;aplicacions de Google Suite a les aules que va signar el juny el Departament d&#8217;Educació de la Generalitat amb la plataforma d&#8217;activistes Xnet pot haver quedat en paper mullat. Així ho ha denunciat aquest dimecres el col·lectiu defensor dels drets digitals <a rel="noreferrer noopener" href="https://xnet-x.net/digitalizacion-democratica-centros-educativos-cataluna/" target="_blank">en un comunicat</a>: segons Xnet, el nou pla de digitalització no inclou el compromís de revisar el programari i els servidors dels centres educatius catalans i no mostra cap intenció de buscar una alternativa al gegant Google, que al febrer va ser acusat per la Fiscalia de Nou Mèxic (EEUU) de recopilar dades dels alumnes de manera il·legal.  La preocupació és si la multinacional estaria accedint a un mercat de dades personals -com les capacitats intel·lectuals o els fracassos escolars de cada alumne, per posar-ne alguns exemples- dels menors. </p>
+
+
+
+<p>El &#8216;<a rel="noreferrer noopener" href="https://xnet-x.net/privacidad-datos-digitalizacion-democratica-educacion-sin-google/" target="_blank">Pla per a la digitalització democràtica dels centres educatius</a>&#8216; és, d&#8217;acord amb Xnet, el resultat d&#8217;un any de converses amb el Departament d&#8217;Educació amb l&#8217;objectiu d&#8217;impulsar una digitalització democràtica de les escoles. La proposta reclama que la comunitat educativa tingui el control de les pròpies dades, que la privacitat quedi garantida, que s&#8217;impulsi la capacitació digital puntera i l&#8217;ús de programari lliure. A diferència de les eines de Microsoft i Google, el programari lliure, a més de ser gratuït, permet a la comunitat de programadors accedir al codi font per tal d&#8217;auditar quines dades s&#8217;emmagatzemen, l&#8217;ús que se&#8217;n fa d&#8217;aquestes i si existeixen riscos de privacitat o seguretat per als estudiants.</p>
+
+
+
+<p>&#8220;Hem de denunciar una submissió innecessària a les pressions corporatives tant dels qui volen afavorir el monocultiu de multinacionals com Google i el seu <em>G Suite for Education</em>, com dels qui tenen interessos clientelars amb els diversos Departaments i volen impedir la diversitat i una digitalització que permeti florir més innovació a Catalunya i més llocs de feina que no depenguin del seu control&#8221;, diu Xnet al comunicat, on expliquen que compten amb el suport de la <a rel="noreferrer noopener" href="https://fapac.cat/" target="_blank">FaPaC</a>&nbsp;(Federació d’Associacions de Mares i Pares d’Alumnes de Catalunya),  l&#8217;<a rel="noreferrer noopener" href="https://www.sindicat.net/" target="_blank">USTEC</a>&nbsp;(Sindicat de treballadores i treballadors de l’ensenyament de Catalunya) i el <a rel="noreferrer noopener" href="https://www.sepc.cat/" target="_blank">SEPC</a>&nbsp;(Sindicat d’Estudiants dels Països Catalans).</p>
+
+
+
+<p>Xnet i<a rel="noreferrer noopener" href="https://maadix.net/es" target="_blank"> Maadix</a> -companyia especialitzada en solucions de codi obert, la privacitat de les comunicacions i la seguretat de les dades per a persones sense coneixements tècnics- van plantejar una sèrie d&#8217;aplicacions adaptades a les necessitats de la comunitat educativa auditables i de codi lliure i obert. La idea del col·lectiu és &#8220;<a rel="noreferrer noopener" href="https://xnet-x.net/privacidad-datos-digitalizacion-democratica-educacion-sin-google/" target="_blank">crear un cercle virtuós</a>&#8221; actualitzant i adaptant aquestes eines, algunes de les quals poc àgils i insuficients, per tal d&#8217;afavorir eines més ètiques i transparents que G Suite. Així mateix, el Pla, que segons Xnet, només l&#8217;1% del pressupost anunciat per Educació per a la digitalització, proposa capacitar les empreses catalanes per donar resposta a les necessitats educatives sense haver de recórrer a multinacionals poc respectuoses amb la privacitat. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1537</post-id>	</item>
+		<item>
+		<title>Presenten el primer observatori epidemiològic a Catalunya basat en intel·ligència artificial i dades massives</title>
+		<link>/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/</link>
+					<comments>/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/#comments</comments>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Thu, 16 Jul 2020 14:57:30 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Big Data]]></category>
+		<category><![CDATA[Dades Massives]]></category>
+		<category><![CDATA[Departament de Polítiques Digitals i Administració Pública de la Generalitat de Catalunya]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<guid isPermaLink="false">/?p=1484</guid>
+
+					<description><![CDATA[Estudiarà la propagació d&#8217;epidèmies a través de l’anàlisi de dades del cens, epidemiològiques, meteorològiques i mediambientals i d’algunes companyies telefòniques La pandèmia de la Covid-19&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Estudiarà la propagació d&#8217;epidèmies a través de l’anàlisi de dades del cens, epidemiològiques, meteorològiques i mediambientals i d’algunes companyies telefòniques</h2>
+
+
+
+<p>La pandèmia de la Covid-19 ha posat sobre la taula la necessitat d&#8217;anticipar-se als brots epidèmics per fer més eficients els processos de contenció i mitigació. Amb aquest objectiu, Catalunya ha vist néixer aquest dijous el primer projecte per a la prevenció d&#8217;epidèmies basat en intel·ligència artificial (IA) i l&#8217;anàlisi de dades massives (<em>Big Data</em>). </p>
+
+
+
+<p>L’observatori epidemiològic, impulsat pel Govern de la mà d&#8217;institucions mèdiques com l&#8217;Hospital Germans Trias i Pujol, operadores telefòniques, i centres educatius com la Universitat de Girona i la Rovira i Virgili, vol estudiar la propagació d&#8217;epidèmies a través de l’anàlisi de dades del cens, epidemiològiques, meteorològiques i mediambientals i d&#8217;algunes companyies telefòniques per crear &#8220;millors models predictius&#8221;, que ajudaran a elaborar models matemàtics i a dissenyar estratègies per preveure i mitigar la propagació d’epidèmies presents i futures. </p>
+
+
+
+<p>Segons una nota de premsa de la Generalitat, en primer lloc es procedirà al creuament de les dades de forma agregada i anonimitzada -en cap cas implicarà traçabilitat o identificació de les persones-, i a l’anàlisi i extensió de models matemàtics per comparar i predir patrons específics d&#8217;epidèmies, a partir de la grip i la Covid-19. Això permetrà definir un primer model epidemiològic al qual posteriorment s’aplicaran tècniques i algoritmes d&#8217;aprenentatge automàtic (<em>Machine Learning</em>) per millorar-lo. Finalment, es treballarà en la construcció d’una eina capaç d’integrar les diferents fonts de dades de manera automàtica que permetrà el monitoratge de l’evolució d’una epidèmia i crear un sistema de suport a les decisions obert per a les comunitats científica i sanitària.</p>
+
+
+
+<p><strong>&#8220;Respecte a la informació de caràcter personal&#8221;</strong></p>
+
+
+
+<p>La mateixa nota subratlla que &#8220;una de les prioritats d’aquest Observatori és definir un model de tractament de dades que garanteixi plenament el respecte a la informació de caràcter personal per protegir la intimitat i privacitat dels ciutadans&#8221;. &#8220;En aquest sentit -continua el comunicat-, per tal d’estudiar la transmissió del virus, es treballarà amb dades agregades epidemiològiques i de mobilitat, sempre agregades i anonimitzades, seguint les recomanacions i millors pràctiques del Comitè Europeu de Protecció de Dades (CEPD) i del Departament de Salut.&#8221;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="1024" height="678" src="/wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-1024x678.png" alt="Presentació del primer observatori epidemiològic de Catalunya basat en tecnologies digitals avançades" class="wp-image-1490" srcset="/wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-1024x678.png 1024w, /wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-300x199.png 300w, /wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20-768x508.png 768w, /wp-content/uploads/2020/07/Screen-Shot-2020-07-16-at-17.05.20.png 1213w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Presentació del primer observatori epidemiològic de Catalunya basat en tecnologies digitals avançades</figcaption></figure>
+
+
+
+<p>L’Observatori s’ubicarà a l’Hospital Germans Trias i Pujol (HGTiP) i comptarà amb la coordinació científica del doctor Bonaventura Clotet, cap del Servei de Malalties Infeccioses de l’HGTiP i president de la Fundació Lluita contra la Sida (FLS). La coordinació tècnica anirà a càrrec del Center for Innovation in Data tech and Artificial Intelligence (CIDAI), creat en el marc de l’Estratègia en Intel·ligència Artificial del Govern de Catalunya, Catalonia.AI.</p>
+
+
+
+<p>Aquesta iniciativa publicoprivada suma els esforços de la Generalitat de Catalunya, a través del Departament de Polítiques Digitals i Administració Pública i el Departament de Salut; institucions mèdiques i de salut (Hospital Germans Trias i Pujol i Fundació Lluita contra la Sida); centres d’innovació i investigació tecnològica i grups de recerca (CIDAI, Eurecat, Barcelona Supercomputing Center, Universitat Rovira i Virgili i Universitat de Girona) i el Mobile World Capital Barcelona. A més, el projecte compta amb la col·laboració de la iniciativa GSMA AI for Impact.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/07/16/arrenca-el-primer-observatori-epidemiologic-a-catalunya-basat-en-intelligencia-artificial-i-dades-massives/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1484</post-id>	</item>
+		<item>
+		<title>Neix l’Observatori d’ètica en intel·ligència artificial de Catalunya</title>
+		<link>/2020/06/29/observatori-etica-intelligencia-artificial-catalunya/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Mon, 29 Jun 2020 16:44:41 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[ADA]]></category>
+		<category><![CDATA[Algoritmes de Decisió Automatitzada]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Carme Torras]]></category>
+		<category><![CDATA[Ethics]]></category>
+		<category><![CDATA[Ètica]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Karma Peiró]]></category>
+		<guid isPermaLink="false">/?p=1463</guid>
+
+					<description><![CDATA[“L’evolució tecnològica és tan àmplia, profunda i veloç que els éssers humans no som capaços d’anticipar com s&#8217;incorporarà a les nostres vides”, afirmava Maria Àngels&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>“L’evolució tecnològica és tan àmplia, profunda i veloç que els éssers humans no som capaços d’anticipar com s&#8217;incorporarà a les nostres vides”, afirmava Maria Àngels Barbarà, directora de l’Autoritat Catalana de Protecció de Dades, a l’informe <a rel="noreferrer noopener" href="https://apdcat.gencat.cat/web/.content/04-actualitat/noticies/documents/INFORME-INTELLIGENCIA-ARTIFICIAL-FINAL-WEB-OK.pdf" target="_blank"><em>Intel·ligència Artificial. Decisions Automatitzades a Catalunya</em></a>. La periodista Karma Peiró recull a l’estudi més de cinquanta exemples d’usos d’algorismes de decisió automatitzada (ADA) a Catalunya i que, <a href="/2020/02/14/inteligencia-artificial-catalunya-algoritmes-invisibles/">en molts casos, han passat desapercebuts per a la majoria de la població tot i intervenir en decisions sovint sensibles</a>: per exemple, extradir migrants, concedir ajuts socials, predir el risc de reincidència d’un pres o advertir què ha après i què no ha après un alumne a l’escola. El que passa és que si les màquines s’entrenen amb prou dades fiables, els ADA poden facilitar-nos enormement la vida; però si es nodreixen amb informació deficient i esbiaixada, <a href="/2020/01/03/intelligencia-artificial-els-dilemes-etics-del-2020/">els resultats poden conduir a errors o a decisions discriminatòries</a>. Per això el naixement, aquest dilluns, de l&#8217;Observatori d&#8217;Ètica en Intel·ligència Artificial de Catalunya és una bona notícia.</p>
+
+
+
+<p>La iniciativa neix del Govern i la Universitat de Girona (UdG) i pren la forma d’una càtedra amb seu a la facultat. <a rel="noreferrer noopener" href="http://politiquesdigitals.gencat.cat/ca/detalls/Noticia/200629_Observatori_IA" target="_blank">Segons una nota de la Generalitat</a>, l’Observatori té la missió d’estudiar els impactes ètics i legals de la implantació de la IA en la vida diària, de vetllar perquè la tecnologia s’apliqui de manera segura i justa, d’establir unes directrius ètiques i, en definitiva, de desenvolupar al país “una intel·ligència artificial ètica i confiable”. Per aconseguir-ho, l’observatori vol analitzar l’evolució del desenvolupament de la IA a Catalunya, impulsar jornades i tallers per debatre sobre ètica, regulació i IA, promoure la conscienciació ciutadana entorn la IA i les decisions automatitzades i crear un consell assessor format per experts d’àmbits diversos -acadèmic, tecnològic, humanístic, legal, econòmic, etc.</p>
+
+
+
+<p>La iniciativa compta amb un pressupost de 250.000 euros per al període 2020–2022, finançats principalment pel Departament de Polítiques Digitals en el marc de l’estratègia <a rel="noreferrer noopener" href="http://politiquesdigitals.gencat.cat/ca/tic/catalonia-ai" target="_blank">Catalonia.AI, l’Estratègia d’Intel·ligència Artificial de Catalunya</a>, aprovada el 18 de febrer, i el pla estratègic de la <a rel="noreferrer noopener" href="https://www.udg.edu/ca/Portals/63/Escenaris/PE_2030_SumaIntel_20190306.pdf" target="_blank">Universitat de Girona ‘2030: La suma d’Intel·ligències’</a>, que vol buscar el millor encaix de la intel·ligència artificial amb la intel·ligència natural i la intel·ligència col·lectiva.</p>
+
+
+
+<p>El tret de sortida de l’Observatori l’han donat aquest matí el conseller de Polítiques Digitals, Jordi Puigneró, i el rector de la UdG, Quim Salvi, entre altres representants del Govern i la universitat, que han presentat el nou organisme en un acte telemàtic amb la intervenció de Karma Peiró i de la <a href="/2020/05/29/distopies-tecnologiques-per-jutjar-el-dema/">professora d’Investigació de l’Institut de Robòtica (CSIC-UPC) i escriptora Carme Torras</a>.</p>
+
+
+
+<h3>La necessitat d’una mirada ètica</h3>
+
+
+
+<p>Els intents de regular la intel·ligència artificial des d’una mirada ètica persegueixen l’evolució tecnològica, però de moment no l’atrapen. El febrer, la presidenta de la Comissió Europea (CE), Ursula Von der Leyen, va presentar un pla per regular la IA i recuperar la sobirania digital davant els gegants tecnològics, tot i que les veus crítiques li van retreure poca concreció. A l’abril del 2019, un grup d’experts d’alt nivell de la CE havia fet públiques unes Directrius Ètiques per a una IA Confiable (<em>Ethics Guidelines for Trustworthy AI</em>). Poc després, el professor de filosofia de la Universitat de Mainz (Alemanya) Thomas Metzinger, que va formar part del grup d’experts, va denunciar al diari <em>Der Tagesspiegel</em> que “<a href="/2020/02/15/etica-inteligencia-artificial-maquillatge/">el relat de la Intel·ligència Artificial confiable pretén eixamplar els mercats futurs</a> i utilitzar els debats sobre Ètica com un bell decorat públic per a una estratègia d’inversió a gran escala”. Per això, cal prendre consciència que la revisió ètica de la IA necessita molt més que una declaració de bones intencions.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1463</post-id>	</item>
+		<item>
+		<title>La pandèmia dispara l’activitat il·legal al web fosc</title>
+		<link>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/</link>
+					<comments>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/#comments</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 25 Jun 2020 16:10:16 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Agència de Ciberseguretat de Catalunya]]></category>
+		<category><![CDATA[Cibercrim]]></category>
+		<category><![CDATA[Cibersecurity]]></category>
+		<category><![CDATA[Ciberseguretat]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Dark web]]></category>
+		<category><![CDATA[Edward Snowden]]></category>
+		<category><![CDATA[Silvia Puglisi]]></category>
+		<category><![CDATA[The Tor Project]]></category>
+		<category><![CDATA[Tor]]></category>
+		<category><![CDATA[Web fosc]]></category>
+		<guid isPermaLink="false">/?p=1446</guid>
+
+					<description><![CDATA[Vacunes i cures falses, drogues, més material pedòfil i credencials d’accés a entorns corporatius: el coronavirus desplaça la criminalitat al món virtual ]]></description>
+										<content:encoded><![CDATA[
+<h2>Vacunes i cures falses, drogues, més material pedòfil i credencials d’accés a entorns corporatius: el coronavirus desplaça la criminalitat al món virtual </h2>
+
+
+
+<p>La Covid-19 ha omplert Internet d’ofertes de cures, proves de diagnòstic, respiradors i equips de protecció personal a preus desorbitats, productes teòricament miraculosos i vacunes falses. Segons <a rel="noreferrer noopener" href="https://www.anu.edu.au/news/all-news/pandemic-profiting-vaccines-and-ppe-on-the-dark-web" target="_blank">una recerca de l’<em>Australian National University</em></a>, que a l’abril va investigar vint mercats clandestins d’Internet, s’hi ha arribat a vendre un fals vaccí per 24.598 dòlars, distribuït des dels Estats Units, mentre el preu mitjà d’aquest producte no baixa dels 575. D’acord amb l’estudi, es tracta de substàncies “probablement robades o distribuïdes il·legalment des de laboratoris d’assaig amb animals o humans o, fins i tot, amb pacients recuperats del coronavirus”.&nbsp;</p>
+
+
+
+<p>Productes com aquests s’han comercialitzat al llarg del confinament al <a href="https://www.termcat.cat/ca/actualitat/apunts/que-samaga-la-xarxa-web-profund-i-web-fosc">web fosc (en anglès, <em>dark web</em>)</a>, on habitualment hi ha lloc per a la venda il·legal d&#8217;armes, drogues, material pedòfil, targetes de crèdit robades, programari maliciós, documents falsificats i tota mena d’activitats que defugen la llei. Els abismes d’Internet no són accessibles des d’un navegador normal i, per a entrar, cal un programari especial. Un exemple és la xarxa d’anonimat TOR (<em>The Onion Router</em>; o, en català, L’Enrutador Ceba), composta per milers de servidors i estructurada en forma de capes, que fa pràcticament impossible identificar els usuaris. “Allò que et dona el web fosc és un anonimat quasi absolut”, expliquen fonts de l’Agència de Ciberseguretat de Catalunya. Tot això ho converteix en un espai molt atractiu per als cibercriminals.</p>
+
+
+
+<p>Les dades de <em>The Tor Project</em>, que és l’entitat d’administració de la xarxa Tor, evidencien un creixement molt significatiu d’usuaris durant la quarantena. Així, si el dia previ a l’anunci del decret d’alarma, el 12 de març, es van registrar a Espanya 23.703 usuaris, <a rel="noreferrer noopener" href="https://metrics.torproject.org/userstats-relay-country.html?start=2020-01-01&amp;end=2020-06-17&amp;country=es&amp;events=off" target="_blank">el 7 de maig es van assolir els 43.495</a>; o sigui, que el trànsit ha arribat a créixer més d’un 180% durant el confinament. Des d’aleshores, l’activitat ha minvat lleugerament, tot i que a l’últim mes s’han continuat veient xifres elevades: 38.169 usuaris l’11 de juny. Un increment que no té res a veure amb l’any passat, que amb prou feines va arribar als 29.481 usuaris.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="615" height="327" src="/wp-content/uploads/2020/06/image.png" alt="" class="wp-image-1447" srcset="/wp-content/uploads/2020/06/image.png 615w, /wp-content/uploads/2020/06/image-300x160.png 300w" sizes="(max-width: 615px) 100vw, 615px" /><figcaption>The Tor Project.</figcaption></figure>
+
+
+
+<h3>Espanya, el sisè estat més atacat per amenaces relacionades amb la Covid-19</h3>
+
+
+
+<p>El Covid-19 també s’ha popularitzat als fòrums de ciberdelinqüents especialitzats en el robatori de dades. Segons <a rel="noreferrer noopener" href="https://www.bitdefender.es/news/espa%C3%B1a-se-sit%C3%BAa-entre-los-seis-pa%C3%ADses-del-mundo-m%C3%A1s-atacados-por-ciberamenazas-relacionadas-con-el-coronavirus-3839.html" target="_blank">l’empresa de ciberseguretat Bitdefender</a>, Espanya s’ha convertit en el sisè país més atacat per amenaces relacionades amb la Covid-19. Al març, les ciberamenaces vinculades amb la crisi ja s’havien multiplicat per cinc, i a l’abril el creixement va ser encara major. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Una investigació de la consultora Digital Shadows</a> mostra un debat en un xat de la <em>dark web</em> sobre &#8220;Com treure el màxim partit de la quarantena&#8221;.&nbsp;</p>
+
+
+
+<p>Segons l’Agència de Ciberseguretat de Catalunya, l’activitat criminal que més ha crescut és la venda de credencials d’accés a entorns corporatius. Amb la implantació del teletreball a correcuita s’ha ampliat la bretxa de seguretat informàtica als sectors menys acostumats a aquesta modalitat laboral: “Ara els usuaris naveguen molt més i es compten moltes més víctimes de pesca per correu electrònic (<em>phishing</em>) utilitzant d&#8217;esquer la Covid-19”, explica una font de l’agència. “Algunes contrasenyes acaben sent venudes al web fosc i algú altre les compra per demanar rescats mentre altres amenacen la víctima amb filtrar la informació”, hi afegeix.&nbsp;</p>
+
+
+
+<p>La Covid-19 també ha donat un impuls sense precedents a la pederàstia. <a rel="noreferrer noopener" href="https://diariodetransporte.com/2020/04/informe-de-europol-sobre-cibercrimen-y-desinformacion-en-medio-de-la-crisis-sanitaria/" target="_blank">Un estudi de l’Europol sobre cibercrim durant la pandèmia</a> alerta que l’intercanvi de material pedòfil va disparar-se un 25% durant l’estat d’alarma, arribant a les 21.100 descàrregues entre el 17 i el 24 de març. Dues setmanes després, la Guàrdia Civil detectà a Espanya un nou rècord de la circulació de vídeos pedòfils quan l’augment va assolir el 507% durant l’estat d’alarma, <a rel="noreferrer noopener" href="https://elpais.com/sociedad/2020-04-27/el-trafico-de-videos-pedofilos-se-dispara-en-redes-un-507-durante-el-estado-de-alarma.html" target="_blank">segons una investigació de la Unitat Central Operativa (UCO) de la Guàrdia Civil que va fer públic <em>El País</em></a> i tal com ha pogut confirmar <em>La Tecnòloga</em>. L’Europol alerta que els pedòfils han aprofitat la pandèmia per buscar noves víctimes i reprodueix alguns dels seus missatges: “Hola, amb aquesta quarantena creieu que hi haurà més nens a Omegle [un lloc web per a xatejar amb persones anònimes] traient ‘<em>packs</em>’ [de fotografies íntimes]?”, es demana algú en un fòrum d&#8217;Internet, mentre algú altre encara va més enllà: “Imagina estar tancat a casa en tot moment. Aquells que tenen un fill a casa o els que passen més temps amb els seus fills, jajaja, m’agradaria tenir aquesta situació”.&nbsp;</p>
+
+
+
+<p>El confinament també ha provocat un augment de visites al web fosc per comprar droga. Amb la restricció dels moviments, els consumidors l’han anat a buscar al mercat negre d’Internet. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Com ho reflecteix Digital Shadows</a>, un venedor de cànnabis promet un bon servei als seus clients oferint-los “uns cogolls de laboratori densos i ensucrats, enviats a domicili per un venedor dedicat del web fosc”.</p>
+
+
+
+<p>L’increment de la venda de productes relacionats amb la Covid-19 al web fosc s’explica en part per la interrupció de l’activitat habitual dels ciberdelinqüents. <a rel="noreferrer noopener" href="https://www.digitalshadows.com/blog-and-research/coronavirus-as-a-double-edged-sword-for-cybercriminals/" target="_blank">Digital Shadows reprodueix</a> les preocupacions d’alguns usuaris que temen els efectes de la pandèmia sobre els seus models de negoci. En un fòrum del web fosc, algú s’hi anuncia: “Un vell busca feina”. A la mateixa publicació explica que treballava des del 2012 en el frau orientat al turisme, hotels, vols i excursions, i hi afegeix: “(&#8230;) però des que va començar l’estafa del coronavirus m’he quedat indefinidament sense ingressos”.&nbsp;</p>
+
+
+
+<h3>El web fosc i la llibertat d’expressió</h3>
+
+
+
+<p>Perseguir els delinqüents del web fosc és una cursa d’obstacles quan l’anonimat s’interposa entre aquests i la policia, que normalment disposa de pocs recursos si no compta amb l’ajuda d’organismes internacionals com l’Europol o empreses privades de seguretat. Per això, governs de tot el món han intentat prohibir els servidors xifrats; un fet al qual s’hi oposen activistes, alertadors, periodistes o persones que, simplement, volen evitar que les dades de navegació caiguin en mans dels governs o les grans corporacions: &#8220;La privacitat sempre és prioritària. És un dret que ens permet desenvolupar les nostres idees, saber qui som i com volem presentar-nos al món&#8221;, <a href="/2020/06/14/silvia-puglisi-the-tor-project/">remarcava l&#8217;enginyera informàtica Silvia Puglisi, de <em>The Tor Project</em>, en una entrevista recent a <em>La Tecnòloga</em></a>.</p>
+
+
+
+<p>Així, en un país amb llibertats restringides, utilitzar el web fosc permet esquivar la censura, tot i que, segons l’investigador especialitzat en aquest àmbit Eric Jardine, els navegadors anònims també s’han popularitzat a les democràcies liberals arran d’una creixent preocupació per la privacitat. De fet, el pic més alt d’usuaris de Tor va coincidir amb l’inici de les revelacions sobre l&#8217;<a href="/2019/11/16/edward-snowden-project-tor/">espionatge massiu de l&#8217;Agència de Seguretat Nacional (NSA) d’Edward Snowden</a>, passant en tan sols un mes d’<a rel="noreferrer noopener" href="https://metrics.torproject.org/userstats-relay-country.html?start=2013-01-01&amp;end=2014-06-08&amp;country=all&amp;events=off" target="_blank">uns 800 mil usuaris a gairebé sis milions, el 18 de setembre del 2013</a>.&nbsp;</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="608" height="325" src="/wp-content/uploads/2020/06/image-1.png" alt="" class="wp-image-1448" srcset="/wp-content/uploads/2020/06/image-1.png 608w, /wp-content/uploads/2020/06/image-1-300x160.png 300w" sizes="(max-width: 608px) 100vw, 608px" /><figcaption>The Tor Project.</figcaption></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/06/25/pandemia-dispara-activitat-ilegal-web-fosc/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1446</post-id>	</item>
+		<item>
+		<title>Alumnes sense ordinador i ordinadors en desús: recollida solidària contra la bretxa digital</title>
+		<link>/2020/05/14/alumnes-sense-ordinador-i-ordinadors-en-desus-recollida-solidaria-contra-la-bretxa-digital/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 14 May 2020 15:34:26 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Bretxa digital]]></category>
+		<category><![CDATA[Digital Gap]]></category>
+		<category><![CDATA[Societat]]></category>
+		<guid isPermaLink="false">https://nova.tecnologa.cat/?p=1165</guid>
+
+					<description><![CDATA[Un 34% de les famílies amb rendes baixes no té cap dispositiu per seguir les classes online, segons la Fundació Viarany Internet no és una&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Un 34% de les famílies amb rendes baixes no té cap dispositiu per seguir les classes online, segons la Fundació Viarany</h2>
+
+
+
+<p>Internet no és una utopia amb possibilitats il·limitades, tal com es pensava als anys 90. No és un espai lliure de vigilància, on es pot expressar qualsevol opinió, com va demostrar <a href="/2019/11/16/edward-snowden-project-tor/">Edward Snowden</a>. Més aviat sembla un lloc ple de gent enfadada i obsessionada amb la seva pròpia representació, d&#8217;acord amb la periodista <a rel="noreferrer noopener" href="http://lab.cccb.org/ca/el-jo-a-internet/" target="_blank">Jia Tolentino, que al llibre <em>Falso Espejo</em></a> descriu Internet com un &#8220;infern elèctric, febril i invivible&#8221;. </p>
+
+
+
+<p>Però també és cert que Internet és una porta al coneixement i una finestra al món, especialment durant la quarantena. Ens agradi o no, la presència digital és una forma més de forjar una carrera professional. I ara també és l&#8217;única opció dels estudiants per acabar el curs. Però, en un context on l&#8217;educació està cada cop més digitalitzada, no tothom rep classe amb igualtat de condicions perquè fer-ho depèn de la connexió a Internet. I les diferències en l&#8217;accés als mitjans telemàtics -o sigui, la bretxa digital- es relaciona íntimament amb problemes estructurals com la pobresa, l’exclusió, la desocupació o la precarització de la feina, d&#8217;acord amb <a rel="noreferrer noopener" href="https://ricardfaura.net/2020/04/27/perque-la-connectivitat-es-el-principal-escull-per-superar-la-bretxa-digital/" target="_blank">aquesta anàlisi de Ricard Faura</a>, cap del Servei d&#8217;Inclusió o Capacitació Digital de la Generalitat.</p>
+
+
+
+<h3>Dona una tablet o un PC</h3>
+
+
+
+<p>Gent sense ordinador i ordinadors sense gent: &#8220;Hi ha alumnes que no en tenen i, alhora, molts n&#8217;acumulen i no els fan servir&#8221;, explica Zita Bartolomé, de la Fundació Privada Viarany, entitat catalana especialitzada en la inclusió socioeducativa. Amb el suport d&#8217;EDIW Barcelona, la fundació ha engegat una campanya per recollir ordinadors i tauletes que no s&#8217;utilitzen per tal de fer-los arribar als alumnes que, d&#8217;altra manera, no poden continuar assistint a classe. La iniciativa té per nom &#8216;Dona una tablet o un PC&#8217;.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4e3.png" alt="📣" class="wp-smiley" style="height: 1em; max-height: 1em;" /> La Fundació Privada Viarany amb el suport de EDIW Barcelona han posat en marxa una campanya<br>de recollida de tauletes i ordinadors per tal de fer-los arribar a les famílies que no disposen dels<br>mitjans necessaris per garantir la igualtat d&#39;oportunitats a nivell educatiu. <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4bb.png" alt="💻" class="wp-smiley" style="height: 1em; max-height: 1em;" /><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4da.png" alt="📚" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/IJD6H4b2qY">pic.twitter.com/IJD6H4b2qY</a></p>&mdash; DonaunatabletounPC (@Donaunatabletpc) <a href="https://twitter.com/Donaunatabletpc/status/1256132387869777920?ref_src=twsrc%5Etfw">May 1, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>A hores d&#8217;ara, l&#8217;entitat ja ha aconseguit 53 donacions, entre ordinadors i tauletes. Abans d&#8217;arribar a les mans dels beneficiaris, tots els equips passen per la botiga BCN Informàtica, que ajuda la Fundació a fer el buidatge de dades antigues -tot seguint el Reglament Europeu de Protecció de Dades- i hi instal·la després un sistema operatiu, gratuït per a les famílies. </p>
+
+
+
+<p>Cal tenir present que la campanya pretén atacar la bretxa digital ara i després de la pandèmia. La iniciativa, que s&#8217;estendrà més enllà del confinament, també vol &#8220;crear consciència i sensibilització sobre un problema que existia abans del coronavirus i seguirà existint després de la nova normalitat&#8221;, subratlla Bartolomé.</p>
+
+
+
+<p>Així, per a donar un ordinador o una tauleta, no cal residir a la vora de Barcelona, on la Fundació Viarany té la seu: si bé els equips informàtics poden entregar-se en mà al seu local, també es pot organitzar una recollida a domicili o fer un enviament per correu. Només s&#8217;ha de contactar amb l&#8217;entitat al telèfon 652543240 o al correu donaunatabletopc@fundacioviarany.org. </p>
+
+
+
+<h3>La bretxa digital, en xifres</h3>
+
+
+
+<p>Segons les dades recollides per la Fundació Viarany en el seu projecte del Centre Obert Eixample -que ofereix un acompanyament en l&#8217;educació formal i no formal a nens, adol·lescents i famílies amb risc d&#8217;exclusió social-, un 34% de les famílies ateses no té cap dispositiu per seguir les classes online. &#8220;Un 9% de les llars que atenem no tenia connexió, però amb l&#8217;ajuda dels serveis socials el problema s&#8217;ha anat resolent&#8221;, explica Bartolomé. &#8220;Per això vam centrar-nos en la recollida de dispositius, perquè és allò que costa més&#8221;, hi afegeix. </p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="410" height="1024" src="https://nova.tecnologa.cat/wp-content/uploads/2020/05/Infographic.cat_-410x1024.png" alt="" class="wp-image-1167" srcset="/wp-content/uploads/2020/05/Infographic.cat_-410x1024.png 410w, /wp-content/uploads/2020/05/Infographic.cat_-120x300.png 120w, /wp-content/uploads/2020/05/Infographic.cat_-768x1920.png 768w, /wp-content/uploads/2020/05/Infographic.cat_.png 800w" sizes="(max-width: 410px) 100vw, 410px" /><figcaption>Infografia de la Fundació Privada Viarany.</figcaption></figure></div>
+
+
+
+<p>La Generalitat va xifrar en 52.000 les famílies a Catalunya sense mitjans tecnològics per seguir les classes telemàtiques a Internet. <a rel="noreferrer noopener" href="https://www.elperiodico.com/es/sociedad/20200330/brecha-digital-aprendizaje-coronavirus-7904747" target="_blank">Segons un reportatge d&#8217;El Periódico</a>, el 15% de les llars catalanes no tenen computadora, i el percentatge s&#8217;eleva al 34,8% en el cas de les famílies amb rendes més baixes. </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://www.ugt.es/un-plan-nacional-de-inclusion-tecnologica-que-termine-con-la-brecha-digital" target="_blank">D&#8217;acord amb UGT</a>, un 31.5% de les llars espanyoles amb una renda inferior a 900 euros mensuals no tenen accés a Internet. I la majoria dels menors amb problemes d&#8217;accés a la Xarxa presenten un perfil molt definit: viuen en poblacions petites -de menys de 10.000 habitants-, amb famílies monoparentals o resideixen en llars de cinc o més membres. Com revertir d&#8217;arrel la situació? Segons Ricard Faura, la manca d’inversió d’Estats i operadores &#8220;són els principals responsables de promoure i perpetuar les desigualtats entre regions, països i persones&#8221;.</p>
+
+
+
+<p>Allò cert és que la Generalitat no s’ha quedat de braços creuats i just fa un mes va posar en marxa un operatiu per garantir paquets de dades d’Internet i ordinadors a les 52.000 famílies amb dificultats per connectar amb l’escola. A les Balears, la Conselleria d’Educació calcula que hi ha 2.193 alumnes que no tenen ordinador ni tauleta, i 1.751 sense connexió a Internet ni terminals informàtics. Per això, a principis d’abril anuncià que comprava 3.000 chromebooks per als estudiants sense eines per accedir a l&#8217;aprenentatge virtual. Tot i així, calen encara més esforços. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1165</post-id>	</item>
+		<item>
+		<title>Twitter fa una prova per fer canviar als usuaris les respostes ofensives</title>
+		<link>/2020/05/06/twitter-experiment-canviar-usuaris-respostes-ofensives/</link>
+		
+		<dc:creator><![CDATA[La Tecnòloga]]></dc:creator>
+		<pubDate>Wed, 06 May 2020 17:35:29 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Artificial Intelligence]]></category>
+		<category><![CDATA[Intel·ligència Artificial]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<guid isPermaLink="false">/?p=1057</guid>
+
+					<description><![CDATA[La companyia està provant un nou sistema per calmar els ànims abans que algú hi obri foc]]></description>
+										<content:encoded><![CDATA[
+<p>&#8220;Quan les coses s&#8217;escalfen, potser dius coses que no volies dir&#8221;, ha piulat Twitter aquest dimarts. I continua: &#8220;Estem posant en marxa un experiment a iOS amb un sistema que et dona l&#8217;opció de revisar la teva resposta abans que sigui publicada en cas d&#8217;utilitzar un llenguatge que pot ser ofensiu&#8221;. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">When things get heated, you may say things you don&#39;t mean. To let you rethink a reply, we’re running a limited experiment on iOS with a prompt that gives you the option to revise your reply before it’s published if it uses language that could be harmful.</p>&mdash; Twitter Support (@TwitterSupport) <a href="https://twitter.com/TwitterSupport/status/1257717113705414658?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>Davant les habituals batalles verbals que es despleguen a Twitter, la plataforma vol oferir una segona oportunitat als tuitaires més agressius. Així, la companyia està provant un nou sistema per calmar els ànims abans que algú hi obri foc: quan els algorismes detecten una resposta amb llenguatge &#8220;ofensiu&#8221;, hi apareix una finestra amb una suggerència per canviar el text abans de ser publicat. Una mesura que ha sembrat la desconfiança a diversos usuaris de Twitter: &#8220;La llibertat d&#8217;expressió existeix perquè la gent pugui dir coses que no t&#8217;agraden. Al final és una companyia la que decideix què és apropiat i què no, que no és cap poder moral superior&#8221;, diu un usuari.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">Freedom of speech is there to protect the speech you hate, always consider it that way. Also ultimately its a company thats deciding whats appropriate and whats not, not some higher moral power. Keep that in mind</p>&mdash; Professer_finesser (@Akwardgaming) <a href="https://twitter.com/Akwardgaming/status/1257820677836603395?ref_src=twsrc%5Etfw">May 5, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>L&#8217;any passat, Instagram va fer una prova similar. &#8220;Els resultats han estat positius. Veiem que aquests tocs d&#8217;atenció poden animar la gent a reconsiderar les seves paraules&#8221;, <a rel="noreferrer noopener" href="https://about.instagram.com/blog/announcements/our-progress-on-leading-the-fight-against-online-bullying" target="_blank">va escriure al desembre la companyia al seu blog</a>. D&#8217;aquesta manera, avui, quan els algorismes d&#8217;aquesta xarxa social detecten que un usuari és a punt de publicar un comentari potencialment lesiu, se li apareix un avís com el de la imatge, i l&#8217;informa de que frases similars ja han estat denunciades abans.  </p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2048" height="1387" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n.png?fit=1024%2C694&amp;ssl=1" alt="" class="wp-image-1059" srcset="/wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n.png 2048w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-300x203.png 300w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-1024x694.png 1024w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-768x520.png 768w, /wp-content/uploads/2020/05/81309613_587460808492674_2956521328967942144_n-1536x1040.png 1536w" sizes="(max-width: 2048px) 100vw, 2048px" /><figcaption>Instagram.</figcaption></figure>
+
+
+
+<p>Cal tenir en compte que, amb Twitter, ja són totes les grans xarxes socials les que han mostrat la seva confiança en la Intel·ligència Artificial a l&#8217;hora de moderar continguts. I això és especialment cert quan la pandèmia ha fet retallar temporalment molts llocs de feina, <a rel="noreferrer noopener" href="https://techcrunch.com/2020/05/05/twitter-harmful-replies-prompt-harassment-test-feature/" target="_blank">segons Tech Crunch</a>. Tot i així, és evident que es tracta d&#8217;una mesura que ha vingut per quedar-se. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">1057</post-id>	</item>
+		<item>
+		<title>Visita virtual a set museus del món</title>
+		<link>/2020/04/17/visita-virtual-a-set-dels-millors-museus-del-mon/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 17 Apr 2020 20:13:54 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Google Art]]></category>
+		<category><![CDATA[Museus virtuals]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Street View]]></category>
+		<guid isPermaLink="false">/?p=982</guid>
+
+					<description><![CDATA[Per què no repassar els vestits de Frida Kahlo des del llit? O submergir-se en la mirada de la Mona Lisa des del sofà? O viatjar a l'Índia a través dels seus vestigis artístics amb un clic?]]></description>
+										<content:encoded><![CDATA[
+<p>Per què no repassar l&#8217;art de Frida Kahlo des del llit? O submergir-se en la mirada de la Mona Lisa des del sofà? O viatjar a l&#8217;Índia a través dels seus vestigis artístics amb un clic? La pandèmia mundial no ha aconseguit tancar els museus que ofereixen <em>tours</em> virtuals, gràcies a eines com Google Arts &amp; Culture i Street View. Aquí teniu set propostes per assaborir centenars d&#8217;obres artístiques del més al nivell sense sortir de casa ni pagar un cèntim.</p>
+
+
+
+<h3>El Museu de Frida Kahlo (La Casa Azul, Ciutat de Mèxic)</h3>
+
+
+
+<p>La Casa Azul és on Frida Kahlo, l&#8217;artista mexicana més popular del món, va viure i exhalar l&#8217;últim alè. Amb Diego Rivera, el seu marit, van omplir l&#8217;edifici de colors i peces d&#8217;art popular. Kahlo va fer de la llar el seu univers creatiu, i entre aquestes parets reposen molts dels seus objectes personals i algunes de les obres més importants de l&#8217;artista, com Viva la Vida (1954), Frida y la cesárea (1931) o Retrato de mi padre Wilhem Kahlo (1952).</p>
+
+
+
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="https://artsandculture.google.com/partner/museo-frida-kahlo" target="_blank">Visita virtual a La Casa Azul</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i0.wp.com/tecnologa.cat/wp-content/uploads/2020/04/frida-ok-1-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1047" srcset="/wp-content/uploads/2020/04/frida-ok-1-scaled.jpg 2560w, /wp-content/uploads/2020/04/frida-ok-1-300x179.jpg 300w, /wp-content/uploads/2020/04/frida-ok-1-1024x610.jpg 1024w, /wp-content/uploads/2020/04/frida-ok-1-768x457.jpg 768w, /wp-content/uploads/2020/04/frida-ok-1-1536x914.jpg 1536w, /wp-content/uploads/2020/04/frida-ok-1-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>La Casa Azul, Museu de Frida Kahlo.</figcaption></figure>
+
+
+
+<h3>Galeria dels Uffizi (Florència)</h3>
+
+
+
+<p>La Galeria Uffizi és un dels temples de la cultura europea que més pateix la massificació, amb sales plenes a vessar i cues infinites a l&#8217;entrada. Però res d&#8217;això incordiarà els visitants virtuals, que poden repassar des de casa les pintures de Botticelli, Leonardo i Caravaggio i un arxiu de més de 4.000 obres catalogades. </p>
+
+
+
+<p class="has-text-align-center"><a href="https://artsandculture.google.com/partner/uffizi-gallery" target="_blank" rel="noreferrer noopener">Visita virtual a la Galeria Uffizi</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i2.wp.com/tecnologa.cat/wp-content/uploads/2020/04/botticelli-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1003" srcset="/wp-content/uploads/2020/04/botticelli-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/botticelli-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/botticelli-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/botticelli-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/botticelli-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/botticelli-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>El naixement de Venus<br>Sandro Boticelli &#8211; 1482-1485</figcaption></figure>
+
+
+
+<h3>Museu Van Gogh (Àmsterdam)</h3>
+
+
+
+<p>Els usuaris poden visualitzar les pinzellades del postimpressionista holandès a cop de clic, endinsar-se en la seva biografia i passejar virtualment per la famosa Habitació d&#8217;Arlès i el gran ventall d&#8217;escenaris que va plasmar sobre tela. Vincent Van Gogh només va aconseguir vendre un sol quadre mentre vivia. Mai va imaginar-se que es convertiria en un dels artistes més influents del segle XX i que el seu museu atrauria cada any milions de visitants.</p>
+
+
+
+<p class="has-text-align-center"><a href="https://artsandculture.google.com/partner/van-gogh-museum?hl=en" target="_blank" rel="noreferrer noopener">Visita virtual al Museu Van Gogh</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/04/vangogh-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1004" srcset="/wp-content/uploads/2020/04/vangogh-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/vangogh-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/vangogh-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/vangogh-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/vangogh-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/vangogh-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Terrassa de cafè de nit<br>Vincent Van Gogh &#8211; 1888</figcaption></figure>
+
+
+
+<h3>Museu Bhau Daji Lad (Bombai, Índia)</h3>
+
+
+
+<p>Mapes, litografies, relíquies arqueològiques i models d&#8217;argila és només una petita porció d&#8217;allò que trobarà l&#8217;espectador al Bhau Daji Lad, un dels museus més antics d&#8217;aquesta regió índia que mostra el seu patrimoni cultural i històric a través d&#8217;una estranya i bella col·lecció d&#8217;arts decoratives que, a més, fan evident que el país va acollir un precoç art modern. </p>
+
+
+
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="https://artsandculture.google.com/partner/dr-bhau-daji-lad-mumbai-city-museum" target="_blank">Visita virtual al Bhau Daji Lad</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i0.wp.com/tecnologa.cat/wp-content/uploads/2020/04/india-ok-1-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1048" srcset="/wp-content/uploads/2020/04/india-ok-1-scaled.jpg 2560w, /wp-content/uploads/2020/04/india-ok-1-300x179.jpg 300w, /wp-content/uploads/2020/04/india-ok-1-1024x610.jpg 1024w, /wp-content/uploads/2020/04/india-ok-1-768x457.jpg 768w, /wp-content/uploads/2020/04/india-ok-1-1536x914.jpg 1536w, /wp-content/uploads/2020/04/india-ok-1-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Una de les sales del museu.</figcaption></figure>
+
+
+
+<h3>Museu Britànic (Londres)</h3>
+
+
+
+<p>La visió de 360 graus d&#8217;aquest <em>tour</em> virtual ens permet assaborir de prop la Pedra Rosetta, les mòmies egípcies i altres meravelles de l&#8217;Antiguitat. Els risc és perdre&#8217;s sota l&#8217;allau de coneixement que regala un museu que aixopluga dos milions d&#8217;anys d&#8217;història i quatre milions d&#8217;objectes que invoquen l&#8217;herència artística de tota la humanitat. </p>
+
+
+
+<p class="has-text-align-center"><a href="https://blog.britishmuseum.org/how-to-explore-the-british-museum-from-home/" target="_blank" rel="noreferrer noopener">Visita virtual al Museu Britànic</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i0.wp.com/tecnologa.cat/wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-990" srcset="/wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-scaled.jpg 2560w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-300x179.jpg 300w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-1024x610.jpg 1024w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-768x457.jpg 768w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-1536x914.jpg 1536w, /wp-content/uploads/2020/04/Egyptian_mummy_in_the_British_Museum_4-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Mòmia egípcia</figcaption></figure>
+
+
+
+<h3>Museu Dalí (Figueres)</h3>
+
+
+
+<p>El surrealisme a un clic. La Fundació Dalí ofereix un recorregut virtual i interactiu per l&#8217;interior del museu que ens permet submergir-nos en l&#8217;univers oníric d&#8217;aquest artista clau del segle XX. El recorregut tridimensional ens convida a mirar terra i sostre, on s&#8217;hi amaguen algunes sorpreses, i ens permet crear el nostre propi itinerari per recórrer 11 sales d&#8217;un edifici fascinant.</p>
+
+
+
+<p class="has-text-align-center"><a rel="noreferrer noopener" href="https://www.salvador-dali.org/es/museos/teatro-museo-dali-de-figueres/visita-virtual/" target="_blank">Visita virtual al Museu Dalí</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/04/dali-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1006" srcset="/wp-content/uploads/2020/04/dali-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/dali-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/dali-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/dali-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/dali-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/dali-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Nen geopolític vigilant el naixement de l’home nou<br>Salvador Dalí &#8211; 1943</figcaption></figure>
+
+
+
+<h3>Museu del Louvre (París)</h3>
+
+
+
+<p>Referents artístics de l&#8217;impressionisme, les belles arts més estudiades i escultures emblemàtiques descansen dins les parets d&#8217;aquest museu meravellós. El somriure de la Gioconda ha captivat durant segles a visitants dels cinc continents i veure-la al museu sense caps tapant la seva imatge és quasi una missió impossible. El web del Louvre ofereix visites guiades virtuals per disfrutar del museu sense trencar la quarantena.</p>
+
+
+
+<p class="has-text-align-center"><a href="https://www.louvre.fr/en/visites-en-ligne#tabs" target="_blank" rel="noreferrer noopener">Visita virtual al Louvre</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="2560" height="1524" src="https://i1.wp.com/tecnologa.cat/wp-content/uploads/2020/04/monalisa-ok-scaled.jpg?fit=1024%2C610&amp;ssl=1" alt="" class="wp-image-1007" srcset="/wp-content/uploads/2020/04/monalisa-ok-scaled.jpg 2560w, /wp-content/uploads/2020/04/monalisa-ok-300x179.jpg 300w, /wp-content/uploads/2020/04/monalisa-ok-1024x610.jpg 1024w, /wp-content/uploads/2020/04/monalisa-ok-768x457.jpg 768w, /wp-content/uploads/2020/04/monalisa-ok-1536x914.jpg 1536w, /wp-content/uploads/2020/04/monalisa-ok-2048x1219.jpg 2048w" sizes="(max-width: 2560px) 100vw, 2560px" /><figcaption>Mona Lisa (La Gioconda)<br>Leonardo da Vinci &#8211; 1503-1505</figcaption></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">982</post-id>	</item>
+		<item>
+		<title>El voluntariat digital triomfa en la competició catalana d&#8217;apps per al confinament</title>
+		<link>/2020/04/16/el-voluntariat-digital-triomfa-en-la-competicio-catalana-dapps-per-al-confinament/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Thu, 16 Apr 2020 16:33:11 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Ajudem.cat]]></category>
+		<category><![CDATA[Alex Párraga]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Coronatíquets]]></category>
+		<category><![CDATA[Departament de Polítiques Digitals]]></category>
+		<category><![CDATA[Digital Future Society]]></category>
+		<category><![CDATA[Edukiapp]]></category>
+		<category><![CDATA[Fundació i2CAT]]></category>
+		<category><![CDATA[Hackató]]></category>
+		<category><![CDATA[Hacker]]></category>
+		<category><![CDATA[Hackovid]]></category>
+		<category><![CDATA[Humbert Blanco]]></category>
+		<category><![CDATA[Jordi Puigneró]]></category>
+		<category><![CDATA[Juan Irache]]></category>
+		<category><![CDATA[Lucía Román]]></category>
+		<category><![CDATA[Marc Aymerich]]></category>
+		<category><![CDATA[Marc Celeiro]]></category>
+		<category><![CDATA[Mobile World Capital Barcelona]]></category>
+		<category><![CDATA[Nebots]]></category>
+		<category><![CDATA[Pau Riba]]></category>
+		<category><![CDATA[Regalocal]]></category>
+		<category><![CDATA[Societat]]></category>
+		<category><![CDATA[Toti Moragas]]></category>
+		<category><![CDATA[Trick-troc]]></category>
+		<category><![CDATA[UPCoders]]></category>
+		<category><![CDATA[Voluntariat digital]]></category>
+		<guid isPermaLink="false">/?p=961</guid>
+
+					<description><![CDATA[La &#8216;Hackovid&#8217; dona un impuls a la tecnologia ètica per a la quarentena &#8220;Tot granet de sorra compta&#8221; a l&#8217;hora d&#8217;encarar els reptes socials que&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>La &#8216;Hackovid&#8217; dona un impuls a la tecnologia ètica per a la quarentena</h2>
+
+
+
+<p>&#8220;Tot granet de sorra compta&#8221; a l&#8217;hora d&#8217;encarar els reptes socials que planteja la pandèmia. Així ho pensa l&#8217;Humbert Blanco que, al costat del Marc Celeiro i el Pau Riba -d&#8217;entre 17 i 21 anys- aquest dimecres han recollit virtualment el primer guardó de la &#8216;<a rel="noreferrer noopener" href="https://hackovid.cat/solutions" target="_blank">Hackovid</a>&#8216;, un concurs d&#8217;aplicacions innovadores per trobar solucions als entrebancs del confinament i el post-confinament. </p>
+
+
+
+<p>La proposta de Blanco, Celeiro i Riba és la plataforma <a rel="noreferrer noopener" href="https://ajudem.cat/" target="_blank">Ajudem.cat</a>, que facilita el voluntariat entre veïns. Així, la pàgina és un punt de trobada entre els qui volen ajudar i els qui necessiten un cop de mà, tenint en compte la proximitat geogràfica. I no només això. També ofereix informació i consells sobre la Covid-19 i compta amb una plataforma de videotrucades de programari lliure i de codi obert. &#8220;Hem utilitzat la infraestructura que tenim, de manera que els servidors són nostres i no suposa cap risc per a la privacitat”, subratlla Blanco a La Tecnòloga. I tot això ha estat desenvolupat en només 12 dies. &#8220;Hem treballat moltíssim i hem dormit poc&#8221;, admet. Però al final l&#8217;esforç ha valgut la pena i ara, gràcies al premi, el projecte compta amb 7.000 euros de pressupost.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr"><img src="https://s.w.org/images/core/emoji/13.1.0/72x72/2049.png" alt="⁉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Què és i com funciona <a href="https://t.co/PiKxBhLiQ1">https://t.co/PiKxBhLiQ1</a>? T&#39;ho expliquem en aquest vídeo! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f4f9.png" alt="📹" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://twitter.com/hashtag/SomAix%C3%AD?src=hash&amp;ref_src=twsrc%5Etfw">#SomAixí</a> <a href="https://t.co/frhBfujfDY">pic.twitter.com/frhBfujfDY</a></p>&mdash; Ajudem.cat (@ajudem_cat) <a href="https://twitter.com/ajudem_cat/status/1249283199282425861?ref_src=twsrc%5Etfw">April 12, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div><figcaption>Ajudem.cat facilita el voluntariat entre veïns.</figcaption></figure>
+
+
+
+<p>La &#8216;Hackovid&#8217;, impulsada pel Departament de Polítiques Digitals i la <a rel="noreferrer noopener" href="https://www.i2cat.net/about-us/" target="_blank">Fundació i2CAT</a>, amb el suport de la Mobile World Capital Barcelona, ha aconseguit reunir en aquesta primera &#8216;hackató&#8217; -o sigui, una marató de persones vinculades a la informàtica- més de 300 participants i més de 50 mentors per fer realitat una seixantena de solucions tecnològiques per a fer més digerible la quarantena. </p>
+
+
+
+<p>&#8220;S&#8217;han plantejat propostes genials i demostren que el sector tecnològic aporta un gran valor a la societat; ara més que mai&#8221;, afirma Blanco. Un valor que també ha subratllat el conseller de Polítiques Digitals i Administracions Públiques, Jordi Puigneró, durant la cerimònia virtual: &#8220;La crisi de la Covid-19 ha evidenciat fins a quin punt les tecnologies poden ser unes grans aliades no només per sortir de la crisi sanitària, sinó també per construir un futur amb més progrés i oportunitats&#8221;.</p>
+
+
+
+<h3>Tecnologia per a tothom</h3>
+
+
+
+<p>Enmig dels aplaudiments virtuals, també han rebut el premi de la Digital Future Society, dotat amb 5.000 euros, <a rel="noreferrer noopener" href="https://nebots.cat/" target="_blank">pel servei web i telefònic d&#8217;assistència tècnica voluntària &#8216;Nebots&#8217;</a>, desenvolupat per Juan Irache i Lucía Román, que són programador i metgessa. La pàgina pretén posar en contacte gent gran amb dificultats per entendre temes tècnics d’informàtica amb voluntaris entesos aquests àmbits -els anomenats &#8216;nebots&#8217;-. </p>
+
+
+
+<p>Irache explica a La Tecnòloga que la hackató ha servit per materialitzar una idea que ja existia abans d&#8217;arrencar la competició. &#8220;Tenim una piràmide poblacional cada cop més invertida i, per tant, no hi ha una persona jove que pugui ajudar a cada persona gran&#8221;, comenta. &#8220;La clau de Nebots -continua el programador- és que es basa en noves tecnologies però no requereix que els seus usuaris les utilitzin ja que poden, simplement, marcar un número de telèfon&#8221;.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="nebots — assistència tècnica humana" width="1160" height="653" src="https://www.youtube.com/embed/aiAxYJSkrPM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>Nebots és un servei web i telefònic d&#8217;assistència tècnica voluntària. NEBOTS</figcaption></figure>
+
+
+
+<p>Una empenta a la reactivació del comerç local va ser una de les necessitats més votades per la ciutadania, durant la fase inicial, i també és allò que ha donat forma als projectes dels qui s&#8217;han fet amb el segon, el tercer i el quart premi de la Hackovid. </p>
+
+
+
+<p><a rel="noreferrer noopener" href="https://upcoders.eebe.upc.edu/" target="_blank">Coronatíquets</a>, que s&#8217;ha endut 4.000 euros de pressupost, és un servei de tíquets per demanar hora per anar a les botigues i, d&#8217;aquesta manera, evitar que hi coincideixin més persones amb l&#8217;objectiu d&#8217;eludir aglomeracions i contagis. &#8220;Creiem que l&#8217;aplicació pot ser&nbsp;útil&nbsp;per estalviar patiment a molts petits comerços durant la desacceleració econòmica&#8221;, explica Tomàs Gea, que és enginyer electrònic. Ell i els seus companys d&#8217;equip -Toti Moragas, Marc Aymerich i Alex Párraga- formen part dels <a rel="noreferrer noopener" href="https://www.instagram.com/upcoders/" target="_blank">UPCoders</a>, una associació de programadors de la UPC. &#8220;Amb l&#8217;ajuda de la nostra app, els petits comerços que s&#8217;han vist forçats a tancar podran tornar a obrir les botigues de forma moderada, reduint així els impactes econòmics que puguin patir&#8221;, afegeix Gea.&nbsp;&nbsp;</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="jetpack-video-wrapper"><iframe loading="lazy" title="Anunci Coronatiquets Hackovid" width="1160" height="653" src="https://www.youtube.com/embed/rAhCFlJ26Xo?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div><figcaption>Coronatíquets és un servei de tíquets per demanar hora per anar a les botigues. CORONATÍQUETS</figcaption></figure>
+
+
+
+<p>Per la seva banda, <a rel="noreferrer noopener" href="https://www.regalocal.com/" target="_blank">Regalocal</a> ha obtingut 3.000 euros per desenvolupar un servei web gratuït&nbsp;que permet comprar cupons de regal en comerços locals per poder bescanviar un cop aquests tornin a obrir. </p>
+
+
+
+<p>Mentrestant, <a rel="noreferrer noopener" href="https://www.tricktroc.cat/home" target="_blank">Trick-troc</a> ha fet realitat una plataforma de comerç electrònic per promoure i millorar l’accessibilitat de la venda online i la distribució de productes de comerç local amb una finalitat social gràcies a una moneda virtual, el Troc, amb què es poden obtenir descomptes en comerços locals o fer donatius a entitats benèfiques de productes de comerços locals. Els ha valgut un premi de 2.000 euros. </p>
+
+
+
+<p>El cinquè premi de la Hackovid ha estat per als creadors de <a rel="noreferrer noopener" href="https://apps.apple.com/us/app/edukiapp/id1507658309?l=ca&amp;ls=1" target="_blank">l&#8217;Edukiapp</a>, una aplicació d&#8217;educació a distància per a professors i alumnes d&#8217;Infantil i Primària. </p>
+
+
+
+<h3>La solidaritat es propaga</h3>
+
+
+
+<p>Tot va començar el 3 d&#8217;abril, amb una fase de participació ciutadana. <a rel="noreferrer noopener" href="https://hackovid.cat/solutions" target="_blank">Les 60 solucions que s&#8217;hi han plantejat</a> donen resposta a alguns dels reptes més votats per la ciutadania d’entre les 175 necessitats socials identificades com aprendre des de casa, l&#8217;aprovisionament d’aliments, l&#8217;atenció especial a col·lectius de risc, tornar al mercat laboral, la solidaritat entre veïns o teletreballar.</p>
+
+
+
+<p>Però la Hackovid és només una gota de la pluja d&#8217;esforços col·laboratius que s&#8217;han propagat amb la pandèmia. Alguns d&#8217;aquests projectes han agafat una dimensió exponencial des de la seva creació, com és el cas de <a rel="noreferrer noopener" href="/2020/04/01/coronawhy-big-data-nous-horitzons-recerca/" target="_blank">Coronawhy, una organització de tecnòlegs voluntaris</a> que treballen per fer digerible amb Intel·ligència Artificial la col·lecció d’articles científics vinculats a l&#8217;epidèmia per facilitar la recerca mèdica. D&#8217;altra banda, la setmana que ve la Comissió Europea acull una hackató per connectar la societat civil i tecnòlegs i inversors de tot el continent per desenvolupar solucions innovadores per combatre el virus que ha posat en pausa el món.</p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="en" dir="ltr">We will host on 24-26 April a pan-European Hackathon to connect civil society, innovators, partners and buyers across Europe to develop innovative solutions to <a href="https://twitter.com/hashtag/coronavirus?src=hash&amp;ref_src=twsrc%5Etfw">#coronavirus</a>.<br><br>Register now and be part of the solution! <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/27a1.png" alt="➡" class="wp-smiley" style="height: 1em; max-height: 1em;" /> <a href="https://t.co/yUexZYLB55">https://t.co/yUexZYLB55</a> <a href="https://twitter.com/hashtag/EUvsVirus?src=hash&amp;ref_src=twsrc%5Etfw">#EUvsVirus</a> <a href="https://t.co/I5qbDJnTl3">pic.twitter.com/I5qbDJnTl3</a></p>&mdash; European Commission <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f1ea-1f1fa.png" alt="🇪🇺" class="wp-smiley" style="height: 1em; max-height: 1em;" /> (@EU_Commission) <a href="https://twitter.com/EU_Commission/status/1250095573908312067?ref_src=twsrc%5Etfw">April 14, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">961</post-id>	</item>
+		<item>
+		<title>Dol virtual en temps de quarantena</title>
+		<link>/2020/04/04/dol-virtual-en-temps-de-quarantena/</link>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Sat, 04 Apr 2020 10:17:49 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Alife]]></category>
+		<category><![CDATA[Aplicacions]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[Bel Ferrer]]></category>
+		<category><![CDATA[Covid-19]]></category>
+		<category><![CDATA[dol virtual]]></category>
+		<category><![CDATA[Jordi Martínez]]></category>
+		<category><![CDATA[Nara Jeevan]]></category>
+		<category><![CDATA[Psicologia]]></category>
+		<category><![CDATA[SARS-CoV-2]]></category>
+		<category><![CDATA[Societat]]></category>
+		<guid isPermaLink="false">/?p=930</guid>
+
+					<description><![CDATA[Es disparen els usuaris de l’aplicació Alife, que permet vetllar online els difunts &#8220;Per ara, és com si la mare no hagués mort&#8221;, escriu el&#8230;]]></description>
+										<content:encoded><![CDATA[
+<h2>Es disparen els usuaris de l’aplicació <em>Alife</em>, que permet vetllar online els difunts</h2>
+
+
+
+<p>&#8220;Per ara, és com si la mare no hagués mort&#8221;, escriu el filòsof Albert Camús a <em>L&#8217;Estrany</em>, quan li arriba per telegrama la notícia. L&#8217;inici d&#8217;aquesta obra ens evoca als qui, en aquests temps anòmals, perden familiars i amics des de la distància. Aquest divendres s&#8217;han extingit 173 vides a Catalunya, i 12 a les Balears. I molt probablement ho han fet sense el consol del contacte físic. Potser sí virtual. En època de quarentena per la Covid-19, són sovint els professionals sanitaris qui fan costat als malalts terminals i intenten una comunicació telemàtica amb la família. Les xarxes són el mirall d&#8217;aquesta situació insòlita i angoixant. </p>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr">Ahir vaig haver d’aguantar el telèfon a la orella d’un pacient mentre la filla es despedia del seu pare. Dur, molt dur. I està passant. Quedeu-vos a casa siusplau. <a href="https://twitter.com/hashtag/Covid_19?src=hash&amp;ref_src=twsrc%5Etfw">#Covid_19</a></p>&mdash; Violeta Torrent Pinart (@violetatorrent) <a href="https://twitter.com/violetatorrent/status/1241300859612475393?ref_src=twsrc%5Etfw">March 21, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="ca" dir="ltr">Darrera de cada xifra hi ha un nom i una família destrossada. Avui li ha tocat a la meva. El nostre nom és el de Marina. Tothom l’estimava i no era la seva hora. El virus se l’ha emportat en sis dies. Gràcies a la gent de <a href="https://twitter.com/Mutua_Terrassa?ref_src=twsrc%5Etfw">@Mutua_Terrassa</a> per cuidar-la i per acostar-li el telèfon.</p>&mdash; Xavi Coral (@xavicoral) <a href="https://twitter.com/xavicoral/status/1244698345932808197?ref_src=twsrc%5Etfw">March 30, 2020</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div></figure>
+
+
+
+<p>L&#8217;Hospital de Son Espases, a Palma, ha aconseguit tauletes per posar en contacte els pacients per coronavirus i les famílies. El Grup d&#8217;Educadors de Carrer i Treball amb Menors (GREC) hi col·labora &#8220;<a rel="noreferrer noopener" href="https://www.facebook.com/558552354191268/photos/rpp.558552354191268/2935280143185132/?type=3&amp;theater" target="_blank">perquè les persones majors, gent sense recursos ni connexió a Internet</a> o inexperts tecnològics també puguin beneficiar-se del servei&#8221;, amb paraules de l&#8217;educador de l&#8217;entitat Iñaki Vega. A l&#8217;Hospital de Sant Pau, a Barcelona, els infermers també han muntat un <a rel="noreferrer noopener" href="https://www.ccma.cat/324/els-hospitals-estableixen-protocols-per-poder-acomiadar-se-dels-malalts-mes-greus/noticia/2999699/" target="_blank">sistema per fer arribar missatges a una pantalla</a> que poden veure els malalts, i la Societat Catalana de Tecnologia ha <a rel="noreferrer noopener" href="https://www.iec.cat/activitats/noticiasencera.asp?id_noticies=2758" target="_blank">impulsat la donació de dispositius electrònics per connectar famílies i pacients</a> en l&#8217;últim tram de la vida. </p>
+
+
+
+<p>Però amb el distanciament social també s&#8217;han prohibit vetlles i funerals per a tothom (i no només pels afectats del coronavirus). Per això, <a rel="noreferrer noopener" href="https://alife.social/es/" target="_blank">l&#8217;aplicació <em>Alife</em></a>, que permet crear el perfil d&#8217;una persona que ha mort i, d&#8217;aquesta manera, homenatjar-la i facilitar el dol dels qui l&#8217;han estimat, ha multiplicat per nou la seva activitat des del 15 de març, segons Jordi Martínez, el CEO d&#8217;<em>Alife</em>, que compta de mitjana un miler de nous usuaris cada tres dies. </p>
+
+
+
+<p>&#8220;Mai oblidaré cada cop que obries la porta i em deies que havia crescut molt des de l&#8217;última vegada que ens vam veure. T&#8217;estimo i no t&#8217;oblidaré!&#8221;, escriu una usuària d&#8217;<em>Alife</em> per rememorar algú que ja no hi és. Aquest missatge es llegeix a la <a rel="noreferrer noopener" href="https://alife.social/es/" target="_blank">pàgina d&#8217;inici del web de l&#8217;aplicació</a>, però no tot el contingut que s&#8217;hi introdueix és públic. &#8220;Hi ha diversos nivells de privacitat. En un lloc s&#8217;hi comparteix la informació de la cerimònia funerària i, en un altre, que pot ser més reduït, recrea un espai més íntim i respecta al màxim la privacitat&#8221;, explica Martínez. D&#8217;aquesta manera, l&#8217;app permet compartir fotografies, vídeos, escrits, cites i anècdotes amb el cercle social del difunt, i permet fer-ho &#8220;amb un clic, en qualsevol moment, amb el mòbil i des de casa&#8221;, afegeix el director. </p>
+
+
+
+<p>Fins fa unes setmanes, l&#8217;aplicació es comercialitzava a través de les funeràries. Però davant de l&#8217;estat d&#8217;alarma, <em>Alife</em> ha obert la seva aplicació i actualment qualsevol la pot fer servir sense intermediaris. Per a fer-ho, només cal escriure un correu a info@alife.social perquè les famílies puguin recrear un espai virtual de vetlla i dol compartit en cas que els tanatoris no l&#8217;hagin proporcionat. A més, l&#8217;app és totalment gratuïta per als usuaris i l&#8217;únic cost es troba en la creació del perfil del difunt.</p>
+
+
+
+<h3>Bel Ferrer, psicòloga: &#8220;L&#8217;afecte no entén de fronteres físiques&#8221;</h3>
+
+
+
+<p><em>La Tecnòloga</em> ha demanat l&#8217;opinió sobre la vetlla virtual a una psicòloga especialitzada en processos de dol, Bel Ferrer, que valora molt positivament les possibilitats que ofereix aquesta eina. &#8220;Tot allò que serveix per compartir, elaborar i gestionar el dol em sembla fantàstic&#8221;, afirma Ferrer, que recolza l&#8217;opció d&#8217;acomiadar els familiars per telèfon. &#8220;Per nosaltres és important el tacte i la vista, però en aquesta situació, allò més important és l&#8217;afecte, i l&#8217;afecte no entén de fronteres físiques&#8221;, assegura la psicòloga, que encapçala l&#8217;associació <a rel="noreferrer noopener" href="https://www.facebook.com/Nava-Jeevan-acompanyament-emocional-als-processos-de-malaltia-mort-i-dol-1339453789398104/" target="_blank">Nava Jeevan, dedicada a l&#8217;acompanyament emocional als processos de malaltia, mort i dol</a> (s&#8217;hi pot contactar escrivint al correu associacionavajeevan@gmail.com o telefonant al 695 250 240, i aquests dies ofereixen la seva assistència per videoconferència).</p>
+
+
+
+<p>Ferrer recomana decididament comunicar-se amb la persona que és a punt de morir: &#8220;Podem donar les gràcies per tot allò que ha fet, dir-li que l&#8217;estimam i donar significat a la seva vida, que senti que pot tancar el cercle vital&#8221;. Després de la mort, l&#8217;especialista aconsella donar-se permís per viure el dol: &#8220;És bo parlar amb naturalitat de la persona estimada que ha partit, plorar la seva absència, expressar les emocions i compartir-les&#8221;. Afegeix, a més, que &#8220;la ritualització de la pèrdua és important&#8221; independentment de les creences dels qui viuen l&#8217;òbit. I, d&#8217;alguna manera, ara tot això es pot fer <em>online</em>. En la mateixa línia, la Societat Funerària Catalana i el Col·legi Oficial de Psicologia de Catalunya han elaborat un <a rel="noreferrer noopener" href="https://www.copc.cat/adjuntos/adjunto_15309/v/Recomanacions%20per%20afrontar%20la%20mort%20d%E2%80%99una%20persona%20estimada%20durant%20el%20confinament%20per%20l%E2%80%99epid%C3%A8mia%20de%20COVID-19.pdf?tm=1585304549" target="_blank">manual per fer front a la mort d&#8217;una persona estimada durant el confinament</a>. </p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">930</post-id>	</item>
+		<item>
+		<title>Videojocs per evitar caigudes de la gent gran</title>
+		<link>/2020/03/27/videojocs-evitar-caigudes-avis/</link>
+					<comments>/2020/03/27/videojocs-evitar-caigudes-avis/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Schnabel]]></dc:creator>
+		<pubDate>Fri, 27 Mar 2020 21:35:53 +0000</pubDate>
+				<category><![CDATA[Notícies]]></category>
+		<category><![CDATA[Ines Ayed]]></category>
+		<category><![CDATA[Kinect]]></category>
+		<category><![CDATA[Recerca]]></category>
+		<category><![CDATA[UIB]]></category>
+		<category><![CDATA[Universitat de les Illes Balears]]></category>
+		<category><![CDATA[Videojocs]]></category>
+		<category><![CDATA[Visió per ordinador]]></category>
+		<guid isPermaLink="false">/?p=886</guid>
+
+					<description><![CDATA[La tecnologia va revolucionar el món del joc i ara ho fa amb les teràpies de rehabilitació. Sovint, els videojocs han sigut estigmatitzats com l&#8217;eina&#8230;]]></description>
+										<content:encoded><![CDATA[
+<p>La tecnologia va revolucionar el món del joc i ara ho fa amb les teràpies de rehabilitació. Sovint, els videojocs han sigut estigmatitzats com l&#8217;eina que ha entrenat una generació alienada per les pantalles, però avui no podem obviar que els seus usos ultrapassen l&#8217;oci. N&#8217;és una prova la tesi doctoral d&#8217;Ines Ayed, defensada a la Universitat de les Illes Balears (UIB) al febrer, i que ha investigat com millorar terapèuticament l&#8217;equilibri a través de videojocs que detecten els moviments. L&#8217;objectiu últim de la recerca és prevenir caigudes entre les persones majors, un 8% de les quals deriven en fractures o ferides greus i, a més, provoquen un elevat cost socio-sanitari, segons la tesi.</p>
+
+
+
+<p>Jocs comercials com l&#8217;EyeToy TM s&#8217;utilitzen fa alguns anys en programes de teràpies físiques, mentre altres sistemes com GestureTek, que utilitza realitat virtual, han estat específicament dissenyats per tractar pacients amb discapacitats físiques i cognitives. Al mercat encara hi ha més oferta, però la majoria no es recolza en cap estudi sòlid. Ayed, després de fer una extensa revisió sistemàtica de les investigacions prèvies sobre jocs per a la rehabilitació motora, proposa un sistema basat en les directrius de Kinect, un dispositiu llançat el 2010 per Microsoft que permet als usuaris de la Xbox interactuar amb la consola a través de gestos.</p>
+
+
+
+<h5>Kinect: del fracàs a l&#8217;èxit</h5>
+
+
+
+<p>Kinect es basa en sistemes de reconeixement facial, corporal i de veu a partir d&#8217;una càmera RGBD i una altra càmera d&#8217;infrarojos, sensors de profunditat, un micròfon i un processador personalitzat. Va aterrar envoltat de grans expectatives, amb la promesa d&#8217;oferir diversió en família, ja que permetia la interacció de fins a quatre persones amb la consola. Però el 2018 Kinect va deixar de fabricar-se per a la Xbox perquè no havia assolit l&#8217;èxit comercial esperat. Tot i així, aquesta tecnologia ha sobreviscut en altres sistemes aplicats a diversos camps com la robòtica, la recerca universitària, l’arquitectura o el disseny industrial i fins i tot la moda, que ha utilitzat el dispositiu per recrear vestidors interactius.</p>
+
+
+
+<p>Per avaluar objectivament l&#8217;eficàcia de Kinect, Ayed va col·laborar estretament amb fisioterapeutes i va estudiar els resultats d&#8217;un programa d&#8217;intervenció de cinc setmanes en dones grans d&#8217;una residència de Tunísia. Així, va concloure que el sistema és fiable i adequat per calcular i millorar l’equilibri. A més, la doctoranda, de la mà del Grup d’Investigació i Desenvolupament del Departament de Matemàtiques i Informàtica (DMI) de la UIB, destaca encara més beneficis dels videojocs aplicats a les teràpies físiques, com l’espacialitat -barreja de la informació digital amb la física de manera natural-, la sociabilitat -permet fomentar les activitats grupals- i la personalització -ja que s&#8217;adapta a les característiques dels usuaris o al seu context-. Amb tot, estudis recents esmentats a la tesi indiquen que els videojocs ajuden a motivar els pacients; un fet que també ajuda a millorar els resultats.</p>
+
+
+
+<p>La proposta de la investigadora es basa en la metodologia del Disseny Centrat en l’Usuari (DCU), que busca involucrar-lo el més aviat possible en el procés per anar avaluant la usabilitat i la validesa clínica del sistema en múltiples ocasions. L&#8217;objectiu és obtenir una eina final efectiva, eficient i satisfactòria per a l&#8217;usuari tenint en compte el seu context. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2020/03/27/videojocs-evitar-caigudes-avis/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">886</post-id>	</item>
+	</channel>
+</rss>
